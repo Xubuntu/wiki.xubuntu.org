@@ -20,6 +20,8 @@ following the team links.
 | QA lead | [flocculant](https://wiki.ubuntu.com/flocculant) | flocculant | [xubuntu-qa](http://launchpad.net/~xubuntu-qa)<br>[xubuntu-testers](http://launchpad.net/~xubuntu-testers)<br>[xubuntu-bugs](http://launchpad.net/~xubuntu-bugs) |
 | Documentation lead | [David Pires](https://wiki.ubuntu.com/slickymaster) | slickymaster | [xubuntu-docs](http://launchpad.net/~xubuntu-docs) |
 
+The previous leaders for Xubuntu are listed on the [[Previous leaders|Previous-Xubuntu-Leaders]] page.
+
 ### Teams moderated by other instances
 
 
