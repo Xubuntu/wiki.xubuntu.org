@@ -17,10 +17,9 @@ time\" or any other national changes in terms of local clock time.
 | Artwork lead | [Simon Steinbeiß](https://wiki.ubuntu.com/SimonSteinbeiss) | ochosi | [xubuntu-art](http://launchpad.net/~xubuntu-art) |
 | Website lead | [Pasi Lallinaho](https://wiki.ubuntu.com/PasiLallinaho) | knome | [xubuntu-website](http://launchpad.net/~xubuntu-website) |
 | Debian liaison | [Unit 193](https://wiki.ubuntu.com/Unit193) | Unit193 | N/A |
-| Marketing lead | [Eliabeth K. Joseph](https://wiki.ubuntu.com/lyz) | pleia2 | N/A |
+| Marketing lead | [Elizabeth K. Joseph](https://wiki.ubuntu.com/lyz) | pleia2 | N/A |
 | QA lead | [flocculant](https://wiki.ubuntu.com/flocculant) | flocculant | [xubuntu-qa](http://launchpad.net/~xubuntu-qa)<br>[xubuntu-testers](http://launchpad.net/~xubuntu-testers)<br>[xubuntu-bugs](http://launchpad.net/~xubuntu-bugs) |
 | Documentation lead | [David Pires](https://wiki.ubuntu.com/slickymaster) | slickymaster | [xubuntu-docs](http://launchpad.net/~xubuntu-docs) |
-
 
 ### Teams moderated by other instances
 
@@ -29,4 +28,3 @@ time\" or any other national changes in terms of local clock time.
 | --- | --- | --- |
 | Xubuntu uploaders | [xubuntu-uploaders](http://launchpad.net/~xubuntu-uploaders) | [developer-membership-board](http://launchpad.net/~developer-membership-board)<br>Contact: [DeveloperMembershipBoard](https://wiki.ubuntu.com/DeveloperMembershipBoard) |
 | Xubuntu IRC operators | [irc-xubuntu-ops](http://launchpad.net/~irc-xubuntu-ops)<br>[irc-xubuntu-offtopic-ops](http://launchpad.net/~irc-xubuntu-offtopic-ops) | [ubuntu-irc-council](http://launchpad.net/~ubuntu-irc-council)<br>Contact: [IRC/IrcCouncil](https://wiki.ubuntu.com/IRC/IrcCouncil) |
-
