@@ -1,6 +1,6 @@
 ##### Contact
 
-## Teams and Leaders
+# Teams and Leaders
 
 Below is table of individuals who have volunteered to take specific
 responsibility for certain components and teams of the Xubuntu project.
@@ -22,7 +22,7 @@ following the team links.
 
 The previous leaders for Xubuntu are listed on the [[Previous leaders|Previous-Xubuntu-Leaders]] page.
 
-### Teams moderated by other instances
+## Teams moderated by other instances
 
 
 | Team | Launchpad team(s) | Supervisor |
