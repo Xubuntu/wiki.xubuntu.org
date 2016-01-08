@@ -1,4 +1,4 @@
-##### Notes about licenses
+# Notes about licenses
 
 ### Canonical IP
 
