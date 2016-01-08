@@ -5,8 +5,7 @@
 Below is table of individuals who have volunteered to take specific
 responsibility for certain components and teams of the Xubuntu project.
 The complete list of people working in each team can be found by
-following the team links. The time zones listed do not reflect \"summer
-time\" or any other national changes in terms of local clock time.
+following the team links.
 
 
 | Role | Name | IRC nick | Launchpad team(s) |
