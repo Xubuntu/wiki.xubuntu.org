@@ -1,4 +1,4 @@
-= Marketing =
+##### Marketing
 
 Welcome to the Xubuntu Marketing team wiki. This page is a starting
 point for all the marketing projects ongoing or planned in Xubuntu. To
