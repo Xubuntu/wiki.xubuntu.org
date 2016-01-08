@@ -38,5 +38,5 @@ interviewed!*
 
 ## Article archive
 
-[Xubuntu.org: Archive for \"Xubutnu
+[Xubuntu.org: Archive for \"Xubuntu
 at\...\"](http://xubuntu.org/news/tag/xubuntu-at/)
