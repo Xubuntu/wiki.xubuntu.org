@@ -5,7 +5,7 @@
 
 | What | Main audience | Other potential audiences |
 | --- | --- | --- |
-| <http://tracker.xubuntu.org/Tracker> | Contributors | People interested in Xubuntu devleopment |
+| [Tracker](http://tracker.xubuntu.org/) | Contributors | People interested in Xubuntu devleopment |
 | [Xubuntu wiki](http://wiki.xubuntu.org/) | Contributors |  |
 | [Development mailing list](https://lists.ubuntu.com/mailman/listinfo/xubuntu-devel) | Contributors | People interested in Xubuntu development |
 | Developer IRC channel (#xubuntu-devel) | Contributors | Potential contributors |
