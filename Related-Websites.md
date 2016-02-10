@@ -10,7 +10,7 @@
 -   <http://xubuntu.fr/> and <https://twitter.com/xubuntu_fr>
     -   Uses a logo with the wrong blue color
 -   <http://www.xubuntu-fr.org/>
-    -   Theme doesn\'t work - is this an abandoned site?
+    -   Looks like a redirect to ubuntu-fr.org
 
 ## Unofficial
 
