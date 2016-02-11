@@ -23,4 +23,4 @@ of our community while others have moved on to pursue other challenges.
 | Xubuntu Project Lead | [Pasi Lallinaho](https://wiki.ubuntu.com/PasiLallinaho) | knome |
 | Debian liaison | [Lionel Le Folgoc](https://wiki.ubuntu.com/LionelLeFolgoc) | mr_pouit |
 | Website lead | [Elizabeth K. Joseph](https://wiki.ubuntu.com/lyz) | pleia2 |
-| QA lead | Elfy | elfy |
+| QA lead | [Elfy](https://wiki.ubuntu.com/Elfy) | elfy |
