@@ -38,6 +38,7 @@ where appropriate!
 | clementine | flocculant |
 | audacious (with Library plugin) | flocculant |
 | none, use cloud players | jjfrv8 |
+| None. Just use cloud players | slickymaster |
 
 ## Small details in Xubuntu
 
