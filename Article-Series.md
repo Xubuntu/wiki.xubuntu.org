@@ -35,10 +35,11 @@ where appropriate!
 | gmusicbrowser | knome, ochosi |
 | pithos | bluesabre |
 | none, play media with mplayer | pleia2 |
-| clementine | flocculant |
+| clementine | flocculant, dkessel |
 | audacious (with Library plugin) | flocculant |
 | none, use cloud players | jjfrv8 |
 | None. Just use cloud players | slickymaster |
+| cloud players and others | dkessel |
 
 ## Small details in Xubuntu
 
