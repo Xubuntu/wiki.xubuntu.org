@@ -30,16 +30,14 @@ Team members, please add yourself - feel free to add for several apps
 where appropriate!
 
 
-| Media manager | Users in the team using |
+| Media manager | Members in the team using |
 | --- | --- |
 | gmusicbrowser | knome, ochosi |
-| pithos | bluesabre |
-| none, play media with mplayer | pleia2 |
-| clementine | flocculant, dkessel |
-| audacious (with Library plugin) | flocculant |
-| none, use cloud players | jjfrv8 |
-| None. Just use cloud players | slickymaster |
-| cloud players and others | dkessel |
+| Pithos | bluesabre |
+| Clementine | flocculant, dkessel |
+| Audacious (with Library plugin) | flocculant |
+| Cloud players etc. | jjfrv8, slickymaster, dkessel |
+| None, play media with mplayer | pleia2 |
 
 ## Small details in Xubuntu
 
