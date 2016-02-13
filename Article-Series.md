@@ -36,6 +36,7 @@ where appropriate!
 | Pithos | bluesabre |
 | Clementine | flocculant, dkessel |
 | Audacious (with Library plugin) | flocculant |
+| No media manager |  |
 | Cloud players etc. | jjfrv8, slickymaster, dkessel |
 | None, play media with mplayer | pleia2 |
 
