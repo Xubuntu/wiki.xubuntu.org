@@ -34,7 +34,7 @@ where appropriate!
 | --- | --- | --- |
 | gmusicbrowser | knome, ochosi |  |
 | Pithos | bluesabre |  |
-| Clementine | flocculant, dkessel | [link](https://xubuntu.org/?p=3711&preview=true) |
+| Clementine | flocculant, dkessel | <https://xubuntu.org/?p=3711&preview=true> |
 | Audacious (with Library plugin) | flocculant |  |
 | No media manager |  |  |
 | Cloud players etc. | jjfrv8, slickymaster, dkessel |  |
