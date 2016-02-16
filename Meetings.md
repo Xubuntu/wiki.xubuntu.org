@@ -19,7 +19,7 @@ bluesabre \## Website: knome \## \## Minutes template:
 
 ### Open action items
 
-\* Volunteers for running a 16.04 Community Wallpaper contest
+-   Volunteers for running a 16.04 Community Wallpaper contest
 
 ### Updates and Announcements
 
