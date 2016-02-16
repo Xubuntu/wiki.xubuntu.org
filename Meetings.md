@@ -35,17 +35,13 @@ you, or add your item under \"Discussion\".
 
 ### Schedule next meeting
 
-\<\<BR\>\>
-
 ### Last meeting summary
 
 \## TBD
-
-\<\<BR\>\>
 
 #### Meetings archive
 
 \## If you have chaired the meeting, minutes should be created under \##
 <https://wiki.ubuntu.com/Xubuntu/Meetings/Archive/Minutes/>
 
-\* [Meeting archive](https://wiki.ubuntu.com/Xubuntu/Meetings/Archive)
+-   [Meeting archive](https://wiki.ubuntu.com/Xubuntu/Meetings/Archive)
