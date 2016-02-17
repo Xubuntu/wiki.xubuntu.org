@@ -33,11 +33,10 @@ where appropriate!
 | Media manager | Members in the team using | Article draft (need to be logged) |
 | --- | --- | --- |
 | gmusicbrowser | knome, ochosi |  |
-| Pithos | bluesabre |  |
 | Clementine | flocculant, dkessel | <https://xubuntu.org/?p=3711&preview=true> |
 | Audacious (with Library plugin) | flocculant |  |
 | No media manager |  |  |
-| Cloud players etc. | jjfrv8, slickymaster, dkessel |  |
+| Cloud players etc. | jjfrv8, slickymaster, dkessel, bluesabre |  |
 | None, play media with mplayer | pleia2 |  |
 
 ## Small details in Xubuntu
