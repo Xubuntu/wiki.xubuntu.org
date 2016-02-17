@@ -1,5 +1,8 @@
 # T-shirts
 
+Officially endorsed t-shirts are now offered by
+[UnixStickers.com](http://www.unixstickers.com/collections/xubuntu)!
+
 ## Test runs
 
 -   Ordered design on black from <http://www.zazzle.com/> 7/2012, was
