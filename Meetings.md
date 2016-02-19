@@ -13,8 +13,6 @@ QA: flocculant \## IGNORE WHILE XPL Release: ochosi \## Technical:
 bluesabre \## Website: knome \## \## Minutes template:
 <https://wiki.ubuntu.com/Xubuntu/Meetings/Archive/Minutes> \##
 
-------------------------------------------------------------------------
-
 ## Agenda
 
 \## You can add new agenda items under \"Discussion\".
