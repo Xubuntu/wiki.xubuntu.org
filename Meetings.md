@@ -5,12 +5,12 @@
 The next Xubuntu community meeting is on [Wednesday, 17 February 2016
 22:00
 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Xubuntu+community+meeting&iso=20160217T22&p1=1440&ah=1)
-\# \# CHAIR CYCLING \# \-\-\-\-\-\-\-\-\-\-\-\-- \# XPL: ochosi \#
+\## \# CHAIR CYCLING \# \-\-\-\-\-\-\-\-\-\-\-\-- \# XPL: ochosi \#
 IGNORE WHILE XPL Artwork: ochosi \# Debian Liaison: Unit193 \# -\> we
 are here \<- \# Documentation: slickymaster \# Marketing: pleia2 \# QA:
 flocculant \# IGNORE WHILE XPL Release: ochosi \# Technical: bluesabre
-\# Website: knome \# \# Minutes template:
-<https://wiki.ubuntu.com/Xubuntu/Meetings/Archive/Minutes> \#
+\# Website: knome \## \# Minutes template:
+<https://wiki.ubuntu.com/Xubuntu/Meetings/Archive/Minutes> \##
 
 ## Agenda
 
