@@ -35,9 +35,7 @@ you, or add your item under \"Discussion\".
 
 ### Schedule next meeting
 
-------------------------------------------------------------------------
-
-### Last meeting summary
+## Last meeting summary
 
 \## TBD
 
