@@ -24,6 +24,7 @@ The development server serves the following subdomains:
 
 -   [dev.xubuntu.org](http://dev.xubuntu.org/)
 -   [docs.xubuntu.org](http://docs.xubuntu.org/)
+-   [staging.xubuntu.org](http://staging.xubuntu.org/)
 -   [static.xubuntu.org](http://static.xubuntu.org/)
 -   [tracker.xubuntu.org](http://tracker.xubuntu.org/) (to be moved
     under dev.xubuntu.org)
