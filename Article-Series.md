@@ -54,8 +54,6 @@ only cover more or less trivial things.
 ### Ideas for articles
 
 -   Using the presentation mode
--   GTK theme configuration (this has been highlighted 14.10, but
-    that\'s still after the LTS)
 -   Panel layout switching (could be presented with a brief tutorial to
     create some kind of panel layout)
 -   Change the key used to grab and move windows
@@ -67,3 +65,4 @@ only cover more or less trivial things.
 | Article | Article draft (need to be logged) |
 | --- | --- |
 | Text editor and terminal color schemes | <https://xubuntu.org/?p=3755&preview=true> |
+| Theme color configuration | <https://xubuntu.org/?p=3759&preview=true> |
