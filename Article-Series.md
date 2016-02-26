@@ -4,7 +4,7 @@
 
 See [[\"Xubuntu at\...\" Interview Series|Xubuntu-At-...-Interview-Series]].
 
-## Teams favorite media managers
+## My media manager
 
 This article series is planned to be published leading to the Xubuntu
 16.04 release. Since 16.04 doesn\'t have a default media manager, it
@@ -39,7 +39,7 @@ where appropriate!
 | Cloud players etc. | jjfrv8, slickymaster, dkessel, bluesabre |  |
 | None, play media with mplayer | pleia2 |  |
 
-## Small details in Xubuntu
+## The small details
 
 This article series is planned to be published leading to the Xubuntu
 16.04 release. 16.04 is an LTS release, and for many, it\'s the first
