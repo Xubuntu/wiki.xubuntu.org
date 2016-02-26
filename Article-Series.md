@@ -60,4 +60,10 @@ only cover more or less trivial things.
     create some kind of panel layout)
 -   Change the key used to grab and move windows
 -   Using workspaces (no specific idea, feel free to suggest)
--   Light/dark color schemes for Xfce4 Terminal/Mousepad
+
+### Written articles
+
+
+| Article | Article draft (need to be logged) |
+| --- | --- |
+| Text editor and terminal color schemes | <https://xubuntu.org/?p=3755&preview=true> |
