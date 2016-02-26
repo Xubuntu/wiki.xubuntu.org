@@ -32,7 +32,7 @@ where appropriate!
 
 | Media manager | Members in the team using | Article draft (need to be logged) |
 | --- | --- | --- |
-| gmusicbrowser | knome, ochosi |  |
+| gmusicbrowser | knome, ochosi | <https://xubuntu.org/?p=3744&preview=true> |
 | Clementine | flocculant, dkessel | <https://xubuntu.org/?p=3711&preview=true> |
 | Audacious (with Library plugin) | flocculant |  |
 | No media manager |  |  |
