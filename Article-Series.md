@@ -62,10 +62,10 @@ only cover more or less trivial things.
 ### Written articles
 
 
-| Article | Article draft (need to be logged) |
-| --- | --- |
-| Text editor and terminal color schemes | <https://xubuntu.org/?p=3755&preview=true> |
-| Theme color configuration | <https://xubuntu.org/?p=3759&preview=true> |
-| Personal information integration | <https://xubuntu.org/?p=3763&preview=true> |
-| Menu editing (TODO:needs examples!!) | <https://xubuntu.org/?p=3766&preview=true> |
-| Shortcut keys (should this only cover WM keys?) | <https://xubuntu.org/?p=3770&preview=true> |
+| Article | Article draft (need to be logged) | Comments |
+| --- | --- | --- |
+| Text editor and terminal color schemes | <https://xubuntu.org/?p=3755&preview=true> |  |
+| Theme color configuration | <https://xubuntu.org/?p=3759&preview=true> |  |
+| Personal information integration | <https://xubuntu.org/?p=3763&preview=true> |  |
+| Menu editing | <https://xubuntu.org/?p=3766&preview=true> | TODO: Needs examples! |
+| Shortcut keys | <https://xubuntu.org/?p=3770&preview=true> | Should this only cover WM keys? |
