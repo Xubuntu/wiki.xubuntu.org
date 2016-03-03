@@ -56,7 +56,6 @@ only cover more or less trivial things.
 -   Using the presentation mode
 -   Panel layout switching (could be presented with a brief tutorial to
     create some kind of panel layout)
--   Change the key used to grab and move windows
 -   Using workspaces (no specific idea, feel free to suggest)
 
 ### Written articles
