@@ -31,7 +31,8 @@ Is there a topic you\'d like to see covered on [our blog](http://xubuntu.org/blo
 
 ## Possible product vendors
 
-\* [CafePress](http://www.cafepress.com/) \*
-[Zazzle](http://www.zazzle.com/) \* [MOO](http://www.moo.com/) \*
-[CustomInk](http://www.customink.com/) (US and Canada) \*
-[Spreadshirt](http://www.spreadshirt.com/)
+-   [CafePress](http://www.cafepress.com/)
+-   [Zazzle](http://www.zazzle.com/)
+-   [MOO](http://www.moo.com/)
+-   [CustomInk](http://www.customink.com/) (US and Canada)
+-   [Spreadshirt](http://www.spreadshirt.com/)
