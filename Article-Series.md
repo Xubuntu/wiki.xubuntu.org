@@ -57,6 +57,8 @@ only cover more or less trivial things.
 -   Panel layout switching (could be presented with a brief tutorial to
     create some kind of panel layout)
 -   Using workspaces (no specific idea, feel free to suggest)
+-   Something about wallpapers (mention community wallpapers, maybe
+    wallpaper rotating?)
 
 ### Written articles
 
