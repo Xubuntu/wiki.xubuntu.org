@@ -27,6 +27,8 @@ Team participation
 | dkessel | dkessel-mini | Laptop | Intel | 1 (2) | X | X | Dell Inspiron Mini 10v |
 | dkessel | dkessel-eee | Laptop | Intel | 1 (2) | X (live) | ASUS Eee PC 901 |  |
 | skellat | RoadWarrior | Laptop | AMD? | 1 | X | Toshiba Satellite C55D-A |  |
+| nairwolf | nairwolf-toshiba | Laptop | Intel | 1 | X | X | Toshiba Satellite C650-17N |
+| nairwolf | narwolf-asus | Laptop | Intel | 1 | X | X (live) | Asus Zenbook UX301-LA |
 
 ## VM testing possibility
 
