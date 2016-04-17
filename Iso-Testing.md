@@ -73,7 +73,7 @@ Follow the testcase text to the end, noting issues that you have seen.
 
 ### Submitting Results
 
-Once you have moved through the testcase you are in a position to report
+Once you have completed the testcase you are in a position to report
 your result on the tracker, you will see this section of the tracker
 page directly following the testcase detail
 
@@ -83,9 +83,11 @@ If you have noted bugs during the testcase you have 2 options:
 
 Critical bugs: These are bugs which cause you to not pass the testcase.
 For example - you start the installer but are unable to complete. Mark
-your test as Failed. Bugs: These are bugs discovered during the test,
-which don\'t affect the testcase. For example, an application not part
-of the test, crashes and you see the crash dialogue.
+your test as Failed.^2^
+
+Bugs: These are bugs discovered during the test, which don\'t affect the
+testcase. For example, an application not part of the test, crashes and
+you see the crash dialogue.
 
 Below the Submit button, you will see a list of bugs that other
 reporters have noted during the *same test and milestone* - regardless
@@ -106,3 +108,8 @@ alias image=\'cd /mnt/Spare/iso/Xubuntu/Xenial/ && zsync
 && zsync
 <http://cdimage.ubuntu.com/xubuntu/daily-live/current/xenial-desktop-amd64.iso.zsync>
 && rm /mnt/Spare/iso/Xubuntu/Xenial/\*.zs-old\'
+
+^2^ You might find that your result gets edited, while there could be
+many reasons for this, it\'s possible that Xubuntu QA have un-failed
+your result, sometimes there is a fine line between a fail and pass and
+we might allow an issue under particular circumstances.
