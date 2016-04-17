@@ -40,7 +40,7 @@ This page will look similar to this
 After you have selected an architecture, you will see links at the top,
 select the Download information link
 
-{images.png}}
+![](images/qa/images.png)
 
 You will now see all the download possibilities
 
