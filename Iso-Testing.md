@@ -46,10 +46,10 @@ You will now see all the download possibilities
 
 ![](images/qa/downloads.png)
 
-If you are going to be regularly testing the iso ^1^, you might look at
+If you are going to be regularly testing the iso, you might look at
 using [Zsync](https://help.ubuntu.com/community/ZsyncCdImage) to only
 download differences between your local copy and the released daily
-image.
+image^1^.
 
 This can make some difference in the amount to download, particularly
 useful if your speed is slow, spotty or you have download limits.
