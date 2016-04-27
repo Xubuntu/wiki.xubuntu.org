@@ -2,6 +2,9 @@
 
 ### Milestones
 
+Not all testing cycles will use all the milestones available to us,
+though in general an LTS cycle will include them.
+
 While Daily testing is an on-going requirement, at times during a
 development cycle we approach *Milestones*. At those points the iso
 build is halted in order that a period of prolonged testing can take
@@ -22,12 +25,12 @@ be used for testing when Xubuntu QA calls for it.
 
 Dates for milestones can be found on the current Release Schedule.
 
-Milestones, including Daily, are listed on the iso tracker, you will be
-able to see which are currently being tested.
+Milestones, including Daily, are listed on the [iso tracker](http://iso.qa.ubuntu.com/), you will be able to see which are
+currently being tested.
 
 ![](images/qa/milestones.png)
 
-### Test Builds
+### ISO Test Builds
 
 Once you\'ve visited the tracker and can see what builds are available
 for testing, you can now decide which of the available iso\'s you will
@@ -42,7 +45,8 @@ select the Download information link
 
 ![](images/qa/images.png)
 
-You will now see all the download possibilities
+You will now see all the download possibilities available to you, choose
+which suits you and download your iso for testing.
 
 ![](images/qa/downloads.png)
 
