@@ -24,9 +24,12 @@ xfce4-session
 
 ##### Todo
 
+-   [xfce4-clipman-plugin](http://git.xfce.org/panel-plugins/xfce4-clipman-plugin/log/)
+    1.  Fails distcheck.
 -   [xfce4-datetime-plugin](http://git.xfce.org/panel-plugins/xfce4-datetime-plugin/log/)
 -   [xfce4-diskperf-plugin](http://git.xfce.org/panel-plugins/xfce4-diskperf-plugin/log/)
 -   [xfce4-fsguard-plugin](http://git.xfce.org/panel-plugins/xfce4-fsguard-plugin/log/)
+-   [xfce4-genmon-plugin](https://github.com/tonypaulic/xfce4-genmon-plugin)
 -   [xfce4-mpc-plugin](http://git.xfce.org/panel-plugins/xfce4-mpc-plugin/log/)
 -   [xfce4-smartbookmark-plugin](http://git.xfce.org/panel-plugins/xfce4-smartbookmark-plugin/log/)
 -   [xfce4-systemload-plugin](http://git.xfce.org/panel-plugins/xfce4-systemload-plugin/log/)
