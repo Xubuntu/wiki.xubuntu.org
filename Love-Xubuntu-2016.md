@@ -27,3 +27,110 @@ studying for the exams)
 Me: -laughing-
 
 Me: \"This was funny!\"
+
+*Insert image*
+
+**Willem Hobers**
+
+My mother in law is 81. She\'s half deaf and her eyesight is getting
+worse and worse. She couldn\'t properly use her old Windows XP computer
+anymore. So, I took Xubuntu, stripped it down to the bear necessities
+for her (mail, internet, solitaire), and one task bar button (shutdown),
+and made the icons and font as large as is possible and still usable,
+and tried to make it look like her XP-theme. I even found that it was
+possible to make the scroll bar in the windows really wide.
+
+She\'s now a happy xubuntu user. She likes the large font, the large
+icons and the clear colours.
+
+\*\* Dina Goldin \*\*
+
+I live in Israel, and in Hebrew, the slang word \"Zubi\" is an insolent
+and extreme way to say \"No way I\'ll do it\".
+
+Also, according to the Hebrew Wikipedia, Xubuntu is pronounced as
+\"Zoo-boon-too\" rather than \"Ksoo-boon-too\" (its name is written in
+Hebrew, which solves that ambiguity).
+
+Therefore, when I told a friend that my old computer would not boot
+because of a hard disk problem, and all the technicians advised me to
+buy a new one, but I installed Xubuntu and it works, he noted that
+\"Xubuntu\" actually sounds like \"I\'m not doing that, I\'m moving to
+Linux!\"
+
+\*\* Carl Vernersson \*\*
+
+Reminded me of a modern version of my beloved Workbench 1.3 on my Amiga
+500 which unfortunately doesn\'t work anymore. The blue wallpaper, the
+taskbar on top and the icon appearing on my desktop when inserting a SD
+card, loved it.
+
+Seriously, that was my first thought when I installed Xubuntu for the
+first time yesterday.
+
+*Insert image*
+
+\*\* Dan Juarez \*\*
+
+I started my computing days in 1986 with my first computer, an Apple
+IIe. From there I went on to use an IBM XT system with DOS. Then later I
+used GeoWorks Ensemble and then Windows 3.1 through Windows XP. From
+2004 to 2015 I used a Mac and Apple\'s OS X. I use Windows 7 but only
+for work on my employer\'s laptop.
+
+In 2015 I sold my MacBook Pro and built my own PC (something I had done
+in the past but had not done in many years). I decided I was switching
+to Linux. I tried various distros but ended up sticking with Xubuntu. It
+has allowed me the customization that I could not get from Apple - you
+take what they give you and that\'s it. I was tired of the direction
+they were going with their OS and wanted control of my system back.
+That\'s why I chose Xubuntu as it gave me the most control over the look
+and feel of the operating system. And I can change that look as often as
+I want.
+
+I am thankful for the talented developers and other contributors that
+keep Xubuntu going. Thanks for all you do!
+
+\*\* Robert Streeter \*\*
+
+I started my Linux journey about 12 years ago by using Ubuntu and used
+Ubuntu for quite a while until I came across a variant called Xubuntu
+and I immediately fell for this distro. I have created many awesome
+moments with Xubuntu it gets out of my way and lets me get all my
+everyday tasks done and done right. I follow Xubuntu and some of its
+team members just so I can keep up to date with all that is new and
+upcoming. I run a computer business and I always recommend Xubuntu to
+all of my customers no matter if they have super extreme hardware, I
+always tell them that it is the operating system that just lets you get
+things done.
+
+I have installed Xubuntu on all my computers at home and I love it, I
+always get a chuckle when my wife is running her computer and it runs MS
+Windows and it seems to nag her about everything, and my systems do not
+they just let me do what I want when I want.
+
+So I thank all of you for your hard work, hope to see what great things
+you all come up with in the future.
+
+\*\* #LoveXubuntu \*\*
+
+The following are tweets that people shared during the 2016 #LoveXubuntu
+campaign:
+
+-   <https://twitter.com/pleia2/status/746402384683794432>
+-   <https://twitter.com/bluesabredavis/status/746721807156252672>
+-   <https://twitter.com/aaronraimist/status/748696174455033857>
+-   <https://twitter.com/two_jays/status/746811720786665473>
+-   <https://twitter.com/garege_junya/status/747067891489505280>
+-   <https://twitter.com/KoosPlegt/status/748482280780369920>
+-   <https://twitter.com/vforberger/status/749277753564803072>
+-   <https://twitter.com/m1xo_0n/status/752853361641357312>
+-   <https://twitter.com/shamilchoudhury/status/752841588800356352>
+-   <https://twitter.com/joaomcteixeira/status/753164016030285826>
+-   <https://twitter.com/AdamBrodziak/status/752976583237984256>
+-   <https://twitter.com/ubuntukadee/status/758582066183282688>
+-   <https://twitter.com/victor_sanchezm/status/763837020212957185>
+-   <https://twitter.com/Ornim/status/764006924811546624>
+-   <https://twitter.com/joaomcteixeira/status/765188517639155712>
+-   <https://twitter.com/BstMnFall/status/763907159855890433>
+-   <https://twitter.com/untonyst/status/764620728171917312>
