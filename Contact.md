@@ -10,7 +10,7 @@ following the team links.
 
 | Role | Name | IRC nick | Launchpad team(s) |
 | --- | --- | --- | --- |
-| Xubuntu Project Lead | [Simon Steinbeiß](https://wiki.ubuntu.com/SimonSteinbeiss) | ochosi | [xubuntu-project-lead](http://launchpad.net/~xubuntu-project-lead)<br>[xubuntu-team](http://launchpad.net/~xubuntu-team) |
+| Xubuntu Council | *Several, see below* | [xubuntu-council](http://launchpad.net/~xubuntu-council)<br>[xubuntu-team](http://launchpad.net/~xubuntu-team) |  |
 | Release manager | [Simon Steinbeiß](https://wiki.ubuntu.com/SimonSteinbeiss) | ochosi | [xubuntu-release](http://launchpad.net/~xubuntu-release) |
 | Technical lead | [Sean Davis](https://wiki.ubuntu.com/SeanDavis) | bluesabre | [xubuntu-dev](http://launchpad.net/~xubuntu-dev) |
 | Artwork lead | [Simon Steinbeiß](https://wiki.ubuntu.com/SimonSteinbeiss) | ochosi | [xubuntu-art](http://launchpad.net/~xubuntu-art) |
@@ -19,6 +19,19 @@ following the team links.
 | Marketing lead | [Elizabeth K. Joseph](https://wiki.ubuntu.com/lyz) | pleia2 | N/A |
 | QA lead | [flocculant](http://launchpad.net/~flocculant) | flocculant | [xubuntu-qa](http://launchpad.net/~xubuntu-qa)<br>[xubuntu-testers](http://launchpad.net/~xubuntu-testers)<br>[xubuntu-bugs](http://launchpad.net/~xubuntu-bugs) |
 | Documentation lead | [David Pires](https://wiki.ubuntu.com/slickymaster) | slickymaster | [xubuntu-doc](http://launchpad.net/~xubuntu-doc) |
+
+## Xubuntu Council
+
+The Xubuntu Council consists of 3 members and oversees the project\'s
+main direction. It replaces the previous Project Leader role.
+
+The current council members are:
+
+-   [Sean Davis](https://wiki.ubuntu.com/SeanDavis) (bluesabre)
+-   [Pasi Lallinaho](https://wiki.ubuntu.com/PasiLallinaho) (knome)
+-   [Simon Steinbeiß](https://wiki.ubuntu.com/SimonSteinbiess) (ochosi)
+
+## Previous leaders
 
 The previous leaders for Xubuntu are listed on the [[Previous leaders|Previous-Xubuntu-Leaders]] page.
 
