@@ -105,7 +105,7 @@ the current iso, this being the latest iso at any point, perhaps in
 conjunction with an alias. For example one member of the QA team uses
 this \'image\' alias to grab the daily for both the 32 and 64 bit iso\'s
 and to remove the zsync old file once done. Change the release name once
-a cycle, wily to xenial to suit:
+a cycle, wily to xenial to suit, use your own path to the saved iso(s):
 
 alias image=\'cd /mnt/Spare/iso/Xubuntu/Xenial/ && zsync
 <http://cdimage.ubuntu.com/xubuntu/daily-live/current/xenial-desktop-i386.iso.zsync>
