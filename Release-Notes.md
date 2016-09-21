@@ -2,9 +2,9 @@
 
 # Xubuntu 16.10 (Yakkety Yak)
 
-\## \## NOTE: \## Please ensure any changes to this page are approved by
-the Xubuntu Release Team \## <https://launchpad.net/~xubuntu-release>
-\## \##
+\# \# NOTE: \# Please ensure any changes to this page are approved by
+the Xubuntu Release Team \# <https://launchpad.net/~xubuntu-release> \#
+\#
 
 
 | --- | --- | --- |
