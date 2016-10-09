@@ -5,30 +5,48 @@
 [Installer Issues]
 
     *Various virtual machine issues can show up. More so with VirtualBox or VMWare.
-    *[[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1617711 |1617711]] Resize dialogue hard to read
 
 [General Issues]
 
     *[[https://bugs.launchpad.net/bugs/792085|792085]] Automatic remount of safely removed usb 3.0 drive
 
-------------------------------------------------------------------------
-
 [Xubuntu Issues]
 
--   (Bug:1516237) Mugshot crashes when trying to capture image (camera
-    currently disabled)
--   (Bug:1311926) Thunar file order changes when renaming
--   (Bug:1512120) Thunar crashes on file renaming
--   (Bug:1514912) Thunar crash while copying
--   (Bug:1540186) Thunar crash while dragging and dropping
+-   [1631715](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1631715)
+    Password needed twice restarting from suspend
 
-------------------------------------------------------------------------
+```{=html}
+<!-- -->
+```
+-   Thunar
+    -   [1311926](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1311926)
+        Thunar file order changes when renaming
+    -   [1512120](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1512120)
+        Thunar crashes on file renaming
+    -   [1514912](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1514912)
+        Thunar crash while copying
+    -   [1540186](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1540186)
+        Thunar crash while dragging and dropping
 
-`'Changes`\'
+#### Changes
 
-`'Bug Fixes`\'
+-   Thunar
 
-------------------------------------------------------------------------
+```{=html}
+<!-- -->
+```
+      *Add upstream bugzilla patch to reduce crashes on file move.
+    * xfce4-whiskermenu-plugin
+      *New upstream release
+      *Use dm-tool instead of gdmflexiserver for user-switching
+    * lightdm-gtk-greeter-settings
+      *New upstream release
+    * xfce4-dict 
+      *New upstream release
+    * xfce4-weather-plugin
+      *New upstream release
+      *Remove negative sign when temperature is rounded to 0 °F
+      *Update API url for Yr.no service
 
 #### Changelogs
 
