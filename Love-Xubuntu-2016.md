@@ -112,6 +112,39 @@ they just let me do what I want when I want.
 So I thank all of you for your hard work, hope to see what great things
 you all come up with in the future.
 
+\*\* Daniel Eriksson \*\*
+
+We run a small business, mainly doing computer service and maintenance,
+app programming and other similar things. One of the things we do are
+customized Linux desktops, where we build a user interface based around
+a customers wishes; tweaking everything from themes, colors and fonts to
+panels, widgets and other content. When we started doing this we tried
+out and evaluated loads of distributions and desktop environments,
+eventually deciding that Xubuntu was the perfect choice. We wanted to
+maximize the amount of customization we could do while still having a
+system that was light on resources (since customers often have old
+computers.)
+
+It was a choice we have never regretted, as it has always fit our needs
+perfectly. We can get everything from design to workflow just as we want
+it, and it is stable as rock while still often introducing new features
+for us to play with.
+
+One of our best experiences was with a person who wanted an interface on
+a laptop that was just as simple and scaled down as that of an iPad,
+while still being able to do all things a computer ought to do. This was
+not an especially computer-savvy person, so it needed to be
+straightforward and simple. We managed to discard most classic desktop
+parameters and build a very unique interface, all within what was
+provided by stock Xubuntu. (Though we did some art ourselves.) It turned
+out great, our customer was very happy with it and other people have
+shown interest in having something similar on their computers. Needless
+to say, this was a success story for us which had not been possible
+without Xubuntu.
+
+So thanks for all your hard work! We keep on designing our users
+desktops and will continue to use the excellent Xubuntu for it. :)
+
 \*\* #LoveXubuntu \*\*
 
 The following are tweets that people shared during the 2016 #LoveXubuntu
