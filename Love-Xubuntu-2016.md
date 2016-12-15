@@ -158,6 +158,8 @@ the design on Thingiverse so others could also print it.
     <https://plus.google.com/+KeithIMyers/posts/JYUxKptzf2t>
 -   Design on Thingiverse: <http://www.thingiverse.com/thing:1642573>
 
+![](images/marketing/projects/lovexubuntu/keithimeyers_lovexubuntu.jpg)
+
 \*\* #LoveXubuntu \*\*
 
 The following are tweets that people shared during the 2016 #LoveXubuntu
