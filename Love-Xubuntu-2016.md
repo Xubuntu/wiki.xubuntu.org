@@ -68,7 +68,10 @@ card, loved it.
 Seriously, that was my first thought when I installed Xubuntu for the
 first time yesterday.
 
-*Insert image*
+With this in mind, Carl made an adjustment to the Xubuntu desktop and
+replaced the Xubuntu mouse logo with the Amiga Boing Ball!
+
+![](images/marketing/projects/lovexubuntu/carl_vernersson_lovexubuntu.png)
 
 \*\* Dan Juarez \*\*
 
