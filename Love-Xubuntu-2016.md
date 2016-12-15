@@ -145,6 +145,19 @@ without Xubuntu.
 So thanks for all your hard work! We keep on designing our users
 desktops and will continue to use the excellent Xubuntu for it. :)
 
+\*\* Keith I Myers \*\*
+
+After seeing a simple metal cookie cutter created by the Xubuntu
+Marketing lead, Keith was inspired to make a plastic 3D-printed version
+of the Xubuntu cookie cutter. He printed several of them and also shared
+the design on Thingiverse so others could also print it.
+
+-   Initial printing of the cookie cutters:
+    <https://plus.google.com/+KeithIMyers/posts/YCwxjuxJKYE>
+-   A box of several he printed:
+    <https://plus.google.com/+KeithIMyers/posts/JYUxKptzf2t>
+-   Design on Thingiverse: <http://www.thingiverse.com/thing:1642573>
+
 \*\* #LoveXubuntu \*\*
 
 The following are tweets that people shared during the 2016 #LoveXubuntu
