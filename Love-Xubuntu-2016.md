@@ -28,7 +28,7 @@ Me: -laughing-
 
 Me: \"This was funny!\"
 
-*Insert image*
+![](images/marketing/projects/lovexubuntu/xubuntu_locked_folder.jpg)
 
 **Willem Hobers**
 
