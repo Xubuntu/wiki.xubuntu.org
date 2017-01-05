@@ -299,6 +299,6 @@ Source: <https://twitter.com/untonyst/status/764620728171917312>
 
 #LoveXubuntu You all rock with this rock solid Distro
 
-\--media\--
+![](images/marketing/projects/lovexubuntu/robert-streeter-2.jpg)
 
 Source: <https://twitter.com/Hacker_Planet/status/765645078471725057>
