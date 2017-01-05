@@ -272,12 +272,12 @@ like that\" , to which I replied it\'s xubuntu sir #LoveXubuntu
 
 Source: <https://twitter.com/Ornim/status/764006924811546624>
 
-## João MC Texeira (#2)
+## João MC Teixeira (#2)
 
 Fresh installed and ready for the next two years! \@Xubuntu 16.04 -
 #LoveXubuntu
 
-![](/marketing/projects/lovexubuntu/joao-mc-teixeira.jpg)
+![](images/marketing/projects/lovexubuntu/joao-mc-teixeira-2.jpg)
 
 Source: <https://twitter.com/joaomcteixeira/status/765188517639155712>
 
