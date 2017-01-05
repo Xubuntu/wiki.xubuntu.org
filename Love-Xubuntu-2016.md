@@ -291,7 +291,7 @@ Source: <https://twitter.com/BstMnFall/status/763907159855890433>
 
 Thank you for being there \<3 #LoveXubuntu #Xubuntu #Linux #Desktop
 
-\--media\--
+![](images/marketing/projects/lovexubuntu/anton-styazhkin.jpeg)
 
 Source: <https://twitter.com/untonyst/status/764620728171917312>
 
