@@ -30,6 +30,10 @@ Me: \"This was funny!\"
 
 ![](images/marketing/projects/lovexubuntu/xubuntu_locked_folder.jpg)
 
+Source:
+<https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-June/000048.html>
+(private archive)
+
 ## Willem Hobers
 
 My mother in law is 81. She\'s half deaf and her eyesight is getting
@@ -42,6 +46,10 @@ possible to make the scroll bar in the windows really wide.
 
 She\'s now a happy xubuntu user. She likes the large font, the large
 icons and the clear colours.
+
+Source:
+<https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-June/000049.html>
+(private archive)
 
 ## Dina Goldin
 
@@ -58,6 +66,10 @@ buy a new one, but I installed Xubuntu and it works, he noted that
 \"Xubuntu\" actually sounds like \"I\'m not doing that, I\'m moving to
 Linux!\"
 
+Source:
+<https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-July/000050.html>
+(private archive, see thread)
+
 ## Carl Vernersson
 
 Reminded me of a modern version of my beloved Workbench 1.3 on my Amiga
@@ -72,6 +84,10 @@ With this in mind, Carl made an adjustment to the Xubuntu desktop and
 replaced the Xubuntu mouse logo with the Amiga Boing Ball!
 
 ![](images/marketing/projects/lovexubuntu/carl_vernersson_lovexubuntu.png)
+
+Source:
+<https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-July/000055.html>
+(private archive)
 
 ## Dan Juarez
 
@@ -94,6 +110,10 @@ I want.
 I am thankful for the talented developers and other contributors that
 keep Xubuntu going. Thanks for all you do!
 
+Source:
+<https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-August/000059.html>
+(private archive)
+
 ## Robert Streeter (#1)
 
 I started my Linux journey about 12 years ago by using Ubuntu and used
@@ -114,6 +134,10 @@ they just let me do what I want when I want.
 
 So I thank all of you for your hard work, hope to see what great things
 you all come up with in the future.
+
+Source:
+<https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-August/000060.html>
+(private archive)
 
 ## Daniel Eriksson
 
@@ -147,6 +171,10 @@ without Xubuntu.
 
 So thanks for all your hard work! We keep on designing our users
 desktops and will continue to use the excellent Xubuntu for it. :)
+
+Source:
+<https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-September/000064.html>
+(private archive)
 
 ## Keith I Myers
 
