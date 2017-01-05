@@ -172,7 +172,7 @@ How about a \@Xubuntu template for your Nexus 5 and Ringke Fusion case?
 #LoveXubuntu How about a \@Xubuntu template for your Nexus 5 and Ringke
 Fusion case? #LoveXubuntu
 
-\--media\--
+![](images/marketing/projects/lovexubuntu/sean-davis.jpg)
 
 Source: <https://twitter.com/bluesabredavis/status/746721807156252672>
 
@@ -206,7 +206,7 @@ Source: <https://twitter.com/garege_junya/status/747067891489505280>
 Happy 10th birthday for my favourite #Linux distro! Here\'s a screenshot
 of my #Xubuntu 16.04 setup #LoveXubuntu
 
-\--media\--
+![](images/marketing/projects/lovexubuntu/koos-plegt.jpg)
 
 Source: <https://twitter.com/KoosPlegt/status/748482280780369920>
 
@@ -215,7 +215,7 @@ Source: <https://twitter.com/KoosPlegt/status/748482280780369920>
 #LoveXubuntu \@Xubuntu 14.04 screenshot today. Been with #xubuntu since
 08.10.
 
-\--media\--
+![](images/marketing/projects/lovexubuntu/victor-forberger.jpg)
 
 Source: <https://twitter.com/vforberger/status/749277753564803072>
 
@@ -231,7 +231,8 @@ Source: <https://twitter.com/m1xo_0n/status/752853361641357312>
 Happy 10th Anniversary to \@Xubuntu A look at my system - #Xubuntu 16.04
 with Plank dock, Arc-Theme #LoveXubuntu
 
-\--media\--
+![](images/marketing/projects/lovexubuntu/shamil-a.jpg)
+![](images/marketing/projects/lovexubuntu/shamil-b.jpg)
 
 Source: <https://twitter.com/shamilchoudhury/status/752841588800356352>
 
@@ -276,7 +277,7 @@ Source: <https://twitter.com/Ornim/status/764006924811546624>
 Fresh installed and ready for the next two years! \@Xubuntu 16.04 -
 #LoveXubuntu
 
-\--media\--
+![](/marketing/projects/lovexubuntu/joao-mc-teixeira.jpg)
 
 Source: <https://twitter.com/joaomcteixeira/status/765188517639155712>
 
