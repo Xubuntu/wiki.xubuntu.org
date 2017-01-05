@@ -3,7 +3,7 @@
 The following are stories collected during the 2016 Love Xubuntu
 campaign.
 
-**Federico Airola**
+## Federico Airola
 
 The conversation is between me and one of my University mates. We are
 both Xubuntu users and also programmers.
@@ -30,7 +30,7 @@ Me: \"This was funny!\"
 
 ![](images/marketing/projects/lovexubuntu/xubuntu_locked_folder.jpg)
 
-**Willem Hobers**
+## Willem Hobers
 
 My mother in law is 81. She\'s half deaf and her eyesight is getting
 worse and worse. She couldn\'t properly use her old Windows XP computer
@@ -43,7 +43,7 @@ possible to make the scroll bar in the windows really wide.
 She\'s now a happy xubuntu user. She likes the large font, the large
 icons and the clear colours.
 
-\*\* Dina Goldin \*\*
+## Dina Goldin
 
 I live in Israel, and in Hebrew, the slang word \"Zubi\" is an insolent
 and extreme way to say \"No way I\'ll do it\".
@@ -58,7 +58,7 @@ buy a new one, but I installed Xubuntu and it works, he noted that
 \"Xubuntu\" actually sounds like \"I\'m not doing that, I\'m moving to
 Linux!\"
 
-\*\* Carl Vernersson \*\*
+## Carl Vernersson
 
 Reminded me of a modern version of my beloved Workbench 1.3 on my Amiga
 500 which unfortunately doesn\'t work anymore. The blue wallpaper, the
@@ -73,7 +73,7 @@ replaced the Xubuntu mouse logo with the Amiga Boing Ball!
 
 ![](images/marketing/projects/lovexubuntu/carl_vernersson_lovexubuntu.png)
 
-\*\* Dan Juarez \*\*
+## Dan Juarez
 
 I started my computing days in 1986 with my first computer, an Apple
 IIe. From there I went on to use an IBM XT system with DOS. Then later I
@@ -94,7 +94,7 @@ I want.
 I am thankful for the talented developers and other contributors that
 keep Xubuntu going. Thanks for all you do!
 
-\*\* Robert Streeter \*\*
+## Robert Streeter (#1)
 
 I started my Linux journey about 12 years ago by using Ubuntu and used
 Ubuntu for quite a while until I came across a variant called Xubuntu
@@ -115,7 +115,7 @@ they just let me do what I want when I want.
 So I thank all of you for your hard work, hope to see what great things
 you all come up with in the future.
 
-\*\* Daniel Eriksson \*\*
+## Daniel Eriksson
 
 We run a small business, mainly doing computer service and maintenance,
 app programming and other similar things. One of the things we do are
@@ -148,7 +148,7 @@ without Xubuntu.
 So thanks for all your hard work! We keep on designing our users
 desktops and will continue to use the excellent Xubuntu for it. :)
 
-\*\* Keith I Myers \*\*
+## Keith I Myers
 
 After seeing a simple metal cookie cutter created by the Xubuntu
 Marketing lead, Keith was inspired to make a plastic 3D-printed version
@@ -163,26 +163,142 @@ the design on Thingiverse so others could also print it.
 
 ![](images/marketing/projects/lovexubuntu/keithimeyers_lovexubuntu.jpg)
 
-\*\* #LoveXubuntu \*\*
+Source: <https://plus.google.com/+KeithIMyers/posts/YCwxjuxJKYE> and
+<https://twitter.com/pleia2/status/746402384683794432>
 
-The following are tweets that people shared during the 2016 #LoveXubuntu
-campaign:
+## Sean Davis
 
--   <https://twitter.com/pleia2/status/746402384683794432>
--   <https://twitter.com/bluesabredavis/status/746721807156252672>
--   <https://twitter.com/aaronraimist/status/748696174455033857>
--   <https://twitter.com/two_jays/status/746811720786665473>
--   <https://twitter.com/garege_junya/status/747067891489505280>
--   <https://twitter.com/KoosPlegt/status/748482280780369920>
--   <https://twitter.com/vforberger/status/749277753564803072>
--   <https://twitter.com/m1xo_0n/status/752853361641357312>
--   <https://twitter.com/shamilchoudhury/status/752841588800356352>
--   <https://twitter.com/joaomcteixeira/status/753164016030285826>
--   <https://twitter.com/AdamBrodziak/status/752976583237984256>
--   <https://twitter.com/ubuntukadee/status/758582066183282688>
--   <https://twitter.com/victor_sanchezm/status/763837020212957185>
--   <https://twitter.com/Ornim/status/764006924811546624>
--   <https://twitter.com/joaomcteixeira/status/765188517639155712>
--   <https://twitter.com/BstMnFall/status/763907159855890433>
--   <https://twitter.com/untonyst/status/764620728171917312>
--   <https://twitter.com/Hacker_Planet/status/765645078471725057>
+How about a \@Xubuntu template for your Nexus 5 and Ringke Fusion case?
+#LoveXubuntu How about a \@Xubuntu template for your Nexus 5 and Ringke
+Fusion case? #LoveXubuntu
+
+\--media\--
+
+Source: <https://twitter.com/bluesabredavis/status/746721807156252672>
+
+## Aaron Raimist
+
+I converted another one! #LoveXubuntu \@Xubuntu
+
+> RT: Jordan Zimmerman \@jzestaaqui
+>
+> my (windows 10 smh) computer went kaput, and I went through a crazy
+> journey for a day to get Linux - thanks \@aaronraimist and
+> \@SwagBelgian
+
+Source: <https://twitter.com/aaronraimist/status/748696174455033857>
+
+## Jan Jansen
+
+Im in #LoveXubuntu for two years now! Use it as my only OS on my T420.
+it works beautifully and i think it will do that a while longer :)
+
+Source: <https://twitter.com/two_jays/status/746811720786665473>
+
+## jugem
+
+Happy　birthday Xubuntu!!! #LoveXubuntu
+
+Source: <https://twitter.com/garege_junya/status/747067891489505280>
+
+## Koos Plegt
+
+Happy 10th birthday for my favourite #Linux distro! Here\'s a screenshot
+of my #Xubuntu 16.04 setup #LoveXubuntu
+
+\--media\--
+
+Source: <https://twitter.com/KoosPlegt/status/748482280780369920>
+
+## Victor Forberger
+
+#LoveXubuntu \@Xubuntu 14.04 screenshot today. Been with #xubuntu since
+08.10.
+
+\--media\--
+
+Source: <https://twitter.com/vforberger/status/749277753564803072>
+
+## Michael Morozov
+
+I #LoveXubuntu because it\'s top-notch, minimalistic neat and helps me
+focus on real things.
+
+Source: <https://twitter.com/m1xo_0n/status/752853361641357312>
+
+## Shamil
+
+Happy 10th Anniversary to \@Xubuntu A look at my system - #Xubuntu 16.04
+with Plank dock, Arc-Theme #LoveXubuntu
+
+\--media\--
+
+Source: <https://twitter.com/shamilchoudhury/status/752841588800356352>
+
+## João MC Texeira (#1)
+
+#LoveXubuntu! I wrote PhD Thesis in Portugal and now PostDoc at
+\@UniBarcelona also using \@Xubuntu. Almost 10 years with u! Keep on
+fellows!!
+
+Source: <https://twitter.com/joaomcteixeira/status/753164016030285826>
+
+## Adam Brodziak
+
+In 2007 I\'ve polished my XFCE, slick grey theme, minimalistic icons,
+gmusicbrowser. Then #Xubuntu came out and #LoveXubuntu from first sight
+
+Source: <https://twitter.com/AdamBrodziak/status/752976583237984256>
+
+## Krist Dylst
+
+Upgrading to #xubuntu 16.04. Thank you Wily Werewolf, you have served me
+well. #LoveXubuntu
+
+Source: <https://twitter.com/ubuntukadee/status/758582066183282688>
+
+## Víctor Sánchez
+
+Loving \@Xubuntu since 12.04. The perfect distro for getting work done.
+Fast and stable, I\'ve finished mi PhD with you. #LoveXubuntu
+
+Source: <https://twitter.com/victor_sanchezm/status/763837020212957185>
+
+## Sabrin Islam
+
+\@Xubuntu A teacher once asked me, \"how did you get windows to look
+like that\" , to which I replied it\'s xubuntu sir #LoveXubuntu
+
+Source: <https://twitter.com/Ornim/status/764006924811546624>
+
+## João MC Texeira (#2)
+
+Fresh installed and ready for the next two years! \@Xubuntu 16.04 -
+#LoveXubuntu
+
+\--media\--
+
+Source: <https://twitter.com/joaomcteixeira/status/765188517639155712>
+
+## BstMnFall
+
+I have been using Xubuntu on 3+ home computers for over 8 years. From
+time to time I explore elsewhere, but always come back. #LoveXubuntu
+
+Source: <https://twitter.com/BstMnFall/status/763907159855890433>
+
+## Anton Styazhkin
+
+Thank you for being there \<3 #LoveXubuntu #Xubuntu #Linux #Desktop
+
+\--media\--
+
+Source: <https://twitter.com/untonyst/status/764620728171917312>
+
+## Robert Streeter (#2)
+
+#LoveXubuntu You all rock with this rock solid Distro
+
+\--media\--
+
+Source: <https://twitter.com/Hacker_Planet/status/765645078471725057>
