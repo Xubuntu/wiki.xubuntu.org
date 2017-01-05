@@ -191,8 +191,7 @@ the design on Thingiverse so others could also print it.
 
 ![](images/marketing/projects/lovexubuntu/keithimeyers_lovexubuntu.jpg)
 
-Source: <https://plus.google.com/+KeithIMyers/posts/YCwxjuxJKYE> and
-<https://twitter.com/pleia2/status/746402384683794432>
+Source: see links above
 
 ## Sean Davis
 
