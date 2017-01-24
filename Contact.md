@@ -17,7 +17,7 @@ following the team links.
 | Website lead | [Pasi Lallinaho](https://wiki.ubuntu.com/PasiLallinaho) | knome | [xubuntu-website](http://launchpad.net/~xubuntu-website) |
 | Debian liaison | [Unit 193](https://wiki.ubuntu.com/Unit193) | Unit193 | N/A |
 | Marketing lead | [Elizabeth K. Joseph](https://wiki.ubuntu.com/lyz) | pleia2 | N/A |
-| QA lead | [flocculant](http://launchpad.net/~flocculant) | flocculant | [xubuntu-qa](http://launchpad.net/~xubuntu-qa)<br>[xubuntu-testers](http://launchpad.net/~xubuntu-testers)<br>[xubuntu-bugs](http://launchpad.net/~xubuntu-bugs) |
+| QA lead | [David Pearson](http://launchpad.net/~akxwi-dave) | akxwi-dave | [xubuntu-qa](http://launchpad.net/~xubuntu-qa)<br>[xubuntu-testers](http://launchpad.net/~xubuntu-testers)<br>[xubuntu-bugs](http://launchpad.net/~xubuntu-bugs) |
 | Documentation lead | [David Pires](https://wiki.ubuntu.com/slickymaster) | slickymaster | [xubuntu-doc](http://launchpad.net/~xubuntu-doc) |
 
 ## Xubuntu Council
