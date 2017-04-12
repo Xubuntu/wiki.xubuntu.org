@@ -27,6 +27,7 @@ This release is based on the 4.10.x Linux release series. LibreOffice
 options. Firefox 52 and Thunderbird 45 are included.
 
 For new installs a swap file will be used instead of a swap partition.
+Upgrades from earlier versions are not affected.
 
 See the main Ubuntu [Release Note](https://wiki.ubuntu.com/ZestyZapus/ReleaseNotes) for more general
 issues and updates.
