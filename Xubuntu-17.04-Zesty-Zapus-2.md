@@ -4,11 +4,25 @@
 
 Xubuntu 17.04 will be supported for 9 months.
 
-Some burble from devs about gtk3 apps we have new please and/or what\'s
-going on :) please\....
+Several Xfce panel plugins and applications have been ported to GTK+ 3,
+paving the way for improved theming and further development. Core Xfce
+libraries exo and libxfce4ui have also been updated with full GTK+ 3
+support, the latter adding support for Glade development in Xubuntu with
+the installation of libxfce4ui-glade. The Greybird and Numix themes have
+also been refreshed with improved support for the toolkit.
 
-This release is based on the Linux release series 4.10. LibreOffice has
-been updated to 5.3.0.
+Camera functionality has been restored in Mugshot, Parole introduced a
+new mini mode and improvements for network streams, and a number of
+welcome fixes have made their way into Thunar and Ristretto. *Simon
+Tatham\'s Portable Puzzle Collection*
+([sgt-puzzles](https://launchpad.net/ubuntu/+source/sgt-puzzles)), an
+addicting collection of logic games, has been included along with the
+new *SGT Puzzles Collection*
+([sgt-launcher](https://launchpad.net/ubuntu/+source/sgt-launcher)).
+
+This release is based on the 4.10.x Linux release series. LibreOffice
+5.3 includes a number of fixes and introduces new experimental interface
+options. Firefox 52 and Thunderbird 45 are included.
 
 For new installs a swap file will be used instead of a swap partition.
 
@@ -100,9 +114,9 @@ issues and updates.
 -   xfce4-whiskermenu-plugin
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-whiskermenu-plugin/xfce4-whiskermenu-plugin_2.1.1-0ubuntu1/changelog))
 -   xubuntu-default-settings
-    [changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-default-settings/xubuntu-default-settings_17.04.0/changelog)
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-default-settings/xubuntu-default-settings_17.04.0/changelog))
 -   exo
-    [changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/e/exo/exo_0.11.2-1/changelog)
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/e/exo/exo_0.11.2-1/changelog))
 
 ### Major application versions
 
