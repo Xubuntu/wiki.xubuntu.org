@@ -8,8 +8,8 @@ Several Xfce panel plugins and applications have been ported to GTK+ 3,
 paving the way for improved theming and further development. Core Xfce
 libraries exo and libxfce4ui have also been updated with full GTK+ 3
 support, the latter adding support for Glade development in Xubuntu with
-the installation of libxfce4ui-glade. The Greybird and Numix themes have
-also been refreshed with improved support for the toolkit.
+the installation of `libxfce4ui-glade`. The Greybird and Numix themes
+have also been refreshed with improved support for the toolkit.
 
 Camera functionality has been restored in Mugshot, Parole introduced a
 new mini mode and improvements for network streams, and a number of
