@@ -132,7 +132,7 @@ issues and updates.
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/pavucontrol/+changelog))
 -   sgt-launcher
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/sgt-launcher/+changelog))
--   Shimmer-themes
+-   shimmer-themes
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/shimmer-themes/+changelog))
 -   xfce4-volumed
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-volumed/+changelog))
