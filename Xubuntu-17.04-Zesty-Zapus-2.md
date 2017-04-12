@@ -33,39 +33,38 @@ issues and updates.
 
 ### Installer Issues
 
--    System Encryption Password set before setting keyboard locale
+-    System encryption password set before setting keyboard locale
     ([1047384](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1047384))
 
 ### General Issues
 
--   Parole progressbar lag
-    ([1667786](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1667786))
--   Parole crashed while fast forwarding with the playback slider
-    ([1374887](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1374887))
--   Parole Clear History (Open Location) crashes
-    ([1214541](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1214514))
--   Parole Clear History (Open Recent) clears Global History
-    ([1681886](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1681886))
+-   Parole Media Player
+    -   Parole progress bar lag
+        ([1667786](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1667786))
+    -   Parole crashes while fast forwarding with the playback slider
+        ([1374887](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1374887))
+    -   Parole Clear History (Open Location) crashes
+        ([1214541](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1214514))
+    -   Parole Clear History (Open Recent) clears global history
+        ([1681886](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1681886))
 
 ```{=html}
 <!-- -->
 ```
--   Thunar can hang.
-    ([13481](https://bugzilla.xfce.org/show_bug.cgi?id=13481) /
-    [13472](https://bugzilla.xfce.org/show_bug.cgi?id=13472))
--   Thunar doesn\'t refresh window
-    ([13364](https://bugzilla.xfce.org/show_bug.cgi?id=13364))
+-   Thunar File Manager
+    -   Thunar occasionally hangs after file changes
+        ([13481](https://bugzilla.xfce.org/show_bug.cgi?id=13481) /
+        [13472](https://bugzilla.xfce.org/show_bug.cgi?id=13472))
+    -   Thunar occasionally doesn\'t refresh window
+        ([13364](https://bugzilla.xfce.org/show_bug.cgi?id=13364))
 
 ```{=html}
 <!-- -->
 ```
--   Label missing from indicator-plugin clear option
+-   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
+    dialog
     ([1644971](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1644917))
-
-```{=html}
-<!-- -->
-```
--   SGT Launcher - menu bar greyed out
+-   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://bugs.launchpad.net/ubuntu/+source/sgt-launcher/+bug/1670610))
 
 ## Changes and Bug Fixes
