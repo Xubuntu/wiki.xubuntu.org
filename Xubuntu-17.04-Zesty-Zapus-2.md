@@ -2,7 +2,9 @@
 
 **\_\_DRAFT RELEASE NOTE \_\_**
 
-Xubuntu 17.04 will be supported for 9 months.
+Xubuntu 17.04 will be supported for 9 months until January 2018. If you
+need Long Term Support, it is recommended you use [Xubuntu 16.04
+LTS](http://xubuntu.org/news/xubuntu-16-04-release/) instead.
 
 Several Xfce panel plugins and applications have been ported to GTK+ 3,
 paving the way for improved theming and further development. Core Xfce
