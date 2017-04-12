@@ -29,14 +29,14 @@ For new installs a swap file will be used instead of a swap partition.
 See the main Ubuntu [Release Note](https://wiki.ubuntu.com/ZestyZapus/ReleaseNotes) for more general
 issues and updates.
 
-#### Notable Issues
+## Notable Issues
 
-[Installer Issues]
+### Installer Issues
 
 -    System Encryption Password set before setting keyboard locale
     ([1047384](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1047384))
 
-[General Issues]
+### General Issues
 
 -   Parole progressbar lag
     ([1667786](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1667786))
@@ -68,7 +68,7 @@ issues and updates.
 -   SGT Launcher - menu bar greyed out
     ([1670610](https://bugs.launchpad.net/ubuntu/+source/sgt-launcher/+bug/1670610))
 
-#### Changes and bug fixes
+## Changes and Bug Fixes
 
 -   Thunar 1.6.11
     -   Fixes to various crashes while renaming,copying bugs
@@ -99,7 +99,7 @@ issues and updates.
 -   sgt-launcher
     -   New launcher for Simon Tatham\'s Portable Puzzle Collection
 
-#### Changelogs
+### Changelogs
 
 #### Changes post-16.10 release
 
@@ -118,7 +118,7 @@ issues and updates.
 -   exo
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/e/exo/exo_0.11.2-1/changelog))
 
-### Major application versions
+#### Major application versions
 
 -   catfish
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/c/catfish/catfish_1.4.2-0ubuntu1/changelog))
@@ -141,7 +141,7 @@ issues and updates.
 -   xubuntu-meta
     ([changelog](https://launchpad.net/ubuntu/+source/xubuntu-meta/+changelog))
 
-### Other Application Versions
+#### Other Application Versions
 
 -   blueman
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/b/blueman/blueman_2.0.4-1ubuntu2/changelog))
