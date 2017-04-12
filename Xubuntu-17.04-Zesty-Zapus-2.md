@@ -61,23 +61,30 @@ issues and updates.
 ```{=html}
 <!-- -->
 ```
+-   SGT Puzzles Collection: Menu bar grayed out
+    ([1670610](https://bugs.launchpad.net/ubuntu/+source/sgt-launcher/+bug/1670610))
 -   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
     dialog
     ([1644971](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1644917))
--   SGT Puzzles Collection: Menu bar grayed out
-    ([1670610](https://bugs.launchpad.net/ubuntu/+source/sgt-launcher/+bug/1670610))
 
 ## Changes and Bug Fixes
 
--   Thunar 1.6.11
-    -   Fixes to various crashes while renaming,copying bugs
+-   thunar
+    -   Fixes to various issues related to copying and renaming
 
 ```{=html}
 <!-- -->
 ```
--   xubuntu-default-settings
-    -   New file templates included - OpenDocument Writer, OpenDocument
-        Spreadsheet
+-   parole
+    -   New release includes \"mini mode\" and improved streaming
+        support
+
+```{=html}
+<!-- -->
+```
+-   xfce4-notifyd
+    -   New release includes \"do not disturb\" mode, notification
+        muting, persistence support
 
 ```{=html}
 <!-- -->
@@ -89,8 +96,11 @@ issues and updates.
 ```{=html}
 <!-- -->
 ```
--   xfce4-notifyd
-    -   New release includes persistence support.
+-   xubuntu-default-settings
+    -   New file templates included - OpenDocument Writer, OpenDocument
+        Spreadsheet
+    -   Improved QT5 application appearance (requires installation of
+        `qt5-style-plugins`)
 
 ```{=html}
 <!-- -->
@@ -102,20 +112,20 @@ issues and updates.
 
 #### Changes post-16.10 release
 
+-   exo
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/e/exo/exo_0.11.2-1/changelog))
 -   mugshot
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/m/mugshot/mugshot_0.3.2-0ubuntu1/changelog))
 -   parole
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/p/parole/parole_0.9.1-0ubuntu1/changelog))
 -   thunar
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/t/thunar/thunar_1.6.11-1/changelog))
--   xfdesktop4
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfdesktop4/xfdesktop4_4.12.3-2ubuntu2/changelog))
 -   xfce4-whiskermenu-plugin
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-whiskermenu-plugin/xfce4-whiskermenu-plugin_2.1.1-0ubuntu1/changelog))
+-   xfdesktop4
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfdesktop4/xfdesktop4_4.12.3-2ubuntu2/changelog))
 -   xubuntu-default-settings
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-default-settings/xubuntu-default-settings_17.04.0/changelog))
--   exo
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/e/exo/exo_0.11.2-1/changelog))
 
 #### Major application versions
 
@@ -125,12 +135,12 @@ issues and updates.
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/m/menulibre/menulibre_2.1.3-0ubuntu1/changelog))
 -   mousepad
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/m/mousepad/mousepad_0.4.0-4ubuntu1/changelog))
+-   xfce4-power-manager
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-power-manager/xfce4-power-manager_1.4.4-4ubuntu2/changelog))
 -   xfpanel-switch
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfpanel-switch/xfpanel-switch_1.0.4-0ubuntu1/changelog))
 -   xfwm4
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfwm4/xfwm4_4.12.4-0ubuntu1/changelog))
--   xfce4-power-manager
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-power-manager/xfce4-power-manager_1.4.4-4ubuntu2/changelog))
 -   xubuntu-artwork
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-artwork/xubuntu-artwork_17.04/changelog))
 -   xubuntu-default-settings
