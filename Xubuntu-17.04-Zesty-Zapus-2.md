@@ -117,11 +117,11 @@ issues and updates.
 -   xfce4-power-manager
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-power-manager/xfce4-power-manager_1.4.4-4ubuntu2/changelog))
 -   xubuntu-artwork
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-artwork/xubuntu-artwork_16.10.0/changelog))
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-artwork/xubuntu-artwork_17.04/changelog))
 -   xubuntu-default-settings
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-default-settings/xubuntu-default-settings_16.10.2/changelog))
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-default-settings/xubuntu-default-settings_17.04.0/changelog))
 -   xubuntu-docs
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-docs/xubuntu-docs_16.10/changelog))
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xubuntu-docs/xubuntu-docs_17.04/changelog))
 -   xubuntu-meta
     ([changelog](https://launchpad.net/ubuntu/+source/xubuntu-meta/+changelog))
 
@@ -129,8 +129,6 @@ issues and updates.
 
 -   blueman
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/b/blueman/blueman_2.0.4-1ubuntu2/changelog))
--   firefox
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/main/f/firefox/firefox_48.0+build2-0ubuntu1/changelog))
 -   gtk-theme-config
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/g/gtk-theme-config/gtk-theme-config_1.2.1-0ubuntu1/changelog))
 -   gtk2-engines-xfce
@@ -140,18 +138,16 @@ issues and updates.
 -   lightdm-gtk-greeter
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/l/lightdm-gtk-greeter/lightdm-gtk-greeter_2.0.1-2ubuntu4/changelog))
 -   orage
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/o/orage/orage_4.12.1-2build1/changelog))
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/o/orage/orage_4.12.1-3/changelog))
 -   pavucontrol
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/p/pavucontrol/pavucontrol_3.0-3build1/changelog))
--   thunderbird
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/main/t/thunderbird/thunderbird_38.6.0+build1-0ubuntu1/changelog))
 -   xfburn
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfburn/xfburn_0.5.4-1/changelog))
 -   xfce4-cpugraph-plugin
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-cpugraph-plugin/xfce4-cpugraph-plugin_1.0.5-1build1/changelog))
 -   xfce4-dict
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-dict/xfce4-dict_0.7.2-0ubuntu1/changelog))
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-dict/xfce4-dict_0.7.2-1/changelog))
 -   xfce4-notes-plugin
     ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-notes-plugin/xfce4-notes-plugin_1.8.1-1/changelog))
 -   xfce4-weather-plugin
-    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-weather-plugin/xfce4-weather-plugin_0.8.7-3/changelog))
+    ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/x/xfce4-weather-plugin/xfce4-weather-plugin_0.8.9-1/changelog))
