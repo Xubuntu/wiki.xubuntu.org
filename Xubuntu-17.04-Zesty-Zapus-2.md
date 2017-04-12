@@ -10,6 +10,8 @@ going on :) please\....
 This release is based on the Linux release series 4.10. LibreOffice has
 been updated to 5.3.0.
 
+For new installs a swap file will be used instead of a swap partition.
+
 See the main Ubuntu [Release Note](https://wiki.ubuntu.com/ZestyZapus/ReleaseNotes) for more general
 issues and updates.
 
