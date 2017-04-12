@@ -111,63 +111,7 @@ issues and updates.
 
 ### Changelogs
 
-#### Changes post-16.10 release
-
--   exo
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/exo/+changelog))
--   lightdm-gtk-greeter-settings
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/lightdm-gtk-greeter-settings/+changelog))
--   mugshot
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/mugshot/+changelog))
--   orage
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/orage/+changelog))
--   parole
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/parole/+changelog))
--   thunar
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/thunar/+changelog))
--   xfce4-dict
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-dict/+changelog))
--   xfce4-weather-plugin
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-weather-plugin/+changelog))
--   xfce4-whiskermenu-plugin
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-whiskermenu-plugin/+changelog))
--   xfdesktop4
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfdesktop4/+changelog))
--   xfwm4
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfwm4/+changelog))
--   xubuntu-artwork
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-artwork/+changelog))
--   xubuntu-default-settings
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-default-settings/+changelog))
--   xubuntu-docs
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-docs/+changelog))
--   xubuntu-meta
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-meta/+changelog))
-
-#### Major application versions
-
--   catfish
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/catfish/+changelog))
--   menulibre
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/menulibre/+changelog))
--   mousepad
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/mousepad/+changelog))
--   xfce4-power-manager
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-power-manager/+changelog))
--   xfpanel-switch
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfpanel-switch/+changelog))
--   xfwm4
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfwm4/+changelog))
--   xubuntu-artwork
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-artwork/+changelog))
--   xubuntu-default-settings
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-default-settings/+changelog))
--   xubuntu-docs
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-docs/+changelog))
--   xubuntu-meta
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-meta/+changelog))
-
-#### Other Application Versions
+#### Xubuntu/Other Packages
 
 -   blueman
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/blueman/+changelog))
@@ -175,21 +119,110 @@ issues and updates.
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/gtk-theme-config/+changelog))
 -   gtk2-engines-xfce
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/gtk2-engines-xfce/+changelog))
--   lightdm-gtk-greeter-settings
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/lightdm-gtk-greeter-settings/+changelog))
 -   lightdm-gtk-greeter
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/lightdm-gtk-greeter/+changelog))
--   orage
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/orage/+changelog))
+-   lightdm-gtk-greeter-settings
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/lightdm-gtk-greeter-settings/+changelog))
+-   menulibre
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/menulibre/+changelog))
+-   mugshot
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/mugshot/+changelog))
 -   pavucontrol
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/pavucontrol/+changelog))
+-   sgt-launcher
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/sgt-launcher/+changelog))
+-   Shimmer-themes
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/shimmer-themes/+changelog))
+-   xfce4-volumed
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-volumed/+changelog))
+-   xfpanel-switch
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfpanel-switch/+changelog))
+-   xubuntu-artwork
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-artwork/+changelog))
+-   xubuntu-core
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-core/+changelog))
+-   xubuntu-default-settings
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-default-settings/+changelog))
+-   xubuntu-desktop
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-desktop/+changelog))
+-   xubuntu-docs
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-docs/+changelog))
+-   xubuntu-icon-theme
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-icon-theme/+changelog))
+-   xubuntu-meta
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-meta/+changelog))
+-   xubuntu-wallpapers
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-wallpapers/+changelog))
+
+#### Xfce Core
+
+-   exo
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/exo/+changelog))
+-   thunar
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/thunar/+changelog))
+-   xfce4-appfinder
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-appfinder/+changelog))
+-   xfce4-panel
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-panel/+changelog))
+-   xfce4-power-manager
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-power-manager/+changelog))
+-   xfce4-session
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-session/+changelog))
+-   xfce4-settings
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-settings/+changelog))
+-   xfconf
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfconf/+changelog))
+-   xfdesktop4
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfdesktop4/+changelog))
+-   xfwm4
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfwm4/+changelog))
+
+#### Xfce Applications
+
+-   catfish
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/catfish/+changelog))
+-   mousepad
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/mousepad/+changelog))
+-   orage
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/orage/+changelog))
+-   parole
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/parole/+changelog))
 -   xfburn
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfburn/+changelog))
+-   xfce4-notifyd
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-notifyd/+changelog))
+-   xfce4-screenshooter
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-screenshooter/+changelog))
+-   xfce4-taskmanager
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-taskmanager/+changelog))
+-   xfce4-terminal
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-terminal/+changelog))
+
+#### Xfce Panel Plugins
+
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-cpugraph-plugin/+changelog))
 -   xfce4-dict
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-dict/+changelog))
+-   xfce4-indicator-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-indicator-plugin/+changelog))
+-   xfce4-mailwatch-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-mailwatch-plugin/+changelog))
+-   xfce4-netload-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-netload-plugin/+changelog))
 -   xfce4-notes-plugin
-    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-notes-plugin/+changelog))
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-notes-plugin/+changelog)
+-   xfce4-places-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-places-plugin/+changelog))
+-   xfce4-quicklauncher-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-quicklauncher-plugin/+changelog))
+-   xfce4-systemload-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-systemload-plugin/+changelog))
+-   xfce4-verve-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-verve-plugin/+changelog))
 -   xfce4-weather-plugin
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-weather-plugin/+changelog))
+-   xfce4-whiskermenu-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-whiskermenu-plugin/+changelog))
+-   xfce4-xkb-plugin
+    ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-xkb-plugin/+changelog))
