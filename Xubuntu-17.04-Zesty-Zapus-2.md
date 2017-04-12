@@ -37,7 +37,9 @@ issues and updates.
 ### Installer Issues
 
 -    System encryption password set before setting keyboard locale
-    ([1047384](https://launchpad.net/bugs/1047384))
+    ([1047384](https://launchpad.net/bugs/1047384)) Workround: Start the
+    installation with the correct keymap. ([Use F3](https://help.ubuntu.com/community/BootOptions#Changing_the_CD.27s_Default_Boot_Options))
+    to set your keymap *before* booting either installation option.
 
 ### General Issues
 
