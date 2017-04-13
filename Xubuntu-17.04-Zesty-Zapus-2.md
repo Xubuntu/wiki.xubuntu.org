@@ -30,6 +30,10 @@ Upgrades from earlier versions are not affected.
 See the main Ubuntu [Release Note](https://wiki.ubuntu.com/ZestyZapus/ReleaseNotes) for more general
 issues and updates.
 
+While thanks are due to all of those who contributed to this release,
+the Xubuntu Testing Team would particularly like to thank all of those
+who have reported on the Iso Tracker during this cycle.
+
 ## Notable Issues
 
 ### Installer Issues
