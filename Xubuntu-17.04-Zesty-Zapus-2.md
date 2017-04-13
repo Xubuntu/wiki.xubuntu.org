@@ -1,7 +1,5 @@
 # Xubuntu 17.04 (Zesty Zapus)
 
-**\_\_DRAFT RELEASE NOTE \_\_**
-
 Xubuntu 17.04 will be supported for 9 months until January 2018. If you
 need Long Term Support, it is recommended you use [Xubuntu 16.04
 LTS](http://xubuntu.org/news/xubuntu-16-04-release/) instead.
@@ -40,7 +38,8 @@ issues and updates.
     ([1047384](https://launchpad.net/bugs/1047384))
     -   **Workround:** Start the installation with the correct keymap.
         ([Use F3](https://help.ubuntu.com/community/BootOptions#Changing_the_CD.27s_Default_Boot_Options))
-        to set your keymap *before* booting either installation option.
+        to set your keymap *before* booting to Try or Install Xubuntu
+        from that menu.
 
 ### General Issues
 
