@@ -1,4 +1,4 @@
-##### Release Notes
+##### Xubuntu 16.10 Release Notes
 
 # Xubuntu 16.10 (Yakkety Yak)
 
