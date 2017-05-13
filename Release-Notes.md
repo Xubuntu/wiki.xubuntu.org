@@ -1,3 +1,5 @@
+##### Release Notes
+
 # Xubuntu 16.10 (Yakkety Yak)
 
 #### Known Issues
