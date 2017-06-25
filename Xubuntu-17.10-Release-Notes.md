@@ -41,8 +41,6 @@ Xubuntu pre-releases are recommended for:
         ([1374887](https://launchpad.net/bugs/1374887))
     -   Parole Clear History (Open Location) crashes
         ([1214541](https://launchpad.net/bugs/1214514))
-    -   Parole Clear History (Open Recent) clears global history
-        ([1681886](https://launchpad.net/bugs/1681886))
 
 ```{=html}
 <!-- -->
