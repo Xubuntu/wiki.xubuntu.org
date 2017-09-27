@@ -32,6 +32,16 @@ Xubuntu pre-releases are recommended for:
         to set your keymap *before* booting to Try or Install Xubuntu
         from that menu.
 
+```{=html}
+<!-- -->
+```
+-   Keyboard layout issues noted in Ubuntu or other flavours during
+    installation:
+    -   Keyboard layout not applied when layout is selected
+        ([1719908](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1719908))
+    -   Auto-selected keyboard layout no longer matches chosen region
+        ([1706859](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1706859))
+
 ### General Issues
 
 -   Parole Media Player
@@ -45,9 +55,6 @@ Xubuntu pre-releases are recommended for:
 ```{=html}
 <!-- -->
 ```
--   tap-to-click not working,
-    ([1686081](https://bugs.launchpad.net/ubuntu/+source/xorg/+bug/1686081))
-    (xserver-xorg-input-synaptics not installed, can edit libinput.conf)
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
 -   SGT Puzzles Collection: Clicking on the Preferences option on the
@@ -62,9 +69,6 @@ Xubuntu pre-releases are recommended for:
 -   Software gives GDBUS.Error:org.freedesktop.Dbus.Error.ServiceUnkown
     Error message
     ([1713009](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1713009))
--   gnome-software fails to run on i386
-    ([1708998](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1708998))
-    NOTE:Fix Released
 
 ## Changes and Bug Fixes
 
