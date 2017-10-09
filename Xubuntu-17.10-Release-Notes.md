@@ -44,6 +44,8 @@ Xubuntu pre-releases are recommended for:
 
 ### General Issues
 
+weather plugin bug \...
+
 -   Parole Media Player
     -   Parole progress bar lag
         ([1667786](https://launchpad.net/bugs/1667786))
