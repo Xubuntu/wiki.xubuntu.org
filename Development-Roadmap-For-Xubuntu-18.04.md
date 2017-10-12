@@ -2,7 +2,8 @@
 
 ## Decided
 
--   Replace xfce4-mixer and indicator-sound with xfce4-pulseaudio-plugin
+-   Replace xfce4-volumed and indicator-sound with
+    xfce4-pulseaudio-plugin
 -   Replace (or complement) xfce4-indicator-plugin with
     xfce4-statusnotifier-plugin
 -   Determine which xfce 4.13/4.14 components we want to support for 3
