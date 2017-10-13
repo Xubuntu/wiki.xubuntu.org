@@ -44,7 +44,7 @@ Xubuntu pre-releases are recommended for:
 
 ### General Issues
 
-weather plugin bug \...
+weather plugin bug \... 2 network indicators
 
 -   Parole Media Player
     -   Parole progress bar lag
