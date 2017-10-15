@@ -54,9 +54,8 @@ weather plugin bug \... 2 network indicators
     -   Parole Clear History (Open Location) crashes
         ([1214541](https://launchpad.net/bugs/1214514))
 
-```{=html}
-<!-- -->
-```
+168705
+
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
 -   SGT Puzzles Collection: Clicking on the Preferences option on the
