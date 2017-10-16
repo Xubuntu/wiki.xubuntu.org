@@ -1,25 +1,65 @@
-##### Xubuntu 17.10 Release Notes
+# Xubuntu 17.10 Release Notes
 
-# Xubuntu 17.10 (Artful Aardvark)
+### Appearance Updates
 
-***[DRAFT RELEASE NOTE]***
+      * Client side decorations (CSD) now consume much less space with the Greybird GTK+ theme.
 
-\*\* NOTE: \*\*
+      * New device, mimetype, and monochrome panel icons have been included with the elementary-xfce icon theme.
 
-This is `pre-Release` version. Xubuntu pre-releases are **`NOT`**
-recommended for:
+      * The new wallpaper adds a refreshing touch of green to the desktop.
 
--   Regular users who are not aware of pre-release issues
--   Anyone who needs a stable system
--   Anyone uncomfortable running a possibly frequently broken system
--   Anyone in a production environment with data or workflows that need
-    to be reliable
+### Application Updates
 
-Xubuntu pre-releases are recommended for:
+      * GNOME Font Viewer is now included by default. This application simplifies viewing and installing fonts.
 
--   Regular users who want to help us test by finding, reporting, and/or
-    fixing bugs
--   Xubuntu developers
+      * LibreOffice 5.3 -> 5.4
+
+      * Firefox 52 -> 56
+
+      * Thunderbird 45.8 -> 52.4
+
+      * Numerous Xfce and other components have been updated.
+
+### Technical Updates
+
+      * The Xfce Dictionary, Genmon Plugin, and Mount Plugin have been ported to GTK+ 3.  
+
+      * Exo's GTK+ 3 support has been further improved.
+
+      * Tumbler has been ported to GDBus and the Clipman plugin has been ported to GtkApplication.
+
+      * Python 3.5 -> 3.6
+
+      * GTK+ 3.24 -> 3.26. GTK+ 3.26 includes support for Unicode 10.0.0 and support for color Emoji.
+
+#### Updates from the Ubuntu Desktop Team
+
+We usually link directly to the Ubuntu release notes, but there are
+several significant improvements that affect all flavors and our users.
+
+     * Accelerated Video Playback (Intel)
+
+The Ubuntu Desktop team has been hard at work to get accelerated video
+playback working out of the box \[1, 2, 3, 6\]. Intel users may also see
+some performance improvements in Parole Media Player since it shares the
+GStreamer backend. Chromium users might also see some performance
+improvements \[3, 4\].
+
+See this page for more information.
+<https://wiki.ubuntu.com/IntelQuickSyncVideo>
+
+     * Bluetooth and USB Audio 
+
+There's been a number of changes to BlueZ and PulseAudio this cycle
+which should make Bluetooth and USB audio devices work much better by
+default \[2, 4, 5\].
+
+     * Driverless Printing
+
+Driverless printing has been added to Ubuntu. This provides support for
+most modern printers: IPP Everywhere, Apple AirPrint, Mopria, PCLm, and
+Wifi Direct as supported. Other printers can still be added from the
+Printers dialog \[5, 6\].
 
 ## Notable Issues
 
@@ -44,7 +84,7 @@ Xubuntu pre-releases are recommended for:
 
 ### General Issues
 
-weather plugin bug \... 2 network indicators
+2 network indicators
 
 -   Parole Media Player
     -   Parole progress bar lag
@@ -223,3 +263,16 @@ Packages seeing changes between 17.04 & 17.10:
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfce4-whiskermenu-plugin/+changelog))
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfce4-xkb-plugin/+changelog))
+
+\[1\]
+<https://insights.ubuntu.com/2017/07/07/ubuntu-desktop-weekly-update-july-7-2017/>
+\[2\]
+<https://insights.ubuntu.com/2017/07/14/ubuntu-desktop-weekly-update-july-14-2017/>
+\[3\]
+<https://insights.ubuntu.com/2017/07/28/ubuntu-desktop-weekly-update-july-28-2017/>
+\[4\]
+<https://insights.ubuntu.com/2017/08/11/ubuntu-desktop-weekly-update-august-11-2017/>
+\[5\]
+<https://insights.ubuntu.com/2017/08/25/ubuntu-desktop-weekly-update-august-25-2017/>
+\[6\]
+<https://insights.ubuntu.com/2017/09/08/ubuntu-desktop-weekly-update-september-8-2017/>
