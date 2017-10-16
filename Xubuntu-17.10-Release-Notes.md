@@ -84,8 +84,18 @@ Printers dialog \[5, 6\].
 
 ### General Issues
 
-2 network indicators
+-   Network indicators
+    -   Currently at times the panel could show 2 network icons, this
+        appears to be a race condition which we have not been able to
+        rectify in time for release. While this is an appearance issue
+        only as far as we know, you can if you wish restart networking,
+        the affected plugin or the panel. This fixes the issue in your
+        running session but does not prevent the issue from
+        re-appearing.
 
+```{=html}
+<!-- -->
+```
 -   Parole Media Player
     -   Parole progress bar lag
         ([1667786](https://launchpad.net/bugs/1667786))
