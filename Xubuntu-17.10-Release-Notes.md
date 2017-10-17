@@ -32,10 +32,17 @@ several significant improvements that affect all flavors and our users.
 ### Accelerated Video Playback (Intel)
 
 The Ubuntu Desktop team has been hard at work to get accelerated video
-playback working out of the box \[1, 2, 3, 6\]. Intel users may also see
-some performance improvements in Parole Media Player since it shares the
-GStreamer backend. Chromium users might also see some performance
-improvements \[3, 4\].
+playback working out of the box \[
+[1](https://insights.ubuntu.com/2017/07/07/ubuntu-desktop-weekly-update-july-7-2017/),
+[2](https://insights.ubuntu.com/2017/07/14/ubuntu-desktop-weekly-update-july-14-2017/),
+[3](https://insights.ubuntu.com/2017/07/28/ubuntu-desktop-weekly-update-july-28-2017/),
+[6](https://insights.ubuntu.com/2017/09/08/ubuntu-desktop-weekly-update-september-8-2017/)
+\]. Intel users may also see some performance improvements in Parole
+Media Player since it shares the GStreamer backend. Chromium users might
+also see some performance improvements \[
+[3](https://insights.ubuntu.com/2017/07/28/ubuntu-desktop-weekly-update-july-28-2017/),
+[4](https://insights.ubuntu.com/2017/08/11/ubuntu-desktop-weekly-update-august-11-2017/)
+\].
 
 [See this page for more
 information.](https://wiki.ubuntu.com/IntelQuickSyncVideo)
@@ -44,14 +51,21 @@ information.](https://wiki.ubuntu.com/IntelQuickSyncVideo)
 
 There's been a number of changes to BlueZ and PulseAudio this cycle
 which should make Bluetooth and USB audio devices work much better by
-default \[2, 4, 5\].
+default \[
+[2](https://insights.ubuntu.com/2017/07/14/ubuntu-desktop-weekly-update-july-14-2017/),
+[4](https://insights.ubuntu.com/2017/08/11/ubuntu-desktop-weekly-update-august-11-2017/),
+[5](https://insights.ubuntu.com/2017/08/25/ubuntu-desktop-weekly-update-august-25-2017/)
+\].
 
 ### Driverless Printing
 
 Driverless printing has been added to Ubuntu. This provides support for
 most modern printers: IPP Everywhere, Apple AirPrint, Mopria, PCLm, and
 Wifi Direct as supported. Other printers can still be added from the
-Printers dialog \[5, 6\].
+Printers dialog \[
+[5](https://insights.ubuntu.com/2017/08/25/ubuntu-desktop-weekly-update-august-25-2017/),
+[6](https://insights.ubuntu.com/2017/09/08/ubuntu-desktop-weekly-update-september-8-2017/)
+\].
 
 ## Notable Issues
 
