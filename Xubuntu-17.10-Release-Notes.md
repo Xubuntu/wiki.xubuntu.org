@@ -238,14 +238,14 @@ Printers dialog \[5, 6\].
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfce4-xkb-plugin/+changelog))
 
 \[1\]
-<https://insights.ubuntu.com/2017/07/07/ubuntu-desktop-weekly-update-july-7-2017/>
+<https://insights.ubuntu.com/2017/07/07/ubuntu-desktop-weekly-update-july-7-2017/>\
 \[2\]
-<https://insights.ubuntu.com/2017/07/14/ubuntu-desktop-weekly-update-july-14-2017/>
+<https://insights.ubuntu.com/2017/07/14/ubuntu-desktop-weekly-update-july-14-2017/>\
 \[3\]
-<https://insights.ubuntu.com/2017/07/28/ubuntu-desktop-weekly-update-july-28-2017/>
+<https://insights.ubuntu.com/2017/07/28/ubuntu-desktop-weekly-update-july-28-2017/>\
 \[4\]
-<https://insights.ubuntu.com/2017/08/11/ubuntu-desktop-weekly-update-august-11-2017/>
+<https://insights.ubuntu.com/2017/08/11/ubuntu-desktop-weekly-update-august-11-2017/>\
 \[5\]
-<https://insights.ubuntu.com/2017/08/25/ubuntu-desktop-weekly-update-august-25-2017/>
+<https://insights.ubuntu.com/2017/08/25/ubuntu-desktop-weekly-update-august-25-2017/>\
 \[6\]
 <https://insights.ubuntu.com/2017/09/08/ubuntu-desktop-weekly-update-september-8-2017/>
