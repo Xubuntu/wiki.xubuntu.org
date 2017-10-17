@@ -103,8 +103,10 @@ Printers dialog \[5, 6\].
         ([1374887](https://launchpad.net/bugs/1374887))
     -   Parole Clear History (Open Location) crashes
         ([1214541](https://launchpad.net/bugs/1214514))
+    -    Play button inactive
+        <https://bugs.launchpad.net/parole/+bug/1705243>
 
-1687075
+1687075 <https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1687075>
 
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
