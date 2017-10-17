@@ -37,8 +37,8 @@ some performance improvements in Parole Media Player since it shares the
 GStreamer backend. Chromium users might also see some performance
 improvements \[3, 4\].
 
-See this page for more information.
-<https://wiki.ubuntu.com/IntelQuickSyncVideo>
+[See this page for more
+information.](https://wiki.ubuntu.com/IntelQuickSyncVideo)
 
 ### Bluetooth and USB Audio
 
@@ -95,26 +95,27 @@ Printers dialog \[5, 6\].
         ([1374887](https://launchpad.net/bugs/1374887))
     -   Parole Clear History (Open Location) crashes
         ([1214541](https://launchpad.net/bugs/1214514))
-    -    Play button inactive
-        <https://bugs.launchpad.net/parole/+bug/1705243>
+    -   Play button inactive
+        ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
 
 ```{=html}
 <!-- -->
 ```
+-   GNOME Software: GDBUS.Error:org.freedesktop.Dbus.Error.ServiceUnkown
+    Error message
+    ([1713009](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1713009))
+-   SGT Puzzles Collection: Menu bar grayed out
+    ([1670610](https://launchpad.net/bugs/1670610))
 -   Thunar: Restoring non-empty folders spawns warning - leaves copy
     behind
     ([1687075](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1687075))
--   SGT Puzzles Collection: Menu bar grayed out
-    ([1670610](https://launchpad.net/bugs/1670610))
 -   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
     dialog ([1644971](https://launchpad.net/bugs/1644917))
--   Checkboxes for hidden/visible indicators not working properly
+-   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
+    working properly
     ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
--   Terminal border doubles when more than 1 tab
+-   Xfce Terminal: Border doubles when more than 1 tab
     ([1683857](https://bugs.launchpad.net/ubuntu/+source/greybird-gtk-theme/+bug/1683857))
--   Software gives GDBUS.Error:org.freedesktop.Dbus.Error.ServiceUnkown
-    Error message
-    ([1713009](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1713009))
 
 ## Changelogs
 
