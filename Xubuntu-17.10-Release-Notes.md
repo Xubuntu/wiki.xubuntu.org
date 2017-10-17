@@ -1,43 +1,35 @@
 # Xubuntu 17.10 Release Notes
 
+## Notable Changes
+
 ### Appearance Updates
 
       * Client side decorations (CSD) now consume much less space with the Greybird GTK+ theme.
-
       * New device, mimetype, and monochrome panel icons have been included with the elementary-xfce icon theme.
-
       * The new wallpaper adds a refreshing touch of green to the desktop.
 
 ### Application Updates
 
       * GNOME Font Viewer is now included by default. This application simplifies viewing and installing fonts.
-
       * LibreOffice 5.3 -> 5.4
-
       * Firefox 52 -> 56
-
       * Thunderbird 45.8 -> 52.4
-
       * Numerous Xfce and other components have been updated.
 
 ### Technical Updates
 
       * The Xfce Dictionary, Genmon Plugin, and Mount Plugin have been ported to GTK+ 3.  
-
       * Exo's GTK+ 3 support has been further improved.
-
       * Tumbler has been ported to GDBus and the Clipman plugin has been ported to GtkApplication.
-
       * Python 3.5 -> 3.6
-
       * GTK+ 3.24 -> 3.26. GTK+ 3.26 includes support for Unicode 10.0.0 and support for color Emoji.
 
-#### Updates from the Ubuntu Desktop Team
+## Updates from the Ubuntu Desktop Team
 
 We usually link directly to the Ubuntu release notes, but there are
 several significant improvements that affect all flavors and our users.
 
-     * Accelerated Video Playback (Intel)
+### Accelerated Video Playback (Intel)
 
 The Ubuntu Desktop team has been hard at work to get accelerated video
 playback working out of the box \[1, 2, 3, 6\]. Intel users may also see
@@ -48,13 +40,13 @@ improvements \[3, 4\].
 See this page for more information.
 <https://wiki.ubuntu.com/IntelQuickSyncVideo>
 
-     * Bluetooth and USB Audio 
+### Bluetooth and USB Audio
 
 There's been a number of changes to BlueZ and PulseAudio this cycle
 which should make Bluetooth and USB audio devices work much better by
 default \[2, 4, 5\].
 
-     * Driverless Printing
+### Driverless Printing
 
 Driverless printing has been added to Ubuntu. This provides support for
 most modern printers: IPP Everywhere, Apple AirPrint, Mopria, PCLm, and
@@ -106,8 +98,12 @@ Printers dialog \[5, 6\].
     -    Play button inactive
         <https://bugs.launchpad.net/parole/+bug/1705243>
 
-1687075 <https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1687075>
-
+```{=html}
+<!-- -->
+```
+-   Thunar: Restoring non-empty folders spawns warning - leaves copy
+    behind
+    ([1687075](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1687075))
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
 -   SGT Puzzles Collection: Clicking on the Preferences option on the
@@ -123,9 +119,9 @@ Printers dialog \[5, 6\].
     Error message
     ([1713009](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1713009))
 
-### Changelogs
+## Changelogs
 
-#### Xubuntu/Other Packages
+### Xubuntu/Other Packages
 
 -   blueman
     ([changelog](https://launchpad.net/ubuntu/artful/+source/blueman/+changelog))
@@ -168,7 +164,7 @@ Printers dialog \[5, 6\].
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xubuntu-wallpapers/+changelog))
 
-#### Xfce Core
+### Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/artful/+source/exo/+changelog))
@@ -191,7 +187,7 @@ Printers dialog \[5, 6\].
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfwm4/+changelog))
 
-#### Xfce Applications
+### Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/artful/+source/catfish/+changelog))
@@ -212,7 +208,7 @@ Printers dialog \[5, 6\].
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfce4-terminal/+changelog))
 
-#### Xfce Panel Plugins
+### Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfce4-cpugraph-plugin/+changelog))
