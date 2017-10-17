@@ -104,7 +104,7 @@ Printers dialog \[5, 6\].
     -   Parole Clear History (Open Location) crashes
         ([1214541](https://launchpad.net/bugs/1214514))
 
-168705
+1687075
 
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
@@ -120,41 +120,6 @@ Printers dialog \[5, 6\].
 -   Software gives GDBUS.Error:org.freedesktop.Dbus.Error.ServiceUnkown
     Error message
     ([1713009](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1713009))
-
-## Changes and Bug Fixes
-
-#### 17.10 Changes
-
-Packages seeing changes between 17.04 & 17.10:
-
--   apt-offline
--   blueman
--   catfish
--   exo
--   gnome-system-tools
--   gtk-theme-config
--   inxi
--   libxfcegui4
--   lightdm-gtk-greeter
--   parole
--   pavucontrol
--   pidgin-otr
--   sgt-puzzles
--   thunar
--   thunar-dropbox-plugin
--   tumbler
--   xfce4-clipman-plugin
--   xfce4-dict
--   xfce4-eyes-plugin
--   xfce4-genmon-plugin
--   xfce4-mount-plugin
--   xfce4-notifyd
--   xfce4-pulseaudio-plugin
--   xfce4-terminal
--   xfce4-whiskermenu-plugin
--   xfdesktop4
--   xubuntu-artwork
--   xubuntu-meta
 
 ### Changelogs
 
