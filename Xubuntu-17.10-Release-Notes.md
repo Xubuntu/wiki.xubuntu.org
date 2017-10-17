@@ -106,9 +106,6 @@ Printers dialog \[5, 6\].
     ([1687075](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1687075))
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
--   SGT Puzzles Collection: Clicking on the Preferences option on the
-    main menu does nothing
-    ([1686667](https://bugs.launchpad.net/ubuntu/+source/sgt-launcher/+bug/1686667))
 -   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
     dialog ([1644971](https://launchpad.net/bugs/1644917))
 -   Checkboxes for hidden/visible indicators not working properly
