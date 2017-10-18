@@ -85,8 +85,6 @@ Printers dialog \[
 ```
 -   Keyboard layout issues noted in Ubuntu or other flavours during
     installation:
-    -   Keyboard layout not applied when layout is selected
-        ([1719908](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1719908))
     -   Auto-selected keyboard layout no longer matches chosen region
         ([1706859](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1706859))
 
@@ -130,8 +128,6 @@ Printers dialog \[
 -   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
     working properly
     ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
--   Xfce Terminal: Border doubles when more than 1 tab
-    ([1683857](https://bugs.launchpad.net/ubuntu/+source/greybird-gtk-theme/+bug/1683857))
 
 ## Changelogs
 
