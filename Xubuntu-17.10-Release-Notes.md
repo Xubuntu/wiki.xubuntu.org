@@ -26,8 +26,10 @@
 
 ## Updates from the Ubuntu Desktop Team
 
-We usually link directly to the Ubuntu release notes, but there are
-several significant improvements that affect all flavors and our users.
+We usually just link directly to the Ubuntu release
+[notes](https://wiki.ubuntu.com/ArtfulAardvark/ReleaseNotes), but there
+are several significant improvements that affect all flavors and our
+users.
 
 ### Accelerated Video Playback (Intel)
 
