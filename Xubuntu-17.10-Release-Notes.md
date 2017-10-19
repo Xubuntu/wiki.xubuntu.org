@@ -87,6 +87,11 @@ Printers dialog \[
     installation:
     -   Auto-selected keyboard layout no longer matches chosen region
         ([1706859](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1706859))
+-   \"Force UEFI installation\" dialog has non-working Go Back/Continue
+    buttons
+    ([1724482](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1724482))
+-    No restart after installation
+    ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
 
 ### General Issues
 
