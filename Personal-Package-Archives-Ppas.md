@@ -32,3 +32,20 @@ The staging PPA for Xubuntu [stable release updates](https://wiki.ubuntu.com/Sta
 packages and package versions in this PPA are being prepared for
 inclusion in a [supported version](https://xubuntu.org/releases/) of
 Xubuntu.
+
+## Xubuntu Extras
+
+<https://launchpad.net/~xubuntu-dev/+archive/ubuntu/extras>
+
+The preview PPA for Xubuntu. The packages in this PPA are considered for
+inclusion in the Ubuntu repositories and/or Xubuntu at a later time. The
+packages in this PPA have not undergone significant testing and are not
+guaranteed to be included in a later release.
+
+## Xfce GTK+ 3
+
+<https://launchpad.net/~xubuntu-dev/+archive/ubuntu/xfce4-gtk3>
+
+This PPA includes Xfce components built with GTK+ 3 support. As
+components are released with GTK+ 3 support, they are included in this
+PPA.
