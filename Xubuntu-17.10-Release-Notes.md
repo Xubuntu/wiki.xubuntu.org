@@ -2,6 +2,28 @@
 
 ## Notable Changes
 
+### Incompatibility with BIOS in certain Lenovo, Acer systems
+
+A bug in the Linux 4.13 kernel shipped in Ubuntu 17.10 can leave users
+unable to update any of their BIOS settings, including their system's
+boot order, after booting this version of Ubuntu.
+
+A kernel with a fix for this issue will be available in zesty-updates
+shortly, but, the Ubuntu 17.10 installer images still contain the kernel
+with this bug. **Users with affected systems should not upgrade to
+Ubuntu 17.10 or boot an Ubuntu 17.10 installer image until this issue as
+resolved.** Doing so may result in your computer requiring professional
+servicing in order to restore BIOS functionality.
+
+A full list of known affected models can be found in [Bug 1734147](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1734147)
+
+If you have already installed Ubuntu 17.10 on an affected system, you
+may not immediately notice this problem because Ubuntu will continue to
+boot from disk. To verify whether your system has been affected by this
+bug, create a USB stick with the Ubuntu 16.04 desktop image and try to
+boot it. If you are able to boot it, your system has most likely not
+been impacted by this bug.
+
 ### Appearance Updates
 
       * Client side decorations (CSD) now consume much less space with the Greybird GTK+ theme.
