@@ -19,6 +19,51 @@ Xubuntu pre-releases are recommended for:
     fixing bugs
 -   Xubuntu developers
 
+## Notable Issues
+
+### Installer Issues
+
+    ***It must be noted that it is close to impossible for our small team of testers to be in a position to work through all the varying parameters available during installation. We do however aim to test all the possible methods of installation (including for OEM and using encryption) available either on a virtual machine or on hardware (where hardware has been used during testing then Xubuntu QA will where possible make that known on the iso testing tracker). Further installation testing information can be on the Ubuntu installation release note(s) listed below**
+
+-   Keyboard layout issues noted in Ubuntu or other flavours during
+    installation:
+    -   Auto-selected keyboard layout no longer matches chosen region
+        ([1706859](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1706859))
+-   \"Force UEFI installation\" dialog has non-working Go Back/Continue
+    buttons
+    ([1724482](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1724482))
+-    No restart after installation
+    ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
+
+### General Issues
+
+-   Network indicators
+    -   Currently at times the panel could show 2 network icons, this
+        appears to be a race condition which we have not been able to
+        rectify in time for release. While this is an appearance issue
+        only as far as we know, you can if you wish restart networking,
+        the affected plugin or the panel. This fixes the issue in your
+        running session but does not prevent the issue from
+        re-appearing.
+
+```{=html}
+<!-- -->
+```
+-   Parole Media Player
+    -   Play button inactive
+        ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
+
+```{=html}
+<!-- -->
+```
+-   SGT Puzzles Collection: Menu bar grayed out
+    ([1670610](https://launchpad.net/bugs/1670610))
+-   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
+    dialog ([1644971](https://launchpad.net/bugs/1644917))
+-   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
+    working properly
+    ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
+
 ## Major Updates
 
 ### Appearance
@@ -198,64 +243,6 @@ keyboard number pads. Numlock will now automatically be enabled for all
 users, regardless of BIOS support. We have an update landing soon that
 will allow you to remove the numlockx package if you do not want this
 integration.
-
-## Notable Issues
-
-### Installer Issues
-
-    ***It must be noted that it is close to impossible for our small team of testers to be in a position to work through all the varying parameters available during installation. We do however aim to test all the possible methods of installation (including for OEM and using encryption) available either on a virtual machine or on hardware (where hardware has been used during testing then Xubuntu QA will where possible make that known on the iso testing tracker). Further installation testing information can be on the Ubuntu installation release note(s) listed below**
-
--    System encryption password set before setting keyboard locale
-    ([1047384](https://launchpad.net/bugs/1047384))
-    -   **Workround:** Start the installation with the correct keymap.
-        ([Use F3](https://help.ubuntu.com/community/BootOptions#Changing_the_CD.27s_Default_Boot_Options))
-        to set your keymap *before* booting to Try or Install Xubuntu
-        from that menu.
-
-```{=html}
-<!-- -->
-```
--   Keyboard layout issues noted in Ubuntu or other flavours during
-    installation:
-    -   Auto-selected keyboard layout no longer matches chosen region
-        ([1706859](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1706859))
--   \"Force UEFI installation\" dialog has non-working Go Back/Continue
-    buttons
-    ([1724482](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1724482))
--    No restart after installation
-    ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
-
-### General Issues
-
--   Network indicators
-    -   Currently at times the panel could show 2 network icons, this
-        appears to be a race condition which we have not been able to
-        rectify in time for release. While this is an appearance issue
-        only as far as we know, you can if you wish restart networking,
-        the affected plugin or the panel. This fixes the issue in your
-        running session but does not prevent the issue from
-        re-appearing.
-
-```{=html}
-<!-- -->
-```
--   Parole Media Player
-    -   Play button inactive
-        ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
-
-```{=html}
-<!-- -->
-```
--   SGT Puzzles Collection: Menu bar grayed out
-    ([1670610](https://launchpad.net/bugs/1670610))
--   Thunar: Restoring non-empty folders spawns warning - leaves copy
-    behind
-    ([1687075](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1687075))
--   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
-    dialog ([1644971](https://launchpad.net/bugs/1644917))
--   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
-    working properly
-    ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
 
 ## Changelogs
 
