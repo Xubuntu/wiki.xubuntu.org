@@ -362,8 +362,12 @@ integration.
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-notes-plugin/+changelog)
 -   xfce4-places-plugin
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-places-plugin/+changelog))
+-   xfce4-pulseaudio-plugin
+    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-pulseaudio-plugin/+changelog))
 -   xfce4-quicklauncher-plugin
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-quicklauncher-plugin/+changelog))
+-   xfce4-statusnotifier-plugin
+    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-statusnotifier-plugin/+changelog))
 -   xfce4-systemload-plugin
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-systemload-plugin/+changelog))
 -   xfce4-verve-plugin
