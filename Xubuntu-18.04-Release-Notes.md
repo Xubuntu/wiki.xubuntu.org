@@ -62,8 +62,6 @@ Xubuntu pre-releases are recommended for:
 ```
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
--   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
-    dialog ([1644971](https://launchpad.net/bugs/1644917))
 -   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
     working properly
     ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
