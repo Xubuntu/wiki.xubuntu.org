@@ -277,11 +277,11 @@ integration.
 -   xubuntu-artwork
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-artwork/+changelog))
 -   xubuntu-core
-    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-core/+changelog))
+    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-meta/+changelog))
 -   xubuntu-default-settings
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-default-settings/+changelog))
 -   xubuntu-desktop
-    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-desktop/+changelog))
+    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-meta/+changelog))
 -   xubuntu-docs
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-docs/+changelog))
 -   xubuntu-icon-theme
@@ -289,7 +289,7 @@ integration.
 -   xubuntu-meta
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-meta/+changelog))
 -   xubuntu-wallpapers
-    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-wallpapers/+changelog))
+    ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-artwork/+changelog))
 
 ### Xfce Core
 
