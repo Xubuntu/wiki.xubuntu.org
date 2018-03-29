@@ -246,6 +246,13 @@ users, regardless of BIOS support. We have an update landing soon that
 will allow you to remove the numlockx package if you do not want this
 integration.
 
+## Xubuntu core
+
+The [Xubuntu core](https://xubuntu.org/news/introducing-xubuntu-core/)
+project is still solely a community based effort and as such, the
+produced ISOs can be downloaded from the unofficial [contributor\'s
+site](https://unit193.net/xubuntu/core/).
+
 ## Changelogs
 
 ### Xubuntu/Other Packages
