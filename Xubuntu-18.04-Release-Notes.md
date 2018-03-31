@@ -25,6 +25,9 @@ Xubuntu pre-releases are recommended for:
 -   Additionally some have seen the 1st login to an installed desktop to
     be slow, logins to desktop after this are normal.
 
+This is caused by a bluez timeout when bluetooth hardware is not
+available. ([Bug 1754836](https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1754836))
+
 ### Installer Issues
 
     ***It must be noted that it is close to impossible for our small team of testers to be in a position to work through all the varying parameters available during installation. We do however aim to test all the possible methods of installation (including for OEM and using encryption) available either on a virtual machine or on hardware (where hardware has been used during testing then Xubuntu QA will where possible make that known on the iso testing tracker). Further installation testing information can be on the Ubuntu installation release note(s) listed below**
@@ -44,11 +47,7 @@ Xubuntu pre-releases are recommended for:
 -   Network indicators
     -   Currently at times the panel could show 2 network icons, this
         appears to be a race condition which we have not been able to
-        rectify in time for release. While this is an appearance issue
-        only as far as we know, you can if you wish restart networking,
-        the affected plugin or the panel. This fixes the issue in your
-        running session but does not prevent the issue from
-        re-appearing.
+        rectify in time for release.
 
 ```{=html}
 <!-- -->
@@ -65,6 +64,20 @@ Xubuntu pre-releases are recommended for:
 -   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
     working properly
     ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
+-   Applications Menu plugin clips panel icon:
+    ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
+-   Launch and Directory Menu items icons are too small:
+    ([1756612](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756612))
+
+```{=html}
+<!-- -->
+```
+-   No network from suspend resume:
+    ([1760073](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760073))
+-   Double login required from suspend:
+    ([1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
+-   Wrong resolution at unlock screen:
+    ([1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
 
 ## Major Updates
 
@@ -79,22 +92,12 @@ The Greybird GTK theme has been updated to version 3.22.6. This feature
 release includes Chrome/ium GTK 3 styles, a new dark theme, smaller
 switches, and improved scales.
 
-Our new default wallpaper for Xubuntu 18.04 is included, and it's not
-even UI freeze yet! We also have a wallpaper contest running until March
-15th, so be sure to drop by and submit your best work to earn a chance
-to win some Xubuntu stickers! Winners of the competition will be
-included in the final release.
-
-<https://contest.xubuntu.org/>
-
 ### Panel Plugins
 
 #### PulseAudio Plugin
 
 With Xubuntu 18.04, we replaced the Sound Indicator with the Xfce
-PulseAudio Plugin. This plugin has come a long way in recent months, and
-now matches (and even eclipses) the Sound Indicator in features and
-support. Some key features include:
+PulseAudio Plugin. Some key features include:
 
 -   Select, move, and control audio output and input from the plugin
     menu
