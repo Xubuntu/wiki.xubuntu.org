@@ -23,10 +23,9 @@ Xubuntu pre-releases are recommended for:
 
 -   Booting to the live session has been noted as slow for some people.
 -   Additionally some have seen the 1st login to an installed desktop to
-    be slow, logins to desktop after this are normal.
-
-This is caused by a bluez timeout when bluetooth hardware is not
-available. ([Bug 1754836](https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1754836))
+    be slow, logins to desktop after this are normal
+    -   This is caused by an issue with fontconfig. The desktop team is
+        currently investigating. ([Bug 1754836](https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1754836))
 
 ### Installer Issues
 
@@ -52,32 +51,15 @@ available. ([Bug 1754836](https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1
 ```{=html}
 <!-- -->
 ```
--   Parole Media Player
-    -   Play button inactive
-        ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
-
-```{=html}
-<!-- -->
-```
--   SGT Puzzles Collection: Menu bar grayed out
-    ([1670610](https://launchpad.net/bugs/1670610))
+-   Parole Media Player: Play button inactive ([Bug 1705243](https://bugs.launchpad.net/parole/+bug/1705243))
+-   SGT Puzzles Collection: Menu bar grayed out ([Bug 1670610](https://launchpad.net/bugs/1670610))
 -   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
-    working properly
-    ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
--   Applications Menu plugin clips panel icon:
-    ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
--   Launch and Directory Menu items icons are too small:
-    ([1756612](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756612))
-
-```{=html}
-<!-- -->
-```
--   No network from suspend resume:
-    ([1760073](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760073))
--   Double login required from suspend:
-    ([1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
--   Wrong resolution at unlock screen:
-    ([1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
+    working properly ([Bug 1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
+-   Applications Menu plugin clips panel icon ([Bug 1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
+-   Launch and Directory Menu items icons are too small ([Bug 1756612](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756612))
+-   No network from suspend resume ([Bug 1760073](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760073))
+-   Double login required from suspend ([Bug 1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
+-   Wrong resolution at unlock screen ([Bug 1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
 
 ## Major Updates
 
@@ -88,9 +70,10 @@ is no longer possible to override colors in all themes with a single
 application due to recent developments in GTK. It may return in a later
 release, but with limited functionality or theme support.
 
-The Greybird GTK theme has been updated to version 3.22.6. This feature
-release includes Chrome/ium GTK 3 styles, a new dark theme, smaller
-switches, and improved scales.
+The Greybird GTK theme has been updated to version 3.22.8. This feature
+release includes improved HiDPI support, Chrome/ium GTK 3 styles, a new
+dark theme, smaller switches, and improved scales, and greater
+consistency between GTK 2 and GTK 3 applications.
 
 ### Panel Plugins
 
@@ -121,6 +104,12 @@ StatusNotifierItem specification. Configuration options include:
     symbolic icon if it is available
 -   Hide or show individual application indicators
 
+#### Notification Plugin
+
+We\'ve included the new xfce4-notifyd panel plugin in Xubuntu 18.04.
+This plugin makes it easy to toggle \"Do Not Disturb\" mode and view
+missed notifications.
+
 ### Desktop Applications
 
 Xfce is a very modular desktop environment, and for a long time we have
@@ -143,9 +132,9 @@ Catfish 1.4.4 is included with Xubuntu 18.04. This maintenance release
 features improved performance, additional error handling, and numerous
 translation updates.
 
-##### MenuLibre 2.1.5
+##### MenuLibre 2.2.0
 
-MenuLibre 2.1.5 is a significant release with a multitude of new
+MenuLibre 2.2.0 is a significant release with a multitude of new
 features, fixes, and supported desktops. Users can now test their
 launchers directly from MenuLibre. Additionally, you can sort submenus,
 install launchers in any directory, and identify issues in existing
@@ -216,7 +205,7 @@ goodies for everyone to enjoy.
 -   Xfce Power Manager 1.6.1 (Now GTK+ 3)
 -   Xfce Terminal 0.8.7
 -   Xfce Weather Plugin 0.8.10
--   Xfce Whisker Menu Plugin 2.1.4
+-   Xfce Whisker Menu Plugin 2.1.5
 -   Xfce XKB Plugin 0.8.1 (Now GTK+ 3)
 
 #### Libraries
@@ -245,9 +234,7 @@ and modems.
 
 We've integrated numlockx into our startup for improved support of
 keyboard number pads. Numlock will now automatically be enabled for all
-users, regardless of BIOS support. We have an update landing soon that
-will allow you to remove the numlockx package if you do not want this
-integration.
+users, regardless of BIOS support.
 
 ## Xubuntu core
 
