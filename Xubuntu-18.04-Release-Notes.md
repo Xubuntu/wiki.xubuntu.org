@@ -133,6 +133,12 @@ so you won\'t miss out on anything.
 -   Archive Manager: File Roller → Engrampa
 -   Calculator: GNOME Calculator → MATE Calculator
 
+#### Ubuntu Generic Release Note
+
+The main Ubuntu release
+[note](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes) covers many of
+the packages we carry.
+
 #### Utilities
 
 ##### Catfish 1.4.4
