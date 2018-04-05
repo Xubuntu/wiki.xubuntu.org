@@ -25,7 +25,8 @@ Xubuntu pre-releases are recommended for:
 -   Additionally some have seen the 1st login to an installed desktop to
     be slow, logins to desktop after this are normal
     -   This is caused by an issue with fontconfig. The desktop team is
-        currently investigating. ([Bug 1754836](https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1754836))
+        currently investigating.
+        ([1754836](https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1754836))
 
 ### Installer Issues
 
@@ -51,15 +52,23 @@ Xubuntu pre-releases are recommended for:
 ```{=html}
 <!-- -->
 ```
--   Parole Media Player: Play button inactive ([Bug 1705243](https://bugs.launchpad.net/parole/+bug/1705243))
--   SGT Puzzles Collection: Menu bar grayed out ([Bug 1670610](https://launchpad.net/bugs/1670610))
+-   Parole Media Player: Play button inactive
+    ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
+-   SGT Puzzles Collection: Menu bar grayed out
+    ([1670610](https://launchpad.net/bugs/1670610))
 -   Xfce Indicator Plugin: Checkboxes for hidden/visible indicators not
-    working properly ([Bug 1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
--   Applications Menu plugin clips panel icon ([Bug 1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
--   Launch and Directory Menu items icons are too small ([Bug 1756612](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756612))
--   No network from suspend resume ([Bug 1760073](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760073))
--   Double login required from suspend ([Bug 1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
--   Wrong resolution at unlock screen ([Bug 1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
+    working properly
+    ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
+-   Applications Menu plugin clips panel icon
+    ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
+-   Launch and Directory Menu items icons are too small
+    ([1756612](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756612))
+-   No network from suspend resume
+    ([1760073](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760073))
+-   Double login required from suspend
+    ([1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
+-   Wrong resolution at unlock screen
+    ([1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
 
 ## Major Updates
 
