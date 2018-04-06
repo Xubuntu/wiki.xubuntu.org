@@ -26,7 +26,7 @@ Xubuntu pre-releases are recommended for:
     be slow, logins to desktop after this are normal
     -   This is caused by an issue with fontconfig. The desktop team is
         currently investigating.
-        ([1754836](https://bugs.launchpad.net/ubuntu/+source/bluez/+bug/1754836))
+        ([1749546](https://bugs.launchpad.net/ubuntu/+source/fontconfig/+bug/1749546))
 
 ### Installer Issues
 
