@@ -44,6 +44,10 @@ Xubuntu pre-releases are recommended for:
 
 ### General Issues
 
+nvidia/software bug
+<https://bugs.launchpad.net/ubuntu/+source/xfpanel-switch/+bug/1762779>
+check xubuntu lp for bugs
+
 -   Network indicators
     -   Currently at times the panel could show 2 network icons, this
         appears to be a race condition which we have not been able to
