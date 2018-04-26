@@ -160,7 +160,7 @@ Budgie, Cinnamon, EDE, LXQt, KDE Plasma, MATE, and Pantheon.
 
 #### Xfce
 
-##### Parole Media Player 1.0.0
+##### Parole Media Player 1.0.1
 
 Parole 1.0.0 introduces the new "Automatic" video output, selected by
 default. This new output will automatically select the best available
@@ -168,7 +168,7 @@ option for your hardware, leading to improved performance and reduced
 configuration issues. Videos are finally playable in Virtualbox with
 this update.
 
-##### Thunar 1.6.14
+##### Thunar 1.6.15
 
 Thunar has had a lot of development time in recent months while it heads
 toward a stable GTK+ 3 release. This release benefits from that
