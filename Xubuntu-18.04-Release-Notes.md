@@ -22,11 +22,6 @@ Xubuntu pre-releases are recommended for:
 ## Notable Issues
 
 -   Booting to the live session has been noted as slow for some people.
--   Additionally some have seen the 1st login to an installed desktop to
-    be slow, logins to desktop after this are normal
-    -   This is caused by an issue with fontconfig. The desktop team is
-        currently investigating.
-        ([1749546](https://bugs.launchpad.net/ubuntu/+source/fontconfig/+bug/1749546))
 
 ### Installer Issues
 
