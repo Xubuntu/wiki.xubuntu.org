@@ -21,8 +21,6 @@ Xubuntu pre-releases are recommended for:
 
 ## Notable Issues
 
--   Booting to the live session has been noted as slow for some people.
-
 ### Installer Issues
 
     ***It must be noted that it is close to impossible for our small team of testers to be in a position to work through all the varying parameters available during installation. We do however aim to test all the possible methods of installation (including for OEM and using encryption) available either on a virtual machine or on hardware (where hardware has been used during testing then Xubuntu QA will where possible make that known on the iso testing tracker). Further installation testing information can be on the Ubuntu installation release note(s) listed below**
@@ -40,8 +38,9 @@ Xubuntu pre-releases are recommended for:
 ### General Issues
 
 -   **Release team TODO**
-    -   nvidia/software bug
-    -   check xubuntu lp for bugs
+    -   At least one Nvidia driver causes issues when removed via
+        Additional Drivers
+        ([1761593](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1761593))
 
 ```{=html}
 <!-- -->
@@ -69,7 +68,7 @@ Xubuntu pre-releases are recommended for:
     ([1760073](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760073))
 -   Double login required from suspend
     ([1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
--   Wrong resolution at unlock screen
+-   Wrong resolution at unlock screen (Nvidia)
     ([1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
 
 ## Major Updates
