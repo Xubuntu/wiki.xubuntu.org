@@ -1,24 +1,5 @@
 # Xubuntu 18.04 Release Notes
 
-***[DRAFT RELEASE NOTE]***
-
-\*\* NOTE: \*\*
-
-This is `pre-Release` version. Xubuntu pre-releases are **`NOT`**
-recommended for:
-
--   Regular users who are not aware of pre-release issues
--   Anyone who needs a stable system
--   Anyone uncomfortable running a possibly frequently broken system
--   Anyone in a production environment with data or workflows that need
-    to be reliable
-
-Xubuntu pre-releases are recommended for:
-
--   Regular users who want to help us test by finding, reporting, and/or
-    fixing bugs
--   Xubuntu developers
-
 ## Notable Issues
 
 ### Installer Issues
@@ -70,6 +51,12 @@ Xubuntu pre-releases are recommended for:
     ([1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
 -   Wrong resolution at unlock screen (Nvidia)
     ([1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
+
+#### Ubuntu Generic Release Note
+
+The main Ubuntu release
+[note](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes) covers both
+many of the other packages we carry and more generic issues.
 
 ## Major Updates
 
@@ -133,12 +120,6 @@ so you won\'t miss out on anything.
 -   Document Viewer: Evince → Atril
 -   Archive Manager: File Roller → Engrampa
 -   Calculator: GNOME Calculator → MATE Calculator
-
-#### Ubuntu Generic Release Note
-
-The main Ubuntu release
-[note](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes) covers many of
-the packages we carry.
 
 #### Utilities
 
