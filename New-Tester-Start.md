@@ -22,7 +22,6 @@ It\'s as easy as 1, 2, 3 \...
 
     -[[qa:installing|Install the Xubuntu development version OS (Operating System)]]
     -[[qa:testing |Testing with your Development version]]
-    -[[qa:testing_virtual | Testing with your Development version virtually]]
     -[[qa:report |Reporting Back with your results]]
 
 It\'s important to remember that pretty much anything that you are able
