@@ -18,14 +18,8 @@
 
 ### General Issues
 
--   **Release team TODO**
-    -   At least one Nvidia driver causes issues when removed via
-        Additional Drivers
-        ([1761593](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1761593))
+      * At least one Nvidia driver causes issues when removed via Additional Drivers ([[https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1761593| 1761593]])
 
-```{=html}
-<!-- -->
-```
 -   Network indicators
     -   Currently at times the panel could show 2 network icons, this
         appears to be a race condition which we have not been able to
