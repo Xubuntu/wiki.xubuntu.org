@@ -13,6 +13,8 @@ in the Xubuntu world.
     the release of our distro.
 -   LP - Launchpad - where much of the source code, bug reports are
     hosted.
+-   VM - Virtual Machine, amongst others VMWare, VirtualBox and of
+    course the Linux Kernel based Virtual Machine (KVM)
 
 **Right, OK, How do I start helping?**
 
