@@ -7,6 +7,8 @@
 -   parole: New PackageKit plugin installer
 -   Integrate the Pidgin theme
 -   Review xubuntu-core patches
+    -   Have we thought about doing the minimal ubiquity install
+        instead?
 
 ## Ideas
 
@@ -16,3 +18,4 @@
     auto expire reports.
 -   Maintain packaging in vcs, ideally somewhere on launchpad.
 -   Explore automation options for testing, reporting, etc.
+-   Add orca back to seed
