@@ -45,8 +45,8 @@
     ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
 -   Launch and Directory Menu items icons are too small
     ([1756612](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756612))
--   No network from suspend resume
-    ([1760073](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760073))
+-   No network from suspend resume (r8169 Ethernet Card)
+    ([1752772](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1752772))
 -   Double login required from suspend
     ([1760078](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1760078))
 -   Wrong resolution at unlock screen (Nvidia)
