@@ -6,8 +6,7 @@ know what it is and what part of Xubuntu is giving trouble, so please
 report it so that it can be considered for fixing.
 
 Below is a very simple overview to get you going. See the excellent
-Ubuntu Community Help Wiki
-\[<https://help.ubuntu.com/community/ReportingBugs>\] for more info
+[Ubuntu Community Help Wiki](https://help.ubuntu.com/community/ReportingBugs) for more info
 (remembering to substitute Xubuntu for Ubuntu in the IRC channel and
 mailing lists etc.)
 
@@ -29,8 +28,8 @@ your screenshot on Imgur is for all the world to see.
 
 Xubuntu uses [Launchpad](https://help.ubuntu.com/community/Launchpad)
 for bug reporting, for which you will need an account. If you don\'t
-already have one then an \'Ubuntu One\' account
-\[<https://login.ubuntu.com/+login>\] will not only allow you to do
+already have one then an [\'Ubuntu One\'
+account](https://login.ubuntu.com/+login) will not only allow you to do
 this, but will also allow you to log in to all the other Xubuntu and
 Ubuntu services and sites.
 
@@ -48,9 +47,9 @@ follow the on-screen instructions.
     has an open window, then just type \'ubuntu-bug -w\' in the \"Run
     Command\" screen or a terminal, you will then see an \'X\' - click
     on the window of the application you want to report against.
--   If you're not sure which package has the problem, these instructions
-    \[<https://wiki.ubuntu.com/Bugs/FindRightPackage>\] might be of
-    help.
+-   If you're not sure which package has the problem, these
+    [instructions](https://wiki.ubuntu.com/Bugs/FindRightPackage) to
+    find the right package might be of help.
 -   If an application crashes, Apport should start automatically, just
     follow the instructions.
 -   It is possible, as a last resort, to directly report a bug through
@@ -58,8 +57,8 @@ follow the on-screen instructions.
     <https://bugs.launchpad.net/ubuntu/+source/PACKAGENAME/+filebug> and
     you will be able to report your issue.
 
-If your whole system crashes then you might find this
-\[<https://help.ubuntu.com/community/DebuggingSystemCrash>\] helpful.
-Reporting this is slightly more complex, however, but no worries if you
-don\'t manage, just start reporting \'normal bugs\' and as you get in
-the swing of things you will learn how to do more and more.
+If your whole system crashes then you might find [Debugging System Crashes](https://help.ubuntu.com/community/DebuggingSystemCrash)
+helpful. Reporting system crashes is slightly more complex, however. But
+no worries: if you don\'t manage, just start reporting \'normal bugs\'
+and as you get in the swing of things you will learn how to do more and
+more.
