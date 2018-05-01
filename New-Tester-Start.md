@@ -16,6 +16,8 @@ in the Xubuntu world.
 -   VM - Virtual Machine, software to emulate a computer within a
     computer; examples of such software are VMWare, VirtualBox and the
     Linux Kernel based Virtual Machine (KVM)
+-   IRC - Internet Relay Chat - a service allowing people to communicate
+    online.
 
 **Right, OK, How do I start helping?**
 
@@ -32,10 +34,9 @@ development cycle to test that Xubuntu installs properly then this would
 be both a very worthwhile contribution and, most importantly, greatly
 appreciated.
 
-The Xubuntu Team mostly uses IRC (Internet Relay Chat) to keep in
-contact with each other. You can contact them there as well: simply
-choose the IRC tab on the [developers](https://dev.xubuntu.org/)
-tracker, or click
+The Xubuntu Team mostly uses IRC to keep in contact with each other. You
+can contact them there as well: simply choose the IRC tab on the
+[developers](https://dev.xubuntu.org/) tracker, or click
 [here](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
 if you want to go there now. For more information on IRC we have
 included it on the last of our New Tester wiki [pages](#).
