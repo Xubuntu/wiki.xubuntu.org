@@ -53,9 +53,13 @@ follow the on-screen instructions.
 -   If an application crashes, Apport should start automatically, just
     follow the instructions.
 -   It is possible, as a last resort, to directly report a bug through
-    Launchpad. Find the LP page for the application
-    <https://bugs.launchpad.net/ubuntu/+source/PACKAGENAME/+filebug> and
-    you will be able to report your issue.
+    Launchpad. Find the LP page for the application by typing
+    https://bugs.launchpad.net/ubuntu/+source/PACKAGENAME/+filebug into
+    the address bar of your browser, replacing PACKAGENAME by the
+    packagename you want to report the bug against, and you will be able
+    to report your issue. Example: to report a bug for xubuntu-meta,
+    type
+    <https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+filebug>.
 
 If your whole system crashes then you might find [Debugging System Crashes](https://help.ubuntu.com/community/DebuggingSystemCrash)
 helpful. Reporting system crashes is slightly more complex, however. But
