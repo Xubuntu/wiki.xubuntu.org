@@ -13,11 +13,11 @@ mailing lists etc.)
 #### Sharing a screenshot
 
 Sometimes it\'s easier to show than tell. So we\'ve made sharing your
-screenshot easy. Just press the PrintScreen button on your keyboard,
+screenshot easy. Just press the `PrintScreen-button` on your keyboard,
 select \"host on imgur\" and click \"ok\" to upload your screen to
 Imgur, and then the next dialogue contains the link that points to it.
 Copy the link into your bug-mail, the IRC-channel, or the bug report.
-Only need to share your active window? Press ALT-PrintScreen.
+Only need to share your active window? Press `ALT-PrintScreen`.
 
 NB: Actually, sharing a screenshot is so easy, that you may forget to
 check if there is something in the screenshot -in the background, top
@@ -27,11 +27,9 @@ your screenshot on Imgur is for all the world to see.
 #### Launchpad
 
 Xubuntu uses [Launchpad](https://help.ubuntu.com/community/Launchpad)
-for bug reporting, for which you will need an account. If you don\'t
-already have one then an [\'Ubuntu One\'
-account](https://login.ubuntu.com/+login) will not only allow you to do
-this, but will also allow you to log in to all the other Xubuntu and
-Ubuntu services and sites.
+for bug reporting. To report bugs you will need an account. An [\'Ubuntu
+One\' account](https://login.ubuntu.com/+login), allows you to log in to
+all the Xubuntu and Ubuntu services and sites, including Launchpad.
 
 #### Reporting issues
 
