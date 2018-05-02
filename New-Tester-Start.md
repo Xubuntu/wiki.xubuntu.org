@@ -4,21 +4,6 @@ through these few pages you will feel well enough informed about the
 basics to join the community, start to help making Xubuntu better, and
 get testing.
 
-There are a few terms which we use both within these pages and elsewhere
-in the Xubuntu world.
-
--   OS - Operating System, referring here to Xubuntu
--   ISO/Image - the file you download to install Xubuntu
--   Cycle - this refers to the 6 month development cycle which ends with
-    the release of the next Xubuntu-version.
--   LP - Launchpad - a site where much of the source code, bug reports
-    are hosted, and where you can ask questions, report bug.
--   VM - Virtual Machine, software to emulate a computer within a
-    computer; examples of such software are VMWare, VirtualBox and the
-    Linux Kernel based Virtual Machine (KVM)
--   IRC - Internet Relay Chat - a service allowing people to communicate
-    online.
-
 **Right, OK, How do I start helping?**
 
 It\'s as easy as 1, 2, 3 \...
@@ -40,3 +25,18 @@ can contact them there as well: simply choose the IRC tab on the
 [here](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
 if you want to go there now. For more information on IRC we have
 included it on the last of our New Tester wiki [pages](#).
+
+There are a few terms which we use both within these pages and elsewhere
+in the Xubuntu world.
+
+-   OS - Operating System, referring here to Xubuntu
+-   ISO/Image - the file you download to install Xubuntu
+-   Cycle - this refers to the 6 month development cycle which ends with
+    the release of the next Xubuntu-version.
+-   LP - Launchpad - a site where much of the source code, bug reports
+    are hosted, and where you can ask questions, report bug.
+-   VM - Virtual Machine, software to emulate a computer within a
+    computer; examples of such software are VMWare, VirtualBox and the
+    Linux Kernel based Virtual Machine (KVM)
+-   IRC - Internet Relay Chat - a service allowing people to communicate
+    online.
