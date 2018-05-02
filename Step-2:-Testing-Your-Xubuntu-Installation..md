@@ -1,4 +1,4 @@
-## Testing your Xubuntu installation.
+## Step 2: Testing your Xubuntu installation.
 
 There are actually two types of testing, known as \'exploratory\' and
 \'static\' testing. Both are sumarised below (if you really want to know
