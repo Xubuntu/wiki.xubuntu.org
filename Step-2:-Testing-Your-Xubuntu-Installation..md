@@ -1,14 +1,16 @@
 ## Step 2: Testing your Xubuntu installation.
 
-There are actually two types of testing, known as \'exploratory\' and
-\'static\' testing. Both are sumarised below (if you really want to know
-more, see the main contributor
-[docs](http://docs.xubuntu.org/contributors/)), but a first time tester
-might find starting off with exploratory testing the best route into
-testing.
+There are actually two types of testing:
 
     -Exploratory Testing
     -Static Testing
+
+A first time tester might find starting off with exploratory testing the
+best route into testing.
+
+Both types of testing are summarised below. A lot more details can be
+found in the [quality assurance chapters](https://docs.xubuntu.org/contributors/qa.html) of the
+[contributors docs](https://docs.xubuntu.org/contributors/).
 
 #### 1. \'Exploratory\' Testing
 
