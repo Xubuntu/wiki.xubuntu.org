@@ -1,4 +1,4 @@
-## Reporting back!
+## Step 3: Reporting back!
 
 Great! You noticed something that needs improving (bugs or usability
 suggestions), so you can help make Xubuntu better. Xubuntu would like to
