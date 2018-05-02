@@ -8,9 +8,9 @@ get testing.
 
 It\'s as easy as 1, 2, 3 \...
 
-    -[[qa:installing|Install the Xubuntu development version OS (Operating System)]]
-    -[[qa:testing |Testing with your Development version]]
-    -[[qa:report |Reporting Back with your results]]
+    -[[qa:installing|Install the Xubuntu Development version]]
+    -[[qa:testing |Test your Xubuntu Development version]]
+    -[[qa:report |Report Back your results]]
 
 It\'s important to remember that pretty much anything that you are able
 to do during a development cycle is of great use to the Xubuntu
