@@ -1,8 +1,7 @@
-Following on from the introduction we have on the website, here we take
-you through more detailed steps. So, hopefully by the time you\'ve read
-through these few pages you will feel well enough informed about the
-basics to join the community, start to help making Xubuntu better, and
-get testing.
+After reading the [introduction on the website](#), this \'New
+Tester\' wiki will help take you through the simple steps that will
+enable you to join the community, start to help making Xubuntu better,
+and get testing.
 
 **Right, OK, How do I start helping?**
 
@@ -10,7 +9,7 @@ It\'s as easy as 1, 2, 3 \...
 
     -[[qa:installing|Install the Xubuntu Development version]]
     -[[qa:testing |Test your Xubuntu Development version]]
-    -[[qa:report |Report Back your results]]
+    -[[qa:report |Report Back with your results]]
 
 It\'s important to remember that pretty much anything that you are able
 to do during a development cycle is of great use to the Xubuntu
@@ -23,11 +22,11 @@ The Xubuntu Team mostly uses IRC to keep in contact with each other. You
 can contact them there as well: simply choose the IRC tab on the
 [developers](https://dev.xubuntu.org/) tracker, or click
 [here](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
-if you want to go there now. For more information on IRC we have
-included it on the last of our New Tester wiki [pages](#).
+if you want to go there now. More information on IRC is also included in
+these New Tester wiki [pages](#).
 
-There are a few terms which we use both within these pages and elsewhere
-in the Xubuntu world.
+To avoid confusion, its worth clearing up a few terms which we use both
+within these pages and elsewhere in the Xubuntu world:
 
 -   OS - Operating System, referring here to Xubuntu
 -   ISO/Image - the file you download to install Xubuntu
