@@ -3,14 +3,6 @@ Tester\' wiki will help take you through the simple steps that will
 enable you to join the community, start to help making Xubuntu better,
 and get testing.
 
-**Right, OK, How do I start helping?**
-
-It\'s as easy as 1, 2, 3 \...
-
-    -[[qa:installing|Install the Xubuntu Development version]]
-    -[[qa:testing |Test your Xubuntu Development version]]
-    -[[qa:report |Report Back with your results]]
-
 It\'s important to remember that pretty much anything that you are able
 to do during a development cycle is of great use to the Xubuntu
 community. Even if you\'ve only got 30 minutes during the whole
@@ -25,8 +17,8 @@ can contact them there as well: simply choose the IRC tab on the
 if you want to go there now. More information on IRC is also included in
 these New Tester wiki [pages](#).
 
-To avoid confusion, its worth clearing up a few terms which we use both
-within these pages and elsewhere in the Xubuntu world:
+To avoid confusion, first its worth clearing up a few terms which we use
+both within these pages and elsewhere in the Xubuntu world:
 
 -   OS - Operating System, referring here to Xubuntu
 -   ISO/Image - the file you download to install Xubuntu
@@ -39,3 +31,11 @@ within these pages and elsewhere in the Xubuntu world:
     Linux Kernel based Virtual Machine (KVM)
 -   IRC - Internet Relay Chat - a service allowing people to communicate
     online.
+
+**Right, OK, How do I start helping?**
+
+It\'s as easy as 1, 2, 3 \...
+
+    -[[qa:installing|Install the Xubuntu Development version]]
+    -[[qa:testing |Test your Xubuntu Development version]]
+    -[[qa:report |Report Back with your results]]
