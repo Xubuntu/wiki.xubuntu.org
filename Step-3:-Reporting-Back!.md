@@ -39,11 +39,12 @@ all the Xubuntu and Ubuntu services and sites, including Launchpad.
 
 Several types of issues may occur:
 
-\- an application crashes, with a dialogue to report the crash - an
-application crashed, without a dialogue to report the crash - you may
-not know which application has crashed - your whole system may crash -
-you may notice things that, though they work, are not quite right, could
-work better, are not user friendly enough.
+-   an application crashes, with a dialogue to report the crash
+-   an application crashed, without a dialogue to report the crash
+-   you may not know which application has crashed
+-   your whole system may crash
+-   you may notice things that, though they work, are not quite right,
+    could work better, are not user friendly enough.
 
 In any of these cases you need an Launchpad-account \<\<link to the
 right page\>\> to report back.
