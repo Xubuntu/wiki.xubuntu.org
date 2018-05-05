@@ -62,8 +62,7 @@ the instructions.
 there is no dialogue asking you to report the crash, you can press
 `ALT-F2`, to open the Run Command dialogue, or press `CTRL-ALT-T`, to
 open a terminal, and type `ubuntu-bug <package name>` (substituting
-\<package name\>) and press `ENTER`. The operating system will find the
-crash report for you. Simply follow the instructions.
+\<package name\>) and press `ENTER`. Simply follow the instructions.
 
 [You don\'t know the right package name of the application:]
 If the application that crashed still has an open window: press
@@ -75,8 +74,7 @@ follow the instructions.
 ##### You don\'t know which application has the problem
 
 [Here](https://wiki.ubuntu.com/Bugs/FindRightPackage) are instructions
-to find the right package. \<\<I believe we should do a bit more work on
-this; the page we point to is quite overwhelming I believe\>\>
+to find the right package.
 
 ##### Your whole system crashed
 
