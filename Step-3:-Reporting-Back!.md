@@ -60,17 +60,17 @@ the instructions.
 
 [You know the name of the application:] If, after a crash,
 there is no dialogue asking you to report the crash, you can press
-ALT-F2, to open the Run Command dialogue, or press CTRL-ALT-T, to open a
-terminal, and type \"ubuntu-bug \<package name\>\" (substituting
-\<package name\>) and press \<ENTER\>. The operating system will find
-the crash report for you. Simply follow the instructions.
+`ALT-F2`, to open the Run Command dialogue, or press `CTRL-ALT-T`, to
+open a terminal, and type `ubuntu-bug <package name>` (substituting
+\<package name\>) and press `ENTER`. The operating system will find the
+crash report for you. Simply follow the instructions.
 
 [You don\'t know the right package name of the application:]
-If the application that crashed still has an open window: press ALT-F2,
-to open the Run Command dialogue, or press CTRL-ALT-T, to open a
-terminal, and type \"ubuntu-bug -w\". An \'X\' will appear. Then click
-on the window of the application you want to report against and follow
-the instructions.
+If the application that crashed still has an open window: press
+`ALT-F2`, to open the Run Command dialogue, or press `CTRL-ALT-T`, to
+open a terminal, and type `ubuntu-bug -w`. An \'X\' will appear. Then
+click on the window of the application you want to report against and
+follow the instructions.
 
 ##### You don\'t know which application has the problem
 
@@ -85,23 +85,23 @@ helpful. Reporting system crashes is slightly more complex. But don\'t
 worry if you don\'t manage: just start reporting \'normal bugs\'. As you
 get in the swing of things you will learn how to do more and more.
 
-##### You notice things that should work better, need to be more user friendly
+##### You want to ask a question, notice things that should work better, need to be more user friendly
 
-You can always head over to Launchpad, even if there are no crashes. You
-can [ask questions](https://answers.launchpad.net/) if anything is
-unclear. You can also suggest improvements against a package by simply
-reporting it as a [bug](https://help.ubuntu.com/community/ReportingBugs)
-on Launchpad.
+Even if there a no crashes you can head over to Launchpad. You can [ask questions](https://answers.launchpad.net/) if anything is unclear, or
+you need help to determine if what you are seeing is a bug or not. You
+can also suggest improvements against a package by simply reporting it
+as a [bug](https://help.ubuntu.com/community/ReportingBugs) on
+Launchpad.
 
 #### Reporting an issue directly to launchpad
 
 It is possible to directly report a bug through Launchpad. Find the
 Launchpad page for the application by typing
-https://bugs.launchpad.net/ubuntu/+source/PACKAGENAME/+filebug into the
-address bar of your browser, replacing PACKAGENAME by the packagename
-you want to report the bug against, and you will be able to report your
-issue. Example: to report a bug for xubuntu-meta, type
-<https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+filebug>.
+`https://bugs.launchpad.net/ubuntu/+source/PACKAGENAME/+filebug` into
+the address bar of your browser, replacing PACKAGENAME by the
+packagename you want to report the bug against, and you will be able to
+report your issue. Example: to report a bug for xubuntu-meta, type
+`https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+filebug`.
 
 ##### Duplicates
 
