@@ -58,19 +58,19 @@ the instructions.
 
 ##### An application crashes, but there is no dialogue to report the crash
 
-You know the name of the application: If, after a crash, there is no
-dialogue asking you to report the crash, you can press ALT-F2, to open
-the Run Command dialogue, or press CTRL-ALT-T, to open a terminal, and
-type \"ubuntu-bug \<package name\>\" (substituting \<package name\>) and
-press \<ENTER\>. The operating system will find the crash report for
-you. Simply follow the instructions.
+[You know the name of the application:] If, after a crash,
+there is no dialogue asking you to report the crash, you can press
+ALT-F2, to open the Run Command dialogue, or press CTRL-ALT-T, to open a
+terminal, and type \"ubuntu-bug \<package name\>\" (substituting
+\<package name\>) and press \<ENTER\>. The operating system will find
+the crash report for you. Simply follow the instructions.
 
-You don\'t know the right package name of the application: If the
-application that crashed still has an open window: press ALT-F2, to open
-the Run Command dialogue, or press CTRL-ALT-T, to open a terminal, and
-type \"ubuntu-bug -w\". An \'X\' will appear. Then click on the window
-of the application you want to report against and follow the
-instructions.
+[You don\'t know the right package name of the application:]
+If the application that crashed still has an open window: press ALT-F2,
+to open the Run Command dialogue, or press CTRL-ALT-T, to open a
+terminal, and type \"ubuntu-bug -w\". An \'X\' will appear. Then click
+on the window of the application you want to report against and follow
+the instructions.
 
 ##### You don\'t know which application has the problem
 
