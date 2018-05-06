@@ -113,5 +113,5 @@ To do this with a VM you simply need to give the machine a small amount
 of space and boot the iso on that. No need to actually install unless
 you wish to do so.
 
-Once you\'ve got Xubuntu running, you are ready to start
-[testing](https://wiki.xubuntu.org/qa/testing).
+Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+start [testing](https://wiki.xubuntu.org/qa/testing).
