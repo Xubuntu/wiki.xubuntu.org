@@ -12,13 +12,6 @@ development cycle to test that Xubuntu installs properly then this would
 be both a very worthwhile contribution and, most importantly, greatly
 appreciated.
 
-The Xubuntu Team mostly uses IRC to keep in contact with each other. You
-can contact them there as well: simply choose the IRC tab on the
-[developers](https://dev.xubuntu.org/) tracker, or click
-[here](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
-if you want to go there now. More information on IRC is also included in
-these New Tester wiki [pages](#).
-
 To avoid confusion, first its worth clearing up a few terms which we use
 both within these pages and elsewhere in the Xubuntu world:
 
@@ -41,3 +34,10 @@ It\'s as easy as 1, 2, 3 \...
     -[[https://wiki.xubuntu.org/qa:installing|Install the Xubuntu Development version]]
     -[[https://wiki.xubuntu.org/qa:testing |Test your Xubuntu Development version]]
     -[[https://wiki.xubuntu.org/qa:report |Report Back with your results]]
+
+The Xubuntu Team mostly uses IRC to keep in contact with each other. You
+can contact them there as well: simply choose the IRC tab on the
+[developers](https://dev.xubuntu.org/) tracker, or click
+[here](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
+if you want to go there now. More information on IRC is also included in
+these New Tester wiki [pages](#).
