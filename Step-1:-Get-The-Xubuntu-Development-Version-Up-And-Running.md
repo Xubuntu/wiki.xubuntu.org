@@ -26,7 +26,7 @@ that you have tested for us.
 In this case the way to tell us is to report your install on the [Iso Tracker](http://iso.qa.ubuntu.com/) - this very important webpage tells
 people from all of the flavours who\'s installed using the Daily ISO.
 
-### 1 - You have a computer that you don't depend on for work, school, or everyday life - Install Xubuntu as the main Operating System
+### 1 - You have a computer that you don't depend on - Install Xubuntu as the main Operating System
 
 One of the ways to test Xubuntu is just to install it on a computer or
 laptop and start using it.
