@@ -62,5 +62,7 @@ Although often done in a virtual machine, you can just as well static
 test on hardware; dual-booting for example would require just a small
 partition on your hard drive.
 
+#### Report Back
+
 Should you find bugs, or anything you think we should know, please
 report back to us. [Here\'s](https://wiki.xubuntu.org/qa/report) how.
