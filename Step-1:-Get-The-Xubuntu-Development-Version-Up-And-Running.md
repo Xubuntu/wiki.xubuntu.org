@@ -26,7 +26,7 @@ that you have tested for us.
 In this case the way to tell us is to report your install on the [Iso Tracker](http://iso.qa.ubuntu.com/) - this very important webpage tells
 people from all of the flavours who\'s installed using the Daily ISO.
 
-## 1 - You have a computer that you don't depend on for work, school, or everyday life - Install Xubuntu as the main Operating System
+### 1 - You have a computer that you don't depend on for work, school, or everyday life - Install Xubuntu as the main Operating System
 
 One of the ways to test Xubuntu is just to install it on a computer or
 laptop and start using it.
@@ -50,7 +50,7 @@ which applies as much to Xubuntu as to Ubuntu.
 Once you\'ve got Xubuntu running, you are ready to start
 [testing](https://wiki.xubuntu.org/qa/testing).
 
-## 2 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu alongside another OS - \'Dual-boot\'
+### 2 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu alongside another OS - \'Dual-boot\'
 
 This should give you enough space to install, update (you\'ll find
 updates more frequent during the 6 month cycle) and not feel constrained
@@ -77,7 +77,7 @@ the operating systems. It\'s like having two or more computers in one.
 Once you\'ve got Xubuntu running, you are ready to start
 [testing](https://wiki.xubuntu.org/qa/testing).
 
-## 3 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu inside a \'Virtual Machine\' (\'VM\')
+### 3 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu inside a \'Virtual Machine\' (\'VM\')
 
 You can simply install the development version of Xubuntu inside your
 current operating system, using a Virtual Machine, or \'VM\' (an
@@ -100,7 +100,7 @@ perfectly acceptable method of testing.
 Once you\'ve got Xubuntu running, you are ready to start
 [testing](https://wiki.xubuntu.org/qa/testing).
 
-## 4 - You have a computer that you could use, but can't or don't want to install another operating system - Use a live media version (on a USB stick, DVD or in a VM)
+### 4 - You have a computer that you could use, but can't or don't want to install another operating system - Use a live media version (on a USB stick, DVD or in a VM)
 
 You can indeed still help us. In several ways in fact. If your computer
 has a CD or DVD drive, or a USB connection and you have a USB disk or
@@ -112,6 +112,8 @@ If you don\'t already know how to do this, here is a [great tutorial](https://tu
 To do this with a VM you simply need to give the machine a small amount
 of space and boot the iso on that. No need to actually install unless
 you wish to do so.
+
+#### Start Testing
 
 Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
 start [testing](https://wiki.xubuntu.org/qa/testing).
