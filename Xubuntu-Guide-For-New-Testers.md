@@ -38,6 +38,6 @@ both within these pages and elsewhere in the Xubuntu world:
 
 It\'s as easy as 1, 2, 3 \...
 
-    -[[qa:installing|Install the Xubuntu Development version]]
-    -[[qa:testing |Test your Xubuntu Development version]]
-    -[[qa:report |Report Back with your results]]
+    -[[https://wiki.xubuntu.org/qa:installing|Install the Xubuntu Development version]]
+    -[[https://wiki.xubuntu.org/qa:testing |Test your Xubuntu Development version]]
+    -[[https://wiki.xubuntu.org/qa:report |Report Back with your results]]
