@@ -47,8 +47,8 @@ If you don\'t already know how to do install Xubuntu, then please read
 this [great tutorial](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop),
 which applies as much to Xubuntu as to Ubuntu.
 
-Once you\'ve got Xubuntu running, you are ready to start
-[testing](https://wiki.xubuntu.org/qa/testing).
+Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+start [testing](https://wiki.xubuntu.org/qa/testing).
 
 ### 2 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu alongside another OS - \'Dual-boot\'
 
@@ -74,8 +74,8 @@ Then the operating system you chose will simply start up and be no
 different from what you are used to - there is no interference between
 the operating systems. It\'s like having two or more computers in one.
 
-Once you\'ve got Xubuntu running, you are ready to start
-[testing](https://wiki.xubuntu.org/qa/testing).
+Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+start [testing](https://wiki.xubuntu.org/qa/testing).
 
 ### 3 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu inside a \'Virtual Machine\' (\'VM\')
 
@@ -97,8 +97,8 @@ a new window. There people are often available in real time.
 Xubuntu Testers regularly use VM\'s to test things - so it\'s a
 perfectly acceptable method of testing.
 
-Once you\'ve got Xubuntu running, you are ready to start
-[testing](https://wiki.xubuntu.org/qa/testing).
+Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+start [testing](https://wiki.xubuntu.org/qa/testing).
 
 ### 4 - You have a computer that you could use, but can't or don't want to install another operating system - Use a live media version (on a USB stick, DVD or in a VM)
 
@@ -112,8 +112,6 @@ If you don\'t already know how to do this, here is a [great tutorial](https://tu
 To do this with a VM you simply need to give the machine a small amount
 of space and boot the iso on that. No need to actually install unless
 you wish to do so.
-
-#### Start Testing
 
 Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
 start [testing](https://wiki.xubuntu.org/qa/testing).
