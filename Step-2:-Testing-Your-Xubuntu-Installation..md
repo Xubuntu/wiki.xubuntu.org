@@ -1,6 +1,7 @@
 ## Step 2: Testing your Xubuntu installation.
 
-There are actually two types of testing:
+Now that you\'ve [installed](https://wiki.xubuntu.org/qa/installing)
+Xubuntu, there are actually two types of testing:
 
     -Exploratory Testing
     -Static Testing
@@ -30,6 +31,8 @@ have already been fixed.
 Although at the beginning of the release cycle using a VM may well be
 fine, later on installing as the main OS or dual-booting are preferred
 since they are closer to the \'real life\' case.
+
+#### Report Back
 
 Should you find bugs, or anything you think we should know, please
 report back to us. [Here\'s](https://wiki.xubuntu.org/qa/report) how.
