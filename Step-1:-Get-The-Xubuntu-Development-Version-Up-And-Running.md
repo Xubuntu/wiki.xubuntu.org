@@ -1,22 +1,3 @@
-## Installing
-
-This page will help you decide which type of development installation
-will best suit you and your hardware.
-
-The different types of installation suit different types of testing.
-Those types are dealt with in more detail on the next page, for the
-moment this list will give you some idea of the suitability of
-installation and testing types.
-
-1.  Install Xubuntu as the main Operating System: Best suited to
-    [exploratory] testing
-2.  Install Xubuntu alongside another OS: Fairly well suited to
-    [exploratory] testing
-3.  Install Xubuntu inside a \'Virtual Machine\': Suited to
-    [exploratory] and [static] testing
-4.  Use a live media version (on a USB stick, DVD or in a VM): Suited to
-    [static] testing
-
 ## Step 1: Get the Xubuntu development version up and running
 
 Whatever you do next, first of all you will need to get the Xubuntu
@@ -37,13 +18,17 @@ on [this page](https://wiki.xubuntu.org/qa/testing_virtual).
 4.  You have a computer you can use, but either can\'t or don\'t want to
     install another OS - **Use Live Media to run Xubuntu**
 
-Once you\'ve done one of these installation methods you will have
-already made a start - and you\'ve been testing. Now comes the important
-part from the Xubuntu Team - you need to tell us or we\'ll have no idea
-that you have tested for us.
+Each of these is described in a separate paragraph in a bit more detail
+below, and, after you have installed Xubuntu, at the end of each of
+these paragraphs you will find a link onto Step 2 with more information
+about \'Testing\' itself.
 
-In this case the way to tell us is to report your install on the [Iso Tracker](http://iso.qa.ubuntu.com/) - this very important webpage tells
-people from all of the flavours who\'s installed using the Daily ISO.
+However, just by installing the OS you have actually already completed
+some very valuable testing - you have confirmed (or not) that the
+installation itself works. Now, the Dev Team really needs to know this
+extremely very valuable information - there are more details on the
+Testing page, but for now please be aware that the way to give them this
+info is by reporting your install on the [Iso Tracker](http://iso.qa.ubuntu.com/)
 
 ### 1 - You have a computer that you don't depend on - Install Xubuntu as the main Operating System
 
