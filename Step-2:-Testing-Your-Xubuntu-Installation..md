@@ -34,8 +34,8 @@ since they are closer to the \'real life\' case.
 
 #### Report Back
 
-Should you find bugs, or anything you think we should know, please
-report back to us. [Here\'s](https://wiki.xubuntu.org/qa/report) how.
+Should you find bugs, or anything you think the Development Team should
+know, please move on to Step 3 and [report back](https://wiki.xubuntu.org/qa/report).
 
 #### 2. \'Static\' Testing
 
