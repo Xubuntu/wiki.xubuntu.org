@@ -4,18 +4,18 @@ This page will help you decide which type of development installation
 will best suit you and your hardware.
 
 The different types of installation suit different types of testing.
-Those are dealt with in more detail on the next page, for the moment
-this list will give you some idea of the suitability of installation and
-testing types.
+Those types are dealt with in more detail on the next page, for the
+moment this list will give you some idea of the suitability of
+installation and testing types.
 
 1.  Install Xubuntu as the main Operating System: Best suited to
-    exploratory testing
+    [exploratory] testing
 2.  Install Xubuntu alongside another OS: Fairly well suited to
-    exploratory testing
-3.  Install Xubuntu inside a \'Virtual Machine\': Suited to exploratory
-    and static testing
-4.  Use a live media version (on a USB stick, DVD or in a VM: Suited to
-    static testing
+    [exploratory] testing
+3.  Install Xubuntu inside a \'Virtual Machine\': Suited to
+    [exploratory] and [static] testing
+4.  Use a live media version (on a USB stick, DVD or in a VM): Suited to
+    [static] testing
 
 ## Step 1: Get the Xubuntu development version up and running
 
