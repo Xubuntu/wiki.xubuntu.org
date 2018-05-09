@@ -35,6 +35,9 @@ It\'s as easy as 1, 2, 3 \...
     -[[https://wiki.xubuntu.org/qa:testing |Test your Xubuntu Development version]]
     -[[https://wiki.xubuntu.org/qa:report |Report Back with your results]]
 
+We suggest that you read at least the first two pages before making a
+decision as to how you can help Xubuntu best.
+
 The Xubuntu Team mostly uses IRC to keep in contact with each other. You
 can contact them there as well: simply choose the IRC tab on the
 [developers](https://dev.xubuntu.org/) tracker, or click
