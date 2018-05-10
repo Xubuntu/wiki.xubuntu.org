@@ -1,3 +1,5 @@
+## Installing
+
 ## Step 1: Get the Xubuntu development version up and running
 
 Whatever you do next, first of all you will need to get the Xubuntu
