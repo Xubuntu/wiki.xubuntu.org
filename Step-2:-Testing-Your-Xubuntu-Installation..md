@@ -1,7 +1,11 @@
 ## Step 2: Testing your Xubuntu installation.
 
-Now that you\'ve [installed](https://wiki.xubuntu.org/qa/installing)
-Xubuntu, there are actually two types of testing:
+As was mentioned in the previous step, now that you\'ve
+[installed](https://wiki.xubuntu.org/qa/installing) Xubuntu, you have
+already tested the installation and this very valuable testing needs to
+be reported
+
+there are actually two types of testing:
 
     -Exploratory Testing
     -Static Testing
