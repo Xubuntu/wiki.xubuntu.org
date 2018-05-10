@@ -3,9 +3,10 @@
 As was mentioned in the previous step, now that you\'ve
 [installed](https://wiki.xubuntu.org/qa/installing) Xubuntu, you have
 already tested the installation and this very valuable testing needs to
-be reported
+be reported via the [Iso Tracker](http://iso.qa.ubuntu.com/), more info
+about which you will see on the Step 3: Reporting back page that follows
 
-there are actually two types of testing:
+There are actually two types of testing:
 
     -Exploratory Testing
     -Static Testing
@@ -16,6 +17,11 @@ best route into testing.
 Both types of testing are summarised below. A lot more details can be
 found in the [quality assurance chapters](https://docs.xubuntu.org/contributors/qa.html) of the
 [contributors docs](https://docs.xubuntu.org/contributors/).
+
+Exploratory testing is mostly used XXXXXX, XXXXX & XXXXXX, wheras static
+testing is mostly used XXXXXX, XXXXX & XXXXXX
+
+Sentence about how the decision of which is done is taken
 
 #### 1. \'Exploratory\' Testing
 
