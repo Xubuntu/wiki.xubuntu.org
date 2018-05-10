@@ -14,6 +14,10 @@ Below is a very simple overview to get you going. See the excellent
 (remembering to substitute Xubuntu for Ubuntu in the IRC channel and
 mailing lists etc.)
 
+#### Using the ISO Tracker
+
+Blah, blah, blah, dee-blahdey - blah
+
 #### Sharing a screenshot
 
 Sometimes it\'s easier to show than tell. So we\'ve made sharing your
