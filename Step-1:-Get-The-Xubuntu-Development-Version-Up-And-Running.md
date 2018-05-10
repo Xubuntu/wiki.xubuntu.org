@@ -27,8 +27,8 @@ However, just by installing the OS you have actually already completed
 some very valuable testing - you have confirmed (or not) that the
 installation itself works. Now, the Dev Team really needs to know this
 extremely very valuable information - there are more details on the
-Testing page, but for now please be aware that the way to give them this
-info is by reporting your install on the [Iso Tracker](http://iso.qa.ubuntu.com/)
+Reporting back page, but for now please be aware that the way to give
+them this info is by reporting your install on the [Iso Tracker](http://iso.qa.ubuntu.com/)
 
 ### 1 - You have a computer that you don't depend on - Install Xubuntu as the main Operating System
 
