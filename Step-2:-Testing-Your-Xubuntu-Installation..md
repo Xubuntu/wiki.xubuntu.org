@@ -18,10 +18,13 @@ Both types of testing are summarised below. A lot more details can be
 found in the [quality assurance chapters](https://docs.xubuntu.org/contributors/qa.html) of the
 [contributors docs](https://docs.xubuntu.org/contributors/).
 
-Exploratory testing is mostly used XXXXXX, XXXXX & XXXXXX, wheras static
-testing is mostly used XXXXXX, XXXXX & XXXXXX
+Using the development version of Xubuntu full time is best suited to
+exploratory testing - with the remaining installation options becoming
+less suited to exploratory and more to static testing as you move
+through the 4 options listed.
 
-Sentence about how the decision of which is done is taken
+Deciding which type of testing is best for you, is dependent on the type
+of installation you can use.
 
 #### 1. \'Exploratory\' Testing
 
