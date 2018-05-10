@@ -16,7 +16,8 @@ mailing lists etc.)
 
 #### Using the ISO Tracker
 
-Blah, blah, blah, dee-blahdey - blah
+We have a wiki [page](https://wiki.xubuntu.org/qa/isotesting) devoted to
+using the iso tracker.
 
 #### Sharing a screenshot
 
