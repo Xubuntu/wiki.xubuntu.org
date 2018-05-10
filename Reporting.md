@@ -1,3 +1,5 @@
+## Reporting
+
 ## Step 3: Reporting back!
 
 You [tested](https://wiki.xubuntu.org/qa/testing) the new version of
