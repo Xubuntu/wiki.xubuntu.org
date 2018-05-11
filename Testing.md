@@ -13,20 +13,16 @@ There are actually two types of testing:
     -Exploratory Testing
     -Static Testing
 
-A first time tester might find starting off with exploratory testing the
-best route into testing.
-
-Both types of testing are summarised below. A lot more details can be
-found in the [quality assurance chapters](https://docs.xubuntu.org/contributors/qa.html) of the
+Both types of testing are only summarised below, but a lot more details
+can be found in the [quality assurance chapters](https://docs.xubuntu.org/contributors/qa.html) of the
 [contributors docs](https://docs.xubuntu.org/contributors/).
 
-Using the development version of Xubuntu full time is best suited to
-exploratory testing - with the remaining installation options becoming
-less suited to exploratory and more to static testing as you move
-through the 4 options listed.
-
-Deciding which type of testing is best for you, is dependent on the type
-of installation you can use.
+Deciding which type of testing is best for you is dependent on the type
+of installation that you can do; installing Xubuntu as the main
+Operating System is best suited to exploratory testing - with the
+remaining installation options becoming more suited to static testing as
+you move down through the 4 alternatives listed on the [Install the Xubuntu Development version](https://wiki.xubuntu.org/qa:installing)
+page.
 
 #### 1. \'Exploratory\' Testing
 
