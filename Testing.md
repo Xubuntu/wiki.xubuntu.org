@@ -24,6 +24,10 @@ remaining installation options becoming more suited to static testing as
 you move down through the 4 alternatives listed on the [Install the Xubuntu Development version](https://wiki.xubuntu.org/qa:installing)
 page.
 
+If in doubt it is perhaps best to start with exploratory testing with
+Xubuntu installed as your main OS, or as \'dual boot\' option alongside
+your existing OS.
+
 #### 1. \'Exploratory\' Testing
 
 This type of testing holds the greatest value for the Xubuntu
