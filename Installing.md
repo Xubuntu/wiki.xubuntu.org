@@ -30,7 +30,7 @@ some very valuable testing - you have confirmed (or not) that the
 installation itself works.
 
 Now, the Dev Team really needs to know this extremely valuable
-information - there are more details on the [Reporting Back back](https://wiki.xubuntu.org/qa/report) page, but for now please be
+information - there are more details on the [Reporting Back](https://wiki.xubuntu.org/qa/report) page, but for now please be
 aware that the way to give them this info is by reporting your install
 on the [Iso Tracker](http://iso.qa.ubuntu.com/)
 
