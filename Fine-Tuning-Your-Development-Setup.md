@@ -168,3 +168,9 @@ your new ISO options, `sudo update-grub`, when you reboot you should now
 see them on your Grub menu
 
 ![](images/qa/newgrub.png)
+
+#### QA Team Contributor Information
+
+Further, more detailed, information can be found at the Xubuntu Team\'s
+[Contributor Documentation](https://docs.xubuntu.org/contributors/),
+Chapter 4 of which is specifically about the Xubuntu QA Team.
