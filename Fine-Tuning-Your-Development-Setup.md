@@ -54,9 +54,10 @@ work for you to setup Hexchat.
 
 If you have more than one installation on your system, often the
 autoresize option won\'t be available. Or you want control over where
-your new install goes. Use the Something Else option and you will be
-shown a list of disks and partitions on your system, with any
-unallocated space shown as such.
+your new install goes.
+
+Use the Something Else option and you will be shown a list of disks and
+partitions on your system, with any unallocated space shown as such.
 
 You can create partitions or edit existing partition sizes until you
 have a new partition available to install too.
