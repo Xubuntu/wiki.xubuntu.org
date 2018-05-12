@@ -1,5 +1,55 @@
 ## Fine tuning your development setup
 
+#### Using IRC for contact
+
+If you do have questions regarding issues in a development version,
+please do ask in the Xubuntu Developer channel (chat room)- don\'t worry
+if you dont understand much of what is being discussed there - don\'t be
+put off as the community is a friendly bunch and is always happy to see
+more potential testers. Just ask your question and people will try to
+help you.
+
+You can access the channels most easily via the following links - just
+choose a nickname (preferably one that\'s likely to be unique - and easy
+to type!), the channel is already inserted for you (and ignore the Auth
+to services box, unless you have already registered your chosen
+nickname - see below)
+
+      * If you want to talk to the developers choose [[http://webchat.freenode.net/?nick=Choose%20a%20nickname&channels=%23xubuntu-devel&prompt=1&uio=d4|#xubuntu-devel]]. For testing this is the one that you will almost certainly want to use
+
+      * If you have a more general question, for example about an issue with a package that isn't from Xubuntu, or with network configuration etc,  then choose [[http://webchat.freenode.net/?nick=Choose%20a%20nickname&channels=%23ubuntu+1&prompt=1&uio=d4|#ubuntu+1]] 
+
+      * For non-Xubuntu questions (e.g. about IRC!) or just to chat [[http://webchat.freenode.net/?nick=Choose%20a%20nickname&channels=%23xubuntu-offtopic&prompt=1&uio=d4|#xubuntu-offtopic]] 
+
+With IRC you will miss messages when you are not logged on, but luckily
+the latest
+[Xubuntu-devel](https://irclogs.ubuntu.com/latest/%23xubuntu-devel.html)
+and [Xubuntu Support](https://irclogs.ubuntu.com/latest/%23xubuntu.html)
+channels are logged and updated every hour or so, and you can find older
+ones here \[<https://irclogs.ubuntu.com/>\]. Similarly, other people
+won\'t be in the channel all the time either - but if you say that
+you\'ll check the weblogs later for an answer they will at least try to
+get back to you even if when they come back you are not around.
+
+Although it\'s not essential, it is a good idea to register your chosen
+nickname for IRC, so that you can be guaranteed of allways having the
+same recognisable identitybecause you can then use the same name across
+sessions and accross the channels and people will be able to reckognize
+you:
+
+Just enter any IRC channel via one of the links above (Remembering to
+choose a nickname!) and type, \'/msg NickServ REGISTER password
+youremail@example.com\' substituting a password of your choice and your
+email.
+
+Then you will receive an email allowing you to register your chosen
+nickname (as long as it isn\'t already taken).
+
+You can also use an app for IRC, Hexchat (an Xchat fork) is popular with
+Xubuntu people who can help you get up and running, there is a wiki page
+for [Xchat](https://help.ubuntu.com/community/XChatHowto) which will
+work for you to setup Hexchat.
+
 #### Manual Partitions and Bootloader location
 
 If you have more than one installation on your system, often the
@@ -118,47 +168,3 @@ your new ISO options, `sudo update-grub`, when you reboot you should now
 see them on your Grub menu
 
 ![](images/qa/newgrub.png)
-
-If you do have questions regarding issues in a development version,
-please do ask in the Xubuntu Developer channel (chat room)- don\'t worry
-if you dont understand much of what is being discussed there - don\'t be
-put off as the community is a friendly bunch and is always happy (even
-ecstatic) to see more potential testers. Just ask your question and
-people will try to help you.
-
-You can access the channels most easily via the following links - just
-choose a nickname (preferably one that\'s likely to be unique - and easy
-to type!), the channel is already inserted for you (and ignore the Auth
-to services box, unless you have already registered your chosen
-nickname - see below)
-
-      If you want to talk to the developers choose #xubuntu-devel. [http://webchat.freenode.net/?nick=Choose%20a%20nickname&channels=%23xubuntu-devel&prompt=1&uio=d4]. For testing this is the one that you will almost certainly want to use
-
-      If you have a more general question, for example about an issue with a package that isn't from Xubuntu, or with network configuration etc,  then choose #ubuntu+1. [http://webchat.freenode.net/?nick=Choose%20a%20nickname&channels=%23ubuntu+1&prompt=1&uio=d4] 
-
-      or #xubuntu-offtopic. [http://webchat.freenode.net/?nick=Choose%20a%20nickname&channels=%23xubuntu-offtopic&prompt=1&uio=d4] for non-Xubuntu questions (e.g. about IRC!) or just to chat.
-
-You can also use an app for IRC, Hexchat is popular with Xubuntu people
-who can help you get up and running.
-
-With IRC you will miss messages when you are not logged on, but luckily
-the latest Xubuntu-devel
-\[<https://irclogs.ubuntu.com/latest/%23xubuntu-devel.html>\] and
-Xubuntu \[<https://irclogs.ubuntu.com/latest/%23xubuntu.html>\] chats
-are logged and updated every hour or so, and you can find older ones
-here \[<https://irclogs.ubuntu.com/>\]. Similarly, other people won\'t
-be in the channel all the time either - but if you say that you\'ll
-check the weblogs later for an answer they will at least try to get back
-to you even if when they come back you are not around.
-
-Although it\'s not essential, it is a good idea to register your chosen
-nickname for IRC, so that you can be guaranteed of allways having the
-same recognisable identitybecause you can then use the same name across
-sessions and accross the channels and people will be able to reckognize
-you:
-
-      Just enter any IRC channel via one of the links above (Remembering to choose a nickname!) and type,  '/msg NickServ REGISTER password youremail@example.com' substituting a password of your choice and your email. 
-
-      Then you will receive an email allowing you to register your chosen nickname (as long as it isn't already taken).
-
-      The next time you log in using the web links above, make sure to type in your registered nickname and tick the Auth to services box and put your nickname in the Username box [I think this is correct?] and enter your password.
