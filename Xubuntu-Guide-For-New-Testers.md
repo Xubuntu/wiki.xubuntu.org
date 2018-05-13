@@ -1,9 +1,9 @@
 ## Xubuntu Guide for New Testers
 
 After reading the [introduction on the website](#), this \'New
-Tester\' wiki will help take you through the simple steps that will
-enable you to join the community, start to help making Xubuntu better,
-and get testing.
+Tester\' wiki will take you through the simple steps that will enable
+you to join the community, start to help making Xubuntu better, and get
+testing.
 
 It\'s important to remember that pretty much anything that you are able
 to do during a development cycle is of great use to the Xubuntu
@@ -12,8 +12,8 @@ development cycle to test that Xubuntu installs properly then this would
 be both a very worthwhile contribution and, most importantly, greatly
 appreciated.
 
-To avoid confusion, first its worth clearing up a few terms which we use
-both within these pages and elsewhere in the Xubuntu world:
+To avoid confusion, first it\'s worth clearing up a few terms which we
+use both within these pages and elsewhere in the Xubuntu world:
 
 -   OS - Operating System, referring here to Xubuntu
 -   ISO/Image - the file you download to install Xubuntu
