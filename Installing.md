@@ -51,8 +51,8 @@ By simply being online, writing a letter, printing a document, sending
 an e-mail you discover the problems, that Xubuntu gets to solve. If this
 seems a fair deal to you, then please get testing.
 
-If you don\'t already know how to do install Xubuntu, then please read
-this [great tutorial](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop),
+If you don\'t already know how to install Xubuntu, then please read this
+[great tutorial](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop),
 which applies as much to Xubuntu as to Ubuntu.
 
 Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
