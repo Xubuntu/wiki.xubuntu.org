@@ -70,7 +70,7 @@ Daily ISO and again test the OS without installing anything or changing
 anything to your main system. Instead of re-downloading the whole ISO
 each time you can use
 [Zsync](https://help.ubuntu.com/community/ZsyncCdImage) to update it
-(zsync only downloads the bits that have changed)
+(zsync only downloads the bits that have changed).
 
 This type of testing is mostly needed during community testing weeks,
 when the Xubuntu QA team puts out a call for testers on the [development mailing list](https://lists.ubuntu.com/mailman/listinfo/xubuntu-devel)
