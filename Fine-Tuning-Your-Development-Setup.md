@@ -1,6 +1,6 @@
 ## Fine tuning your development setup
 
-#### Using IRC for contact
+## Using IRC for contact
 
 If you do have questions regarding issues in a development version,
 please do ask in the Xubuntu Developer channel (chat room)- don\'t worry
@@ -50,7 +50,7 @@ Xubuntu people who can help you get up and running, there is a wiki page
 for [Xchat](https://help.ubuntu.com/community/XChatHowto) which will
 work for you to setup Hexchat.
 
-#### Manual Partitions and Bootloader location
+## Manual Partitions and Bootloader location
 
 If you have more than one installation on your system, often the
 autoresize option won\'t be available. Or you want control over where
@@ -119,7 +119,7 @@ in Grub.
 
 ![](images/qa/newgrub.png)
 
-#### Adding an ISO to Grub
+## Adding an ISO to Grub
 
 Sometimes you might find it easier to have the development ISO available
 as an option in your Grub menu.
@@ -144,7 +144,7 @@ It is important that the default top lines of this file are not changed.
 
 The following content works for the QA member because, the location of
 the ISO file (grubiso) and the hard drive setting (hd0,5) are correct
-for them. You need to input your ISO location and hd setting. The
+for them. You need to input *your* ISO location and hd setting. The
 remaining parts should then work for you.
 
 They have 2 options available on their grub menu, one boots the ISO
@@ -168,7 +168,7 @@ Once the file has been edited and saved, you must update grub to include
 your new ISO options, `sudo update-grub`, when you reboot you should now
 see them on your Grub menu
 
-![](images/qa/newgrub.png)
+![](images/qa/isogrub.png)
 
 #### QA Team Contributor Information
 
