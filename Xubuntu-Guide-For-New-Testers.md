@@ -40,7 +40,6 @@ decision as to how you can help Xubuntu best.
 
 The Xubuntu Team mostly uses IRC to keep in contact with each other. You
 can contact them there as well: simply choose the IRC tab on the
-[developers](https://dev.xubuntu.org/) tracker, or click
-[here](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
-if you want to go there now. More information on IRC is also included in
-the [fine tuning](https://wiki.xubuntu.org/qa/fine_tuning) wiki page.
+[developers](https://dev.xubuntu.org/) tracker, or visit
+[#xubuntu-devel](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
+now. More information on IRC is also included in the [fine tuning](https://wiki.xubuntu.org/qa/fine_tuning) wiki page.
