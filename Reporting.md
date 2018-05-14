@@ -23,12 +23,12 @@ using the iso tracker.
 
 ## Sharing a screenshot
 
-Sometimes it\'s easier to show than tell. So we\'ve made sharing your
-screenshot easy. Just press the `PrintScreen-button` on your keyboard,
-select \"host on imgur\", click \"ok\" to upload your screen to Imgur,
-and then the next dialogue contains the link that points to it. Copy the
-link into your bug-mail, the IRC-channel, or the bug report. Only need
-to share your active window? Press `ALT-PrintScreen`.
+Sometimes it\'s easier to show than tell and so sharing your screenshot
+has been made easy. Just press the `PrintScreen-button` on your
+keyboard, select \"host on imgur\", click \"ok\" to upload your screen
+to Imgur, and then the next dialogue contains the link that points to
+it. Copy the link into your bug-mail, the IRC-channel, or the bug
+report. Only need to share your active window? Press `ALT-PrintScreen`.
 
 NB: Actually, sharing a screenshot is so easy that you may forget to
 check if there is something in the screenshot - in the background, top
