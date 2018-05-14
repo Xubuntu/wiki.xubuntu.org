@@ -1,9 +1,8 @@
 # Xubuntu Guide for New Testers
 
-After reading the [introduction on the website](#), this \'New
-Tester\' wiki will take you through the simple steps that will enable
-you to join the community, start to help making Xubuntu better, and get
-testing.
+After reading the [introduction on the website](https://xubuntu.org/contribute/qa), this \'New Tester\' wiki
+will take you through the simple steps that will enable you to join the
+community, start to help making Xubuntu better, and get testing.
 
 It\'s important to remember that pretty much anything that you are able
 to do during a development cycle is of great use to the Xubuntu
