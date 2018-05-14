@@ -1,4 +1,4 @@
-## Xubuntu Guide for New Testers
+# Xubuntu Guide for New Testers
 
 After reading the [introduction on the website](#), this \'New
 Tester\' wiki will take you through the simple steps that will enable
