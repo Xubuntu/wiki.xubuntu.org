@@ -1,6 +1,6 @@
 ## Reporting
 
-## Step 3: Reporting back!
+# Step 3: Reporting back!
 
 You [tested](https://wiki.xubuntu.org/qa/testing) the new version of
 Xubuntu and you noticed something that needs improving (bugs or
