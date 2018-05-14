@@ -55,8 +55,8 @@ know, please move on to Step 3 and [report back](https://wiki.xubuntu.org/qa/rep
 #### 2. \'Static\' Testing
 
 This is testing in its purest form -- you get and install the ISO and
-test it without installing anything or changing anything to your main
-system - the ISO remains \'static\'.
+test it without installing anything else or changing anything to your
+main system - the ISO remains \'static\'.
 
 Static testing means that you check that Xubuntu installs without
 problems and that the pre-installed apps work. Actually, each of the
