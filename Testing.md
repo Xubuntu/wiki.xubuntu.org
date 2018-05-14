@@ -13,9 +13,9 @@ There are actually two types of testing:
     -Exploratory Testing
     -Static Testing
 
-Both types of testing are only summarised below, but a lot more details
+Both types of testing are only summarised below, but a lot more detail
 can be found in the [quality assurance chapters](https://docs.xubuntu.org/contributors/qa.html) of the
-[contributors docs](https://docs.xubuntu.org/contributors/).
+contributors docs.
 
 Deciding which type of testing is best for you is dependent on the type
 of installation that you can do; installing Xubuntu as the main
