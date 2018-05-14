@@ -65,10 +65,10 @@ tested, as you can see on the Ubuntu QA tracker (e.g. these
 [testcases](http://iso.qa.ubuntu.com/qatracker/milestones/384/builds/170373/testcases)
 for Bionic Beaver), but you can choose which ones you want to help with.
 
-Then the next day (or the next time you test) you download the latest
-Daily ISO and again test the OS without installing anything or changing
-anything to your main system. Instead of re-downloading the whole ISO
-each time you can use
+Then the next day (or the next time you test) you download and install
+the latest Daily ISO and again test the OS without installing anything
+else or changing anything to your main system. Instead of re-downloading
+the whole ISO each time you can use
 [Zsync](https://help.ubuntu.com/community/ZsyncCdImage) to update it
 (zsync only downloads the bits that have changed).
 
