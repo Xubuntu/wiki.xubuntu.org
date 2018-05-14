@@ -8,8 +8,7 @@ latest (\'daily\') version can *always* be found
 [here](http://cdimage.ubuntu.com/xubuntu/daily-live/current/).
 
 There are then four main options for installing the OS, depending on
-what you have available. Two extra virtual machine options are discussed
-on [this page](https://wiki.xubuntu.org/qa/testing_virtual).
+what you have available.
 
 1.  You have a computer that you don't depend on for work, school, or
     everyday life - **Install Xubuntu as the main Operating System**
@@ -69,8 +68,8 @@ by free space issues.
     exists on the installer.
 -   If however, the Install Alongside isn\'t available you need to
     manually create a partition by resizing an existing one and then
-    installing. We have a section on the \[yet to be named wiki page for
-    sundries and notes\|page\] that works through this issue.
+    installing. We have a section on the [fine tuning page](https://wiki.xubuntu.org/qa/fine_tuning) that works through
+    this issue.
 
 It's quite common nowadays for computers to have more than one operating
 system (Windows, Xubuntu, BSD to name a few) on its hard disk. In that
@@ -78,7 +77,7 @@ case an extra menu (GRUB) will show up at each boot. Every time you
 start up your computer GRUB lets you choose which operating system you
 want to use for that session.
 
-Then the operating system you chose will simply start up and be no
+Then the operating system you choose will simply start up and be no
 different from what you are used to - there is no interference between
 the operating systems. It\'s like having two or more computers in one.
 
@@ -97,7 +96,7 @@ Some simple ways to set up a VM are to use
 [Boxes](https://help.gnome.org/users/gnome-boxes/stable/), VirtualBox,
 VMWare or [KVM](https://help.ubuntu.com/community/KVM). Xubuntu testers
 have some experience with using these for testing and can help you.
-Midlle-click
+Middle-click
 [here](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
 if you want to talk to people in the Xubuntu Development Channel now in
 a new window. There people are often available in real time.
