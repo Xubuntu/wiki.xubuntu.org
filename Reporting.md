@@ -2,7 +2,7 @@
 
 # Step 3: Reporting back!
 
-You [tested](https://wiki.xubuntu.org/qa/testing) the new version of
+So, you [tested](https://wiki.xubuntu.org/qa/testing) the new version of
 Xubuntu and you noticed something that needs improving (bugs or
 usability suggestions). Great! Information you provide about what you
 noticed can help make Xubuntu better, stronger.
@@ -116,3 +116,12 @@ launchpad, and you can then add any information you think helpful, and
 mark yourself as \"affected too\".
 
 If in doubt: do report a new bug, as no bug should remain unreported.
+
+# Thank You!
+
+So, hopefully now you should know enough to get going with testing and
+becoming a part of the Xubuntu Community.
+
+But, please do remember that if you are not sure of **anything** just
+ask one of your Xubuntu colleagues via the mailing list or IRC and they
+will be more than happy to help you help the Xubuntu community.
