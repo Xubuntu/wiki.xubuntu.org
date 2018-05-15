@@ -56,21 +56,20 @@ know, please move on to Step 3 and [report back](https://wiki.xubuntu.org/qa/rep
 
 This is testing in its purest form -- you get and install the ISO and
 test it without installing anything else or changing anything to your
-main system - the ISO remains \'static\'.
-
-Static testing means that you check that Xubuntu installs without
-problems and that the pre-installed apps work. Actually, each of the
-different installation methods shown in the following example need to be
-tested, as you can see on the Ubuntu QA tracker (e.g. these
-[testcases](http://iso.qa.ubuntu.com/qatracker/milestones/384/builds/170373/testcases)
-for Bionic Beaver), but you can choose which ones you want to help with.
+main system - the ISO remains \'static\'. Static testing means that you
+check that Xubuntu installs without problems and that the pre-installed
+apps work. Actually, each of the different installation methods as shown
+in [this example](http://iso.qa.ubuntu.com/qatracker/milestones/384/builds/170373/testcases)
+of test cases for Bionic Beaver on the Ubuntu QA tracker need to be
+tested, but you can choose which ones you want to help with.
 
 Then the next day (or the next time you test) you download and install
 the latest Daily ISO and again test the OS without installing anything
 else or changing anything to your main system. Instead of re-downloading
 the whole ISO each time you can use
 [Zsync](https://help.ubuntu.com/community/ZsyncCdImage) to update it
-(zsync only downloads the bits that have changed).
+(zsync only downloads the bits that have changed). For zsync to work -
+you must have the original download available.
 
 This type of testing is mostly needed during community testing weeks,
 when the Xubuntu QA team puts out a call for testers on the [development mailing list](https://lists.ubuntu.com/mailman/listinfo/xubuntu-devel)
