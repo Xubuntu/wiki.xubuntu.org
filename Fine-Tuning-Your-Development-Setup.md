@@ -26,15 +26,15 @@ the latest
 [Xubuntu-devel](https://irclogs.ubuntu.com/latest/%23xubuntu-devel.html)
 and [Xubuntu Support](https://irclogs.ubuntu.com/latest/%23xubuntu.html)
 channels are logged and updated every hour or so, and you can find older
-ones here \[<https://irclogs.ubuntu.com/>\]. Similarly, other people
-won\'t be in the channel all the time either - but if you say that
-you\'ll check the weblogs later for an answer they will at least try to
-get back to you even if when they come back you are not around.
+ones [here](https://irclogs.ubuntu.com/). Similarly, other people won\'t
+be in the channel all the time either - but if you say that you\'ll
+check the weblogs later for an answer they will at least try to get back
+to you even if when they come back you are not around.
 
 Although it\'s not essential, it is a good idea to register your chosen
-nickname for IRC, so that you can be guaranteed of allways having the
-same recognisable identitybecause you can then use the same name across
-sessions and accross the channels and people will be able to reckognize
+nickname for IRC, so that you can be guaranteed of always having the
+same recognisable identity because you can then use the same name across
+sessions and across the channels and people will be able to recognize
 you:
 
 Just enter any IRC channel via one of the links above (Remembering to
