@@ -19,3 +19,4 @@
 -   Maintain packaging in vcs, ideally somewhere on launchpad.
 -   Explore automation options for testing, reporting, etc.
 -   Add orca back to seed
+-   Show microphone usage in the xfce4-pulseaudio-plugin
