@@ -2,7 +2,7 @@
 
 # Welcome to the Xubuntu team wiki!
 
-You have landed in the Xubuntu team wiki. This is the place where the
+You have landed on the Xubuntu team wiki. This is the place where the
 Xubuntu contributors cooperate and communicate about development
 efforts.
 
