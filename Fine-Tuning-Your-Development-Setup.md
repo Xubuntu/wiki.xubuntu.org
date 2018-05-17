@@ -153,14 +153,14 @@ directly, the second loads the ISO into RAM and then boots from there.
     menuentry "Cosmic Cuttlefish 64" {
           set isofile="/boot/grubiso/xubuntu-cosmic-desktop-amd64.iso"
           loopback loop (hd0,5)$isofile
-          linux (loop)/casper/vmlinuz.efi boot=casper iso-scan/filename=$isofile noprompt noswap noeject
+          linux (loop)/casper/vmlinuz boot=casper iso-scan/filename=$isofile noprompt noswap noeject
           initrd (loop)/casper/initrd.lz
     }
 
     menuentry "Cosmic Cuttlefish 64 ram" {
           set isofile="/boot/grubiso/xubuntu-cosmic-desktop-amd64.iso"
           loopback loop (hd0,5)$isofile
-          linux (loop)/casper/vmlinuz.efi toram maybe-ubiquity boot=casper iso-scan/filename=$isofile noprompt noswap noeject
+          linux (loop)/casper/vmlinuz toram maybe-ubiquity boot=casper iso-scan/filename=$isofile noprompt noswap noeject
           initrd (loop)/casper/initrd.lz
     }
 
