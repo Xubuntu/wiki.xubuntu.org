@@ -92,9 +92,10 @@ get in the swing of things you will learn how to do more and more.
 
 ### You want to ask a question, or notice things that should work better or need to be more user friendly
 
-Even if there a no crashes you can head over to Launchpad. You can [ask questions](https://answers.launchpad.net/) if anything is unclear, or if
-you are not sure if what you are seeing is a bug or not. You can also
-suggest improvements to a package by simply reporting it as a
+Even if there are no crashes you can head over to Launchpad. You can
+[ask questions](https://answers.launchpad.net/) if anything is unclear,
+or if you are not sure if what you are seeing is a bug or not. You can
+also suggest improvements to a package by simply reporting it as a
 [bug](https://help.ubuntu.com/community/ReportingBugs) on Launchpad.
 
 ## Reporting an issue directly to launchpad
