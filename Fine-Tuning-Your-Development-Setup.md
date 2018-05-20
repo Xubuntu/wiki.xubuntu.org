@@ -117,6 +117,10 @@ Login to your main installation, open a terminal and run this command
 Reboot the machine again and your new installation will now be available
 in Grub.
 
+*Note: when installing Grub in this manner - kernel updates to your
+development installation will not be reflected automatically in the Grub
+menu until you have re-run update-grub.*
+
 ![](images/qa/newgrub.png)
 
 ## Adding an ISO to Grub
