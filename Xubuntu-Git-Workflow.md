@@ -38,3 +38,43 @@ Launchpad does not currently support automatic synchronization to/from
 Git branches. Instead, you can create an git-to-bzr code import, and
 import translations from this Bazaar branch. You can periodically
 download the translations for a project and sync them manually.
+
+## Git Repositories
+
+### Xubuntu Team Projects
+
+-   [Xubuntu Artwork](https://code.launchpad.net/xubuntu-artwork)
+-   [Xubuntu Community Artwork](https://code.launchpad.net/xubuntu-community-artwork)
+-   [Xubuntu Default Settings](https://code.launchpad.net/xubuntu-default-settings)
+-   [Xubuntu Documentation](https://code.launchpad.net/xubuntu-docs)
+-   [Xubuntu Seeds](https://code.launchpad.net/~xubuntu-dev/ubuntu-seeds/+git/xubuntu)
+
+### Xubuntu Applications
+
+-   [Catfish File Search](https://code.launchpad.net/catfish-search)
+-   [LightDM GTK+
+    Greeter](https://code.launchpad.net/lightdm-gtk-greeter)
+-   [LightDM GTK+ Greeter
+    Settings](https://code.launchpad.net/lightdm-gtk-greeter-settings)
+-   [MenuLibre](https://code.launchpad.net/menulibre)
+-   [Mugshot](https://code.launchpad.net/mugshot)
+-   [SGT Puzzles Collection](https://code.launchpad.net/sgt-launcher)
+-   [Xfce Panel Switch](https://code.launchpad.net/xfpanel-switch)
+
+### Packages Maintained By Xubuntu
+
+-   [libmpris2client](https://code.launchpad.net/~xubuntu-dev/+git/libmpris2client)
+-   [xfce4-hamster-plugin](https://code.launchpad.net/~xubuntu-dev/+git/xfce4-hamster-plugin)
+-   [xfce4-soundmenu-plugin](https://code.launchpad.net/~xubuntu-dev/+git/xfce4-soundmenu-plugin)
+-   [xfdashboard](https://code.launchpad.net/~xubuntu-dev/+git/xfdashboard)
+
+### Related Links
+
+-   [Debian Salsa: Python App Packaging Team
+    (PAPT)](https://salsa.debian.org/python-team/applications)
+-   [Debian Salsa: Xfce](https://salsa.debian.org/xfce-team)
+-   [GNOME GitLab](https://gitlab.gnome.org/GNOME)
+-   [MATE on GitHub](https://github.com/mate-desktop)
+-   [Xfce Git Repository Browser](https://git.xfce.org/)
+-   [Xfce: Git User
+    Repositories](https://docs.xfce.org/contribute/dev/git/userrepos)
