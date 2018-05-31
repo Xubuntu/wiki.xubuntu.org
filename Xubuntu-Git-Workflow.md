@@ -5,6 +5,10 @@ Launchpad\'s Git support is still relatively young, it is still very
 effective. Furthermore, Git is one of the world\'s most common version
 control systems (VCS) and is used upstream: both in Debian and Xfce.
 
+If this is your first time working with Git, the Xfce Wiki has a great
+guide for getting started and some typical use cases.\
+<https://docs.xfce.org/contribute/dev/git/start>
+
 ## Setting Up Git
 
 ### Launchpad
