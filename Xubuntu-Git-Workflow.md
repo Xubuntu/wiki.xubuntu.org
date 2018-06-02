@@ -26,10 +26,12 @@ time for us to move.
     and supported, with regular releases and bug fixes. The last Bazaar
     release was over two years ago.
 -   **Application Support:** Many applications provide support for Git
-    in one way or another. Thunar\'s VCS plugin and Geany\'s GeanyVC
-    plugin provide addon support for managing Git repositories. Atom and
-    Visual Studio Code, two of the most popular IDEs available for
-    Linux, have native support for Git.
+    in one way or another. [Thunar\'s VCS
+    plugin](https://goodies.xfce.org/projects/thunar-plugins/thunar-vcs-plugin)
+    and Geany\'s [GeanyVC](https://plugins.geany.org/geanyvc.html)
+    plugin provide addon support for managing Git repositories.
+    [Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/), two of the most popular IDEs
+    available for Linux, have native support for Git.
 
 ## Setting Up Git
 
