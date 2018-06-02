@@ -9,6 +9,28 @@ If this is your first time working with Git, the Xfce Wiki has a great
 guide for getting started and some typical use cases.\
 <https://docs.xfce.org/contribute/dev/git/start>
 
+## Why Git?
+
+Xubuntu and it\'s various projects have used Bazaar since the beginning.
+Bazaar has served us well in the past, but there are several compelling
+reasons for us to transition. And the Xubuntu 18.10 cycle is the perfect
+time for us to move.
+
+-   **Consistent Workflow:** Git is now used by both all of our
+    upstreams. Debian, Xfce, and Shimmer Project all use git. Upstream
+    contributions become easier with a familiar process.
+-   **Familiarity:** Git is one of the most popular version control
+    systems for open source projects. New contributors are more likely
+    to have used Git in previous projects.
+-   **Development Activity:** Git continues to be actively maintained
+    and supported, with regular releases and bug fixes. The last Bazaar
+    release was over two years ago.
+-   **Application Support:** Many applications provide support for Git
+    in one way or another. Thunar\'s VCS plugin and Geany\'s GeanyVC
+    plugin provide addon support for managing Git repositories. Atom and
+    Visual Studio Code, two of the most popular IDEs available for
+    Linux, have native support for Git.
+
 ## Setting Up Git
 
 ### Launchpad
