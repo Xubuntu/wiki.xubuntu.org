@@ -11,7 +11,7 @@ guide for getting started and some typical use cases.\
 
 ## Why Git?
 
-Xubuntu and it\'s various projects have used Bazaar since the beginning.
+Xubuntu and its various projects have used Bazaar since the beginning.
 Bazaar has served us well in the past, but there are several compelling
 reasons for us to transition. And the Xubuntu 18.10 cycle is the perfect
 time for us to move.
@@ -51,8 +51,8 @@ git workflows consistent.
 ## Managing Launchpad Projects
 
 At the time of writing (May 2018), Launchpad does not have full support
-for git for it\'s project management features. The following features
-are not fully implemented. There are ways to work around some of these
+for git for its project management features. The following features are
+not fully implemented. There are ways to work around some of these
 shortcomings, as described below.
 
 ### Linking Series to Git Branches
