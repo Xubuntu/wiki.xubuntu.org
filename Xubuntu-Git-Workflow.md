@@ -17,7 +17,7 @@ reasons for us to transition. And the Xubuntu 18.10 cycle is the perfect
 time for us to move.
 
 -   **Consistent Workflow:** Git is now used by both all of our
-    upstreams. Debian, Xfce, and Shimmer Project all use git. Upstream
+    upstreams. Debian, Xfce, and Shimmer Project all use Git. Upstream
     contributions become easier with a familiar process.
 -   **Familiarity:** Git is one of the most popular version control
     systems for open source projects. New contributors are more likely
