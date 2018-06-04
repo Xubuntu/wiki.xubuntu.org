@@ -71,6 +71,48 @@ Git branches. Instead, you can create an git-to-bzr code import, and
 import translations from this Bazaar branch. You can periodically
 download the translations for a project and sync them manually.
 
+## Examples
+
+We\'ll use Xubuntu Documentation
+([lp:xubuntu-docs](https://code.launchpad.net/xubuntu-docs)) for our
+examples.
+
+### Cloning a Repository
+
+    git clone lp:xubuntu-docs # Requires the configuration outlined above in "Setting up Git"
+    cd xubuntu-docs
+
+### Making Changes
+
+    # Make a change to Makefile
+    git status # Shows changed files
+    git diff # Shows changes to files
+    git add Makefile # Adds a single file to be committed
+    # or
+    git add -u # Adds all changed files to be committed
+    git commit -m "Some makefile changes"
+    git push # Pushes the commit to the repository
+
+### Pushing to a Branch
+
+Say you have some changes you want want to have merged. Instead of
+pushing directly to the main repository, you can instead push your own
+branch. In the below example, you tell git about your new \"remote\"
+where you are going to be pushing your commits. In this example we will
+use the following names:
+
+-   \"myfeaturebranch\" as the name of our new branch.
+-   \"myremote\" as the name of our new remote repository.
+-   \"myusername\" as our Launchpad username.
+-   Replace these as necessary.
+
+```{=html}
+<!-- -->
+```
+    git checkout -b myfeaturebranch # Creates a new branch and switches to it
+    git remote add myremote lp:~myusername/xubuntu-docs/myfeaturebranch # Adds the remote repository location
+    git push --set-upstream myremote myfeaturebranch
+
 ## Git Repositories
 
 ### Xubuntu Team Projects
