@@ -1,9 +1,9 @@
 # Xubuntu Git Workflow
 
 The Xubuntu team uses Git for all version-controlled projects. While
-Launchpad\'s Git support is still relatively young, it is still very
-effective. Furthermore, Git is one of the world\'s most common version
-control systems (VCS) and is used upstream: both in Debian and Xfce.
+Launchpad\'s Git support is still relatively young, it is robust.
+Furthermore, Git is one of the world\'s most common version control
+systems (VCS) and is used upstream: both in Debian and Xfce.
 
 If this is your first time working with Git, the Xfce Wiki has a great
 guide for getting started and some typical use cases.\
