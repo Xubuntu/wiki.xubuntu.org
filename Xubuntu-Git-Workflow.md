@@ -61,8 +61,9 @@ shortcomings, as described below.
 
 ### Linking Series to Git Branches
 
-This is currently not possible. There is not much functionality lost
-here.
+This is currently not possible. Series only help to identify which code
+branches are associated with each version lines. Instead, consider
+pushing each version line as a separate branch in your project.
 
 ### Translation Imports & Exports
 
