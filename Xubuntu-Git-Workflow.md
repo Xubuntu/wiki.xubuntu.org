@@ -9,6 +9,10 @@ If this is your first time working with Git, the Xfce Wiki has a great
 guide for getting started and some typical use cases.\
 <https://docs.xfce.org/contribute/dev/git/start>
 
+***Please note that this change has nothing to do with GitHub and recent
+related news. GitHub is a different service than Launchpad with the only
+similarity being the usage of the Git VCS.***
+
 ## Why Git?
 
 Xubuntu and its various projects have used Bazaar since the beginning.
