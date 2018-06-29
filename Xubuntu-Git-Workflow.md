@@ -114,6 +114,20 @@ use the following names:
     git remote add myremote lp:~myusername/xubuntu-docs/myfeaturebranch # Adds the remote repository location
     git push --set-upstream myremote myfeaturebranch
 
+### Merging a Branch
+
+    # clone your branch
+    git clone lp:lightdm-gtk-greeter
+    cd lightdm-gtk-greeter
+
+    # fetch the remote branch
+    git remote add remotename https://git.launchpad.net/~username/lightdm-gtk-greeter
+    git fetch remotename
+    git merge remotename/master
+
+    # push the merge
+    git push
+
 ## Git Repositories
 
 ### Xubuntu Team Projects
