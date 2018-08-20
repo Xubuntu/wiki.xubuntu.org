@@ -6,7 +6,7 @@
 | Site | Primary contact | Other administrators |
 | --- | --- | --- |
 | [Xubuntu.org](http://xubuntu.org/) | [Pasi Lallinaho](http://launchpad.net/~knome) | [Xubuntu Website team](http://launchpad.net/~xubuntu-website) |
-| [Twitter (@Xubuntu)](http://twitter.com/Xubuntu) | Pasi Lallinaho | [Elizabeth K. Joseph](http://launchpad.net/~lyz) |
+| [Twitter (@Xubuntu)](http://twitter.com/Xubuntu) | [Pasi Lallinaho\] \| \[\[lphome\>lyz\|Elizabeth K. Joseph](http://launchpad.net/~knome) |  |
 | [Google+ page](https://plus.google.com/+Xubuntu/posts) | [Elizabeth K. Joseph](http://launchpad.net/~lyz) | [Knez Nenc](https://plus.google.com/102187694603676153622/about), [Simon Steinbeiß](http://launchpad.net/~ochosi) |
 | [Google+ community](https://plus.google.com/communities/108369189560969273265) | [Bill Carson](https://plus.google.com/111763375350071107978/about) | [Elizabeth K. Joseph](http://launchpad.net/~lyz) |
 | [Facebook](https://www.facebook.com/xubuntuusers) | [Ton van Zetten](https://www.facebook.com/leipegast) | [Elizabeth K. Joseph](http://launchpad.net/~lyz), [Mike Holstein](http://launchpad.net/~mikeholstein), [Kev Bowring](http://launchpad.net/~flocculant) |
