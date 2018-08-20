@@ -14,7 +14,7 @@
 
 ## Development server
 
-The admins for the development server are:
+The sysadmins for the development server are:
 
 -   [Elizabeth K. Joseph](http://launchpad.net/~lyz)
 -   [Pasi Lallinaho](http://launchpad.net/~knome)
@@ -26,6 +26,4 @@ The development server serves the following subdomains:
 -   [docs.xubuntu.org](http://docs.xubuntu.org/)
 -   [staging.xubuntu.org](http://staging.xubuntu.org/)
 -   [static.xubuntu.org](http://static.xubuntu.org/)
--   [tracker.xubuntu.org](http://tracker.xubuntu.org/) (to be moved
-    under dev.xubuntu.org)
 -   [wiki.xubuntu.org](http://wiki.xubuntu.org/)
