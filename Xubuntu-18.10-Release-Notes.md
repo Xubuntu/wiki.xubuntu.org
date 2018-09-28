@@ -80,7 +80,7 @@ applications.
 
 #### Panel Plugins
 
--   Xfce Verve Plugin 2.0.0
+-   Xfce Verve Plugin 2.0.0 *(New GTK+ 3 release!)*
 -   Xfce Whisker Menu Plugin 2.2.1
 
 #### Thunar Plugins
