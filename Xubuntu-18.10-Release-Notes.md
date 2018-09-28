@@ -40,8 +40,8 @@ both many of the other packages we carry and more generic issues.
 
 #### elementary Xfce Icon Theme 0.13
 
-The latest version of our icon theme includes the manila folder icons as
-seen in the [upstream elementary icon theme](https://github.com/elementary/icons). Additionally, our icon
+The latest version of [our icon theme](https://github.com/shimmerproject/elementary-xfce) includes the
+manila folder icons as seen in the [upstream elementary icon theme](https://github.com/elementary/icons). Additionally, our icon
 theme is now optimized with optipng, meaning a smaller install size and
 potentially improved load times.
 
@@ -49,10 +49,10 @@ potentially improved load times.
 
 #### Greybird 3.22.9
 
-The latest Greybird release improves the look and feel of our window
-manager, alt-tab dialog, Chromium, and even pavucontrol! The notebook
-styles look significantly better and consistent with our other
-applications.
+The latest [Greybird](https://github.com/shimmerproject/Greybird)
+release improves the look and feel of our window manager, alt-tab
+dialog, Chromium, and even pavucontrol! The notebook styles look
+significantly better and consistent with our other applications.
 
 ![](images/releases/18.10/pavucontrol-greybird.png)
 
