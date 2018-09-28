@@ -56,28 +56,6 @@ applications.
 
 ![](images/releases/18.10/pavucontrol-greybird.png)
 
-### Desktop Applications
-
-#### Utilities
-
-##### Catfish 1.4.4
-
-##### MenuLibre 2.2.0
-
-#### Xfce
-
-##### Parole Media Player 1.0.1
-
-##### Thunar 1.6.15
-
-##### Xfce Power Manager 1.6.1
-
-##### Xfce Notifications 0.4.2
-
-#### LibreOffice 6.0
-
-#### Firefox & Thunderbird
-
 ### Xfce
 
 #### Applications
@@ -110,14 +88,6 @@ applications.
 -   Thunar Archive Plugin 0.4.0
 -   Thunar Media Tags Plugin 0.3.0
 
-### Login & Locking
-
-### Hardware Support
-
-#### Bluetooth
-
-#### Numlock
-
 ## Xubuntu core
 
 ## Changelogs
@@ -126,8 +96,8 @@ applications.
 
 -   blueman
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/blueman/+changelog))
--   gtk-theme-config
-    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/gtk-theme-config/+changelog))
+-   elementary-xfce
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/elementary-xfce/+changelog))
 -   gtk2-engines-xfce
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/gtk2-engines-xfce/+changelog))
 -   lightdm-gtk-greeter
@@ -144,8 +114,6 @@ applications.
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/sgt-launcher/+changelog))
 -   shimmer-themes
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/shimmer-themes/+changelog))
--   xfce4-volumed
-    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfce4-volumed/+changelog))
 -   xfpanel-switch
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfpanel-switch/+changelog))
 -   xubuntu-artwork
@@ -158,8 +126,6 @@ applications.
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xubuntu-meta/+changelog))
 -   xubuntu-docs
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xubuntu-docs/+changelog))
--   xubuntu-icon-theme
-    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xubuntu-icon-theme/+changelog))
 -   xubuntu-meta
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xubuntu-meta/+changelog))
 -   xubuntu-wallpapers
