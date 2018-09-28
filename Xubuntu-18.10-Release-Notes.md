@@ -88,8 +88,6 @@ applications.
 -   Thunar Archive Plugin 0.4.0
 -   Thunar Media Tags Plugin 0.3.0
 
-## Xubuntu core
-
 ## Changelogs
 
 ### Xubuntu/Other Packages
