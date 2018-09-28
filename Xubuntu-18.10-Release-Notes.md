@@ -38,6 +38,24 @@ both many of the other packages we carry and more generic issues.
 
 ### Appearance
 
+#### elementary Xfce Icon Theme 0.13
+
+The latest version of our icon theme includes the manila folder icons as
+seen in the upstream elementary icon theme. Additionally, our icon theme
+is now optimized with optipng, meaning a smaller install size and
+potentially improved load times.
+
+![](images/releases/18.10/manilla-folders.png)
+
+#### Greybird 3.22.9
+
+The latest Greybird release improves the look and feel of our window
+manager, alt-tab dialog, Chromium, and even pavucontrol! The notebook
+styles look significantly better and consistent with our other
+applications.
+
+![](images/releases/18.10/pavucontrol-greybird.png)
+
 ### Panel Plugins
 
 #### PulseAudio Plugin
