@@ -56,14 +56,6 @@ applications.
 
 ![](images/releases/18.10/pavucontrol-greybird.png)
 
-### Panel Plugins
-
-#### PulseAudio Plugin
-
-#### Status Notifier Plugin
-
-#### Notification Plugin
-
 ### Desktop Applications
 
 #### Utilities
@@ -90,7 +82,33 @@ applications.
 
 #### Applications
 
+-   Mousepad 0.4.1
+-   Ristretto 0.8.3
+-   Thunar 1.8.1 *(New GTK+ 3 release!)*
+-   Xfce Desktop 4.13.2 *(New GTK+ 3 release!)*
+-   Xfce Dictionary 0.8.1
+-   Xfce Panel 4.13.3 *(New GTK+ 3 release!)*
+-   Xfce Screenshooter 1.9.3 *(New GTK+ 3 release!)*
+-   Xfce Settings 4.13.4 *(New GTK+ 3 release!)*
+-   Xfce Task Manager 1.2.1
+-   Xfce Terminal 0.8.7.4
+
 #### Libraries
+
+-   Exo 0.12.2
+-   libxfce4util 4.13.2
+-   Tumbler 0.2.3
+-   Xfconf 4.13.5
+
+#### Panel Plugins
+
+-   Xfce Verve Plugin 2.0.0
+-   Xfce Whisker Menu Plugin 2.2.1
+
+#### Thunar Plugins
+
+-   Thunar Archive Plugin 0.4.0
+-   Thunar Media Tags Plugin 0.3.0
 
 ### Login & Locking
 
