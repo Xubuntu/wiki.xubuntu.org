@@ -41,8 +41,8 @@ both many of the other packages we carry and more generic issues.
 #### elementary Xfce Icon Theme 0.13
 
 The latest version of our icon theme includes the manila folder icons as
-seen in the upstream elementary icon theme. Additionally, our icon theme
-is now optimized with optipng, meaning a smaller install size and
+seen in the [upstream elementary icon theme](https://github.com/elementary/icons). Additionally, our icon
+theme is now optimized with optipng, meaning a smaller install size and
 potentially improved load times.
 
 ![](images/releases/18.10/manilla-folders.png)
