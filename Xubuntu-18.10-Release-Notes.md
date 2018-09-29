@@ -133,8 +133,12 @@ significantly better and consistent with our other applications.
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/exo/+changelog))
+-   libxfce4util
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/libxfce4util/+changelog))
 -   thunar
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/thunar/+changelog))
+-   tumbler
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/tumbler/+changelog))
 -   xfce4-appfinder
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfce4-appfinder/+changelog))
 -   xfce4-panel
@@ -162,6 +166,8 @@ significantly better and consistent with our other applications.
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/orage/+changelog))
 -   parole
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/parole/+changelog))
+-   ristretto
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/ristretto/+changelog))
 -   xfburn
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfburn/+changelog))
 -   xfce4-notifyd
