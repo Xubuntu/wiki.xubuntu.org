@@ -38,6 +38,10 @@ both many of the other packages we carry and more generic issues.
 
 ### Appearance
 
+#### Cosmic Wallpaper
+
+![](images/releases/18.10/xubuntu-cosmic.png)
+
 #### elementary Xfce Icon Theme 0.13
 
 The latest version of [our icon theme](https://github.com/shimmerproject/elementary-xfce) includes the
@@ -60,6 +64,7 @@ significantly better and consistent with our other applications.
 
 #### Applications
 
+-   Catfish 1.4.6
 -   Mousepad 0.4.1
 -   Ristretto 0.8.3
 -   Thunar 1.8.1 *(New GTK+ 3 release!)*
@@ -70,6 +75,7 @@ significantly better and consistent with our other applications.
 -   Xfce Settings 4.13.4 *(New GTK+ 3 release!)*
 -   Xfce Task Manager 1.2.1
 -   Xfce Terminal 0.8.7.4
+-   Xfce Window Manager 4.12.5
 
 #### Libraries
 
