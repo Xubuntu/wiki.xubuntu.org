@@ -96,20 +96,29 @@ significantly better and consistent with our other applications.
 
 #### Libraries
 
--   Exo 0.12.2
--   libxfce4util 4.13.2
--   Tumbler 0.2.3
--   Xfconf 4.13.5
+-   [Exo
+    0.12.2](https://bluesabre.org/2018/06/20/exo-0-12-1-and-0-12-2-released/)
+-   [libxfce4util
+    4.13.2](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000615.html)
+-   [Tumbler
+    0.2.3](https://mail.xfce.org/pipermail/xfce-announce/2018-September/000635.html)
+-   [Xfconf
+    4.13.5](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000619.html)
 
 #### Panel Plugins
 
--   Xfce Verve Plugin 2.0.0 *(New GTK+ 3 release!)*
--   Xfce Whisker Menu Plugin 2.2.1
+-   [Xfce Verve Plugin
+    2.0.0](https://mail.xfce.org/pipermail/xfce-announce/2018-April/000601.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Whisker Menu Plugin
+    2.2.1](https://mail.xfce.org/pipermail/xfce-announce/2018-July/000624.html)
 
 #### Thunar Plugins
 
--   Thunar Archive Plugin 0.4.0
--   Thunar Media Tags Plugin 0.3.0
+-   [Thunar Archive Plugin
+    0.4.0](https://mail.xfce.org/pipermail/xfce-announce/2017-December/000566.html)
+-   [Thunar Media Tags Plugin
+    0.3.0](https://mail.xfce.org/pipermail/xfce-announce/2018-February/000577.html)
 
 ## Changelogs
 
