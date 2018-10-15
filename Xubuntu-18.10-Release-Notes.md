@@ -64,18 +64,35 @@ significantly better and consistent with our other applications.
 
 #### Applications
 
--   Catfish 1.4.6
--   Mousepad 0.4.1
--   Ristretto 0.8.3
--   Thunar 1.8.1 *(New GTK+ 3 release!)*
--   Xfce Desktop 4.13.2 *(New GTK+ 3 release!)*
--   Xfce Dictionary 0.8.1
--   Xfce Panel 4.13.3 *(New GTK+ 3 release!)*
--   Xfce Screenshooter 1.9.3 *(New GTK+ 3 release!)*
--   Xfce Settings 4.13.4 *(New GTK+ 3 release!)*
--   Xfce Task Manager 1.2.1
--   Xfce Terminal 0.8.7.4
--   Xfce Window Manager 4.12.5
+-   [Catfish
+    1.4.6](https://bluesabre.org/2018/07/15/catfish-1-4-6-released-now-an-xfce-project/)
+-   [Mousepad
+    0.4.1](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000609.html)
+-   [Ristretto
+    0.8.3](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000623.html)
+-   [Thunar
+    1.8.1](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000614.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Desktop
+    4.13.2](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000616.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Dictionary
+    0.8.1](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000610.html)
+-   [Xfce Panel
+    4.13.3](https://mail.xfce.org/pipermail/xfce-announce/2018-May/000605.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Screenshooter
+    1.9.3](https://mail.xfce.org/pipermail/xfce-announce/2018-August/000632.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Settings
+    4.13.4](https://bluesabre.org/2018/06/20/xfce-settings-4-12-4-and-4-13-4-released/)
+    *(New GTK+ 3 release!)*
+-   [Xfce Task Manager
+    1.2.1](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000612.html)
+-   [Xfce Terminal
+    0.8.7.4](https://mail.xfce.org/pipermail/xfce-announce/2018-May/000606.html)
+-   [Xfce Window Manager
+    4.12.5](https://mail.xfce.org/pipermail/xfce-announce/2018-July/000629.html)
 
 #### Libraries
 
