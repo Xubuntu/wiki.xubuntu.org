@@ -92,16 +92,22 @@ significantly better and consistent with our other applications.
 
 ### Xubuntu/Other Packages
 
+-   atril
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/atril/+changelog))
 -   blueman
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/blueman/+changelog))
 -   elementary-xfce
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/elementary-xfce/+changelog))
+-   engrampa
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/engrampa/+changelog))
 -   gtk2-engines-xfce
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/gtk2-engines-xfce/+changelog))
 -   lightdm-gtk-greeter
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/lightdm-gtk-greeter/+changelog))
 -   lightdm-gtk-greeter-settings
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/lightdm-gtk-greeter-settings/+changelog))
+-   mate-calc
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/mate-calc/+changelog))
 -   menulibre
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/menulibre/+changelog))
 -   mugshot
@@ -133,10 +139,14 @@ significantly better and consistent with our other applications.
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/exo/+changelog))
+-   libxfce4ui
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/libxfce4ui/+changelog))
 -   libxfce4util
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/libxfce4util/+changelog))
 -   thunar
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/thunar/+changelog))
+-   thunar-volman
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/thunar-volman/+changelog))
 -   tumbler
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/tumbler/+changelog))
 -   xfce4-appfinder
@@ -211,3 +221,10 @@ significantly better and consistent with our other applications.
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfce4-whiskermenu-plugin/+changelog))
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfce4-xkb-plugin/+changelog))
+
+### Thunar Plugins
+
+-   thunar-archive-plugin
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/thunar-archive-plugin/+changelog))
+-   thunar-media-tags-plugin
+    ([changelog](https://launchpad.net/ubuntu/cosmic/+source/thunar-media-tags-plugin/+changelog))
