@@ -12,7 +12,15 @@ for more information and links to the test cases.
 
 ### Installer Issues
 
-    ***It must be noted that it is close to impossible for our small team of testers to be in a position to work through all the varying parameters available during installation. We do however aim to test all the possible methods of installation (including for OEM and using encryption) available either on a virtual machine or on hardware (where hardware has been used during testing then Xubuntu QA will where possible make that known on the iso testing tracker). Further installation testing information can be on the Ubuntu installation release note(s) listed below**
+**It must be noted that it is close to impossible for our small team of
+testers to be in a position to work through all the varying parameters
+available during installation. We do however aim to test all the
+possible methods of installation (including for OEM and using
+encryption) available either on a virtual machine or on hardware (where
+hardware has been used during testing then Xubuntu QA will where
+possible make that known on the iso testing tracker). Further
+installation testing information can be on the Ubuntu installation
+release note(s) listed below**
 
 -    No restart after installation
     ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
