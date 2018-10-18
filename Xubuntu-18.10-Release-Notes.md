@@ -19,6 +19,14 @@ for more information and links to the test cases.
 
 ### General Issues
 
+-   **GNOME Software crashes on 32-bit architectures**
+    ([1798236](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1798236))
+    -   This issue should be resolved after installing and running
+        updates.
+
+```{=html}
+<!-- -->
+```
 -   Network indicators
     -   Currently at times the panel could show 2 network icons, this
         appears to be a race condition which we have not been able to
@@ -27,7 +35,7 @@ for more information and links to the test cases.
 ```{=html}
 <!-- -->
 ```
--   Panel:
+-   Panel
     -   Applications Menu plugin clips panel icon
         ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
     -   Launch and Directory Menu items icons are too small
@@ -39,7 +47,7 @@ for more information and links to the test cases.
 ```{=html}
 <!-- -->
 ```
--   Parole Media Player:
+-   Parole Media Player
     -   Play button inactive
         ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
     -   Player crashes when MPRIS2 plugin is disabled
