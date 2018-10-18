@@ -83,6 +83,12 @@ both many of the other packages we carry and more generic issues.
 
 #### Cosmic Wallpaper
 
+Our beautiful new wallpaper features a gentle purple tone and greatly
+complements our GTK and icon themes. Past wallpapers are available in
+the
+[xubuntu-wallpapers](https://launchpad.net/ubuntu/cosmic/+package/xubuntu-wallpapers)
+package.
+
 ![](images/releases/18.10/xubuntu-cosmic.png)
 
 #### elementary Xfce Icon Theme 0.13
