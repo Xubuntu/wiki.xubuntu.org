@@ -1,13 +1,5 @@
 # Xubuntu 18.10 Release Notes
 
-## DRAFT:SUBJECT TO CHANGE
-
-***But since you\'re here\...***\
-Xubuntu 18.10 will be released on **Thursday, October 18th**, and we
-need your help with testing!\
-Please see our [latest call for testing](https://lists.ubuntu.com/archives/xubuntu-devel/2018-October/011716.html)
-for more information and links to the test cases.
-
 ## Notable Issues
 
 ### Installer Issues
