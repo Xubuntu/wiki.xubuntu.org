@@ -1,6 +1,10 @@
 # Xubuntu 18.10 Release Notes
 
-## Notable Issues
+## Upgrading from 18.04
+
+For 32 bit installations this is
+[disabled](https://wiki.ubuntu.com/CosmicCuttlefish/ReleaseNotes#Upgrades_on_i386)
+and currently out of our control.
 
 ### Installer Issues
 
