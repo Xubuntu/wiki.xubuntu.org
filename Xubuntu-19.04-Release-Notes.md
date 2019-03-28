@@ -77,40 +77,49 @@ vote:
 Additionally, Orage was removed ([Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-November/011721.html))
 from our standard installation.
 
-*(New GTK+ 3 release!)*
-
 #### Applications
 
--   [Catfish 1.4.7](http://example.com)
--   [Gigolo 0.4.90](http://example.com) *(New GTK+ 3 release!)*
--   [Mugshot 0.4.1](http://example.com)
--   [Thunar 1.8.4](http://example.com)
--   [Thunar Volume Manager 0.9.1](http://example.com) *(New GTK+ 3
-    release!)*
--   [Xfce Application Finder 4.13.2](http://example.com) *(New GTK+ 3
-    release!)*
--   [Xfce Desktop 4.13.3](http://example.com)
--   [Xfce Dictionary 0.8.2](http://example.com)
--   [Xfce Notifications 0.4.3](http://example.com)
--   [Xfce Panel 4.13.4](http://example.com)
--   [Xfce Screenshooter 1.9.4](http://example.com)
--   [Xfce Task Manager 1.2.2](http://example.com)
-
-```{=html}
-<!-- -->
-```
-    * 
+-   [Catfish
+    1.4.7](https://bluesabre.org/2019/01/27/catfish-1-4-7-released/)
+-   [Gigolo
+    0.4.90](https://mail.xfce.org/pipermail/xfce-announce/2018-October/000648.html)
+    *(New GTK+ 3 release!)*
+-   [Mugshot
+    0.4.1](https://bluesabre.org/2018/08/08/mugshot-0-4-1-released/)
+-   [Thunar
+    1.8.4](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000668.html)
+-   [Thunar Volume Manager
+    0.9.1](https://mail.xfce.org/pipermail/xfce-announce/2018-November/000652.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Application Finder
+    4.13.2](https://mail.xfce.org/pipermail/xfce-announce/2018-December/000655.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Desktop
+    4.13.3](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000673.html)
+-   [Xfce Dictionary
+    0.8.2](https://mail.xfce.org/pipermail/xfce-announce/2018-November/000653.html)
+-   [Xfce Notifications
+    0.4.3](https://mail.xfce.org/pipermail/xfce-announce/2018-October/000647.html)
+-   [Xfce Panel
+    4.13.4](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000659.html)
+-   [Xfce Screenshooter
+    1.9.4](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000672.html)
+-   [Xfce Task Manager
+    1.2.2](https://mail.xfce.org/pipermail/xfce-announce/2018-December/000658.html)
 
 #### Libraries
 
--   [Exo 0.12.4](http://example.com)
+-   [Exo 0.12.4](https://bluesabre.org/2019/01/19/exo-0-12-4-released/)
 
 #### Panel Plugins
 
--   [Xfce System Load Plugin 1.2.2](http://example.com)
--   [Xfce Weather Plugin 0.9.1](http://example.com) *(New GTK+ 3
-    release!)*
--   [Xfce Whisker Menu Plugin 2.3.1](http://example.com)
+-   [Xfce System Load Plugin
+    1.2.2](https://mail.xfce.org/pipermail/xfce-announce/2018-November/000654.html)
+-   [Xfce Weather Plugin
+    0.9.1](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000675.html)
+    *(New GTK+ 3 release!)*
+-   [Xfce Whisker Menu Plugin
+    2.3.1](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000663.html)
 
 ## Changelogs
 
