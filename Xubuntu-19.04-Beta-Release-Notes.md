@@ -1,4 +1,7 @@
-# Xubuntu 19.04 Release Notes
+# Xubuntu 19.04 (BETA) Release Notes
+
+**These release notes are for an unreleased version of Xubuntu. Please
+install at your own risk.**
 
 ## Dropping 32-bit Images
 
