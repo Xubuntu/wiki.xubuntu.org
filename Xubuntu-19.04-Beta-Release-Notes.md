@@ -3,7 +3,7 @@
 **These release notes are for an unreleased version of Xubuntu. Please
 install at your own risk.**
 
-## Dropping 32-bit Images
+### Dropping 32-bit Images
 
 [In December](https://lists.ubuntu.com/archives/xubuntu-devel/2018-December/011755.html),
 the team voted to discontinue 32-bit images for Xubuntu 19.04 and
