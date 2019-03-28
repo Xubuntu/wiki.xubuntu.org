@@ -28,14 +28,6 @@ release note(s) listed below**
 
 ### General Issues
 
--   Network indicators
-    -   Currently at times the panel could show 2 network icons, this
-        appears to be a race condition which we have not been able to
-        rectify in time for release.
-
-```{=html}
-<!-- -->
-```
 -   Panel
     -   Applications Menu plugin clips panel icon
         ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
