@@ -63,6 +63,20 @@ of the other packages we carry and more generic issues.
 
 ## Major Updates
 
+### Packageset Updates
+
+The following components were newly added to Xubuntu 19.04 with a team
+vote:
+
+-   AptURL ([More Information](https://help.ubuntu.com/community/AptURL)
+    \| [Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-December/011756.html))
+-   GIMP ([More Information](https://www.gimp.org/) \| [Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-November/011721.html))
+-   LibreOffice Impress (and Draw) ([More Information](https://www.libreoffice.org/discover/impress/) \|
+    [Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-November/011721.html))
+
+Additionally, Orage was removed ([Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-November/011721.html))
+from our standard installation.
+
 ### Appearance
 
 ### Xfce
