@@ -23,8 +23,7 @@ possible make that known on the iso testing tracker). Further
 installation testing information can be on the Ubuntu installation
 release note(s) listed below**
 
--    No restart after installation
-    ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
+*No current documented installer issues.*
 
 ### General Issues
 
