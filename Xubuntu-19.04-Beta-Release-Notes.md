@@ -119,6 +119,8 @@ from our standard installation.
 
 ### Xubuntu/Other Packages
 
+-   apturl
+    ([changelog](https://launchpad.net/ubuntu/disco/+source/apturl/+changelog))
 -   atril
     ([changelog](https://launchpad.net/ubuntu/disco/+source/atril/+changelog))
 -   blueman
@@ -127,6 +129,8 @@ from our standard installation.
     ([changelog](https://launchpad.net/ubuntu/disco/+source/elementary-xfce/+changelog))
 -   engrampa
     ([changelog](https://launchpad.net/ubuntu/disco/+source/engrampa/+changelog))
+-   gimp
+    ([changelog](https://launchpad.net/ubuntu/disco/+source/gimp/+changelog))
 -   gtk2-engines-xfce
     ([changelog](https://launchpad.net/ubuntu/disco/+source/gtk2-engines-xfce/+changelog))
 -   lightdm-gtk-greeter
@@ -199,8 +203,6 @@ from our standard installation.
     ([changelog](https://launchpad.net/ubuntu/disco/+source/catfish/+changelog))
 -   mousepad
     ([changelog](https://launchpad.net/ubuntu/disco/+source/mousepad/+changelog))
--   orage
-    ([changelog](https://launchpad.net/ubuntu/disco/+source/orage/+changelog))
 -   parole
     ([changelog](https://launchpad.net/ubuntu/disco/+source/parole/+changelog))
 -   ristretto
