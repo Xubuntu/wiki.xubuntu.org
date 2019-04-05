@@ -37,15 +37,6 @@ release note(s) listed below**
 ```{=html}
 <!-- -->
 ```
--   Parole Media Player
-    -   Play button inactive
-        ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
-    -   Player crashes when MPRIS2 plugin is disabled
-        ([1698540](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1698540))
-
-```{=html}
-<!-- -->
-```
 -   Ristretto: Thumbnail sidebar shows error icons instead of thumbnails
     for some images
     ([1756191](https://bugs.launchpad.net/ubuntu/+source/ristretto/+bug/1756191))
