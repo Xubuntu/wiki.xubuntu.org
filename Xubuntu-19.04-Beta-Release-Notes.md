@@ -49,6 +49,17 @@ of the other packages we carry and more generic issues.
 
 ## Major Updates
 
+### Keyboard Shortcuts
+
+Xubuntu 19.04 includes a few new keyboard shortcuts to make your
+workflow faster.
+
+-   **Shift + PrintScreen** will launch the Xfce Screenshooter\'s region
+    capture mode.
+-   **F4** (in Thunar) will open a terminal in the current path.
+-   **Ctrl + Shift + F** / **Cmd + Shift + F** (in Thunar) will open
+    Catfish in the current path.
+
 ### Packageset Updates
 
 The following components were newly added to Xubuntu 19.04 with a team
