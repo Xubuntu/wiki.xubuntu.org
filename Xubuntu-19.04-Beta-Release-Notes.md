@@ -68,10 +68,12 @@ from our standard installation.
 -   [Catfish
     1.4.7](https://bluesabre.org/2019/01/27/catfish-1-4-7-released/)
 -   [Gigolo
-    0.4.90](https://mail.xfce.org/pipermail/xfce-announce/2018-October/000648.html)
+    0.4.91](https://mail.xfce.org/pipermail/xfce-announce/2019-February/000671.html)
     *(New GTK+ 3 release!)*
 -   [Mugshot
     0.4.1](https://bluesabre.org/2018/08/08/mugshot-0-4-1-released/)
+-   [Parole Media Player
+    1.0.2](https://bluesabre.org/2019/04/04/parole-media-player-1-0-2-released/)
 -   [Thunar
     1.8.4](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000668.html)
 -   [Thunar Volume Manager
@@ -89,7 +91,7 @@ from our standard installation.
 -   [Xfce Panel
     4.13.4](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000659.html)
 -   [Xfce Screenshooter
-    1.9.4](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000672.html)
+    1.9.5](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000678.html)
 -   [Xfce Task Manager
     1.2.2](https://mail.xfce.org/pipermail/xfce-announce/2018-December/000658.html)
 
