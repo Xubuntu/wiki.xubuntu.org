@@ -27,16 +27,6 @@ release note(s) listed below**
 
 ### General Issues
 
--   Panel
-    -   With the Adwaita GTK theme, the classic applications menu,
-        launchers, and the directory menu plugin are clipped at various
-        panel sizes
-        ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608),
-        [1756612](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756612))
-
-```{=html}
-<!-- -->
-```
 -   Ristretto: Thumbnail sidebar shows error icons instead of thumbnails
     for some images
     ([1756191](https://bugs.launchpad.net/ubuntu/+source/ristretto/+bug/1756191))
