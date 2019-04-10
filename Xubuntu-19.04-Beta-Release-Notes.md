@@ -27,9 +27,8 @@ release note(s) listed below**
 
 ### General Issues
 
--   Ristretto: Thumbnail sidebar shows error icons instead of thumbnails
-    for some images
-    ([1756191](https://bugs.launchpad.net/ubuntu/+source/ristretto/+bug/1756191))
+-   Thunar: Right-click menu not expanded
+    ([1822380](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1822380))
 
 #### Ubuntu Generic Release Note
 
@@ -75,6 +74,8 @@ from our standard installation.
     0.4.1](https://bluesabre.org/2018/08/08/mugshot-0-4-1-released/)
 -   [Parole Media Player
     1.0.2](https://bluesabre.org/2019/04/04/parole-media-player-1-0-2-released/)
+-   [Ristretto
+    0.8.4](https://mail.xfce.org/pipermail/xfce-announce/2019-April/000680.html)
 -   [Thunar
     1.8.4](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000668.html)
 -   [Thunar Volume Manager
