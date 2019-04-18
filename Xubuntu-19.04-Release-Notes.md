@@ -1,7 +1,4 @@
-# Xubuntu 19.04 (BETA) Release Notes
-
-**These release notes are for an unreleased version of Xubuntu. Please
-install at your own risk.**
+# Xubuntu 19.04 Release Notes
 
 ### Dropping 32-bit Images
 
@@ -27,8 +24,11 @@ release note(s) listed below**
 
 ### General Issues
 
--   Thunar: Right-click menu not expanded
-    ([1822380](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1822380))
+-   Xfce Task Manager: Tooltips become unresponsive
+    ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578))
+-   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
+    Pulseaudio plugins added to panel
+    ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
 
 #### Ubuntu Generic Release Note
 
