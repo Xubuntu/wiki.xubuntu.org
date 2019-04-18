@@ -24,11 +24,11 @@ release note(s) listed below**
 
 ### General Issues
 
--   Xfce Task Manager: Tooltips become unresponsive
-    ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
+-   Xfce Task Manager: Tooltips become unresponsive
+    ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578))
 
 #### Ubuntu Generic Release Note
 
