@@ -33,78 +33,42 @@ of the other packages we carry and more generic issues.
 
 ## Major Updates
 
+### Xfce 4.14
+
+Released in August 2019, Xfce 4.14 is a modern desktop built on top of
+the latest libraries. From the release announcement:
+
+> In this 4.14 cycle the main goal was to port all core components to
+> Gtk3 (over Gtk2) and GDBus (over D-Bus GLib). Most components also
+> received GObject Introspection support. Along the way we ended up
+> polishing our user experience, introducing quite a few new features
+> and improvements (read below) and fixings a boatload of bugs (read
+> changelog).
+
+[Xfce 4.14 Release
+Announcement](https://xfce.org/about/news/?post=1565568000)\
+[Xfce 4.14 Tour](https://xfce.org/about/tour)
+
+### Light Locker Replaced by Xfce Screensaver
+
+Light Locker, our lockscreen since Xenial, has now been replaced with
+Xfce Screensaver. The new screensaver application is tightly integrated
+with Xfce and includes a number of features to significantly improve the
+lock experience in Xubuntu.
+
+-   Improved support for suspend and hibernate, including laptops
+-   Integration with Xfce Power Manager
+-   Support for X11 Screensaver signals
+-   DPMS support for better monitor power management
+-   Support for all Xscreensaver screensavers
+
 ### Keyboard Shortcuts
 
-Xubuntu 19.04 includes a few new keyboard shortcuts to make your
-workflow faster.
+Xubuntu 19.10 includes two new keyboard shortcuts to make transitioning
+from other desktop environments easier.
 
--   **Shift + PrintScreen** will launch the Xfce Screenshooter\'s region
-    capture mode.
--   **F4** (in Thunar) will open a terminal in the current path.
--   **Ctrl + Shift + F** / **Cmd + Shift + F** (in Thunar) will open
-    Catfish in the current path.
-
-### Packageset Updates
-
-The following components were newly added to Xubuntu 19.04 with a team
-vote:
-
--   AptURL ([More Information](https://help.ubuntu.com/community/AptURL)
-    \| [Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-December/011756.html))
--   GIMP ([More Information](https://www.gimp.org/) \| [Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-November/011721.html))
--   LibreOffice Impress (and Draw) ([More Information](https://www.libreoffice.org/discover/impress/) \|
-    [Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-November/011721.html))
-
-Additionally, Orage was removed ([Voting Results](https://lists.ubuntu.com/archives/xubuntu-devel/2018-November/011721.html))
-from our standard installation.
-
-#### Applications
-
--   [Catfish
-    1.4.7](https://bluesabre.org/2019/01/27/catfish-1-4-7-released/)
--   [Gigolo
-    0.4.91](https://mail.xfce.org/pipermail/xfce-announce/2019-February/000671.html)
-    *(New GTK+ 3 release!)*
--   [Mugshot
-    0.4.1](https://bluesabre.org/2018/08/08/mugshot-0-4-1-released/)
--   [Parole Media Player
-    1.0.2](https://bluesabre.org/2019/04/04/parole-media-player-1-0-2-released/)
--   [Ristretto
-    0.8.4](https://mail.xfce.org/pipermail/xfce-announce/2019-April/000680.html)
--   [Thunar
-    1.8.4](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000668.html)
--   [Thunar Volume Manager
-    0.9.1](https://mail.xfce.org/pipermail/xfce-announce/2018-November/000652.html)
-    *(New GTK+ 3 release!)*
--   [Xfce Application Finder
-    4.13.2](https://mail.xfce.org/pipermail/xfce-announce/2018-December/000655.html)
-    *(New GTK+ 3 release!)*
--   [Xfce Desktop
-    4.13.3](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000673.html)
--   [Xfce Dictionary
-    0.8.2](https://mail.xfce.org/pipermail/xfce-announce/2018-November/000653.html)
--   [Xfce Notifications
-    0.4.3](https://mail.xfce.org/pipermail/xfce-announce/2018-October/000647.html)
--   [Xfce Panel
-    4.13.4](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000659.html)
--   [Xfce Screenshooter
-    1.9.5](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000678.html)
--   [Xfce Task Manager
-    1.2.2](https://mail.xfce.org/pipermail/xfce-announce/2018-December/000658.html)
-
-#### Libraries
-
--   [Exo 0.12.4](https://bluesabre.org/2019/01/19/exo-0-12-4-released/)
-
-#### Panel Plugins
-
--   [Xfce System Load Plugin
-    1.2.2](https://mail.xfce.org/pipermail/xfce-announce/2018-November/000654.html)
--   [Xfce Weather Plugin
-    0.9.1](https://mail.xfce.org/pipermail/xfce-announce/2019-March/000675.html)
-    *(New GTK+ 3 release!)*
--   [Xfce Whisker Menu Plugin
-    2.3.1](https://mail.xfce.org/pipermail/xfce-announce/2019-January/000663.html)
+-   **Super + L** will now lock your session.
+-   **Super + D** will now show and hide your desktop.
 
 ## Changelogs
 
