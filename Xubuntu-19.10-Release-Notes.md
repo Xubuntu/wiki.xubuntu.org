@@ -80,6 +80,21 @@ from other desktop environments easier.
     and
     [here](https://didrocks.fr/2019/10/11/ubuntu-zfs-support-in-19.10-zfs-on-root/)
 
+## Other Updates
+
+### Color Emoji
+
+During this development cycle, the team voted on whether to bring color
+emoji to Xubuntu. We didn\'t get quite enough votes to come to a
+decision, but if you\'re interested in having color emoji, it\'s easy to
+add or remove!
+
+**Installing color emoji**\
+`sudo apt install fonts-noto-color-emoji`
+
+**Restoring monochrome emoji**\
+`sudo apt remove fonts-noto-color-emoji`
+
 ## Changelogs
 
 ### Xubuntu/Other Packages
