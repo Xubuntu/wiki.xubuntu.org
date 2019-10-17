@@ -5,17 +5,14 @@
 
 ### Installer Issues
 
-**It must be noted that it is close to impossible for our small team of
-testers to be in a position to work through all the varying parameters
-available during installation. We do however aim to test all the
-possible methods of installation (including for OEM and using
-encryption) available either on a virtual machine or on hardware (where
-hardware has been used during testing then Xubuntu QA will where
-possible make that known on the iso testing tracker). Further
-installation testing information can be on the Ubuntu installation
-release note(s) listed below**
-
-*No current documented installer issues.*
+-   gnome-font-viewer crashed with signal 5 in \_XEventsQueued()
+    ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
+-   System doesn\'t boot after installation - Legacy mode / 2 disks
+    ([1847898](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1847898))
+-   Ubiquity chooses which drive to install to with no user input
+    ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
+-   Wifi problem delays boot in live mode
+    ([1848333](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1848333))
 
 ### General Issues
 
