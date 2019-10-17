@@ -37,12 +37,11 @@ the latest libraries. From the release announcement:
 > Gtk3 (over Gtk2) and GDBus (over D-Bus GLib). Most components also
 > received GObject Introspection support. Along the way we ended up
 > polishing our user experience, introducing quite a few new features
-> and improvements (read below) and fixings a boatload of bugs (read
-> changelog).
+> and improvements and fixing a boatload of bugs.
 
-[Xfce 4.14 Release
-Announcement](https://xfce.org/about/news/?post=1565568000)\
-[Xfce 4.14 Tour](https://xfce.org/about/tour)
+[Release Announcement](https://xfce.org/about/news/?post=1565568000) /
+[Feature Tour](https://xfce.org/about/tour) /
+[Changelog](https://www.xfce.org/download/changelogs/4.14)
 
 ### Light Locker Replaced by Xfce Screensaver
 
