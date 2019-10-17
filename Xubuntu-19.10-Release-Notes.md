@@ -1,8 +1,5 @@
 # Xubuntu 19.10 Release Notes
 
-**THIS DOCUMENT IS A WORK IN PROGRESS, AND DOES NOT REFLECT THE FINAL
-19.10 RELEASE**
-
 ### Installer Issues
 
 -   gnome-font-viewer crashed with signal 5 in \_XEventsQueued()
