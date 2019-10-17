@@ -68,6 +68,18 @@ from other desktop environments easier.
 -   **Super + L** will now lock your session.
 -   **Super + D** will now show and hide your desktop.
 
+### ZFS on root
+
+-   Support for ZFS as the root filesystem is added as an experimental
+    feature in 19.10
+-   When installing, select \"EXPERIMENTAL: Erase disk and use ZFS\" to
+    create the ZFS file system and partitioning layout automatically
+    -   *This feature is unavailable with manual partitioning options*
+-   You can read more details on Didrock\'s blog
+    [here](https://didrocks.fr/2019/08/06/ubuntu-zfs-support-in-19.10-introduction/)
+    and
+    [here](https://didrocks.fr/2019/10/11/ubuntu-zfs-support-in-19.10-zfs-on-root/)
+
 ## Changelogs
 
 ### Xubuntu/Other Packages
