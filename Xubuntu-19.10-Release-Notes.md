@@ -2,17 +2,15 @@
 
 ### Installer Issues
 
--   gnome-font-viewer crashed with signal 5 in \_XEventsQueued()
-    ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
 -   System doesn\'t boot after installation - Legacy mode / 2 disks
     ([1847898](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1847898))
--   Ubiquity chooses which drive to install to with no user input
-    ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
--   Wifi problem delays boot in live mode
-    ([1848333](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1848333))
 
 ### General Issues
 
+-   GNOME Font Viewer: Crashes in the live environment
+    ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
+-   Ubiquity: Chooses which drive to install to with no user input
+    ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
