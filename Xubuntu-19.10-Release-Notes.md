@@ -20,7 +20,8 @@
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
 -   Xfce Task Manager: Tooltips become unresponsive
-    ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578))
+    ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578),
+    fix committed upstream)
 
 #### Ubuntu Generic Release Note
 
