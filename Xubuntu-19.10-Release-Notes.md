@@ -45,6 +45,8 @@ the latest libraries. From the release announcement:
 
 ### Light Locker Replaced by Xfce Screensaver
 
+![](images/releases/19.10/screensaver.png)
+
 Light Locker, our lockscreen since Xenial, has now been replaced with
 Xfce Screensaver. The new screensaver application is tightly integrated
 with Xfce and includes a number of features to significantly improve the
@@ -79,6 +81,8 @@ from other desktop environments easier.
 ## Other Updates
 
 ### Color Emoji
+
+![Color emoji popup](images/releases/19.10/emoji_popup.png)
 
 During this development cycle, the team voted on whether to bring color
 emoji to Xubuntu. We didn\'t get quite enough votes to come to a
