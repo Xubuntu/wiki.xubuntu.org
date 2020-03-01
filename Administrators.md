@@ -6,9 +6,7 @@
 | Site | Primary contact | Other administrators |
 | --- | --- | --- |
 | [Xubuntu.org](http://xubuntu.org/) | [Pasi Lallinaho](http://launchpad.net/~knome) | [Xubuntu Website team](http://launchpad.net/~xubuntu-website) |
-| [Twitter (@Xubuntu)](http://twitter.com/Xubuntu) | [Pasi Lallinaho](http://launchpad.net/~knome) | [Elizabeth K. Joseph](http://launchpad.net/~lyz) |
-| [Google+ page](https://plus.google.com/+Xubuntu/posts) | [Elizabeth K. Joseph](http://launchpad.net/~lyz) | [Knez Nenc](https://plus.google.com/102187694603676153622/about), [Simon Steinbeiß](http://launchpad.net/~ochosi) |
-| [Google+ community](https://plus.google.com/communities/108369189560969273265) | [Bill Carson](https://plus.google.com/111763375350071107978/about) | [Elizabeth K. Joseph](http://launchpad.net/~lyz) |
+| [Twitter (@Xubuntu)](http://twitter.com/Xubuntu) | [Elizabeth K. Joseph](http://launchpad.net/~lyz) | [Sean Davis](http://launchpad.net/~bluesabre) [Pasi Lallinaho](http://launchpad.net/~knome) |
 | [Facebook](https://www.facebook.com/xubuntuusers) | [Ton van Zetten](https://www.facebook.com/leipegast) | [Elizabeth K. Joseph](http://launchpad.net/~lyz), [Mike Holstein](http://launchpad.net/~mikeholstein), [Kev Bowring](http://launchpad.net/~flocculant) |
 | [deviantArt](http://xubuntu-showcase.deviantart.com/) | [Bruno Benitez](http://launchpad.net/~gridcube) | [Elizabeth K. Joseph](http://launchpad.net/~lyz), Rich Dennis, [Thomas Molloy](http://launchpad.net/~lderan), Joan Advincula |
 
