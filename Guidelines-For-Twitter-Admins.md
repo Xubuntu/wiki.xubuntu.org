@@ -48,3 +48,12 @@ guidelines.
 -   Avoid re-tweeting the same user frequently. We have some great fans!
     But be selective about the content we share from them, share the big
     announcements and important things, not every mention.
+
+#### Follows and Lists
+
+-   To avoid favoritism and generally not wanting to upset people if
+    they are not followed by the account but believe they should be, we
+    generally don\'t follow anyone.
+    -   We do follow at least one Xubuntu developer and the Xfce
+        account, so we are open to suggestions.
+-   Lists are not used for the same reason as following.
