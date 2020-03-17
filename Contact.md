@@ -14,7 +14,7 @@ following the team links.
 | Release manager | [Sean Davis](https://wiki.ubuntu.com/SeanDavis), [David Pearson](http://launchpad.net/~akxwi-dave) | bluesabre, akxwi-dave | [xubuntu-release](http://launchpad.net/~xubuntu-release) |
 | Technical lead | [Sean Davis](https://wiki.ubuntu.com/SeanDavis) | bluesabre | [xubuntu-dev](http://launchpad.net/~xubuntu-dev) |
 | Artwork lead | [Simon Steinbeiß](https://wiki.ubuntu.com/SimonSteinbeiss) | ochosi | [xubuntu-art](http://launchpad.net/~xubuntu-art) |
-| Website lead | [Pasi Lallinaho](https://wiki.ubuntu.com/PasiLallinaho) | knome | [xubuntu-website](http://launchpad.net/~xubuntu-website) |
+| Website lead | [xubuntu-website](http://launchpad.net/~xubuntu-website) |
 | Debian liaison | [Unit 193](https://wiki.ubuntu.com/Unit193) | Unit193 | N/A |
 | Marketing lead | [Elizabeth K. Joseph](https://wiki.ubuntu.com/lyz) | pleia2 | N/A |
 | QA lead | [David Pearson](http://launchpad.net/~akxwi-dave) | akxwi-dave | [xubuntu-qa](http://launchpad.net/~xubuntu-qa)<br>[xubuntu-testers](http://launchpad.net/~xubuntu-testers)<br>[xubuntu-bugs](http://launchpad.net/~xubuntu-bugs) |
