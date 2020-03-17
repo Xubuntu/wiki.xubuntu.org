@@ -26,4 +26,4 @@ of our community while others have moved on to pursue other challenges.
 | Website lead | [Elizabeth K. Joseph](https://wiki.ubuntu.com/lyz) | pleia2 | November 2011 -- October 2014 |
 | QA lead | [Elfy](https://wiki.ubuntu.com/Elfy) | elfy | September 2012 -- June 2015 |
 | Xubuntu Project Lead | [Simon Steinbeiß](https://wiki.ubuntu.com/SimonSteinbeiss) | ochosi | April 2014 -- August 2016 |
-| Xubuntu Website Lead | [Pasi Lallinaho](https://wiki.ubuntu.com/PasiLallinaho) | knome | October 2014 -- October 2019 |
+| Website Lead | [Pasi Lallinaho](https://wiki.ubuntu.com/PasiLallinaho) | knome | October 2014 -- October 2019 |
