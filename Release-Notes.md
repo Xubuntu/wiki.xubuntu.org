@@ -20,9 +20,6 @@ the final release.**
 -   Xfce Settings Daemon: Sometimes does not run after logging in,
     appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
--   Xfce Task Manager: Tooltips become unresponsive
-    ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578),
-    fix released upstream)
 
 #### Ubuntu Generic Release Note
 
