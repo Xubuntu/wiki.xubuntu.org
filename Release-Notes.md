@@ -50,6 +50,12 @@ Manager and:
 
 ### Desktop Integration
 
+![](images/releases/20.04/packages.png)
+
+  ----------------------------------------------------------
+   *gedit installed as a Debian package, Snap, and Flatpak*
+  ----------------------------------------------------------
+
 #### Snaps
 
 Our desktop themes **Greybird**, **Greybird-dark**, and
