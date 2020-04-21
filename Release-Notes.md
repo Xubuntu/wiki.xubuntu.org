@@ -10,12 +10,13 @@ supported for three years until Saturday, April 29, 2023. For general
 information and the latest updates for Xubuntu 20.04, check out the
 [release page](https://xubuntu.org/release/20-04) on xubuntu.org.
 
-## Screenshots
-
--   [Installation](https://bluesabre.org/2020/04/12/xubuntu-20-04-in-screenshots-the-installer/)
-    (bluesabre.org)
--   [Desktop Applications](https://bluesabre.org/2020/04/17/xubuntu-20-04-in-screenshots-desktop/)
-    (bluesabre.org)
+-   [Known Issues](#known_issues)
+-   [Ubuntu Common Release Notes](#ubuntu_common_release_notes)
+-   [Screenshots](#screenshots)
+-   [Major Updates](#major_updates)
+-   [Removals](#removals)
+-   [Updates](#updates)
+-   [Changelogs](#changelogs)
 
 ## Known Issues
 
@@ -37,11 +38,18 @@ information and the latest updates for Xubuntu 20.04, check out the
     resulting in appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
 
-## Ubuntu Generic Release Notes
+## Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) covers both many
 of the other packages we carry and more issues common to every Ubuntu
 flavor.
+
+## Screenshots
+
+-   [Installation](https://bluesabre.org/2020/04/12/xubuntu-20-04-in-screenshots-the-installer/)
+    (bluesabre.org)
+-   [Desktop Applications](https://bluesabre.org/2020/04/17/xubuntu-20-04-in-screenshots-desktop/)
+    (bluesabre.org)
 
 ## Major Updates
 
