@@ -80,6 +80,12 @@ a consistent desktop experience with the following commands.
 
 ## Other Updates
 
+### Apt Offline
+
+**apt-offline** is no longer included in Xubuntu 20.04. Until February,
+it [depended on Python 2](https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+bug/1848755)
+and was thus removed from the Xubuntu and Ubuntu Studio seeds.
+
 ### Python 2
 
 With Python 2 now officially End of Life as of January 1, 2020, Ubuntu
