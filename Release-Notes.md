@@ -38,15 +38,19 @@ from a total 237 submissions. The selection was based on a team vote.
 
 ### Greybird Dark Theme
 
-Xubuntu 20.04 ships with a brand new optional theme, Greybird-dark. To
-switch from the default Greybird to Greybird-dark, open your Settings
-Manager and:
+Xubuntu 20.04 ships with a brand new optional theme, **Greybird-dark**.
+To switch from the default **Greybird** to **Greybird-dark**, open your
+Settings Manager and:
 
 -   Click \"Appearance\". Select \"Greybird-dark\".
 -   Click \"All Settings\".
 -   Click \"Window Manager\". Select \"Greybird-dark\".
 
-![](images/releases/20.04/greybird-dark.jpg)
+![](images/releases/20.04/greybird-dark.png)
+
+  ---------------------------------------------------------------------------------------------
+   *Greybird-dark makes your entire desktop darker while still maintaining a usable contrast.*
+  ---------------------------------------------------------------------------------------------
 
 ### Desktop Integration
 
