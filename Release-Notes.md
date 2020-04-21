@@ -18,13 +18,12 @@ the final release.**
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
 -   Xfce Settings Daemon: Sometimes does not run after logging in,
-    appearance and configuration issues
+    resulting in appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
 
-### Ubuntu Generic Release Note
+### Ubuntu Generic Release Notes
 
-The main Ubuntu release
-[note](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) covers both many
+The main Ubuntu [Release Notes](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) covers both many
 of the other packages we carry and more generic issues.
 
 ## Major Updates
