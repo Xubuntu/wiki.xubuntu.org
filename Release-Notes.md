@@ -80,17 +80,22 @@ a consistent desktop experience with the following commands.
 
 ## Other Updates
 
+### Python 2
+
+With Python 2 now officially End of Life as of January 1, 2020, Ubuntu
+and its various flavors are no longer shipping Python 2. Xubuntu
+includes only Python 3.8 as of 20.04.
+
 ### Apt Offline
 
 **apt-offline** is no longer included in Xubuntu 20.04. Until February,
 it [depended on Python 2](https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+bug/1848755)
 and was thus removed from the Xubuntu and Ubuntu Studio seeds.
 
-### Python 2
+### Pidgin Libnotify Plugin
 
-With Python 2 now officially End of Life as of January 1, 2020, Ubuntu
-and its various flavors are no longer shipping Python 2. Xubuntu
-includes only Python 3 as of 20.04.
+**pidgin-libnotify** is no longer included in the Ubuntu repositories
+and has thus been removed from Xubuntu.
 
 ## Changelogs
 
