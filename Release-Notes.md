@@ -78,7 +78,7 @@ a consistent desktop experience with the following commands.
 `flatpak install org.gtk.Gtk3theme.Greybird`\
 `flatpak install org.gtk.Gtk3theme.Greybird-dark`
 
-## Other Updates
+## Removals
 
 ### Python 2
 
@@ -96,6 +96,70 @@ and was thus removed from the Xubuntu and Ubuntu Studio seeds.
 
 **pidgin-libnotify** is no longer included in the Ubuntu repositories
 and has thus been removed from Xubuntu.
+
+## Updates
+
+*Significant package and version updates. For full package changelogs,
+see the Changelogs section below.*
+
+### Application Stack
+
+-   GTK / GNOME 3.36
+-   MATE 1.24
+-   Xfce 4.14
+
+### Themes
+
+-   Greybird 3.22.12
+-   Numi: 2.6.7
+-   elementary-xfce 0.15
+
+### Applications
+
+#### Xfce
+
+-   Catfish 1.4.13
+-   Gigolo 0.5.1
+-   Parole Media Player 1.0.5
+-   Thunar File Manager 1.8.14
+-   Xfburn 0.6.2
+-   Xfce Desktop 4.14.2
+-   Xfce Dictionary 0.8.3
+-   Xfce Panel 4.14.3
+-   Xfce Panel Profiles 1.0.10
+-   Xfce Power Manager 1.6.6
+-   Xfce PulseAudio Plugin 0.4.3
+-   Xfce Screensaver 1.9.7
+-   Xfce Settings 4.14.3
+-   Xfce StatusNotifier Plugin 0.2.2
+-   Xfce Task Manager 1.2.3
+-   Xfce Terminal 0.8.9
+-   Xfce Weather Plugin 0.10.1
+-   Xfce Whisker Menu Plugin 2.4.3
+-   Xfce Window Manager 4.14.1
+
+#### MATE
+
+-   Atril 1.24.0
+-   Engrampa 1.24.0
+-   MATE Calculator 1.24.0
+
+#### GNOME
+
+-   GNOME Mines 3.36.0
+-   GNOME Software 3.36.0
+-   GNOME Sudoku 3.36.0
+-   Simple Scan 3.36.0
+
+#### Everything Else
+
+-   Blueman 2.1.2
+-   Firefox 75.0
+-   GIMP 2.10.18
+-   LibreOffice 6.4.2
+-   PulseAudio Volume Control 4.0
+-   SGT Puzzles 20191231.79a5378-3 (and Launcher 0.2.5)
+-   Thunderbird 68.7.0
 
 ## Changelogs
 
