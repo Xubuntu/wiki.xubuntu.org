@@ -21,7 +21,7 @@ the final release.**
     appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
 
-#### Ubuntu Generic Release Note
+### Ubuntu Generic Release Note
 
 The main Ubuntu release
 [note](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) covers both many
@@ -29,14 +29,14 @@ of the other packages we carry and more generic issues.
 
 ## Major Updates
 
-# Xubuntu Community Wallpaper Contest
+### Xubuntu Community Wallpaper Contest
 
 Xubuntu hosted a new community wallpaper contest, where [6 winners were selected](https://xubuntu.org/news/xubuntu-20-04-community-wallpaper-contest-winners/)
 from a total 237 submissions. The selection was based on a team vote.
 
 ![](images/releases/20.04/wp_contest_winners.jpg)
 
-# Greybird Dark Theme
+### Greybird Dark Theme
 
 Xubuntu 20.04 ships with a brand new optional theme, Greybird-dark. To
 switch from the default Greybird to Greybird-dark, open your Settings
@@ -48,9 +48,19 @@ Manager and:
 
 ![](images/releases/20.04/greybird-dark.jpg)
 
+### Desktop Integration
+
+#### Snaps
+
+Our desktop themes **Greybird**, **Greybird-dark**, and
+**elementary-xfce** are now included in the gtk-common-themes snap. When
+using any of these themes, you can expect snap packages to fit in
+perfectly with the rest of your desktop. Snaps work out of the box on
+Xubuntu, and can be installed with the included GNOME Software.
+
 ## Other Updates
 
-# Python 2
+### Python 2
 
 With Python 2 now officially End of Life as of January 1, 2020, Ubuntu
 and its various flavors are no longer shipping Python 2. Xubuntu
