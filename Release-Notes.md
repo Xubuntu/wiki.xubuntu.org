@@ -34,7 +34,7 @@ of the other packages we carry and more generic issues.
 Xubuntu hosted a new community wallpaper contest, where [6 winners were selected](https://xubuntu.org/news/xubuntu-20-04-community-wallpaper-contest-winners/)
 from a total 237 submissions. The selection was based on a team vote.
 
-![](images/releases/20.04/wp_contest_winners.jpg)
+![](images/releases/20.04/wallpaper-contest-winners.png)
 
 ### Greybird Dark Theme
 
