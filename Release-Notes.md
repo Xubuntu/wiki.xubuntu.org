@@ -3,6 +3,20 @@ the final release.**
 
 # (DRAFT) Xubuntu 20.04 Release Notes
 
+**Welcome to the Xubuntu 20.04 \"Focal Fossa\" release!**
+
+Xubuntu 20.04 was released on Thursday, April 23, 2020 and will be
+supported for three years until Saturday, April 29, 2023. For general
+information and the latest updates for Xubuntu 20.04, check out the
+[release page](https://xubuntu.org/release/20-04) on xubuntu.org.
+
+## Screenshots
+
+-   [Installation](https://bluesabre.org/2020/04/12/xubuntu-20-04-in-screenshots-the-installer/)
+    (bluesabre.org)
+-   [Desktop Applications](https://bluesabre.org/2020/04/17/xubuntu-20-04-in-screenshots-desktop/)
+    (bluesabre.org)
+
 ## Known Issues
 
 ### Installer Issues
