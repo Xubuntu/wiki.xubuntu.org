@@ -58,6 +58,15 @@ using any of these themes, you can expect snap packages to fit in
 perfectly with the rest of your desktop. Snaps work out of the box on
 Xubuntu, and can be installed with the included GNOME Software.
 
+#### Flatpaks
+
+**Greybird** and **Greybird-dark** are available to install on Flathub!
+If you use Flatpaks on your system, you can install our themes and enjoy
+a consistent desktop experience with the following commands.
+
+`flatpak install org.gtk.Gtk3theme.Greybird`\
+`flatpak install org.gtk.Gtk3theme.Greybird-dark`
+
 ## Other Updates
 
 ### Python 2
