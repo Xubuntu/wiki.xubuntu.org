@@ -3,6 +3,8 @@ the final release.**
 
 # (DRAFT) Xubuntu 20.04 Release Notes
 
+## Known Issues
+
 ### Installer Issues
 
 -   System doesn\'t boot after installation - Legacy mode / 2 disks
@@ -21,10 +23,11 @@ the final release.**
     resulting in appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
 
-### Ubuntu Generic Release Notes
+## Ubuntu Generic Release Notes
 
 The main Ubuntu [Release Notes](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) covers both many
-of the other packages we carry and more generic issues.
+of the other packages we carry and more issues common to every Ubuntu
+flavor.
 
 ## Major Updates
 
