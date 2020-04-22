@@ -29,6 +29,11 @@ information and the latest updates for Xubuntu 20.04, check out the
 
 ### General Issues
 
+-   AMD Graphics: Block staircase display with side-by-side monitors of
+    different pixel widths
+    ([1873895](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-video-amdgpu/+bug/1873895),
+    [Fixed upstream](https://gitlab.freedesktop.org/daenzer/xf86-video-amdgpu/-/commit/0732f81a2c67354ddfa7a495bee6b0997c6ef244),
+    SRU expected for 20.04.1)
 -   GNOME Font Viewer: Crashes in the live environment
     ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
