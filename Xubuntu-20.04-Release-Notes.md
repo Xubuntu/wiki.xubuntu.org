@@ -42,6 +42,8 @@ information and the latest updates for Xubuntu 20.04, check out the
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
+-   Xfce Screensaver: Password required twice when switching users
+    ([1874178](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1874178))
 -   Xfce Settings Daemon: Sometimes does not run after logging in,
     resulting in appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
