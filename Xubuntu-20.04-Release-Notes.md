@@ -1,9 +1,6 @@
-**These release notes are a work in progress and are not indicative of
-the final release.**
+# Xubuntu 20.04 Release Notes
 
-# (DRAFT) Xubuntu 20.04 Release Notes
-
-**Welcome to the Xubuntu 20.04 \"Focal Fossa\" release!**
+**Welcome to the Xubuntu 20.04 \"Focal Fossa\" release notes!**
 
 Xubuntu 20.04 was released on Thursday, April 23, 2020 and will be
 supported for three years until Saturday, April 29, 2023. For general
