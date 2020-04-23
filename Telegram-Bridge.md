@@ -1,1 +1,1 @@
-WIP
+Telegram Groups and IRC Bridge
