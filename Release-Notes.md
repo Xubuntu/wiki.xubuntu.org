@@ -27,13 +27,19 @@ information and the latest updates for Xubuntu 20.04, check out the
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
 
-### General Issues
+### Graphical Issues
 
 -   AMD Graphics: Block staircase display with side-by-side monitors of
     different pixel widths
     ([1873895](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-video-amdgpu/+bug/1873895),
     [Fixed upstream](https://gitlab.freedesktop.org/daenzer/xf86-video-amdgpu/-/commit/0732f81a2c67354ddfa7a495bee6b0997c6ef244),
     SRU expected for 20.04.1)
+-   VNC (tightvncserver): Window decorations are not displayed
+    ([1860921](https://bugs.launchpad.net/ubuntu/+source/xfwm4/+bug/1860921),
+    Fixed upstream, SRU expected for 20.04.1)
+
+### General Issues
+
 -   GNOME Font Viewer: Crashes in the live environment
     ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
