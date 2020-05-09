@@ -18,6 +18,9 @@ telegram groups.
     each other
 -   [IRC bridge](https://snapcraft.io/matterbridge) takes low resources
     and was set up and tested on #xubuntu-support
+-   Telegram users are accessible even when they leave the group
+-   Telegram group is easily searchable and discoverable, as some users
+    have already found the non-advertised support group
 
 ##### Cons
 
