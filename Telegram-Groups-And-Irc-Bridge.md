@@ -14,6 +14,8 @@ telegram groups.
     rather than telegram with its IRC bridges)
 -   Implemented with successful results during the Ubuntu Testing Week
     for 20.04 with the #ubuntu-quality channel
+-   Implemented by [other open source projects](https://docs.teleirc.com/en/latest/about/who-uses-teleirc/)
+    like Fedora and LibreOffice
 -   The bridge ensures that users of both platforms are accessible to
     each other
 -   [IRC bridge](https://snapcraft.io/matterbridge) takes low resources
