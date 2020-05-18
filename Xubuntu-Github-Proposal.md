@@ -63,9 +63,9 @@ of managing and reporting on project data.
 
 ### Implementation
 
-1.  Ordered List ItemCreate a new Xubuntu organization on GitHub,
-    assigning individual members of \~xubuntu-council and \~xubuntu-dev
-    as owners of the organization.
+1.  Create a new Xubuntu organization on GitHub, assigning individual
+    members of \~xubuntu-council and \~xubuntu-dev as owners of the
+    organization.
 2.  Create teams under the Organization, mirroring our current team
     structure on Launchpad.
     1.  Example: <https://github.com/orgs/shimmerproject/teams>
