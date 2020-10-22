@@ -2,7 +2,7 @@
 
 **Welcome to the Xubuntu 20.10 \"Groovy Gorilla\" release notes!**
 
-Xubuntu 20.04 was released on Thursday, October 22, 2020 and will be
+Xubuntu 20.10 was released on Thursday, October 22, 2020 and will be
 supported for nine months until Thursday, July 22, 2021. For general
 information and the latest updates for Xubuntu 20.10, check out the
 [release page](https://xubuntu.org/release/20-10) on xubuntu.org.
