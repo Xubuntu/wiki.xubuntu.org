@@ -81,7 +81,9 @@ love the help!
 
 Users of the LibreOffice Tango theme will find that it is no longer
 included in Xubuntu. However, it is still available to install from the
-repositories. [Install in Xubuntu](apt://libreoffice-style-tanbgo)
+repositories. Install in Xubuntu:
+
+      sudo apt install libreoffice-style-tango
 
 ## Updates
 
