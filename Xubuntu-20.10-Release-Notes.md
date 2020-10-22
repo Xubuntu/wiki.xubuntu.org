@@ -18,8 +18,6 @@ information and the latest updates for Xubuntu 20.10, check out the
 
 ### Installer Issues
 
--   System doesn\'t boot after installation - Legacy mode / 2 disks
-    ([1847898](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1847898))
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
 
@@ -30,9 +28,6 @@ information and the latest updates for Xubuntu 20.10, check out the
     ([1873895](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-video-amdgpu/+bug/1873895),
     [Fixed upstream](https://gitlab.freedesktop.org/daenzer/xf86-video-amdgpu/-/commit/0732f81a2c67354ddfa7a495bee6b0997c6ef244),
     SRU expected for 20.04.1)
--   VNC (tightvncserver): Window decorations are not displayed
-    ([1860921](https://bugs.launchpad.net/ubuntu/+source/xfwm4/+bug/1860921),
-    Fixed upstream, SRU expected for 20.04.1)
 
 ### General Issues
 
