@@ -71,9 +71,9 @@ on [Transifex](https://www.transifex.com/xubuntu/public/)!
 With a small team of new contributors, we worked on revamping our
 documentation this cycle. Every chapter received a number of updates and
 improvements, all of which can currently be found on [Google Drive](https://drive.google.com/drive/folders/10nsLPokttFjG9g4x4mLBYNkTyO0izy5H).
-We started migrating it to Docbook, but didn\'t finish due to technical
-complications and time constraints. If you\'re a Docbook expert, we\'d
-love the help!
+We [started migrating](https://github.com/Xubuntu/xubuntu-docs/tree/docs-refresh) it
+to Docbook, but didn\'t finish due to technical complications and time
+constraints. If you\'re a Docbook expert, we\'d love the help!
 
 ## Removals
 
