@@ -13,6 +13,9 @@
 
 ## Development server
 
+Our development server at dev.xubuntu.org runs the LTS release of
+Ubuntu.
+
 The sysadmins for the development server are:
 
 -   [Elizabeth K. Joseph](http://launchpad.net/~lyz)
