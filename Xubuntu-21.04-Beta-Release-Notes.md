@@ -16,7 +16,7 @@ information and the latest updates for Xubuntu 21.04, check out the
 -   [Known Issues](#known_issues)
 -   [Ubuntu Common Release Notes](#ubuntu_common_release_notes)
 -   [Major Updates](#major_updates)
--   [Removals](#ux_updates)
+-   [UX Updates](#ux_updates)
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
