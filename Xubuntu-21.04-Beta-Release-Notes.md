@@ -33,8 +33,6 @@ information and the latest updates for Xubuntu 21.04, check out the
     ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
 -   GNOME Font Viewer: Crashes in the live environment
     ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
--   GNOME Software: Updates and is replaced by Snap Store
-    ([1922157](https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+bug/1922157))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
