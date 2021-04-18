@@ -1,17 +1,13 @@
-# Xubuntu 21.04 BETA Release Notes
+# Xubuntu 21.04 Release Notes
 
-**Welcome to the Xubuntu 21.04 \"Hirsute Hippo\" beta release notes!**
-
-*Please note that these release notes are still being written while
-Hirsute Hippo is still in development. Features are unlikely to change,
-but new software updates and fixes are expected before the final
-release. We\'ve also got a lot more to say, so stay tuned for a more
-exciting set of release notes closer to April 22.*
+**Welcome to the Xubuntu 21.04 \"Hirsute Hippo\" release notes!**
 
 Xubuntu 21.04 will be released on Thursday, April 22, 2021 and will be
 supported for nine months until Thursday, January 22, 2022. For general
 information and the latest updates for Xubuntu 21.04, check out the
 [release page](https://xubuntu.org/release/21-04) on xubuntu.org.
+
+![](images/releases/21.04/xubuntu_21.04.png)
 
 -   [Known Issues](#known_issues)
 -   [Ubuntu Common Release Notes](#ubuntu_common_release_notes)
