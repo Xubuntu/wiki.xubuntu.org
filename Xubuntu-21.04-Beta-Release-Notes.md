@@ -50,9 +50,29 @@ Ubuntu flavor.
 
 ## Major Updates
 
--   Xfce 4.16 ([Release Announcement](https://www.xfce.org/about/news/?post=1608595200),
-    [Changelog](https://www.xfce.org/download/changelogs/4.16/),
-    [Tour](https://www.xfce.org/about/tour416))
+-   Xubuntu 21.04 is the first Xubuntu release shipping **Xfce 4.16**,
+    which includes many improvements over the previous release. Some
+    standout new features include:
+    -   A new \"StatusTray\" panel plugin, consolidating the
+        StatusNotifier and System plugins into a single powerful and
+        consistent plugin.
+    -   Dark mode for the Xfce panel to use a dark appearance without
+        otherwise light themes.
+    -   Support for fractional scaling in the Display preferences.
+    -   System information including CPU and GPU details in the About
+        Xfce dialog.
+    -   Improved search and filtering in the Settings Manager.
+    -   A new \"Default Applications\" dialog that consolidates the
+        previous \"Mime Settings\" and \"Preferred Applications\"
+        dialogs.
+    -   Queued file transfers, paused copy/move operations,
+        per-directory view settings, and more added to the Thunar file
+        manager.
+    -   Improved sorting for applications in the Application Finder,
+        using a combination of frequency and recency.
+    -   For more information about Xfce 4.16, checkout the [Release Announcement](https://www.xfce.org/about/news/?post=1608595200),
+        [Changelog](https://www.xfce.org/download/changelogs/4.16/), and
+        [Tour](https://www.xfce.org/about/tour416).
 -   Hexchat and Synaptic added to the packageset
 
 ## UX Updates
