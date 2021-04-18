@@ -64,7 +64,14 @@ Ubuntu flavor.
     -   For more information about Xfce 4.16, checkout the [Release Announcement](https://www.xfce.org/about/news/?post=1608595200),
         [Changelog](https://www.xfce.org/download/changelogs/4.16/), and
         [Tour](https://www.xfce.org/about/tour416).
--   Hexchat and Synaptic added to the packageset
+-   **Hexchat** and **Synaptic** are now included in Xubuntu 21.04.
+    -   **[HexChat](https://hexchat.github.io/)** is an
+        highly-configurable open source IRC client and is recommended
+        over Pidgin for IRC communication. In Xubuntu, it\'s
+        preconfigured to connect to the #xubuntu channel on Freenode.
+    -   **[Synaptic](https://www.nongnu.org/synaptic/)** is an advanced
+        package manager for apt. It joins GNOME Software on Xubuntu and
+        can be safely used alongside it.
 
 ## UX Updates
 
