@@ -150,7 +150,7 @@ see the Changelogs section below.*
 
 -   GNOME Mines 3.36.1
 -   GNOME Software 3.38.0
--   GNOME Sudoku 3.38.1
+-   GNOME Sudoku 40.0
 -   Simple Scan 3.38.1
 
 #### Everything Else
