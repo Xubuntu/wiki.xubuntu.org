@@ -87,10 +87,13 @@ Ubuntu flavor.
 
 ### Keyboard Shortcuts
 
--   Ctrl + Alt + Delete: Logout
--   Ctrl + Shift + Escape: Task Manager
--   Super + R: Application Finder
--   Super + E, Ctrl + Alt + F: File Manager
+Our keyboard shortcuts were updated to better align with Xfce 4.16 and
+other popular desktop environments.
+
+-   **Ctrl+Alt+Delete**: Shows the Logout dialog
+-   **Ctrl+Shift+Escape**: Launches Task Manager
+-   **Super+R**: Launches the Application Finder
+-   **Super+E** or **Ctrl+Alt+F**: Launches the File Manager
 
 ### Desktop
 
