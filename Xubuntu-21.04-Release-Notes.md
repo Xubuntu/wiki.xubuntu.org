@@ -57,7 +57,7 @@ Ubuntu flavor.
     -   **Queued file transfers**, **paused copy/move operations**,
         **per-directory view settings**, and more added to the Thunar
         file manager.
-    -   For more information about Xfce 4.16, checkout the [Release Announcement](https://www.xfce.org/about/news/?post=1608595200),
+    -   For more information about Xfce 4.16, check out the [Release Announcement](https://www.xfce.org/about/news/?post=1608595200),
         [Changelog](https://www.xfce.org/download/changelogs/4.16/), and
         [Tour](https://www.xfce.org/about/tour416).
 -   **Hexchat** and **Synaptic** are now included in Xubuntu 21.04.
@@ -103,7 +103,7 @@ Ubuntu flavor.
 ## Updates
 
 *Significant package and version updates. For full package changelogs,
-see the Changelogs section below.*
+see the [Changelogs](#Changelogs) section below.*
 
 ### Application Stack
 
