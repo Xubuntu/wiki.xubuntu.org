@@ -108,25 +108,34 @@ shortcuts, [click here](https://wiki.xubuntu.org/releases/21.04/keyboard-shortcu
 
 ### Desktop
 
--   Hide File System and Removal Devices by default
--   Remove the applications menu from right-click
+-   The File System and removable device icons are no longer displayed
+    on the desktop
+-   The applications menu has been removed from the desktop right-click
+    menu
 
 ### Menu
 
--   Removed Texinfo launcher
--   Moved Pavucontrol launcher to the Setting Manager \"Sound\" launcher
+-   The Texinfo launcher has been removed from the menu
+-   The PulseAudio Volume Control launcher has been removed from the
+    menu and replaced with a \"Sound\" option in the Settings Manager
 
 ### Panel
 
--   StatusNotifier plugin has been merged into Systray
--   Removed separator between the clock and Systray and added padding
--   Enabled window focus support for the PulseAudio plugin
+-   The StatusNotifier and Systray plugins have been merged and replaced
+    with the StatusTray plugin
+-   The separator between the clock and tray icons was replaced with
+    padding on both sides, removing the unclickable space between the
+    plugins and giving the clock some breathing room
+-   The PulseAudio plugin is now configured with window focus support,
+    improving integration with third-party music players
 
 ### Thunar
 
--   Use the path bar widget by default
--   Enable opening folders in a new tab on middle click
--   Disabled changing window icon for special folders
+-   The path bar is now used by default, making it easier to navigate up
+    paths
+-   Folders can now be opened in a new tab by middle-clicking them
+-   Special folders (such as Home) will no longer change the window
+    icon, adding consistency to the panel
 
 ## Updates
 
