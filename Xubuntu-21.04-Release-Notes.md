@@ -83,6 +83,14 @@ Ubuntu flavor.
     thanks to our translation team on
     [Transifex](https://www.transifex.com/xubuntu/public/)!
 
+```{=html}
+<!-- -->
+```
+-   Xubuntu 21.04 now includes a **\"Minimal\" install option** on the
+    main ISO. This installation option is similar to the [Xubuntu Core](https://unit193.net/xubuntu/) installation image, and strips
+    Xubuntu down to a might lighter base. To see the packages that are
+    removed with the minimal install, check out our [seed file](https://github.com/Xubuntu/xubuntu-seed/blob/hirsute/desktop.minimal-remove).
+
 ## UX Updates
 
 ### Keyboard Shortcuts
