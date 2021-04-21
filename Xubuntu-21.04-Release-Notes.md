@@ -22,6 +22,8 @@ information and the latest updates for Xubuntu 21.04, check out the
 
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
+-   OEM installation uses the wrong slideshow
+    ([1842047](https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047))
 
 ### General Issues
 
@@ -57,9 +59,9 @@ Ubuntu flavor.
     -   **Queued file transfers**, **paused copy/move operations**,
         **per-directory view settings**, and more added to the Thunar
         file manager.
-    -   For more information about Xfce 4.16, check out the [Release Announcement](https://www.xfce.org/about/news/?post=1608595200),
-        [Changelog](https://www.xfce.org/download/changelogs/4.16/), and
-        [Tour](https://www.xfce.org/about/tour416).
+    -   For more information about Xfce 4.16, check out the [release announcement](https://www.xfce.org/about/news/?post=1608595200),
+        [changelog](https://www.xfce.org/download/changelogs/4.16/), and
+        [tour](https://www.xfce.org/about/tour416).
 
 ```{=html}
 <!-- -->
