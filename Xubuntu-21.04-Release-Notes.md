@@ -78,6 +78,22 @@ to every Ubuntu flavor.
 ```{=html}
 <!-- -->
 ```
+-   **[Ayatana Indicators](https://ayatanaindicators.github.io/)** are
+    now used with LightDM GTK+ Greeter and the Xfce Indicator plugin.
+    This change may affect your indicator usage, as not all existing
+    Application Indicators have been ported.
+
+```{=html}
+<!-- -->
+```
+-   The full **Adwaita icon theme** is now included. Previously, we
+    shipped a partial version of this icon theme as required by GTK 3.
+    Using the partial version was a sub-par experience, so we\'ve
+    brought in the full version!
+
+```{=html}
+<!-- -->
+```
 -   Xubuntu 21.04 now includes a **\"Minimal\" install option** on the
     main ISO. This installation option is similar to the [Xubuntu Core](https://unit193.net/xubuntu/) installation image, and strips
     Xubuntu down to a might lighter base. To see the packages that are
