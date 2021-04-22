@@ -42,9 +42,9 @@ information and the latest updates for Xubuntu 21.04, check out the
 
 ## Ubuntu Common Release Notes
 
-The main Ubuntu [Release Notes](https://wiki.ubuntu.com/HirsuteHippo/ReleaseNotes) covers both
-many of the other packages we carry and more issues common to every
-Ubuntu flavor.
+The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/hirsute-hippo-release-notes/19221)
+covers both many of the other packages we carry and more issues common
+to every Ubuntu flavor.
 
 ## Major Updates
 
