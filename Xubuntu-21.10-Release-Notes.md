@@ -42,19 +42,31 @@ packages we carry and more issues common to every Ubuntu flavor.
 
 ## Major Updates
 
+-   **GNOME Disk Analyzer** (baobab) and **Disk Utility** have been
+    added to Xubuntu to make it easier to monitor and manage your
+    partitions.
+-   **Rhythmbox** with the **Alternative Toolbar** layout are now
+    included in Xubuntu. Play your music with a dedicated media library.
+-   **Pipewire** is now included in Xubuntu and other flavors. Pipewire
+    is used in conjunction with PulseAudio to improve audio playback in
+    Linux. Bluetooth audio is especially improved.
+-   **Pidgin** has been removed due to decreasing functionality as
+    various messaging platforms move to proprietary protocols and
+    applications. Pidgin can be reinstalled from GNOME Software if you
+    still rely on it.
+
 ## UX Updates
 
 ### Keyboard Shortcuts
 
 For a full list of keyboard shortcuts, [click here](https://wiki.xubuntu.org/releases/21.10/keyboard-shortcuts).
 
-### Desktop
-
-### Menu
-
-### Panel
+-   The long-obsoleted Super+{1,3,4} shortcuts have been removed.
+-   The Super (Windows) key will now show the Whisker Menu.
 
 ### Thunar
+
+-   The Thunar titlebar will now display the full directory path
 
 ## Updates
 
