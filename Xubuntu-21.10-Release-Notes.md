@@ -61,7 +61,7 @@ packages we carry and more issues common to every Ubuntu flavor.
 
 For a full list of keyboard shortcuts, [click here](https://wiki.xubuntu.org/releases/21.10/keyboard-shortcuts).
 
--   The long-obsoleted Super+{1,3,4} shortcuts have been removed.
+-   The long-obsoleted Super+{1,2,3,4} shortcuts have been removed.
 -   The Super (Windows) key will now show the Whisker Menu.
 
 ### Thunar
