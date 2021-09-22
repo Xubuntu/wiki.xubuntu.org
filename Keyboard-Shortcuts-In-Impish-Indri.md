@@ -7,39 +7,40 @@
 
 | Shortcut | Function |
 | --- | --- |
-| Alt+F2 | Show the Run Application dialog |
-| Ctrl+Alt+Delete | Show the Logout dialog |
-| Super+L | Lock the screen |
-| Ctrl+Alt+Escape | Activate the kill cursor (click a window to force-close it) |
-| Super+P | Show the display switcher popup |
-| Super | Show the application menu |
-| Ctrl+Escape | Show the application menu |
-| Ctrl+Shift+Escape | Launch the Task Manager |
-| Print | Take a screenshot of the full screen |
-| Alt+Print | Take a screenshot of the current window |
-| Shift+Print | Take a regional screenshot |
-| Super+W | Launch default web browser |
-| Super+M | Launch default email client |
-| Super+F | Launch default file manager |
-| Super+F1 | Show the mouse cursor position |
-| Ctrl+Alt+T | Launch default terminal emulator |
-| Super+T | Launch default terminal emulator |
-| Super+R | Show the Run Application dialog |
-| Super+E | Launch default file manager |
-| Ctrl+Alt+F | Launch default file manager |
+| **Super** *or* **Ctrl+Escape** | Show the application menu |
+| **Super+F** *or* **Super+E** *or* **Ctrl+Alt+F** | Launch default file manager |
+| **Super+L** | Lock the screen |
+| **Super+M** | Launch default email client |
+| **Super+P** | Show the display switcher popup |
+| **Super+R** *or* **Alt+F2** | Show the Run Application dialog |
+| **Super+T** *or* **Ctrl+Alt+T** | Launch default terminal emulator |
+| **Super+W** | Launch default web browser |
+| **Super+F1** | Show the mouse cursor position |
+| **Ctrl+Alt+Delete** | Show the Logout dialog |
+| **Ctrl+Alt+Escape** | Activate the kill cursor (click a window to force-close it) |
+| **Ctrl+Shift+Escape** | Launch the Task Manager |
+
+### Screenshots
+
+
+| Shortcut | Function |
+| --- | --- |
+| **Print** | Take a screenshot of the full screen |
+| **Alt+Print** | Take a screenshot of the current window |
+| **Shift+Print** | Take a regional screenshot |
 
 ## Multimedia Keyboard Specialty Keys
 
 
 | Shortcut | Function |
 | --- | --- |
+| Calculator | Launch Mate Calculator |
 | Display | Show the display switcher popup |
-| WWW | Launch default web browser |
+| Explorer | Launch default file manager |
 | Homepage | Launch default web browser |
 | Mail | Launch default email client |
-| Explorer | Launch default file manager |
-| Calculator | Launch Mate Calculator |
 | Music | Launch Rhythmbox |
+| WWW | Launch default web browser |
 
 ## Window Management
 
