@@ -83,6 +83,10 @@ see the [Changelogs](#Changelogs) section below.*
 -   MATE 1.26
 -   Xfce 4.16
 
+### Themes
+
+-   Greybird 3.22.15
+
 ### Applications
 
 #### Xfce
@@ -100,6 +104,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Settings 4.16.2
 -   Xfce Systemload Plugin 1.3.1
 -   Xfce Task Manager 1.5.2
+-   Xfce Whisker Menu Plugin 2.6.0
 
 #### MATE
 
