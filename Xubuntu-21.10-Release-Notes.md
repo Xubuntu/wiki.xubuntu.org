@@ -115,25 +115,25 @@ see the [Changelogs](#Changelogs) section below.*
 
 #### GNOME
 
--   GNOME Disk Usage Analyzer 40
+-   GNOME Disk Usage Analyzer 41
 -   GNOME Disk Utility 41
 -   GNOME Mines 40.0
 -   GNOME Software 40.4
 -   GNOME Sudoku 40.2
 -   Rhythmbox 3.4.4
--   Simple Scan 40.1
+-   Simple Scan 40.5
 
 #### Everything Else
 
 -   Blueman 2.2.2
--   Firefox 92.0
+-   Firefox 93.0
 -   GIMP 2.10.24
 -   LibreOffice 7.2.1
 -   Pipewire 0.3.32
 -   PulseAudio 15.0
--   Snapd 2.51.1
+-   Snapd 2.53
 -   SGT Launcher 0.2.7
--   Thunderbird 78.13.0
+-   Thunderbird 91.1.2
 
 ## Changelogs
 
