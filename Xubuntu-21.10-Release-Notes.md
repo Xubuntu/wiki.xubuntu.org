@@ -1,6 +1,6 @@
 # Xubuntu 21.10 Release Notes
 
-**Welcome to the Xubuntu 21.10 \"Impish Indri\" BETA release notes!**
+**Welcome to the Xubuntu 21.10 \"Impish Indri\" release notes!**
 
 Xubuntu 21.10 will be released on Thursday, October 14, 2021 and will be
 supported for nine months until Thursday, June 14, 2022. For general
@@ -23,7 +23,8 @@ information and the latest updates for Xubuntu 21.10, check out the
 -   OEM installation uses the wrong slideshow
     ([1842047](https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047))
 -   No shutdown prompt, you may have to power cycle after installation
-    ([1942987](https://bugs.launchpad.net/ubuntu/+source/plymouth/+bug/1942987))
+    ([1942987](https://bugs.launchpad.net/ubuntu/+source/plymouth/+bug/1942987),
+    [1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
 ### General Issues
 
