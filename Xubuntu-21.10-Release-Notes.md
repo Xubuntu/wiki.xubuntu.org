@@ -2,7 +2,7 @@
 
 **Welcome to the Xubuntu 21.10 \"Impish Indri\" release notes!**
 
-Xubuntu 21.10 will be released on Thursday, October 14, 2021 and will be
+Xubuntu 21.10 was released on Thursday, October 14, 2021 and will be
 supported for nine months until Thursday, June 14, 2022. For general
 information and the latest updates for Xubuntu 21.10, check out the
 [release page](https://xubuntu.org/release/21-10) on xubuntu.org.
