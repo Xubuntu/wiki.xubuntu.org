@@ -22,9 +22,14 @@ information and the latest updates for Xubuntu 21.10, check out the
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
 -   OEM installation uses the wrong slideshow
     ([1842047](https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047))
--   No shutdown prompt, you may have to power cycle after installation
+-   No shutdown prompt after installation
     ([1942987](https://bugs.launchpad.net/ubuntu/+source/plymouth/+bug/1942987),
     [1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
+
+```{=html}
+<!-- -->
+```
+        * However, you should be able to press the Enter key to continue with the reboot.
 
 ### General Issues
 
