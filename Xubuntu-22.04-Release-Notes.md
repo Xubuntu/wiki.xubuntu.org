@@ -69,6 +69,14 @@ to every Ubuntu flavor.
 -   **Whisker Menu Plugin 2.7.1** expands customization options with
     several new preferences and CSS classes for theme developers.
 
+If you\'re coming from Xubuntu 20.04, you may also want to review the
+20.10, 21.04, and 21.10 release notes to catch up on all of the latest
+updates.
+
+-   [[Xubuntu 20.10 \"Groovy Gorilla\"|Xubuntu-20.10-Release-Notes]]
+-   [[Xubuntu 21.04 \"Hirsute Hippo\"|Xubuntu-21.04-Release-Notes]]
+-   [[Xubuntu 21.10 \"Impish Indri\"|Xubuntu-21.10-Release-Notes]]
+
 ### Coming Soon
 
 We\'re wrapping up some final pieces to introduce these updates before
