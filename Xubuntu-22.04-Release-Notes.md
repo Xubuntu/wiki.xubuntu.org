@@ -43,10 +43,6 @@ the latest updates for Xubuntu 22.04, check out the [release page](https://xubun
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
 -   Xfce Screensaver: Password required twice when switching users
     ([1874178](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1874178))
--   Firefox: The \"Web Browser\" application does not launch anything
-    ([1967111](https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/1967111))
--   Settings: Text files are opened by LibreOffice instead of Mousepad
-    ([1967112](https://bugs.launchpad.net/ubuntu/+source/xubuntu-default-settings/+bug/1967112))
 -   Help: The Firefox Snap does not currently open the locally-installed
     Xubuntu Docs
     ([1967109](https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/1967109))
