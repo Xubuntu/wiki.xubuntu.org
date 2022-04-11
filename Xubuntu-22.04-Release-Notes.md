@@ -85,7 +85,6 @@ updates.
 We\'re wrapping up some final pieces to introduce these updates before
 the final release in April.
 
--   A new official Xubuntu wallpaper for the 22.04 release.
 -   6 new wallpapers submitted by the community for the [22.04 Xubuntu
     Wallpaper Contest](https://contest.xubuntu.org/).
 -   Refreshed [user documentation](https://xubuntu.github.io/xubuntu-docs/user/C/index.html),
