@@ -71,6 +71,10 @@ to every Ubuntu flavor.
     support and features numerous performance improvements.
 -   **Whisker Menu Plugin 2.7.1** expands customization options with
     several new preferences and CSS classes for theme developers.
+-   6 new wallpapers submitted by the community for the [22.04 Xubuntu
+    Wallpaper Contest](https://contest.xubuntu.org/).
+-   Refreshed [user documentation](https://xubuntu.github.io/xubuntu-docs/user/C/index.html),
+    available on the ISO and online.
 
 If you\'re coming from Xubuntu 20.04, you may also want to review the
 20.10, 21.04, and 21.10 release notes to catch up on all of the latest
@@ -79,16 +83,6 @@ updates.
 -   [[Xubuntu 20.10 \"Groovy Gorilla\"|Xubuntu-20.10-Release-Notes]]
 -   [[Xubuntu 21.04 \"Hirsute Hippo\"|Xubuntu-21.04-Release-Notes]]
 -   [[Xubuntu 21.10 \"Impish Indri\"|Xubuntu-21.10-Release-Notes]]
-
-### Coming Soon
-
-We\'re wrapping up some final pieces to introduce these updates before
-the final release in April.
-
--   6 new wallpapers submitted by the community for the [22.04 Xubuntu
-    Wallpaper Contest](https://contest.xubuntu.org/).
--   Refreshed [user documentation](https://xubuntu.github.io/xubuntu-docs/user/C/index.html),
-    available on the ISO and online.
 
 ## Updates
 
