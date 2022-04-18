@@ -69,23 +69,6 @@ to every Ubuntu flavor.
 
 ## Major Updates
 
--   **Greybird 3.23.1** introduces initial support for GTK 4 and
-    libhandy, making GNOME and modern GTK applications feel at home in
-    Xubuntu. It also brings back the Accessibility and Compact window
-    manager themes.
--   **elementary-xfce 0.16** adds many new icons and refreshes several
-    others for a cleaner and more consistent Xubuntu desktop experience.
--   Following Ubuntu, **Firefox** is now our first included Snap
-    package. Most users won\'t notice a difference, save for potentially
-    slow startup times the first time you open Firefox. Benefits Ubuntu
-    lists include:
-    -   Directly maintained by Mozilla
-    -   More maintainable for the entire Ubuntu LTS lifecycle
-    -   Faster access to the newest Firefox versions
-    -   Easily switch to a different Firefox flavor with snap channels
-        including \`esr/stable\`, \`latest/candidate\`, \`latest/beta\`,
-        and \`latest/edge\`
-    -   Sandboxed for improved security hardening for this critical app
 -   **Mousepad 0.5.8**, our text editor, broadens its feature set with
     the addition of session backup and restore, plugin support, and a
     new gspell plugin.
@@ -93,10 +76,24 @@ to every Ubuntu flavor.
     support and features numerous performance improvements.
 -   **Whisker Menu Plugin 2.7.1** expands customization options with
     several new preferences and CSS classes for theme developers.
--   6 new wallpapers submitted by the community for the [22.04 Xubuntu
-    Wallpaper Contest](https://contest.xubuntu.org/).
 -   Refreshed [user documentation](https://xubuntu.github.io/xubuntu-docs/user/C/index.html),
     available on the ISO and online.
+
+### Firefox Snap
+
+Following Ubuntu, **Firefox** is now our first included Snap package.
+Most users won\'t notice a difference, save for potentially slow startup
+times the first time you open Firefox. Benefits Ubuntu lists include:
+
+-   Directly maintained by Mozilla
+-   More maintainable for the entire Ubuntu LTS lifecycle
+-   Faster access to the newest Firefox versions
+-   Easily switch to a different Firefox flavor with snap channels
+    including \`esr/stable\`, \`latest/candidate\`, \`latest/beta\`, and
+    \`latest/edge\`
+-   Sandboxed for improved security hardening for this critical app
+
+### For Xubuntu 20.04 Users
 
 If you\'re coming from Xubuntu 20.04, you may also want to review the
 20.10, 21.04, and 21.10 release notes to catch up on all of the latest
@@ -105,6 +102,17 @@ updates.
 -   [[Xubuntu 20.10 \"Groovy Gorilla\"|Xubuntu-20.10-Release-Notes]]
 -   [[Xubuntu 21.04 \"Hirsute Hippo\"|Xubuntu-21.04-Release-Notes]]
 -   [[Xubuntu 21.10 \"Impish Indri\"|Xubuntu-21.10-Release-Notes]]
+
+## Appearance Updates
+
+-   **Greybird 3.23.1** introduces initial support for GTK 4 and
+    libhandy, making GNOME and modern GTK applications feel at home in
+    Xubuntu. It also brings back the Accessibility and Compact window
+    manager themes.
+-   **elementary-xfce 0.16** adds many new icons and refreshes several
+    others for a cleaner and more consistent Xubuntu desktop experience.
+-   6 new wallpapers submitted by the community for the [22.04 Xubuntu
+    Wallpaper Contest](https://contest.xubuntu.org/).
 
 ## Updates
 
