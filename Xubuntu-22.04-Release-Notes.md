@@ -106,18 +106,13 @@ see the [Changelogs](#Changelogs) section below.*
 
 ### Subsystems
 
--   [BlueZ
-    5.63](https://git.kernel.org/pub/scm/bluetooth/bluez.git/tree/ChangeLog?id=5.63)
--   [CUPS
-    2.4](https://github.com/OpenPrinting/cups/blob/v2.4.1/CHANGES.md)
--   [NetworkManager
-    1.36](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/blob/nm-1-36/NEWS)
--   [Mesa 22](https://docs.mesa3d.org/relnotes/22.0.0.html)
--   [Poppler
-    22.04](https://gitlab.freedesktop.org/poppler/poppler/-/blob/poppler-22.02.0/NEWS)
--   [PulseAudio 16](https://www.freedesktop.org/wiki/Software/PulseAudio/Notes/16.0/)
--   [xdg-desktop-portal
-    1.14](https://github.com/flatpak/xdg-desktop-portal/blob/1.14.2/NEWS)
+-   BlueZ 5.63
+-   CUPS 2.4
+-   NetworkManager 1.36
+-   Mesa 22
+-   Poppler 22.04
+-   PulseAudio 16
+-   xdg-desktop-portal 1.14
 
 ### Themes
 
