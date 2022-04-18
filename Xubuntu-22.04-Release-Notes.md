@@ -2,7 +2,7 @@
 
 **Welcome to the Xubuntu 22.04 \"Jammy Jellyfish\" release notes!**
 
-Xubuntu 22.04 will be released on Thursday, April 21, 2022 and will be
+Xubuntu 22.04 will be released on Thursday, April 21, 2022, and will be
 supported for three years until April 2025. For general information and
 the latest updates for Xubuntu 22.04, check out the [release page](https://xubuntu.org/release/22-04) on xubuntu.org.
 
@@ -46,10 +46,10 @@ the latest updates for Xubuntu 22.04, check out the [release page](https://xubun
 
 ### UEFI and BIOS Dual Boot
 
-Other operating systems are not displayed in the boot menu anymore,
+Other operating systems are not displayed in the boot menu anymore
 unless Xubuntu has been installed alongside another operating system.
 Once all other operating systems are removed from the machine, detection
-of other operating systems is disabled, and to re-enable if after
+of other operating systems is disabled, and to re-enable it after
 installing another OS, you will have to delete \`/boot/grub/grub.cfg\`
 and immediately run \`update-grub\` again. More information on the
 [ubuntu-devel](https://lists.ubuntu.com/archives/ubuntu-devel/2021-December/041769.html)
