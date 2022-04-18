@@ -160,7 +160,6 @@ see the [Changelogs](#Changelogs) section below.*
 -   GIMP 2.10.30
 -   LibreOffice 7.3.2
 -   Pipewire 0.3.48
--   PulseAudio 15.99.1
 -   Snapd 2.55.2
 -   SGT Launcher 0.2.7
 -   Thunderbird 91.7.0
