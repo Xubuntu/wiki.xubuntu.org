@@ -63,7 +63,15 @@ to every Ubuntu flavor.
     others for a cleaner and more consistent Xubuntu desktop experience.
 -   Following Ubuntu, **Firefox** is now our first included Snap
     package. Most users won\'t notice a difference, save for potentially
-    slow startup times the first time you open Firefox.
+    slow startup times the first time you open Firefox. Benefits Ubuntu
+    lists include:
+    -   Directly maintained by Mozilla
+    -   More maintainable for the entire Ubuntu LTS lifecycle
+    -   Faster access to the newest Firefox versions
+    -   Easily switch to a different Firefox flavor with snap channels
+        including \`esr/stable\`, \`latest/candidate\`, \`latest/beta\`,
+        and \`latest/edge\`
+    -   Sandboxed for improved security hardening for this critical app
 -   **Mousepad 0.5.8**, our text editor, broadens its feature set with
     the addition of session backup and restore, plugin support, and a
     new gspell plugin.
@@ -95,6 +103,21 @@ see the [Changelogs](#Changelogs) section below.*
 -   GTK 3.24.32
 -   MATE 1.26
 -   Xfce 4.16
+
+### Subsystems
+
+-   [BlueZ
+    5.63](https://git.kernel.org/pub/scm/bluetooth/bluez.git/tree/ChangeLog?id=5.63)
+-   [CUPS
+    2.4](https://github.com/OpenPrinting/cups/blob/v2.4.1/CHANGES.md)
+-   [NetworkManager
+    1.36](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/blob/nm-1-36/NEWS)
+-   [Mesa 22](https://docs.mesa3d.org/relnotes/22.0.0.html)
+-   [Poppler
+    22.04](https://gitlab.freedesktop.org/poppler/poppler/-/blob/poppler-22.02.0/NEWS)
+-   [PulseAudio 16](https://www.freedesktop.org/wiki/Software/PulseAudio/Notes/16.0/)
+-   [xdg-desktop-portal
+    1.14](https://github.com/flatpak/xdg-desktop-portal/blob/1.14.2/NEWS)
 
 ### Themes
 
