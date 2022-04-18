@@ -1,9 +1,6 @@
 # Xubuntu 22.04 Release Notes
 
-**Welcome to the Xubuntu 22.04 \"Jammy Jellyfish\" BETA release notes!**
-
-**Please note that these release notes are not indicative of the final
-release and are expected to change.**
+**Welcome to the Xubuntu 22.04 \"Jammy Jellyfish\" release notes!**
 
 Xubuntu 22.04 will be released on Thursday, April 21, 2022 and will be
 supported for three years until April 2025. For general information and
@@ -46,6 +43,23 @@ the latest updates for Xubuntu 22.04, check out the [release page](https://xubun
 -   Help: The Firefox Snap does not currently open the locally-installed
     Xubuntu Docs
     ([1967109](https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/1967109))
+
+### UEFI and BIOS Dual Boot
+
+Other operating systems are not displayed in the boot menu anymore,
+unless Xubuntu has been installed alongside another operating system.
+Once all other operating systems are removed from the machine, detection
+of other operating systems is disabled, and to re-enable if after
+installing another OS, you will have to delete \`/boot/grub/grub.cfg\`
+and immediately run \`update-grub\` again. More information on the
+[ubuntu-devel](https://lists.ubuntu.com/archives/ubuntu-devel/2021-December/041769.html)
+mailing list.
+
+### PKCS#11 Smartcard Support
+
+Users that need PKCS#11 smartcard support in Firefox should not upgrade
+to 22.04 until PKCS#11 support is added to the Firefox snap
+([1967632](https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/1967632))
 
 ## Ubuntu Common Release Notes
 
