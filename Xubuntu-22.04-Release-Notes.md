@@ -158,6 +158,7 @@ see the [Changelogs](#Changelogs) section below.*
 
 ### Themes
 
+-   elementary-xfce 0.16
 -   Greybird 3.23.1
 
 ### Applications
