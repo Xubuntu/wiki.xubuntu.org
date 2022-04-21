@@ -105,14 +105,14 @@ updates.
 
 ## Appearance Updates
 
+### Theme Updates
+
 -   **Greybird 3.23.1** introduces initial support for GTK 4 and
     libhandy, making GNOME and modern GTK applications feel at home in
     Xubuntu. It also brings back the Accessibility and Compact window
     manager themes.
 -   **elementary-xfce 0.16** adds many new icons and refreshes several
     others for a cleaner and more consistent Xubuntu desktop experience.
--   6 new wallpapers submitted by the community for the [22.04 Xubuntu
-    Wallpaper Contest](https://contest.xubuntu.org/).
 
 ### Community Wallpaper Contest Winners
 
