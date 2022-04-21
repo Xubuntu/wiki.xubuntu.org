@@ -142,17 +142,17 @@ see the [Changelogs](#Changelogs) section below.*
 ### Application Stack
 
 -   GNOME 42
--   GTK 3.24.32
+-   GTK 3.24.33
 -   MATE 1.26
 -   Xfce 4.16
 
 ### Subsystems
 
--   BlueZ 5.63
+-   BlueZ 5.64
 -   CUPS 2.4
 -   NetworkManager 1.36
 -   Mesa 22
--   Poppler 22.04
+-   Poppler 22.02
 -   PulseAudio 16
 -   xdg-desktop-portal 1.14
 
@@ -199,13 +199,13 @@ see the [Changelogs](#Changelogs) section below.*
 #### Everything Else
 
 -   Blueman 2.2.4
--   Firefox 98.0.2 (snap)
+-   Firefox 99.0.1 (snap)
 -   GIMP 2.10.30
 -   LibreOffice 7.3.2
 -   Pipewire 0.3.48
--   Snapd 2.55.2
+-   Snapd 2.55.3
 -   SGT Launcher 0.2.7
--   Thunderbird 91.7.0
+-   Thunderbird 91.8.0
 
 ## Changelogs
 
