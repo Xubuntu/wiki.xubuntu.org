@@ -114,6 +114,20 @@ updates.
 -   6 new wallpapers submitted by the community for the [22.04 Xubuntu
     Wallpaper Contest](https://contest.xubuntu.org/).
 
+### Community Wallpaper Contest Winners
+
+![](images/releases/22.04/xubuntu-wallpaper-contest-winners.png)
+
+Six winners were selected from a pool of over 100 submissions for the
+22.04 Community Wallpaper Contest. From left to right, top to bottom:
+
+-   \"Kanchanjunga Peaks\" by Pushkar Deshpande (CC-BY-4.0)
+-   \"Journey home\" by Juliette Taka (CC-BY-4.0)
+-   \"Field\" by Tibor Mokánszki (CC-BY-4.0)
+-   Untitled by Dagat (CC-BY-4.0)
+-   \"Dolomites\" by Felix Hartlieb (CC-BY-4.0)
+-   Untitled by Mathias Hüber (CC-BY-4.0)
+
 ## Updates
 
 *Significant package and version updates. For full package changelogs,
