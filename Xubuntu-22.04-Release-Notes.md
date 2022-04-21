@@ -121,12 +121,17 @@ updates.
 Six winners were selected from a pool of over 100 submissions for the
 22.04 Community Wallpaper Contest. From left to right, top to bottom:
 
--   \"Kanchanjunga Peaks\" by Pushkar Deshpande (CC-BY-4.0)
--   \"Journey home\" by Juliette Taka (CC-BY-4.0)
--   \"Field\" by Tibor Mokánszki (CC-BY-4.0)
--   Untitled by Dagat (CC-BY-4.0)
--   \"Dolomites\" by Felix Hartlieb (CC-BY-4.0)
--   Untitled by Mathias Hüber (CC-BY-4.0)
+-   [\"Kanchanjunga Peaks\" by Pushkar Deshpande
+    (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Kanchanjunga_Peaks_by_Pushkar_Deshpande.jpg)
+-   [\"Journey home\" by Juliette Taka
+    (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Journey_home_by_Juliette_Taka.png)
+-   [\"Field\" by Tibor Mokánszki
+    (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Field_by_Tibor_Mokanszki.jpg)
+-   [https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Untitled_by_Dagat.jpgUntitled by Dagat (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Untitled_by_Dagat.jpgUntitled by Dagat (CC-BY-4.0))
+-   [\"Dolomites\" by Felix Hartlieb
+    (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Dolomites_by_Felix_Hartlieb.jpg)
+-   [Untitled by Mathias Hüber
+    (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Untitled_by_Mathias_Huber.jpg)
 
 ## Updates
 
