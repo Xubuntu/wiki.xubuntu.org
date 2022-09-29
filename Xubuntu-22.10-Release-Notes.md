@@ -56,14 +56,11 @@ to every Ubuntu flavor.
 
 ### Theme Updates
 
-*In Progress*
-
--   **Greybird 3.23.1** introduces initial support for GTK 4 and
-    libhandy, making GNOME and modern GTK applications feel at home in
-    Xubuntu. It also brings back the Accessibility and Compact window
-    manager themes.
--   **elementary-xfce 0.16** adds many new icons and refreshes several
+-   **Greybird 3.23.2** adds support for Openbox and includes some minor
+    visual improvements for Xfwm4 and GNOME Software.
+-   **elementary-xfce 0.17** adds many new icons and refreshes several
     others for a cleaner and more consistent Xubuntu desktop experience.
+    It also deprecates the elementary-xfce-darker theme.
 
 ## Updates
 
