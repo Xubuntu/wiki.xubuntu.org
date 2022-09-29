@@ -67,50 +67,48 @@ to every Ubuntu flavor.
 
 ## Updates
 
-*In Progress*
-
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
 ### Application Stack
 
--   GNOME 42
--   GTK 3.24.33
+-   GNOME 43
+-   GTK 2.24.33 / 3.24.34 / 4.8.1
 -   MATE 1.26
--   Xfce 4.16
+-   Xfce 4.17
 
 ### Subsystems
 
--   BlueZ 5.64
--   CUPS 2.4
--   NetworkManager 1.36
--   Mesa 22
--   Poppler 22.02
--   PulseAudio 16
--   xdg-desktop-portal 1.14
+-   BlueZ 5.65
+-   CUPS 2.4.2
+-   NetworkManager 1.40
+-   Mesa 22.2.0
+-   Poppler 22.08
+-   PulseAudio 16.1
+-   xdg-desktop-portal 1.15
 
 ### Themes
 
--   elementary-xfce 0.16
--   Greybird 3.23.1
+-   elementary-xfce 0.17
+-   Greybird 3.23.2
 
 ### Applications
 
 #### Xfce
 
--   Catfish 4.16.3
--   Exo 4.16.3
+-   Catfish 4.16.4
+-   Exo 4.17.2
 -   Gigolo 0.5.2
--   Mousepad 0.5.8
--   Ristretto 0.12.2
--   Thunar File Manager 4.16.10
+-   Mousepad 0.5.10
+-   Ristretto 0.12.3
+-   Thunar File Manager 4.17.9
 -   Xfce Clipman Plugin 1.6.2
 -   Xfce Netload Plugin 1.4.0
--   Xfce Panel 4.16.3
--   Xfce Screenshooter 1.9.9
+-   Xfce Panel 4.17.3
+-   Xfce Screenshooter 1.9.11
 -   Xfce Settings 4.16.2
 -   Xfce Systemload Plugin 1.3.1
--   Xfce Task Manager 1.5.2
+-   Xfce Task Manager 1.5.4
 -   Xfce Whisker Menu Plugin 2.7.1
 
 #### MATE
@@ -121,24 +119,24 @@ see the [Changelogs](#Changelogs) section below.*
 
 #### GNOME
 
--   GNOME Disk Usage Analyzer 41.0
--   GNOME Disk Utility 42.0
+-   GNOME Disk Usage Analyzer 43.0
+-   GNOME Disk Utility 43.0
 -   GNOME Mines 40.1
--   GNOME Software 41.5
--   GNOME Sudoku 42.0
--   Rhythmbox 3.4.4
+-   GNOME Software 43.0
+-   GNOME Sudoku 43.0
+-   Rhythmbox 3.4.6
 -   Simple Scan 42.0
 
 #### Everything Else
 
--   Blueman 2.2.4
--   Firefox 99.0.1 (snap)
--   GIMP 2.10.30
--   LibreOffice 7.3.2
--   Pipewire 0.3.48
--   Snapd 2.55.3
+-   Blueman 2.3.2
+-   Firefox 105.0.1 (snap)
+-   GIMP 2.10.32
+-   LibreOffice 7.4.2
+-   Pipewire 0.3.57
+-   Snapd 2.57.1
 -   SGT Launcher 0.2.7
--   Thunderbird 91.8.0
+-   Thunderbird 102.3.0
 
 ## Changelogs
 
