@@ -33,8 +33,6 @@ and the latest updates for Xubuntu 22.10, check out the [release page](https://x
 
 -   Boot: Decryption password prompt not visible
     ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
--   GNOME Font Viewer: Crashes in the live environment
-    ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
