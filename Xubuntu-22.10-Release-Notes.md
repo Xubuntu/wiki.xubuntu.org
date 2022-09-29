@@ -56,7 +56,7 @@ to every Ubuntu flavor.
 
 ### Theme Updates
 
-\*In Progress\*
+*In Progress*
 
 -   **Greybird 3.23.1** introduces initial support for GTK 4 and
     libhandy, making GNOME and modern GTK applications feel at home in
@@ -67,7 +67,7 @@ to every Ubuntu flavor.
 
 ## Updates
 
-\*In Progress\*
+*In Progress*
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
