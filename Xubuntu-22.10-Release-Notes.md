@@ -44,6 +44,17 @@ The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/kinetic-kudu-rele
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
+### Pipewire
+
+Unlike Ubuntu and the other flavors, Xubuntu *has not* switched to
+Pipewire in 22.10. However, If you want to use Pipewire, our good
+friends, Ubuntu MATE, have [provided instructions](https://ubuntu-mate.org/blog/ubuntu-mate-kinetic-kudu-release-notes/#pipewire-on-ubuntu-mate-2204)
+to switch to the new sound system.
+
+`sudo apt-get install gstreamer1.0-pipewire pipewire-audio-client-libraries wireplumber`\
+`sudo apt-get remove pulseaudio-module-bluetooth`\
+`sudo apt-get install libfdk-aac2 libldacbt-abr2 libldacbt-enc2 libopenaptx0 libspa-0.2-bluetooth libspa-0.2-jack`
+
 ## Major Updates
 
 -   **Xfce 4.17**, the development version of the next major release, is
