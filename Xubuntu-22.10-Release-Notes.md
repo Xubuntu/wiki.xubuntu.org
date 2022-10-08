@@ -21,8 +21,7 @@ and the latest updates for Xubuntu 22.10, check out the [release page](https://x
 -   OEM installation uses the wrong slideshow
     ([1842047](https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047))
 -   No shutdown prompt after installation
-    ([1942987](https://bugs.launchpad.net/ubuntu/+source/plymouth/+bug/1942987),
-    [1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
+    ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
 ```{=html}
 <!-- -->
