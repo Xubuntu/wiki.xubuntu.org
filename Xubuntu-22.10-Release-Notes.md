@@ -48,6 +48,11 @@ to every Ubuntu flavor.
 
 -   **Xfce 4.17**, the development version of the next major release, is
     included in Xubuntu 22.10.
+-   *Mosaic*, the grid-filling puzzle, has been added to SGT Puzzles.
+    You can play the game online,
+    [here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mosaic.html).
+
+![](images/releases/22.10/sgt-puzzles-mosaic.png)
 
 ## Appearance Updates
 
