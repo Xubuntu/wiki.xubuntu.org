@@ -72,6 +72,9 @@ to switch to the new sound system.
     -   **Xfce Application Finder** now supports the
         *PrefersNonDefaultGPU* property, correctly launching games and
         other apps on multi-GPU systems.
+    -   **Xfce Desktop** will now ask for confirmation before desktop
+        icons are rearranged. A new option has been added to disable the
+        \"Delete\" context menu item.
     -   **Xfce Notification Daemon** features improved application icon
         and name matching and fixes notification position during the
         slideout animation.
@@ -89,9 +92,6 @@ to switch to the new sound system.
     -   **Xfce Terminal** improves scrolling, adds a new \"Fill\"
         background image style, and fixes the \"unsafe paste\" dialog
         (allowing it to actually paste).
-    -   **Xfce Desktop** will now ask for confirmation before desktop
-        icons are rearranged. A new option has been added to disable the
-        \"Delete\" context menu item.
 -   *Mosaic*, the grid-filling puzzle, has been added to SGT Puzzles.
     You can play the game online,
     [here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mosaic.html).
