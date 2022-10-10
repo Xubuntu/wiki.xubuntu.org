@@ -178,7 +178,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   LibreOffice 7.4.2
 -   Pipewire 0.3.57
 -   Snapd 2.57.1
--   SGT Launcher 0.2.7
+-   SGT Launcher 0.2.8
 -   Thunderbird 102.3.0
 
 ## Changelogs
