@@ -58,7 +58,40 @@ to switch to the new sound system.
 ## Major Updates
 
 -   **Xfce 4.17**, the development version of the next major release, is
-    included in Xubuntu 22.10.
+    included in Xubuntu 22.10. Notable app updates include:
+    -   **Catfish** has a refreshed appearance with tweaks to each
+        component. It also features a new \"Open with\" context menu and
+        the Ctrl+A select-all accelerator.
+    -   **Mousepad** has added search history and the ability to reload
+        files if they\'ve been modified automatically.
+    -   **Thunar** now has built-in, recursive file search. It also
+        includes a graphical shortcuts editor and per-directory zoom
+        levels.
+    -   **Thunar Archive Plugin** now allows zip files (including odt,
+        docx, and others) to be compressed.
+    -   **Xfce Application Finder** now supports the
+        *PrefersNonDefaultGPU* property, correctly launching games and
+        other apps on multi-GPU systems.
+    -   **Xfce Notification Daemon** features improved application icon
+        and name matching and fixes notification position during the
+        slideout animation.
+    -   **Xfce Panel** has added a new binary time mode and new
+        middle-click options for the tasklist plugin. It also improves
+        the handling and display of systray and status notifier applets.
+    -   **Xfce PulseAudio Plugin** features a new indicator for when any
+        app is recording audio. Notifications are now displayed when the
+        microphone volume level is changed.
+    -   **Xfce Screenshooter** fixes window capture for HiDPI, enables
+        viewing your screenshot in the file manager, and adds a back
+        button to take a new screenshot.
+    -   **Xfce Task Manager** adds a right-click option to copy the full
+        process command line to the clipboard.
+    -   **Xfce Terminal** improves scrolling, adds a new \"Fill\"
+        background image style, and fixes the \"unsafe paste\" dialog
+        (allowing it to actually paste).
+    -   **Xfce Desktop** will now ask for confirmation before desktop
+        icons are rearranged. A new option has been added to disable the
+        \"Delete\" context menu item.
 -   *Mosaic*, the grid-filling puzzle, has been added to SGT Puzzles.
     You can play the game online,
     [here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mosaic.html).
