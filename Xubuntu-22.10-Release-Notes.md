@@ -168,7 +168,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   GNOME Software 43.0
 -   GNOME Sudoku 43.0
 -   Rhythmbox 3.4.6
--   Simple Scan 42.0
+-   Simple Scan 42.5
 
 #### Everything Else
 
