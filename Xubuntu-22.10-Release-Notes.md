@@ -151,6 +151,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Clipman Plugin 1.6.2
 -   Xfce Netload Plugin 1.4.0
 -   Xfce Panel 4.17.3
+-   Xfce PulseAudio Plugin 0.4.5
 -   Xfce Screenshooter 1.9.11
 -   Xfce Settings 4.16.2
 -   Xfce Systemload Plugin 1.3.1
