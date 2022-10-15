@@ -147,6 +147,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Mousepad 0.5.10
 -   Ristretto 0.12.3
 -   Thunar File Manager 4.17.9
+-   Xfce Application Finder 4.17.0
 -   Xfce Clipman Plugin 1.6.2
 -   Xfce Netload Plugin 1.4.0
 -   Xfce Panel 4.17.3
