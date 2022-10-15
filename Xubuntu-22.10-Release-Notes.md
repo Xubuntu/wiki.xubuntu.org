@@ -1,6 +1,6 @@
 # Xubuntu 22.10 Release Notes
 
-**Welcome to the Xubuntu 22.10 \"Kinetic Kudu\" BETA release notes!**
+**Welcome to the Xubuntu 22.10 \"Kinetic Kudu\" release notes!**
 
 Xubuntu 22.10 will be released on Thursday, October 20, 2022, and will
 be supported for nine months until June 2023. For general information
@@ -126,9 +126,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   CUPS 2.4.2
 -   NetworkManager 1.40
 -   Mesa 22.2.0
--   Poppler 22.08
+-   Poppler 22.08.0
 -   PulseAudio 16.1
--   xdg-desktop-portal 1.15
+-   xdg-desktop-portal 1.15.0
 
 ### Themes
 
@@ -176,10 +176,10 @@ see the [Changelogs](#Changelogs) section below.*
 -   Firefox 105.0.1 (snap)
 -   GIMP 2.10.32
 -   LibreOffice 7.4.2
--   Pipewire 0.3.57
--   Snapd 2.57.1
+-   Pipewire 0.3.58
+-   Snapd 2.57.4
 -   SGT Launcher 0.2.8
--   Thunderbird 102.3.0
+-   Thunderbird 102.3.3
 
 ## Changelogs
 
