@@ -29,6 +29,8 @@ and the latest updates for Xubuntu 22.10, check out the [release page](https://x
 <!-- -->
 ```
         * However, you should be able to press the Enter key to continue with the reboot.
+    * Xubuntu installer on desktop is "untrusted" ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958|1987958]])
+        * The launcher can be run from the menu or you can click "Launch anyway".
 
 ### General Issues
 
