@@ -5,7 +5,7 @@
 ![](images/releases/22.10/xubuntu-22.10.png)
 
 Xubuntu 22.10 will be released on Thursday, October 20, 2022, and will
-be supported for nine months until June 2023. For general information
+be supported for nine months until July 2023. For general information
 and the latest updates for Xubuntu 22.10, check out the [release page](https://xubuntu.org/release/22-10) on xubuntu.org.
 
 -   [Known Issues](#known_issues)
