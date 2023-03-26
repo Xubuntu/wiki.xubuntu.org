@@ -57,6 +57,7 @@ to every Ubuntu flavor.
     version of Xubuntu with only the bare essentials.
 -   **Xfce 4.18**, the latest major release, is included in Xubuntu
     23.04.
+-   **Pipewire** (and wireplumber) are now included in Xubuntu.
 
 ## Appearance Updates
 
