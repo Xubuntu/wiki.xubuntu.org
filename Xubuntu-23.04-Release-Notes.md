@@ -63,6 +63,12 @@ to every Ubuntu flavor.
 
 ### Theme Updates
 
+### General
+
+-   Panel: The systray plugin now uses \"automatic\" icon sizes, making
+    indicators and tray icons more consistent.
+-   Terminal: The font size was increased from 9 to 10.
+
 ## Updates
 
 *Significant package and version updates. For full package changelogs,
