@@ -12,6 +12,11 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
+## Download Links
+
+-   Xubuntu Desktop ([daily builds](https://cdimage.ubuntu.com/xubuntu/daily-live/current/))
+-   Xubuntu Minimal ([daily builds](https://cdimage.ubuntu.com/xubuntu/daily-minimal/current/))
+
 ## Known Issues
 
 ### Installer Issues
@@ -48,6 +53,8 @@ to every Ubuntu flavor.
 
 ## Major Updates
 
+-   **Xubuntu Minimal** is now available, featuring a slimmed down
+    version of Xubuntu with only the bare essentials.
 -   **Xfce 4.18**, the latest major release, is included in Xubuntu
     23.04.
 
