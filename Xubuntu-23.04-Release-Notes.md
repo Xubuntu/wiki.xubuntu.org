@@ -21,10 +21,6 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
 
 ### Installer Issues
 
--   grub-installer chooses which drive to install to with no user input
-    ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
--   OEM installation uses the wrong slideshow
-    ([1842047](https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047))
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
@@ -34,9 +30,16 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
         * However, you should be able to press the Enter key to continue with the reboot.
     * Xubuntu installer on desktop is "untrusted" ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958|1987958]])
         * The launcher can be run from the menu or you can click "Launch anyway".
+    * OEM installation fails on Xubuntu Minimal ([[https://launchpad.net/bugs/2013251|2013251]])
+    * grub-installer chooses which drive to install to with no user input ([[https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331|964331]])
+    * OEM installation uses the wrong slideshow ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047|1842047]])
 
 ### General Issues
 
+-   Xfce Screensaver crashes shortly after unlocking
+    ([2012795](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2012795))
+-   Xorg crashes after logging in on some Virtual Machines
+    ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
 -   Boot: Decryption password prompt not visible
     ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
