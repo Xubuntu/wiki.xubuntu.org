@@ -40,8 +40,6 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
     ([2012795](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2012795))
 -   Xorg crashes after logging in on some Virtual Machines
     ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
--   Boot: Decryption password prompt not visible
-    ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
     ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
