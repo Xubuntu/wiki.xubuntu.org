@@ -57,7 +57,11 @@ to every Ubuntu flavor.
 -   **Xubuntu Minimal** is now available, featuring a slimmed down
     version of Xubuntu with only the bare essentials.
 -   **Xfce 4.18**, the latest major release, is included in Xubuntu
-    23.04.
+    23.04. For a summary of the updates, consider reading:
+    -   [Xfce 4.18 Tour](https://xfce.org/about/tour418) (xfce.org), or
+    -   [Xfce 4.18 is Out - Here are the best new
+        features](https://www.omgubuntu.co.uk/2022/11/xfce-4-18-features-and-changes)
+        (omgubuntu.co.uk)
 -   **Pipewire** (and wireplumber) are now included in Xubuntu.
 
 ## Appearance Updates
