@@ -38,6 +38,9 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
 
 -   Xfce Screensaver crashes shortly after unlocking
     ([2012795](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2012795))
+    -   This crash seems to affect the unlock dialog process after
+        unlocking. The screensaver daemon is still running and
+        locking/unlocking still works after the crash.
 -   Xorg crashes after logging in on some Virtual Machines
     ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
