@@ -1,8 +1,8 @@
 # Xubuntu 23.04 Release Notes
 
-**Welcome to the Xubuntu 23.04 \"Lunar Lobster\" BETA release notes!**
+**Welcome to the Xubuntu 23.04 \"Lunar Lobster\" release notes!**
 
-Xubuntu 23.04 will be released on Thursday, April 20, 2023, and will be
+Xubuntu 23.04 was be released on Thursday, April 20, 2023, and will be
 supported for nine months until January 2023. For general information
 and the latest updates for Xubuntu 23.04, check out the [release page](https://xubuntu.org/release/23-04) on xubuntu.org.
 
@@ -11,11 +11,6 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
 -   [Major Updates](#major_updates)
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
-
-## Download Links
-
--   Xubuntu Desktop ([daily builds](https://cdimage.ubuntu.com/xubuntu/daily-live/current/))
--   Xubuntu Minimal ([daily builds](https://cdimage.ubuntu.com/xubuntu/daily-minimal/current/))
 
 ## Known Issues
 
@@ -31,8 +26,8 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
     * Xubuntu installer on desktop is "untrusted" ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958|1987958]])
         * The launcher can be run from the menu or you can click "Launch anyway".
     * OEM installation fails on Xubuntu Minimal ([[https://launchpad.net/bugs/2013251|2013251]])
-    * grub-installer chooses which drive to install to with no user input ([[https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331|964331]])
     * OEM installation uses the wrong slideshow ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047|1842047]])
+    * Installer crashes when quitting in the live session ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/2016009|2016009]])
 
 ### General Issues
 
@@ -41,7 +36,8 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
     -   This crash seems to affect the unlock dialog process after
         unlocking. The screensaver daemon is still running and
         locking/unlocking still works after the crash.
--   Xorg crashes after logging in on some Virtual Machines
+-   Xorg crashes after logging in or switching users on some Virtual
+    Machines
     ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
@@ -69,8 +65,6 @@ to every Ubuntu flavor.
 
 ## Appearance Updates
 
-### Theme Updates
-
 ### General
 
 -   Panel: The systray plugin now uses \"automatic\" icon sizes, making
@@ -93,8 +87,8 @@ see the [Changelogs](#Changelogs) section below.*
 
 -   BlueZ 5.66
 -   CUPS 2.4.2
--   NetworkManager 1.40
--   Mesa 22.3.6
+-   NetworkManager 1.42.4
+-   Mesa 23.0.2
 -   Poppler 22.12.0
 -   PulseAudio 16.1
 -   xdg-desktop-portal 1.16.0
@@ -133,24 +127,24 @@ see the [Changelogs](#Changelogs) section below.*
 
 #### GNOME
 
--   GNOME Disk Usage Analyzer 44 (RC)
--   GNOME Disk Utility 44 (beta)
+-   GNOME Disk Usage Analyzer 44.0
+-   GNOME Disk Utility 44.0
 -   GNOME Mines 40.1
--   GNOME Software 43.3
--   GNOME Sudoku 44 (beta)
+-   GNOME Software 44.0
+-   GNOME Sudoku 44.0
 -   Rhythmbox 3.4.6
--   Simple Scan 42.5
+-   Simple Scan 44.0
 
 #### Everything Else
 
 -   Blueman 2.3.5
--   Firefox 111.0 (snap)
+-   Firefox 111.0.1 (snap)
 -   GIMP 2.10.34
 -   LibreOffice 7.5.2
 -   Pipewire 0.3.65
--   Snapd 2.58.3
+-   Snapd 2.59.1
 -   SGT Launcher 0.2.8
--   Thunderbird 102.9.0
+-   Thunderbird 102.10.0
 
 ## Changelogs
 
