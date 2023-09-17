@@ -77,6 +77,8 @@ to every Ubuntu flavor.
     can now be marked as persistent or ignored via the settings dialog.
 -   **Xfce Screenshooter 1.10.4** added support for AVIF and JPEG XL
     file formats.
+-   Numerous additional stable release updates for Xfce 4.18 and related
+    applications.
 
 ## Appearance Updates
 
