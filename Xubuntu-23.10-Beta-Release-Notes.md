@@ -52,6 +52,8 @@ Please report your test results at
     ([1874178](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1874178))
 -   Xubuntu 23.10 is still using the 23.04 wallpaper. Work on the new
     wallpaper is underway.
+-   During startup, Plymouth displays \"Xubuntu 23.04\". This will be
+    resolved after the beta.
 
 ## Ubuntu Common Release Notes
 
