@@ -34,7 +34,6 @@ Please report your test results at
     * Xubuntu installer on desktop is "untrusted" ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958|1987958]])
         * The launcher can be run from the menu or you can click "Launch anyway".
     * OEM installation fails on Xubuntu Minimal ([[https://launchpad.net/bugs/2013251|2013251]])
-    * OEM installation uses the wrong slideshow ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047|1842047]])
     * Installer crashes when quitting in the live session ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/2016009|2016009]])
 
 ### General Issues
