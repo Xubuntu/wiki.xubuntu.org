@@ -88,9 +88,10 @@ to every Ubuntu flavor.
 -   **[Greybird
     3.23.3](https://github.com/shimmerproject/Greybird/releases/tag/v3.23.3)**
     improves GTK 3 and 4 support.
--   Some GNOME components, including **Disk Usage Analyzer** (baobab)
-    and **Fonts** (gnome-font-viewer), have a refreshed interface using
-    libadwaita and newer design conventions.
+-   Some GNOME components, including **Disk Usage Analyzer** (baobab),
+    **Fonts** (gnome-font-viewer), and **Document Scanner**
+    (simple-scan) have a refreshed interface using libadwaita and newer
+    design conventions.
 -   Several Xfce components have been updated to better support UI
     scaling.
 -   **[Past Xubuntu wallpapers](https://github.com/Xubuntu/xubuntu-marketing/blob/master/wallpapers/README.md)**
