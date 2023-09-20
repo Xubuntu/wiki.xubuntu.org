@@ -184,7 +184,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Blueman 2.3.5
 -   Firefox 117.0.1 (snap)
 -   GIMP 2.10.34
--   LibreOffice 7.5.6
+-   LibreOffice 7.6.1.2
 -   Pipewire 0.3.79
 -   Snapd 2.60.3
 -   SGT Launcher 0.2.8
