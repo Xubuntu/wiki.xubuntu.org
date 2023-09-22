@@ -92,7 +92,11 @@ to every Ubuntu flavor.
     (simple-scan) have a refreshed interface using libadwaita and newer
     design conventions.
 -   Several Xfce components have been updated to better support UI
-    scaling.
+    scaling. 2x scaling can be enabled from the Appearance dialog.
+-   **Color emoji** 😉️ are now included and used in Firefox,
+    Thunderbird, and Gtk 3 and newer applications. To enter emoji on Gtk
+    applications (such as Mousepad), use the `Ctrl + .` keyboard
+    shortcut to show the emoji picker.
 -   **[Past Xubuntu wallpapers](https://github.com/Xubuntu/xubuntu-marketing/blob/master/wallpapers/README.md)**
     can now be easily installed from the repositories! They\'re grouped
     by LTS release:
@@ -105,10 +109,11 @@ to every Ubuntu flavor.
     -   `xubuntu-wallpapers-lucid`: Intrepid, Jaunty, Karmic, and Lucid
     -   `xubuntu-wallpapers-hardy`: Edgy, Feisty, Gutsy, and Hardy
     -   `xubuntu-wallpapers-dapper`: Dapper
--   (Pending update to `xubuntu-default-settings` 23.10.0) When
-    selecting a GTK theme, if there is a matching Xfwm theme, it will be
-    automatically selected as well. This setting can be changed in the
-    Appearance dialog.
+-   (Pending update to [xubuntu-default-settings
+    23.10.0](https://launchpad.net/ubuntu/+source/xubuntu-default-settings/23.10.0))
+    When selecting a GTK theme, if there is a matching Xfwm theme, it
+    will be automatically selected as well. This setting can be changed
+    in the Appearance dialog.
 
 ## Hardware Support
 
