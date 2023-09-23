@@ -12,13 +12,12 @@ and the latest updates for Xubuntu 23.10, check out the [release page](https://x
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Daily Images
+## Downloads
 
-Please report your test results at
+Xubuntu 23.10 Beta, Desktop and Minimal, can be downloaded from
+[cdimage.ubuntu.com](https://cdimage.ubuntu.com/xubuntu/releases/23.10/beta/).
+While testing, please be sure to report your test results at
 [iso.qa.ubuntu.com](http://iso.qa.ubuntu.com/).
-
--   [Xubuntu Desktop](https://cdimage.ubuntu.com/xubuntu/daily-live/current/)
--   [Xubuntu Minimal](https://cdimage.ubuntu.com/xubuntu/daily-minimal/current/)
 
 ## Known Issues
 
