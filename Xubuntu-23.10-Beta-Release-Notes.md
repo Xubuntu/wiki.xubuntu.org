@@ -108,11 +108,10 @@ to every Ubuntu flavor.
     -   `xubuntu-wallpapers-lucid`: Intrepid, Jaunty, Karmic, and Lucid
     -   `xubuntu-wallpapers-hardy`: Edgy, Feisty, Gutsy, and Hardy
     -   `xubuntu-wallpapers-dapper`: Dapper
--   (Pending update to [xubuntu-default-settings
-    23.10.0](https://launchpad.net/ubuntu/+source/xubuntu-default-settings/23.10.0))
-    When selecting a GTK theme, if there is a matching Xfwm theme, it
-    will be automatically selected as well. This setting can be changed
-    in the Appearance dialog.
+-   Once you\'re up and running with the beta, check for updates!
+    You\'ll find `xubuntu-default-settings` version 23.10.0, which syncs
+    your Gtk and Xfwm themes. This setting can be changed in the
+    Appearance dialog.
 
 ## Hardware Support
 
