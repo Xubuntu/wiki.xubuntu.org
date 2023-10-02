@@ -2,6 +2,8 @@
 
 **Welcome to the Xubuntu 23.10 \"Mantic Minotaur\" release notes!**
 
+![](images/releases/23.10/xubuntu-23.10.png)
+
 Xubuntu 23.10 will be released on Thursday, October 12, 2023, and will
 be supported for nine months until July 2024. For general information
 and the latest updates for Xubuntu 23.10, check out the [release page](https://xubuntu.org/release/23-10) on xubuntu.org.
@@ -96,6 +98,9 @@ to every Ubuntu flavor.
     Thunderbird, and Gtk 3 and newer applications. To enter emoji on Gtk
     applications (such as Mousepad), use the `Ctrl + .` keyboard
     shortcut to show the emoji picker.
+-   When changing your Gtk (interface) theme, a matching Xfwm (window
+    manager) theme is now automatically selected. This setting can be
+    changed in the Appearance dialog.
 -   **[Past Xubuntu wallpapers](https://github.com/Xubuntu/xubuntu-marketing/blob/master/wallpapers/README.md)**
     can now be easily installed from the repositories! They\'re grouped
     by LTS release:
@@ -108,10 +113,6 @@ to every Ubuntu flavor.
     -   `xubuntu-wallpapers-lucid`: Intrepid, Jaunty, Karmic, and Lucid
     -   `xubuntu-wallpapers-hardy`: Edgy, Feisty, Gutsy, and Hardy
     -   `xubuntu-wallpapers-dapper`: Dapper
--   Once you\'re up and running with the beta, check for updates!
-    You\'ll find `xubuntu-default-settings` version 23.10.0, which syncs
-    your Gtk and Xfwm themes. This setting can be changed in the
-    Appearance dialog.
 
 ## Hardware Support
 
