@@ -1,4 +1,4 @@
-# Xubuntu 23.10 BETA Release Notes
+# Xubuntu 23.10 Release Notes
 
 **Welcome to the Xubuntu 23.10 \"Mantic Minotaur\" release notes!**
 
@@ -46,10 +46,10 @@ While testing, please be sure to report your test results at
         ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
     -   Media player menu is no longer populated
         ([2036352](https://bugs.launchpad.net/xfce4-pulseaudio-plugin/+bug/2036352))
--   Xubuntu 23.10 is still using the 23.04 wallpaper. Work on the new
-    wallpaper is underway.
--   During startup, Plymouth displays \"Xubuntu 23.04\". This will be
-    resolved after the beta.
+-   You may experience audio stuttering and poor performance while audio
+    plays in some virtual machines, including VMware. In these
+    instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
+    (recommended) or replace PipeWire with PulseAudio.
 
 ## Ubuntu Common Release Notes
 
