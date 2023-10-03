@@ -39,19 +39,20 @@ While testing, please be sure to report your test results at
 
 ### General Issues
 
--   Xorg crashes after logging in or switching users on some Virtual
-    Machines
-    ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
 -   Xfce Pulseaudio Plugin:
     -   Multiple notifications displayed if multiple Pulseaudio plugins
         added to panel
         ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
     -   Media player menu is no longer populated
         ([2036352](https://bugs.launchpad.net/xfce4-pulseaudio-plugin/+bug/2036352))
--   You may experience audio stuttering and poor performance while audio
-    plays in some virtual machines, including VMware. In these
-    instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
-    (recommended) or replace PipeWire with PulseAudio.
+-   Virtual Machines:
+    -   Xorg crashes after logging in or switching users on some virtual
+        machines, including QEMU/GNOME Boxes and Virtualbox
+        ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
+    -   Poor performance and audio stuttering in some virtual machines,
+        including VMware. In these instances, you will need to either
+        [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
+        (recommended) or replace PipeWire with PulseAudio.
 
 ## Ubuntu Common Release Notes
 
