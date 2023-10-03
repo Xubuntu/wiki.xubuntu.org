@@ -50,9 +50,9 @@ While testing, please be sure to report your test results at
         machines, including QEMU/GNOME Boxes and Virtualbox
         ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
     -   Poor performance and audio stuttering in some virtual machines,
-        including VMware. In these instances, you will need to either
-        [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
-        (recommended) or replace PipeWire with PulseAudio.
+        including VMware
+        -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
+            (recommended) or replace PipeWire with PulseAudio
 
 ## Ubuntu Common Release Notes
 
