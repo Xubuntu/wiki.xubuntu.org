@@ -43,8 +43,6 @@ While testing, please be sure to report your test results at
     -   Multiple notifications displayed if multiple Pulseaudio plugins
         added to panel
         ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
-    -   Media player menu is no longer populated
-        ([2036352](https://bugs.launchpad.net/xfce4-pulseaudio-plugin/+bug/2036352))
 -   Virtual Machines:
     -   Xorg crashes after logging in or switching users on some virtual
         machines, including QEMU/GNOME Boxes and Virtualbox
