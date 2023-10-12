@@ -41,7 +41,7 @@ the latest updates for Xubuntu 23.10, check out the [release page](https://xubun
         machines, including QEMU/GNOME Boxes and Virtualbox
         ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
     -   Poor performance and audio stuttering in some virtual machines,
-        including VMware
+        including VMware and VirtualBox
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
 
