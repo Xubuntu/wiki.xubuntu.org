@@ -48,6 +48,8 @@ either Xubuntu Minimal or Xubuntu Desktop.
     -   Xorg crashes after logging in or switching users on some virtual
         machines, including QEMU/GNOME Boxes and Virtualbox
         ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
+        -   You may be able to resolve this issue by removing the
+            `libva-wayland2` package.
     -   Poor performance and audio stuttering in some virtual machines,
         including VMware and VirtualBox
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
@@ -61,12 +63,12 @@ to every Ubuntu flavor.
 
 ## Major Updates
 
--   Snap Store (snap:snap-store) replaces GNOME Software
-    -   gdebi is included for Debian package support
--   snap:snapd-desktop-integration is included for better snap package
+-   Snap Store (`snap:snap-store`) replaces GNOME Software
+    -   `gdebi` is included for Debian package support
+-   `snap:snapd-desktop-integration` is included for better snap package
     support
--   snap:firmware-updater is included to support firmware updates with
-    LVFS
+-   Firmware Updater (`snap:firmware-updater`) is included to support
+    firmware updates with LVFS
 -   Thunderbird is now distributed as a Snap package
 -   Ubiquity is replaced by the Flutter-based Ubuntu Installer
 
