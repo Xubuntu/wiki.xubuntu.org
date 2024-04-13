@@ -16,6 +16,14 @@ the latest updates for Xubuntu 24.04, check out the [release page](https://xubun
 
 ### Installer Issues
 
+-   Keyboard selection is ignored in live environment
+    ([2060387](https://bugs.launchpad.net/subiquity/+bug/2060387))
+-   GRUB menu not displayed for dual-boot system installation
+    ([2060624](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/2060624))
+-   Installer may select two root (/) partitions
+    ([2060896](https://bugs.launchpad.net/subiquity/+bug/2060896))
+-   Installer fails when connected to network but without Internet
+    ([2060897](https://bugs.launchpad.net/ubuntu/+source/subiquity/+bug/2060897))
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
