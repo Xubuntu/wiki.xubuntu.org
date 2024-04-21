@@ -59,14 +59,93 @@ to every Ubuntu flavor.
 
 ## Major Updates
 
--   Snap Store (`snap:snap-store`) replaces GNOME Software
-    -   `gdebi` is included for Debian package support
--   `snap:snapd-desktop-integration` is included for better snap package
-    support
--   Firmware Updater (`snap:firmware-updater`) is included to support
-    firmware updates with LVFS
--   Thunderbird is now distributed as a Snap package
--   Ubiquity is replaced by the Flutter-based Ubuntu Installer
+### Xfce 4.18
+
+**Xfce 4.18**, the latest stable release, is included in Xubuntu 24.04.
+Notable app updates include:
+
+-   **Catfish** has a refreshed appearance with tweaks to each
+    component. It also features a new "Open with" context menu and the
+    Ctrl+A select-all accelerator.
+-   **Mousepad** has added search history and the ability to reload
+    files if they\'ve been modified automatically. It also includes a
+    handful of UX improvements, and a new "match whole word" toggle
+    added to the search toolbar.
+-   **Ristretto** adds printing support to Xubuntu\'s default image
+    viewer.
+-   **Thunar File Manager** now has built-in, recursive file search. It
+    also includes a graphical shortcuts editor and per-directory zoom
+    levels. The latest release adds support for IPv6 remote URLs.
+-   **Thunar Archive Plugin** now allows zip files (including odt, docx,
+    and others) to be compressed and improves support for bz2 and bz3
+    files.
+-   **Application Finder** now supports the PrefersNonDefaultGPU
+    property, correctly launching games and other apps on multi-GPU
+    systems.
+-   **Desktop** will now ask for confirmation before desktop icons are
+    rearranged. A new option has been added to disable the "Delete"
+    context menu item.
+-   **Dictionary** has added support for IPv6 DICT servers.
+-   **Notification Daemon** features improved application icon and name
+    matching and fixes notification position during the slideout
+    animation.
+-   **Panel** has added a new binary time mode and new middle-click
+    options for the tasklist plugin. It also improves the handling and
+    display of systray and status notifier applets.
+-   **PulseAudio Plugin** features a new indicator for when any app is
+    recording audio. Notifications are now displayed when the microphone
+    volume level is changed. Media players can now be marked as
+    persistent or ignored via the settings dialog.
+-   **Screenshooter** fixes window capture for HiDPI, enables viewing
+    your screenshot in the file manager, and adds a back button to take
+    a new screenshot. It also features newly-added support for AVIF and
+    JPEG XL file formats.
+-   **Power Manager** and **Screensaver** received several updates to
+    eliminate screensaver issues.
+-   **Settings** includes improved support for dark themes and will now
+    sync dark theme settings to apps that support it.
+-   **Task Manager** adds a right-click option to copy the full process
+    command line to the clipboard and improves support for dark themes.
+-   **Terminal** improves scrolling, adds a new "Fill" background image
+    style, and fixes the "unsafe paste" dialog (allowing it to actually
+    paste).
+
+Finally, Xfce libraries, including garcon, libxfce4ui, tumbler, and
+xfconf have received several bug fixes for race conditions and memory
+leaks. Overall, the desktop should be more responsive and less prone to
+crash.
+
+### Common with Ubuntu
+
+-   GNOME Software has been replaced by **Snap Store**
+    (`snap:snap-store`) and **GDebi** (`apt:gdebi`). **Synaptic** is
+    still included for researching and installing Debian packages from
+    the repositories.
+-   **Snap Desktop Integration** (`snap:snapd-desktop-integration`) is
+    now included for improved snap package support
+-   **Firmware Updater** (`snap:firmware-updater`) has been added to
+    enable firmware updates in Xubuntu is included to support firmware
+    updates from the Linux Vendor Firmware Service (LVFS)
+-   **Thunderbird** is now distributed as a Snap package. Users
+    upgrading from a previous release will be automatically transitioned
+    to the new Snap package with no loss of data or functionality.
+-   Ubiquity has been replaced by the Flutter-based Ubuntu Installer
+    ([ubuntu-desktop-provision](https://github.com/canonical/ubuntu-desktop-provision))
+    to provide fast and user-friendly installation
+
+### Additional Updates
+
+-   **Xubuntu Minimal** is now available, featuring a slimmed down
+    version of Xubuntu with only the bare essentials.
+-   **Pipewire** (and wireplumber) are now included in Xubuntu.
+-   *Mosaic*, the grid-filling puzzle, has been added to **SGT
+    Puzzles**.
+-   **MenuLibre**, the Xfce-friendly menu editor, has been updated with
+    several quality-of-life improvements. The new command editor takes
+    the guesswork out of generating complex application launchers. Help
+    dialogs make it easier to learn about each supported feature.
+    Separators are displayed in the application list to make them easier
+    to see and reorder.
 
 ## Appearance Updates
 
