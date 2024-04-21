@@ -45,7 +45,7 @@ either Xubuntu Minimal or Xubuntu Desktop.
         machines, including QEMU/GNOME Boxes and Virtualbox
         ([1861609](https://bugs.launchpad.net/ubuntu/+source/xorg-server/+bug/1861609))
         -   You may be able to resolve this issue by removing the
-            `libva-wayland2` package.
+            `apt:libva-wayland2` package.
     -   Poor performance and audio stuttering in some virtual machines,
         including VMware and VirtualBox
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
@@ -159,10 +159,10 @@ crash.
 -   The **Systray** panel plugin now uses "automatic" icon sizes, making
     indicators and tray icons more consistent.
 -   The **Terminal** font size was increased from 9 to 10.
--   Some GNOME components, including **Disk Usage Analyzer** (`baobab`),
-    **Fonts** (`gnome-font-viewer`), and **Document Scanner**
-    (`simple-scan`) have a refreshed interface using libadwaita and
-    newer design conventions.
+-   Some GNOME components, including **Disk Usage Analyzer**
+    (`apt:baobab`), **Fonts** (`apt:gnome-font-viewer`), and **Document
+    Scanner** (`apt:simple-scan`) have a refreshed interface using
+    libadwaita and newer design conventions.
 -   Several Xfce components have been updated to better support UI
     scaling. 2x scaling can be enabled from the Appearance dialog.
 -   **Color emoji** are now included and used in Firefox, Thunderbird,
@@ -187,10 +187,10 @@ crash.
 ## Hardware Support
 
 -   **Bluetooth headphones** are now better supported under PipeWire
-    with the addition of `libspa-0.2-bluetooth`
+    with the addition of `apt:libspa-0.2-bluetooth`
 -   Recent touch input devices, including the second-generation Apple
     Magic Trackpad, are now supported with the removal of
-    `xserver-xorg-input-synaptics`
+    `apt:xserver-xorg-input-synaptics`
 
 ## Updates
 
