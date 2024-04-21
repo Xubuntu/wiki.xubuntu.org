@@ -149,7 +149,48 @@ crash.
 
 ## Appearance Updates
 
+-   The **Greybird** GTK theme features improved GTK 3 and GTK 4 support
+    with minor visual improvements for Xfce and GNOME applications.
+-   The **elementary-xfce** icon theme updates the visual language for
+    Xfce and other applications for a brighter, rounder, more colorful,
+    and more consistent experience. Enjoy new icons for the Settings
+    Manager, Xubuntu Installer, Xfburn, Mousepad, Calculator, Bluetooth,
+    and many more!
+-   The **Systray** panel plugin now uses "automatic" icon sizes, making
+    indicators and tray icons more consistent.
+-   The **Terminal** font size was increased from 9 to 10.
+-   Some GNOME components, including **Disk Usage Analyzer** (`baobab`),
+    **Fonts** (`gnome-font-viewer`), and **Document Scanner**
+    (`simple-scan`) have a refreshed interface using libadwaita and
+    newer design conventions.
+-   Several Xfce components have been updated to better support UI
+    scaling. 2x scaling can be enabled from the Appearance dialog.
+-   **Color emoji** are now included and used in Firefox, Thunderbird,
+    and GTK 3 and newer applications. To enter emoji on GTK applications
+    (such as Mousepad), use the `Ctrl + .` keyboard shortcut to show the
+    emoji picker.
+-   When changing your GTK (interface) theme, a matching Xfwm (window
+    manager) theme is now automatically selected. This setting can be
+    changed in the Appearance dialog.
+-   Past Xubuntu wallpapers can now be easily installed from the
+    repositories! They\'re grouped by LTS release:
+    -   `xubuntu-wallpapers-jammy`: Hirsute, Impish, and Jammy
+    -   `xubuntu-wallpapers-focal`: Cosmic, Disco, Eoan, and Focal
+    -   `xubuntu-wallpapers-bionic`: Yakkety, Zesty, Artful, and Bionic
+    -   `xubuntu-wallpapers-xenial`: Utopic, Vivid, Wily, and Xenial
+    -   `xubuntu-wallpapers-trusty`: Quantal, Raring, Saucy, and Trusty
+    -   `xubuntu-wallpapers-precise`: Maverick, Natty, and Precise
+    -   `xubuntu-wallpapers-lucid`: Intrepid, Jaunty, Karmic, and Lucid
+    -   `xubuntu-wallpapers-hardy`: Edgy, Feisty, Gutsy, and Hardy
+    -   `xubuntu-wallpapers-dapper`: Dapper
+
 ## Hardware Support
+
+-   **Bluetooth headphones** are now better supported under PipeWire
+    with the addition of `libspa-0.2-bluetooth`
+-   Recent touch input devices, including the second-generation Apple
+    Magic Trackpad, are now supported with the removal of
+    `xserver-xorg-input-synaptics`
 
 ## Updates
 
