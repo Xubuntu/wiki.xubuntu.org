@@ -6,10 +6,6 @@ Xubuntu 24.04 will be released on Thursday, April 25, 2024, and will be
 supported for three years until April 2027. For general information and
 the latest updates for Xubuntu 24.04, check out the [release page](https://xubuntu.org/release/24-04) on xubuntu.org.
 
-To beta test Xubuntu 24.04, first take a look at the *Installer Issues*
-section below. Then, visit the [download page](https://cdimage.ubuntu.com/xubuntu/releases/24.04/beta/) for
-either Xubuntu Minimal or Xubuntu Desktop.
-
 -   [Known Issues](#known_issues)
 -   [Ubuntu Common Release Notes](#ubuntu_common_release_notes)
 -   [Major Updates](#major_updates)
