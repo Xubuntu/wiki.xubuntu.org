@@ -2,10 +2,9 @@
 
 **Welcome to the Xubuntu 24.10 \"Oracular Oriole\" BETA release notes!**
 
-Xubuntu 24.10 will be released on was released on Thursday, October 10,
-2024, and will be supported for nine months until July 2025. For general
-information and the latest updates for Xubuntu 24.10, check out the
-[release page](https://xubuntu.org/release/24-10) on xubuntu.org.
+Xubuntu 24.10 will be released on Thursday, October 10, 2024, and will
+be supported for nine months until July 2025. For general information
+and the latest updates for Xubuntu 24.10, check out the [release page](https://xubuntu.org/release/24-10) on xubuntu.org.
 
 -   [Known Issues](#known_issues)
 -   [Ubuntu Common Release Notes](#ubuntu_common_release_notes)
