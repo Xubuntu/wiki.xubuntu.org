@@ -62,6 +62,21 @@ the coming months, culminating in the release of Xfce 4.20. Xubuntu
 24.10 ships with some Xfce 4.19 components for an early look at the next
 generation of Xfce applications.
 
+-   exo
+-   garcon
+-   libxfce4ui
+-   libxfce4util
+-   libxfce4windowing
+-   thunar
+-   tumbler
+-   xfce4-appfinder
+-   xfce4-panel
+-   xfce4-power-manager
+-   xfce4-session
+-   xfce4-settings
+-   xfconf
+-   xfdesktop4
+
 ### Common with Ubuntu
 
 ### Additional Updates
