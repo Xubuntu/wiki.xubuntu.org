@@ -62,24 +62,53 @@ the coming months, culminating in the release of Xfce 4.20. Xubuntu
 24.10 ships with some Xfce 4.19 components for an early look at the next
 generation of Xfce applications.
 
--   exo
--   garcon
--   libxfce4ui
--   libxfce4util
--   libxfce4windowing
--   thunar
--   tumbler
--   xfce4-appfinder
--   xfce4-panel
--   xfce4-power-manager
--   xfce4-session
--   xfce4-settings
--   xfconf
--   xfdesktop4
+-   exo: 4.18.0-1build4 -\> 4.19.0-1
+-   garcon: 4.18.1-1build3 -\> 4.19.1-1
+-   libxfce4ui: 4.18.4-1build4 -\> 4.19.5-1
+-   libxfce4util: 4.18.1-2build3 -\> 4.19.3-1
+-   libxfce4windowing: (new) 4.19.4-1
+-   thunar: 4.18.8-1build3 -\> 4.19.3-1
+-   tumbler: 4.18.1-1.1build4 -\> 4.19.1-1
+-   xfce4-appfinder: 4.18.0-1build2 -\> 4.19.2-1
+-   xfce4-panel: 4.18.4-1build2 -\> 4.19.3-1
+-   xfce4-power-manager: 4.18.3-2build3 -\> 4.19.3-1
+-   xfce4-screenshooter: 1.10.5-1build1 -\> 1.11.1-1
+-   xfce4-session: 4.18.3-1build2 -\> 4.19.2-1
+-   xfce4-settings: 4.18.4-0ubuntu3 -\> 4.19.2-1ubuntu1
+-   xfconf: 4.18.1-1build3 -\> 4.19.2-1
+-   xfdesktop4: 4.18.1-1build3 -\> 4.19.3-1
 
 ### Common with Ubuntu
 
+-   firefox: stable/ubuntu-24.04-4793 -\> stable/ubuntu-24.10-4955
+-   firmware-updater: stable/ubuntu-24.04-127 -\>
+    stable/ubuntu-24.10-127
+-   snap-store: stable/ubuntu-24.04-1173 -\> stable/ubuntu-24.10-1173
+-   snapd-desktop-integration: stable/ubuntu-24.04-178 -\>
+    stable/ubuntu-24.10-223
+-   thunderbird: stable/ubuntu-24.04-507 -\> stable/ubuntu-24.10-512
+
 ### Additional Updates
+
+-   baobab: 46.0-1build1 -\> 47.0-1
+-   catfish: 4.16.4-2 -\> 4.18.0-0ubuntu1
+-   gimp: 2.10.36-3ubuntu0.24.04.1 -\> 2.10.38-2
+-   gnome-disk-utility: 46.0-1ubuntu3 -\> 46.1-1ubuntu1
+-   gnome-font-viewer: 46.0-1build1 -\> 47.0-1
+-   gnome-sudoku: 1:46.0-1build1 -\> 1:47\~beta-1
+-   gucharmap: 1:15.1.3-1build1 -\> 1:15.1.5-1
+-   inxi: 3.3.34-1-1 -\> 3.3.35-1-1
+-   libreoffice-base-core: 4:24.2.5-0ubuntu0.24.04.2 -\>
+    4:24.8.1-0ubuntu1
+-   mousepad: 0.6.1-1build2 -\> 0.6.2-1
+-   pavucontrol: 5.0-2build3 -\> 6.0-1
+-   ristretto: 0.13.1-1build2 -\> 0.13.2-1
+-   transmission-gtk: 4.0.5-1build5 -\> 4.0.6+dfsg-3ubuntu2
+-   xfburn: 0.7.0-1build2 -\> 0.7.2-1
+-   xfce4-clipman: 2:1.6.5-1build2 -\> 2:1.6.6-1
+-   xfce4-notifyd: 0.9.4-1 -\> 0.9.6-1
+-   xubuntu-artwork: 24.04.1 -\> 24.10
+-   xubuntu-desktop: 2.262 -\> 2.263
 
 ## Appearance Updates
 
@@ -92,7 +121,7 @@ see the [Changelogs](#Changelogs) section below.*
 
 ### Application Stack
 
--   GNOME 48
+-   GNOME 47
 -   GTK 2.24.33 / 3.24.43 / 4.16.1
 -   MATE 1.26
 -   Xfce 4.18 & 4.19
