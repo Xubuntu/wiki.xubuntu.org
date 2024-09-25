@@ -158,12 +158,12 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
     -   Fixed Install button stuck in \"Installing\" after font is
         installed
 -   **gnome-sudoku: 1:46.0-1build1 -\> 1:47\~beta-1**
+    -   Added (Ctrl+H) keyboard shortcut for highlighter
+    -   Added (Ctrl+W) keyboard shortcut for warnings
     -   Added (F) fullscren keyboard shortcut
     -   Added (P) pause keyboard shortcut
     -   Added (R) redo keyboard shortcut
     -   Added (U) undo keyboard shortcut
-    -   Added Ctrl+H keyboard shortcut for highlighter
-    -   Added Ctrl+W keyboard shortcut for warnings
     -   Added mouse button bindings for undo and redo
     -   Added preferences dialog
     -   Added zoom feature
