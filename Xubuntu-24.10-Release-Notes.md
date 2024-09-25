@@ -125,6 +125,27 @@ can be found below.
     -   Increased opacity for inactive icons
     -   Wallpaper gradients are now dithered to reduce color banding
 
+### Xfce 4.18
+
+Xubuntu 24.10 also includes several updates from the stable Xfce 4.18
+series. Highlights from each updated component can be found below.
+
+-   **catfish: 4.16.4-2 -\> 4.18.0-0ubuntu1**
+    -   Added new Archives and Other filters to side pane
+    -   Fixed \"no default app\" error when opening files
+    -   Performance improvements
+-   **mousepad: 0.6.1-1build2 -\> 0.6.2-1**
+-   **ristretto: 0.13.1-1build2 -\> 0.13.2-1**
+-   **xfburn: 0.7.0-1build2 -\> 0.7.2-1**
+    -   Added support for opening toast and img file extensions
+    -   Fixed help dialog opening on unintended keypresses
+-   **xfce4-clipman: 2:1.6.5-1build2 -\> 2:1.6.6-1**
+    -   GIMP action added upstream (needs added in Xubuntu)
+    -   Search history is now case-sensitive
+-   **xfce4-notifyd: 0.9.4-1 -\> 0.9.6-1**
+    -   Added preference to set the minimum width of notifications
+    -   Improved Wayland support
+
 ### Common with Ubuntu
 
 -   firefox: stable/ubuntu-24.04-4793 -\> stable/ubuntu-24.10-4955
@@ -138,7 +159,6 @@ can be found below.
 ### Additional Updates
 
 -   baobab: 46.0-1build1 -\> 47.0-1
--   catfish: 4.16.4-2 -\> 4.18.0-0ubuntu1
 -   gimp: 2.10.36-3ubuntu0.24.04.1 -\> 2.10.38-2
 -   gnome-disk-utility: 46.0-1ubuntu3 -\> 46.1-1ubuntu1
 -   gnome-font-viewer: 46.0-1build1 -\> 47.0-1
@@ -147,13 +167,8 @@ can be found below.
 -   inxi: 3.3.34-1-1 -\> 3.3.35-1-1
 -   libreoffice-base-core: 4:24.2.5-0ubuntu0.24.04.2 -\>
     4:24.8.1-0ubuntu1
--   mousepad: 0.6.1-1build2 -\> 0.6.2-1
 -   pavucontrol: 5.0-2build3 -\> 6.0-1
--   ristretto: 0.13.1-1build2 -\> 0.13.2-1
 -   transmission-gtk: 4.0.5-1build5 -\> 4.0.6+dfsg-3ubuntu2
--   xfburn: 0.7.0-1build2 -\> 0.7.2-1
--   xfce4-clipman: 2:1.6.5-1build2 -\> 2:1.6.6-1
--   xfce4-notifyd: 0.9.4-1 -\> 0.9.6-1
 -   xubuntu-artwork: 24.04.1 -\> 24.10
 -   xubuntu-desktop: 2.262 -\> 2.263
 
