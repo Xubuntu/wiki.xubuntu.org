@@ -146,6 +146,30 @@ series. Highlights from each updated component can be found below.
     -   Added preference to set the minimum width of notifications
     -   Improved Wayland support
 
+### GNOME
+
+Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
+
+-   **baobab: 46.0-1build1 -\> 47.0-1**
+    -   Appearance improvements
+-   **gnome-disk-utility: 46.0-1ubuntu3 -\> 46.1-1ubuntu1**
+-   **gnome-font-viewer: 46.0-1build1 -\> 47.0-1**
+    -   Added slant preview
+    -   Fixed Install button stuck in \"Installing\" after font is
+        installed
+-   **gnome-sudoku: 1:46.0-1build1 -\> 1:47\~beta-1**
+    -   Added (F) fullscren keyboard shortcut
+    -   Added (P) pause keyboard shortcut
+    -   Added (R) redo keyboard shortcut
+    -   Added (U) undo keyboard shortcut
+    -   Added Ctrl+H keyboard shortcut for highlighter
+    -   Added Ctrl+W keyboard shortcut for warnings
+    -   Added mouse button bindings for undo and redo
+    -   Added preferences dialog
+    -   Added zoom feature
+    -   Improved dark mode support
+    -   The game board is now hidden when paused
+
 ### Common with Ubuntu
 
 -   firefox: stable/ubuntu-24.04-4793 -\> stable/ubuntu-24.10-4955
@@ -158,15 +182,10 @@ series. Highlights from each updated component can be found below.
 
 ### Additional Updates
 
--   baobab: 46.0-1build1 -\> 47.0-1
 -   gimp: 2.10.36-3ubuntu0.24.04.1 -\> 2.10.38-2
--   gnome-disk-utility: 46.0-1ubuntu3 -\> 46.1-1ubuntu1
--   gnome-font-viewer: 46.0-1build1 -\> 47.0-1
--   gnome-sudoku: 1:46.0-1build1 -\> 1:47\~beta-1
 -   gucharmap: 1:15.1.3-1build1 -\> 1:15.1.5-1
 -   inxi: 3.3.34-1-1 -\> 3.3.35-1-1
--   libreoffice-base-core: 4:24.2.5-0ubuntu0.24.04.2 -\>
-    4:24.8.1-0ubuntu1
+-   libreoffice: 4:24.2.5-0ubuntu0.24.04.2 -\> 4:24.8.1-0ubuntu1
 -   pavucontrol: 5.0-2build3 -\> 6.0-1
 -   transmission-gtk: 4.0.5-1build5 -\> 4.0.6+dfsg-3ubuntu2
 -   xubuntu-artwork: 24.04.1 -\> 24.10
