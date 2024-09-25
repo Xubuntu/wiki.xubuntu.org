@@ -28,7 +28,7 @@ and the latest updates for Xubuntu 24.10, check out the [release page](https://x
 ```
         * However, you should be able to press the Enter key to continue with the reboot.
     * OEM installation is not available.
-        * It is under active development and will be ready in time for 24.04.1
+        * It is under active development and will be ready in time for 25.04.
 
 ### General Issues
 
