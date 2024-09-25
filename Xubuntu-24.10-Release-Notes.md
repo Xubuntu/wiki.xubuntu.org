@@ -60,23 +60,70 @@ to every Ubuntu flavor.
 Xfce 4.19 is under heavy development and is expected to be finalized in
 the coming months, culminating in the release of Xfce 4.20. Xubuntu
 24.10 ships with some Xfce 4.19 components for an early look at the next
-generation of Xfce applications.
+generation of Xfce applications. Highlights from each updated component
+can be found below.
 
--   exo: 4.18.0-1build4 -\> 4.19.0-1
--   garcon: 4.18.1-1build3 -\> 4.19.1-1
--   libxfce4ui: 4.18.4-1build4 -\> 4.19.5-1
--   libxfce4util: 4.18.1-2build3 -\> 4.19.3-1
--   libxfce4windowing: (new) 4.19.4-1
--   thunar: 4.18.8-1build3 -\> 4.19.3-1
--   tumbler: 4.18.1-1.1build4 -\> 4.19.1-1
--   xfce4-appfinder: 4.18.0-1build2 -\> 4.19.2-1
--   xfce4-panel: 4.18.4-1build2 -\> 4.19.3-1
--   xfce4-power-manager: 4.18.3-2build3 -\> 4.19.3-1
--   xfce4-screenshooter: 1.10.5-1build1 -\> 1.11.1-1
--   xfce4-session: 4.18.3-1build2 -\> 4.19.2-1
--   xfce4-settings: 4.18.4-0ubuntu3 -\> 4.19.2-1ubuntu1
--   xfconf: 4.18.1-1build3 -\> 4.19.2-1
--   xfdesktop4: 4.18.1-1build3 -\> 4.19.3-1
+-   **exo: 4.18.0-1build4 -\> 4.19.0-1**
+    -   Impoved icon scaling
+-   **garcon: 4.18.1-1build3 -\> 4.19.1-1**
+    -   Impoved icon scaling
+-   **libxfce4ui: 4.18.4-1build4 -\> 4.19.5-1**
+    -   Added distribution logo to the About Xfce dialog
+    -   Improved CSD (client-side decoration) support
+    -   Keyboard shortcuts using a single modifier key (e.g. Super) are
+        now detected on key release
+        -   This means we can remove our xcape integration and maintain
+            Super key support
+-   **libxfce4util: 4.18.1-2build3 -\> 4.19.3-1**
+-   **libxfce4windowing: (new) 4.19.4-1**
+-   **thunar: 4.18.8-1build3 -\> 4.19.3-1**
+    -   Added preference to toggle symbolic icons in the side pane
+    -   Added support for typeahead search on the treeview side pane
+    -   Added support for IPv6 remote URLs
+    -   Improved thumbnail scaling
+    -   Up to 4 emblems are now always displayed
+-   **tumbler: 4.18.1-1.1build4 -\> 4.19.1-1**
+-   **xfce4-appfinder: 4.18.0-1build2 -\> 4.19.2-1**
+    -   Added (Ctrl+Enter) keyboard shortcut to executed commands
+    -   Added (Ctrl+N) and (Ctrl+P) keyboard shortcuts to navigate the
+        results
+    -   Added preference to automatically close window when focus is
+        lost
+    -   Added preference to launch items on a single click
+    -   Commands are reliably added to history for known menu items
+-   **xfce4-panel: 4.18.4-1build2 -\> 4.19.3-1**
+    -   Added preference to toggle week numbers to the Clock plugin
+    -   Improved icon scaling
+    -   Improved Wayland support
+-   **xfce4-power-manager: 4.18.3-2build3 -\> 4.19.3-1**
+    -   Added power preferences when laptop lid is closed
+    -   Added support for scroll events to the panel plugin
+    -   Improved battery icon levels
+    -   Improved brightness level management
+    -   Improved icon scaling
+    -   Improved power management inhibition
+    -   Improved Wayland support
+-   **xfce4-screenshooter: 1.10.5-1build1 -\> 1.11.1-1**
+    -   Dropped built-in support for Imgur
+    -   Improved Wayland support
+-   **xfce4-session: 4.18.3-1build2 -\> 4.19.2-1**
+    -   Added xdg-desktop-portal configuration file
+    -   Improved icon and snapshot scaling
+    -   Improved Wayland support
+-   **xfce4-settings: 4.18.4-0ubuntu3 -\> 4.19.2-1ubuntu1**
+    -   Added preference to enable CSD in dialogs to the Appearance
+        dialog
+    -   Improved dark theme detection
+    -   Improved display profiles dialog and backend
+    -   Improved icon scaling
+    -   Improved minimal display dialog
+    -   Improved Wayland support
+-   **xfconf: 4.18.1-1build3 -\> 4.19.2-1**
+-   **xfdesktop4: 4.18.1-1build3 -\> 4.19.3-1**
+    -   Improved icon sorting direction
+    -   Improved Wayland support
+    -   Increased opacity for inactive icons
+    -   Wallpaper gradients are now dithered to reduce color banding
 
 ### Common with Ubuntu
 
