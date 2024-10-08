@@ -157,7 +157,7 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
     -   Added slant preview
     -   Fixed Install button stuck in \"Installing\" after font is
         installed
--   **gnome-sudoku: 1:46.0-1build1 -\> 1:47\~beta-1**
+-   **gnome-sudoku: 1:46.0-1build1 -\> 1:47.0-1**
     -   Added (Ctrl+H) keyboard shortcut for highlighter
     -   Added (Ctrl+W) keyboard shortcut for warnings
     -   Added (F) fullscren keyboard shortcut
@@ -172,13 +172,13 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
 
 ### Common with Ubuntu
 
--   firefox: stable/ubuntu-24.04-4793 -\> stable/ubuntu-24.10-4955
+-   firefox: stable/ubuntu-24.04-4793 -\> stable/ubuntu-24.10-5014
 -   firmware-updater: stable/ubuntu-24.04-127 -\>
-    stable/ubuntu-24.10-127
--   snap-store: stable/ubuntu-24.04-1173 -\> stable/ubuntu-24.10-1173
+    1/stable/ubuntu-24.10-127
+-   snap-store: stable/ubuntu-24.04-1173 -\> 2/stable/ubuntu-24.10-1218
 -   snapd-desktop-integration: stable/ubuntu-24.04-178 -\>
-    stable/ubuntu-24.10-223
--   thunderbird: stable/ubuntu-24.04-507 -\> stable/ubuntu-24.10-512
+    stable/ubuntu-24.10-247
+-   thunderbird: stable/ubuntu-24.04-507 -\> stable/ubuntu-24.10-526
 
 ### Additional Updates
 
@@ -188,7 +188,7 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
 -   libreoffice: 4:24.2.5-0ubuntu0.24.04.2 -\> 4:24.8.1-0ubuntu1
 -   pavucontrol: 5.0-2build3 -\> 6.0-1
 -   transmission-gtk: 4.0.5-1build5 -\> 4.0.6+dfsg-3ubuntu2
--   xubuntu-artwork: 24.04.1 -\> 24.10
+-   xubuntu-artwork: 24.04.1 -\> 24.10.1
 -   xubuntu-desktop: 2.262 -\> 2.263
 
 ## Appearance Updates
@@ -262,7 +262,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Firefox 130.0.1 (snap)
 -   GIMP 2.10.38
 -   LibreOffice 24.8.1
--   Pipewire 1.2.3
+-   Pipewire 1.2.4
 -   Snapd 2.65.3
 -   SGT Launcher 0.2.8
 -   Thunderbird 128.2.2 (snap)
