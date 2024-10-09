@@ -65,10 +65,11 @@ to every Ubuntu flavor.
 ### Xfce 4.19
 
 Xfce 4.19 is under heavy development and is expected to be finalized in
-the coming months, culminating in the release of Xfce 4.20. Xubuntu
-24.10 ships with some Xfce 4.19 components for an early look at the next
-generation of Xfce applications. Highlights from each updated component
-can be found below.
+the coming months, culminating in the release of [Xfce
+4.20](https://wiki.xfce.org/releng/4.20/roadmap). Xubuntu 24.10 ships
+with some Xfce 4.19 components for an early look at the next generation
+of Xfce applications. Highlights from each updated component can be
+found below.
 
 -   **exo: 4.18.0-1build4 -\> 4.19.0-1**
     -   Impoved icon scaling
