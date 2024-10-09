@@ -185,7 +185,7 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
 -   gimp: 2.10.36-3ubuntu0.24.04.1 -\> 2.10.38-2
 -   gucharmap: 1:15.1.3-1build1 -\> 1:15.1.5-1
 -   inxi: 3.3.34-1-1 -\> 3.3.35-1-1
--   libreoffice: 4:24.2.5-0ubuntu0.24.04.2 -\> 4:24.8.1-0ubuntu1
+-   libreoffice: 4:24.2.5-0ubuntu0.24.04.2 -\> 4:24.8.2-0ubuntu1
 -   pavucontrol: 5.0-2build3 -\> 6.0-1
 -   transmission-gtk: 4.0.5-1build5 -\> 4.0.6+dfsg-3ubuntu2
 -   xubuntu-artwork: 24.04.1 -\> 24.10.1
