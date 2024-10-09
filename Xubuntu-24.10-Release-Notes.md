@@ -198,10 +198,6 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
 -   xubuntu-artwork: 24.04.1 -\> 24.10.1
 -   xubuntu-desktop: 2.262 -\> 2.263
 
-## Appearance Updates
-
-## Hardware Support
-
 ## Updates
 
 *Significant package and version updates. For full package changelogs,
