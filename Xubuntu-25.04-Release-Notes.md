@@ -92,7 +92,7 @@ see the [Changelogs](#Changelogs) section below.*
 
 ### Application Stack
 
--   GNOME 47
+-   GNOME 48
 -   GTK 2.24.33 / 3.24.49 / 4.18.2
 -   MATE 1.26
 -   Xfce 4.20
