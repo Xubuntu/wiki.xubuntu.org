@@ -58,7 +58,7 @@ more.
 
 ### GNOME
 
-Xubuntu 24.10 benefits from some GNOME 48 application releases.
+Xubuntu 25.04 benefits from some GNOME 48 application releases.
 
 -   **baobab: 47.0-1 -\> 48.0-1**
 -   **gnome-font-viewer: 47.0-1 -\> 48.0-1**
