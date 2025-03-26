@@ -1,4 +1,4 @@
-# Xubuntu 24.10 Release Notes
+# Xubuntu 25.04 Release Notes
 
 **Welcome to the Xubuntu 25.04 \"Plucky Puffin\" BETA release notes!**
 
