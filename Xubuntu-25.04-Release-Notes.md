@@ -62,7 +62,7 @@ Xubuntu 24.10 benefits from some GNOME 48 application releases.
 
 -   **baobab: 47.0-1 -\> 48.0-1**
 -   **gnome-font-viewer: 47.0-1 -\> 48.0-1**
--   **gnome-mines: TBD -\> 1:48\~alpha.2-1**
+-   **gnome-mines: 1:40.1-1build2 -\> 1:48\~alpha.2-1**
 -   **gnome-sudoku: 1:47.0-1 -\> 1:48.0-2**
 
 ### Common with Ubuntu
