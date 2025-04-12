@@ -91,6 +91,19 @@ Xubuntu 25.04 benefits from some GNOME 48 application releases.
 -   xubuntu-artwork: 24.10.1 -\> 25.04.1
 -   xubuntu-desktop: 2.263 -\> 2.267
 
+## Appearance Updates
+
+**elementary-xfce 0.21**
+
+elementary-xfce is now a fully [GPLv3 licensed](https://github.com/shimmerproject/elementary-xfce/releases/tag/v0.20.1)
+icon theme. The [latest release](https://github.com/shimmerproject/elementary-xfce/releases/tag/v0.21)
+introduces a new \"HiDPI\" version of the theme that works better with
+2x and 3x window scaling on high resolution displays. It also
+consolidates the former \"dark\" theme into one that works well for
+light, dark, and mixed desktop themes.
+
+![](images/releases/25.04/xubuntu-25.04-xfce-appearance-settings-elementary-xfce.png)
+
 ## Updates
 
 *Significant package and version updates. For full package changelogs,
