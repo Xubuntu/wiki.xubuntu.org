@@ -68,7 +68,7 @@ Xubuntu 25.04 benefits from some GNOME 48 application releases.
 
 -   **baobab: 47.0-1 -\> 48.0-1**
 -   **gnome-font-viewer: 47.0-1 -\> 48.0-1**
--   **gnome-mines: 1:40.1-1build2 -\> 1:48\~alpha.2-1**
+-   **gnome-mines: 1:40.1-1build2 -\> 1:48.0-1**
 -   **gnome-sudoku: 1:47.0-1 -\> 1:48.0-2**
 
 ### Common with Ubuntu
@@ -84,12 +84,12 @@ Xubuntu 25.04 benefits from some GNOME 48 application releases.
 
 ### Additional Updates
 
--   gimp: 2.10.38-2 -\> 3.0.0-2
+-   gimp: 2.10.38-2 -\> 3.0.2-1
 -   inxi: 3.3.35-1-1 -\> 3.3.37-1-2
--   libreoffice: 4:24.8.2-0ubuntu1 -\> 4:25.2.2\~rc1-0ubuntu1
+-   libreoffice: 4:24.8.2-0ubuntu1 -\> 4:25.2.2-0ubuntu1
 -   pavucontrol: 6.0-1 -\> 6.1-1
--   xubuntu-artwork: 24.10.1 -\> 25.04
--   xubuntu-desktop: 2.263 -\> 2.266
+-   xubuntu-artwork: 24.10.1 -\> 25.04.1
+-   xubuntu-desktop: 2.263 -\> 2.267
 
 ## Updates
 
@@ -99,15 +99,15 @@ see the [Changelogs](#Changelogs) section below.*
 ### Application Stack
 
 -   GNOME 48
--   GTK 2.24.33 / 3.24.49 / 4.18.2
+-   GTK 2.24.33 / 3.24.49 / 4.18.4
 -   MATE 1.26
 -   Xfce 4.20
 
 ### Subsystems
 
 -   BlueZ 5.79
--   CUPS 2.4.11
--   Mesa 25.0.1
+-   CUPS 2.4.12
+-   Mesa 25.0.3
 -   Poppler 25.03.0
 -   xdg-desktop-portal 1.20.0
 
@@ -156,7 +156,7 @@ see the [Changelogs](#Changelogs) section below.*
 
 -   Blueman 2.4.4
 -   Firefox 136.0.2 (snap)
--   GIMP 3.0.0
+-   GIMP 3.0.2
 -   LibreOffice 25.2.2
 -   Pipewire 1.2.7
 -   Snapd 2.67.1
