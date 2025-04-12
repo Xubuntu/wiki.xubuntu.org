@@ -41,6 +41,9 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
         including VMware and VirtualBox
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
+-   Xfce Screensaver:
+    -   Wrong wallpaper used on lock screen
+        ([2107239](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2107239))
 
 ## Ubuntu Common Release Notes
 
