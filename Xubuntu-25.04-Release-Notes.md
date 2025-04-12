@@ -16,6 +16,9 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
 
 ### Installer Issues
 
+-   Selected items are highlighted in a low-contrast grey color, which
+    may not be visible on some devices
+    ([ubuntu-desktop-provision#1029](https://github.com/canonical/ubuntu-desktop-provision/issues/1029))
 -   GRUB menu not displayed for dual-boot system installation
     ([2060624](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/2060624))
 -   Installer may select two root (/) partitions
