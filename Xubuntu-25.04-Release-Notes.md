@@ -1,6 +1,6 @@
 # Xubuntu 25.04 Release Notes
 
-**Welcome to the Xubuntu 25.04 \"Plucky Puffin\" BETA release notes!**
+**Welcome to the Xubuntu 25.04 \"Plucky Puffin\" release notes!**
 
 Xubuntu 25.04 will be released on Thursday, April 17, 2025, and will be
 supported for nine months until January 2026. For general information
@@ -41,14 +41,14 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
     -   Multiple notifications displayed if multiple Pulseaudio plugins
         added to panel
         ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
+-   Xfce Screensaver:
+    -   Wrong wallpaper used on lock screen
+        ([2107239](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2107239))
 -   Virtual Machines:
     -   Poor performance and audio stuttering in some virtual machines,
         including VMware and VirtualBox
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
--   Xfce Screensaver:
-    -   Wrong wallpaper used on lock screen
-        ([2107239](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2107239))
 
 ## Ubuntu Common Release Notes
 
@@ -68,10 +68,10 @@ more.
 
 Xubuntu 25.04 benefits from some GNOME 48 application releases.
 
--   **baobab: 47.0-1 -\> 48.0-1**
--   **gnome-font-viewer: 47.0-1 -\> 48.0-1**
--   **gnome-mines: 1:40.1-1build2 -\> 1:48.0-1**
--   **gnome-sudoku: 1:47.0-1 -\> 1:48.0-2**
+-   baobab: 47.0-1 -\> 48.0-1
+-   gnome-font-viewer: 47.0-1 -\> 48.0-1
+-   gnome-mines: 1:40.1-1build2 -\> 1:48.0-1
+-   gnome-sudoku: 1:47.0-1 -\> 1:48.0-2
 
 ### Common with Ubuntu
 
@@ -95,7 +95,7 @@ Xubuntu 25.04 benefits from some GNOME 48 application releases.
 
 ## Appearance Updates
 
-**elementary-xfce 0.21**
+### elementary-xfce 0.21
 
 elementary-xfce is now a fully [GPLv3 licensed](https://github.com/shimmerproject/elementary-xfce/releases/tag/v0.20.1)
 icon theme. The [latest release](https://github.com/shimmerproject/elementary-xfce/releases/tag/v0.21)
