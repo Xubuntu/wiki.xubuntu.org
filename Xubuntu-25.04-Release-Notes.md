@@ -12,6 +12,8 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
+![](images/releases/25.04/xubuntu-25.04.png)
+
 ## Known Issues
 
 ### Installer Issues
