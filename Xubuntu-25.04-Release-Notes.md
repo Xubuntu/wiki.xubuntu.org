@@ -167,7 +167,8 @@ see the [Changelogs](#Changelogs) section below.*
 
 -   GNOME Disk Usage Analyzer 48.0
 -   GNOME Disk Utility 46.1
--   GNOME Mines 48 alpha
+-   GNOME Font Viewer 48.0
+-   GNOME Mines 48.0
 -   GNOME Sudoku 48.0
 -   Rhythmbox 3.4.8
 -   Simple Scan 46.0
