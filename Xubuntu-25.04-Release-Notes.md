@@ -2,7 +2,7 @@
 
 **Welcome to the Xubuntu 25.04 \"Plucky Puffin\" release notes!**
 
-Xubuntu 25.04 will be released on Thursday, April 17, 2025, and will be
+Xubuntu 25.04 was released on Thursday, April 17, 2025, and will be
 supported for nine months until January 2026. For general information
 and the latest updates for Xubuntu 25.04, check out the [release page](https://xubuntu.org/release/25-04) on xubuntu.org.
 
