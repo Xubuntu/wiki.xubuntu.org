@@ -30,6 +30,13 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
 
 ### General Issues
 
+-   GNOME (libadwaita) Apps:
+    -   The elementary-xfce icon theme lacks an icon for the window
+        close button
+        ([2125025](https://bugs.launchpad.net/ubuntu/+source/elementary-xfce/+bug/2125025))
+-   MenuLibre:
+    -   Crashes at startup
+        ([2125026](https://bugs.launchpad.net/ubuntu/+source/menulibre/+bug/2125026))
 -   Xfce Panel:
     -   During the live session, the network icon is displayed twice
         ([2059045](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/2059045))
@@ -47,10 +54,6 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
         including VMware and VirtualBox
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
--   GNOME (libadwaita) Apps:
-    -   The elementary-xfce icon theme lacks an icon for the window
-        close button
-        ([2125025](https://bugs.launchpad.net/ubuntu/+source/elementary-xfce/+bug/2125025))
 
 ## Ubuntu Common Release Notes
 
