@@ -1,4 +1,4 @@
-# Xubuntu 25.04 Release Notes
+# Xubuntu 25.10 Release Notes
 
 **Welcome to the Xubuntu 25.10 \"Questing Quokka\" BETA release notes!**
 
