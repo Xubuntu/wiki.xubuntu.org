@@ -1,6 +1,6 @@
 # Xubuntu 25.10 Release Notes
 
-**Welcome to the Xubuntu 25.10 \"Questing Quokka\" BETA release notes!**
+**Welcome to the Xubuntu 25.10 \"Questing Quokka\" WIP release notes!**
 
 Xubuntu 25.10 will be released on Thursday, October 9, 2025, and will be
 supported for nine months until July 2026. For general information and
@@ -16,17 +16,10 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
 
 ### Installer Issues
 
--   Selected items are highlighted in a low-contrast grey color, which
-    may not be visible on some devices
-    ([ubuntu-desktop-provision#1029](https://github.com/canonical/ubuntu-desktop-provision/issues/1029))
 -   GRUB menu not displayed for dual-boot system installation
     ([2060624](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/2060624))
 -   Installer may select two root (/) partitions
     ([2060896](https://bugs.launchpad.net/subiquity/+bug/2060896))
--   \"Restart now\" button crashes
-    ([2124990](https://bugs.launchpad.net/ubuntu-desktop-provision/+bug/2124990))
-    -   The system is still installed correctly. Simply reboot from the
-        application menu.
 
 ### General Issues
 
@@ -34,9 +27,12 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
     -   The elementary-xfce icon theme lacks an icon for the window
         close button
         ([2125025](https://bugs.launchpad.net/ubuntu/+source/elementary-xfce/+bug/2125025))
--   MenuLibre:
-    -   Crashes at startup
-        ([2125026](https://bugs.launchpad.net/ubuntu/+source/menulibre/+bug/2125026))
+-   Flatpak:
+    -   :!: Flatpaks refuse to install due to Fuse/AppArmor conflict
+        ([2122161](https://bugs.launchpad.net/ubuntu/+source/flatpak/+bug/2122161))
+-   SSH Agent:
+    -   :!: The graphical SSH agent is currently unavailable
+        ([2125549](https://bugs.launchpad.net/ubuntu/+source/openssh/+bug/2125549))
 -   Xfce Panel:
     -   During the live session, the network icon is displayed twice
         ([2059045](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/2059045))
