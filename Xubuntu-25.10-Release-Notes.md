@@ -1,8 +1,8 @@
 # Xubuntu 25.10 Release Notes
 
-**Welcome to the Xubuntu 25.10 \"Questing Quokka\" WIP release notes!**
+**Welcome to the Xubuntu 25.10 \"Questing Quokka\" release notes!**
 
-Xubuntu 25.10 will be released on Thursday, October 9, 2025, and will be
+Xubuntu 25.10 was released on Thursday, October 9, 2025, and will be
 supported for nine months until July 2026. For general information and
 the latest updates for Xubuntu 25.10, check out the [release page](https://xubuntu.org/release/25-10) on xubuntu.org.
 
@@ -106,7 +106,74 @@ Xubuntu 25.10 benefits from some GNOME 48 application releases.
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-TBD\...
+### Application Stack
+
+-   GNOME 49
+-   GTK 2.24.33 / 3.24.50 / 4.20.1
+-   MATE 1.26
+-   Xfce 4.20
+
+### Subsystems
+
+-   BlueZ 5.83
+-   CUPS 2.4.12
+-   Mesa 25.2.3
+-   Poppler 25.03.0
+-   xdg-desktop-portal 1.20.3
+
+### Themes
+
+-   elementary-xfce 0.21
+-   Greybird 3.23.3
+
+### Applications
+
+#### Xfce
+
+-   Catfish 4.20.0
+-   Exo 4.20.0
+-   Gigolo 0.5.4
+-   Mousepad 0.6.3
+-   Ristretto 0.13.3
+-   Thunar File Manager 4.20.4
+-   Xfce Application Finder 4.20.0
+-   Xfce Clipman Plugin 1.6.6
+-   Xfce Netload Plugin 1.4.1
+-   Xfce Panel 4.20.4
+-   Xfce PulseAudio Plugin 0.4.9
+-   Xfce Screenshooter 1.11.1
+-   Xfce Screensaver 4.20.1
+-   Xfce Settings 4.20.1
+-   Xfce Systemload Plugin 1.3.2
+-   Xfce Task Manager 1.5.8
+-   Xfce Whisker Menu Plugin 2.9.2
+
+#### MATE
+
+-   Atril 1.26.2
+-   Engrampa 1.26.2
+-   MATE Calculator 1.26.0
+
+#### GNOME
+
+-   GNOME Disk Usage Analyzer 48.0
+-   GNOME Disk Utility 46.1
+-   GNOME Font Viewer 48.0
+-   GNOME Mines 48.1
+-   GNOME Sudoku 49 RC
+-   Rhythmbox 3.4.8
+-   Simple Scan 48.1
+
+#### Everything Else
+
+-   Blueman 2.4.4
+-   Firefox 143.0.4 (snap)
+-   GIMP 3.0.4
+-   LibreOffice 25.8.1
+-   Pipewire 1.4.7
+-   Snapd 2.67.1
+-   SGT Launcher 0.2.8
+-   Thunderbird 140.3.1 (snap)
 
 ## Changelogs
 
