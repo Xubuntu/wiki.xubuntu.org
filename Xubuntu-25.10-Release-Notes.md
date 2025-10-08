@@ -12,6 +12,8 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
+![](images/releases/25.10/xubuntu-2510-desktop.png)
+
 ## Known Issues
 
 ### Installer Issues
