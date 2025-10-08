@@ -29,6 +29,9 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
     -   The elementary-xfce icon theme lacks an icon for the window
         close button
         ([2125025](https://bugs.launchpad.net/ubuntu/+source/elementary-xfce/+bug/2125025))
+    -   The elementary-xfce icon theme lacks an icon for *Document
+        Scanner\'s* scan options button
+        ([2127071](https://bugs.launchpad.net/ubuntu/+source/elementary-xfce/+bug/2127071))
 -   Flatpak:
     -   :!: Flatpaks refuse to install due to Fuse/AppArmor conflict
         ([2122161](https://bugs.launchpad.net/ubuntu/+source/flatpak/+bug/2122161))
