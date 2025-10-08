@@ -39,17 +39,15 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
     -   :!: The graphical SSH agent is currently unavailable
         ([2125549](https://bugs.launchpad.net/ubuntu/+source/openssh/+bug/2125549))
 -   Xfce Panel:
-    -   During the live session, the network icon is displayed twice
+    -   During the live session, the network icon may be displayed twice
         ([2059045](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/2059045))
         -   This is because Xubuntu includes both Systray and Indicator
             plugins, and the Network applet loads in both.
--   Xfce Pulseaudio Plugin:
-    -   Multiple notifications displayed if multiple Pulseaudio plugins
-        added to panel
-        ([1769775](https://bugs.launchpad.net/ubuntu/+source/xfce4-pulseaudio-plugin/+bug/1769775))
 -   Xfce Screensaver:
     -   Wrong wallpaper used on lock screen
         ([2107239](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2107239))
+        -   If you manually change your wallpaper to another, the lock
+            screen wallpaper will update and stay connected.
 -   Virtual Machines:
     -   Poor performance and audio stuttering in some virtual machines,
         including VMware and VirtualBox
