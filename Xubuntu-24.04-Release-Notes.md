@@ -1,5 +1,3 @@
-# Xubuntu 24.04 Release Notes
-
 **Welcome to the Xubuntu 24.04 \"Noble Numbat\" release notes!**
 
 Xubuntu 24.04 was released on Thursday, April 25, 2024, and will be
@@ -12,9 +10,9 @@ the latest updates for Xubuntu 24.04, check out the [release page](https://xubun
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   GRUB menu not displayed for dual-boot system installation
     ([2060624](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/2060624))
@@ -30,7 +28,7 @@ the latest updates for Xubuntu 24.04, check out the [release page](https://xubun
     * OEM installation is not available.
         * It is under active development and will be ready in time for 24.04.1
 
-### General Issues
+## General Issues
 
 -   Xfce Pulseaudio Plugin:
     -   Multiple notifications displayed if multiple Pulseaudio plugins
@@ -47,15 +45,15 @@ the latest updates for Xubuntu 24.04, check out the [release page](https://xubun
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/noble-numbat-release-notes/39890)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
-### Xfce 4.18
+## Xfce 4.18
 
 **Xfce 4.18**, the latest stable release, is included in Xubuntu 24.04.
 Notable app updates include:
@@ -111,7 +109,7 @@ xfconf have received several bug fixes for race conditions and memory
 leaks. Overall, the desktop should be more responsive and less prone to
 crash.
 
-### Common with Ubuntu
+## Common with Ubuntu
 
 -   GNOME Software has been replaced by **Snap Store**
     (`snap:snap-store`) and **GDebi** (`apt:gdebi`). **Synaptic** is
@@ -129,7 +127,7 @@ crash.
     ([ubuntu-desktop-provision](https://github.com/canonical/ubuntu-desktop-provision))
     to provide fast and user-friendly installation
 
-### Additional Updates
+## Additional Updates
 
 -   **Xubuntu Minimal** is now available, featuring a slimmed down
     version of Xubuntu with only the bare essentials.
@@ -143,7 +141,7 @@ crash.
     Separators are displayed in the application list to make them easier
     to see and reorder.
 
-## Appearance Updates
+# Appearance Updates
 
 -   The **Greybird** GTK theme features improved GTK 3 and GTK 4 support
     with minor visual improvements for Xfce and GNOME applications.
@@ -180,7 +178,7 @@ crash.
     -   `xubuntu-wallpapers-hardy`: Edgy, Feisty, Gutsy, and Hardy
     -   `xubuntu-wallpapers-dapper`: Dapper
 
-## Hardware Support
+# Hardware Support
 
 -   **Bluetooth headphones** are now better supported under PipeWire
     with the addition of `apt:libspa-0.2-bluetooth`
@@ -188,19 +186,19 @@ crash.
     Magic Trackpad, are now supported with the removal of
     `apt:xserver-xorg-input-synaptics`
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 46
 -   GTK 2.24.33 / 3.24.41 / 4.14.1
 -   MATE 1.26
 -   Xfce 4.18
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.72
 -   CUPS 2.4.7
@@ -209,14 +207,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   PulseAudio 16.1
 -   xdg-desktop-portal 1.18.2
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.19
 -   Greybird 3.23.3
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.16.4
 -   Exo 4.18.0
@@ -235,13 +233,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.7
 -   Xfce Whisker Menu Plugin 2.8.3
 
-#### MATE
+### MATE
 
 -   Atril 1.26.2
 -   Engrampa 1.26.2
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 46.0
 -   GNOME Disk Utility 46.0
@@ -250,7 +248,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.7
 -   Simple Scan 46.0
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.3.5
 -   Firefox 124.0.2 (snap)
@@ -261,9 +259,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.8
 -   Thunderbird 115.9.0 (snap)
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/noble/+source/apturl/+changelog))
@@ -324,7 +322,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/noble/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/noble/+source/exo/+changelog))
@@ -357,7 +355,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/noble/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/noble/+source/catfish/+changelog))
@@ -382,7 +380,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/noble/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/noble/+source/xfce4-clipman-plugin/+changelog))
@@ -417,7 +415,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/noble/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/noble/+source/thunar-archive-plugin/+changelog))

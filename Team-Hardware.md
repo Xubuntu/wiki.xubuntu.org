@@ -1,12 +1,10 @@
-# Team Hardware
-
 A checklist of available testing systems that members of team are able
 to utilise during cycle testing.
 
 QA can use information when requesting specific testing calls requiring
 Team participation
 
-## Real Hardware
+# Real Hardware
 
 
 | Member | HW ID | Type | GPU | Monitors | Milestone | Daily | Comments |
@@ -30,7 +28,7 @@ Team participation
 | nairwolf | nairwolf-toshiba | Laptop | Intel | 1 | X | X | Toshiba Satellite C650-17N |
 | nairwolf | narwolf-asus | Laptop | Intel | 1 | X | X (live) | Asus Zenbook UX301-LA |
 
-## VM testing possibility
+# VM testing possibility
 
 -   bluesabre
 -   elfy (Vbox/KVM)

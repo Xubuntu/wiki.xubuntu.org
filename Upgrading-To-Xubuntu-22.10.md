@@ -1,5 +1,3 @@
-# Upgrading to Xubuntu 22.10
-
 You can easily upgrade over the network with the following procedure.
 Upgrades from Xubuntu 22.04 are supported. For all other Ubuntu systems,
 please read

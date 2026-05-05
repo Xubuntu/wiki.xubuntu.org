@@ -1,6 +1,4 @@
-# Fine tuning your development setup
-
-## Using IRC for contact
+# Using IRC for contact
 
 If you do have questions regarding issues in a development version,
 please do ask in the Xubuntu Developer channel (chat room)- don\'t worry
@@ -50,7 +48,7 @@ Xubuntu people who can help you get up and running, there is a wiki page
 for [Xchat](https://help.ubuntu.com/community/XChatHowto) which will
 work for you to setup Hexchat.
 
-## Manual Partitions and Bootloader location
+# Manual Partitions and Bootloader location
 
 If you have more than one installation on your system, often the
 autoresize option won\'t be available. Or you want control over where
@@ -123,7 +121,7 @@ menu until you have re-run update-grub.*
 
 ![](images/qa/newgrub.png)
 
-## Adding an ISO to Grub
+# Adding an ISO to Grub
 
 Sometimes you might find it easier to have the development ISO available
 as an option in your Grub menu.
@@ -174,7 +172,7 @@ see them on your Grub menu
 
 ![](images/qa/isogrub.png)
 
-### QA Team Contributor Information
+## QA Team Contributor Information
 
 Further, more detailed, information can be found at the Xubuntu Team\'s
 [Contributor Documentation](https://docs.xubuntu.org/contributors/),

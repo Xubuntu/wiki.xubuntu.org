@@ -1,6 +1,4 @@
-# Testing
-
-## Step 2: Testing your Xubuntu installation.
+# Step 2: Testing your Xubuntu installation.
 
 As was mentioned in the previous step, now that you\'ve
 [installed](https://wiki.xubuntu.org/qa/installing) Xubuntu, you have
@@ -28,7 +26,7 @@ If in doubt it is perhaps best to start with exploratory testing with
 Xubuntu installed as your main OS, or as \'dual boot\' option alongside
 your existing OS.
 
-### 1. \'Exploratory\' Testing
+## 1. \'Exploratory\' Testing
 
 This type of testing holds the greatest value for the Xubuntu
 Development Team. The way to find bugs in applications is for you to use
@@ -47,12 +45,12 @@ Although at the beginning of the release cycle using a VM may well be
 fine, later on installing as the main OS or dual-booting are preferred
 since they are closer to the \'real life\' case.
 
-### Report Back
+## Report Back
 
 Should you find bugs, or anything you think the Development Team should
 know, please move on to Step 3 and [report back](https://wiki.xubuntu.org/qa/report).
 
-### 2. \'Static\' Testing
+## 2. \'Static\' Testing
 
 This is testing in its purest form -- you get and install the ISO and
 test it without installing anything else or changing anything to your
@@ -79,7 +77,7 @@ Although often done in a virtual machine, you can just as well static
 test on hardware; dual-booting for example would require just a small
 partition on your hard drive.
 
-### Report Back
+## Report Back
 
 Should you find bugs, or anything you think the Development Team should
 know, please move on to Step 3 and [report back](https://wiki.xubuntu.org/qa/report).

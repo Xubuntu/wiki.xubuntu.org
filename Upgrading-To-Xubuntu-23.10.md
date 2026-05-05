@@ -1,5 +1,3 @@
-# Upgrading to Xubuntu 23.10
-
 You can easily upgrade over the network with the following procedure.
 Upgrades from Xubuntu 23.04 are supported. For all other Ubuntu systems,
 please read

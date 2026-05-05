@@ -1,6 +1,4 @@
-# Related websites
-
-## Localized
+# Localized
 
 -   <http://xubuntu-ru.net/>
     -   Uses old logo in some places
@@ -12,13 +10,13 @@
 -   <http://www.xubuntu-fr.org/>
     -   Looks like a redirect to ubuntu-fr.org
 
-## Unofficial
+# Unofficial
 
 -   <https://quitter.se/group/xhttps://wiki.ubuntu.com/
 -   <http://www.linuxpusher.com/product/notebook-sticker-xubuntu-grey>
     (unendorsed merchandise with old logo)
 
-## CD/DVD/USB retailers
+# CD/DVD/USB retailers
 
 Note: This list is outdated.
 
@@ -40,7 +38,7 @@ Note: This list is outdated.
     -   Doesn\'t sell any supported releases
     -   EOL: 12.10, 11.10, 11.04 (+alt), 10.04 (+alt), 9.10, 9.04 (+alt)
 
-## Other
+# Other
 
 -   <http://xebian.org/>
 -   <https://www.iconfinder.com/search/?q=xhttps://wiki.ubuntu.com/

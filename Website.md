@@ -1,6 +1,4 @@
-# Website
-
-## Target audiences
+# Target audiences
 
 
 | What | Main audience | Other potential audiences |

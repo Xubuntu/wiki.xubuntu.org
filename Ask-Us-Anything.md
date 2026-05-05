@@ -1,8 +1,6 @@
-# Ask Us Anything
+# Questions
 
-## Questions
-
-### Mailing list
+## Mailing list
 
 In response to
 <https://lists.ubuntu.com/archives/xubuntu-devel/2016-August/011323.html>
@@ -12,7 +10,7 @@ In response to
 -   **Florian Coste**:
     <https://lists.ubuntu.com/archives/xubuntu-devel/2016-September/011337.html>
 
-### Twitter
+## Twitter
 
 In response to <https://twitter.com/Xubuntu/status/793369700013137920>
 

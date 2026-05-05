@@ -1,6 +1,4 @@
-# Desktop of the Week
-
-## Queue
+# Queue
 
 
 | Release date | Image | License | Wallpaper license (if different) | Attribution |

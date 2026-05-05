@@ -1,8 +1,6 @@
-# Development Roadmap for Xubuntu 18.10
+# Decided
 
-## Decided
-
-## Blueprint left over from Xubuntu 18.04
+# Blueprint left over from Xubuntu 18.04
 
 -   parole: New PackageKit plugin installer
 -   Integrate the Pidgin theme
@@ -10,7 +8,7 @@
     -   Have we thought about doing the minimal ubiquity install
         instead?
 
-## Ideas
+# Ideas
 
 -   Migrate existing bzr repos to git.
 -   Improve developer documentation.

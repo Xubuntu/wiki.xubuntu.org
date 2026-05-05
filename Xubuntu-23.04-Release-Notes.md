@@ -1,5 +1,3 @@
-# Xubuntu 23.04 Release Notes
-
 **Welcome to the Xubuntu 23.04 \"Lunar Lobster\" release notes!**
 
 Xubuntu 23.04 was be released on Thursday, April 20, 2023, and will be
@@ -12,9 +10,9 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
@@ -29,7 +27,7 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
     * OEM installation uses the wrong slideshow ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047|1842047]])
     * Installer crashes when quitting in the live session ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/2016009|2016009]])
 
-### General Issues
+## General Issues
 
 -   Xfce Screensaver crashes shortly after unlocking
     ([2012795](https://bugs.launchpad.net/ubuntu/+source/xfce4-screensaver/+bug/2012795))
@@ -45,13 +43,13 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
 -   Xfce Screensaver: Password required twice when switching users
     ([1874178](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1874178))
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/lunar-lobster-release-notes/31910)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
 -   **Xubuntu Minimal** is now available, featuring a slimmed down
     version of Xubuntu with only the bare essentials.
@@ -63,27 +61,27 @@ to every Ubuntu flavor.
         (omgubuntu.co.uk)
 -   **Pipewire** (and wireplumber) are now included in Xubuntu.
 
-## Appearance Updates
+# Appearance Updates
 
-### General
+## General
 
 -   Panel: The systray plugin now uses \"automatic\" icon sizes, making
     indicators and tray icons more consistent.
 -   Terminal: The font size was increased from 9 to 10.
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 44
 -   GTK 2.24.33 / 3.24.37 / 4.10.1
 -   MATE 1.26
 -   Xfce 4.18
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.66
 -   CUPS 2.4.2
@@ -93,14 +91,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   PulseAudio 16.1
 -   xdg-desktop-portal 1.16.0
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.17
 -   Greybird 3.23.2
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.16.4
 -   Exo 4.18.0
@@ -119,13 +117,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.5
 -   Xfce Whisker Menu Plugin 2.7.2
 
-#### MATE
+### MATE
 
 -   Atril 1.26.0
 -   Engrampa 1.26.0
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 44.0
 -   GNOME Disk Utility 44.0
@@ -135,7 +133,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.6
 -   Simple Scan 44.0
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.3.5
 -   Firefox 111.0.1 (snap)
@@ -146,9 +144,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.8
 -   Thunderbird 102.10.0
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/apturl/+changelog))
@@ -209,7 +207,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/exo/+changelog))
@@ -242,7 +240,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/catfish/+changelog))
@@ -267,7 +265,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/xfce4-clipman-plugin/+changelog))
@@ -302,7 +300,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/lunar/+source/thunar-archive-plugin/+changelog))

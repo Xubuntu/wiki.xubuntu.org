@@ -1,6 +1,4 @@
-# New Tester Irc
-
-## New Tester IRC Session
+# New Tester IRC Session
 
 #\'s are in place to trigger meetingology - do not change.
 

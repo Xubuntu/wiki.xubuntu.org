@@ -1,5 +1,3 @@
-# Love Xubuntu
-
 The #LoveXubuntu campaign was kicked off in 2016 for the 10th
 anniversary of Xubuntu.
 

@@ -1,5 +1,3 @@
-# Contributor Survey 2012
-
 To do some preparation before we will actually get our hands dirty,
 we\'re going to survey your specific areas of interest in documentation.
 We\'ve listed four different groups below, which all require different
@@ -8,7 +6,7 @@ qualities from the contributor.
 Please add **your name and Launchpad nick** to **one or two** of the
 following groups:
 
-## Writer
+# Writer
 
 The writers focus on covering all aspects of documentation and producing
 content to be processed further. To be a writer, you need to have
@@ -25,7 +23,7 @@ don\'t need technical skills.
 -   George Miles (dicegeorge)
 -   David Pearson (akxwi-dave)
 
-## Grammar editor
+# Grammar editor
 
 The grammar editors proof-read others\' text to make it more
 understandable and easy-to-read. To be an editor, you need good English
@@ -40,7 +38,7 @@ skills but no technical skills.
 -   George Miles (dicegeorge)
 -   David Pearson (akxwi-dave)
 
-## Technical editor
+# Technical editor
 
 The technical editors make sure that the documentation is technically
 correct. This includes making sure the right default applications are
@@ -53,7 +51,7 @@ and technical skills to understand what different things do.
 -   Joshua O\'Leary (jmoleary)
 -   Michael Price (mprice)
 
-## Docbook editor
+# Docbook editor
 
 The Docbook editors convert the written documentation into the
 [Docbook](http://www.docbook.org/) syntax. You don\'t need any writing

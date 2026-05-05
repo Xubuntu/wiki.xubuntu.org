@@ -1,12 +1,10 @@
-# Telegram Groups and IRC Bridge
-
 Telegram is an instant messenger platform that has become popular in the
 open source community and it would be beneficial to have official
 support behind the platform as another support platform. An IRC bridge
 can be implemented to bridge between existing IRC channels and new
 telegram groups.
 
-## Pros
+# Pros
 
 -   Implemented by other flavors like
     [Kubuntu](https://kubuntu.org/community/),
@@ -24,7 +22,7 @@ telegram groups.
 -   Telegram group is easily searchable and discoverable, as some users
     have already found the non-advertised support group
 
-## Cons
+# Cons
 
 -   Telegram isn\'t an open source platform
 -   The IRC bridge requires sysadmins to be available to fix any issues

@@ -1,8 +1,6 @@
-# Xubuntu 18.04 Release Notes
+# Notable Issues
 
-## Notable Issues
-
-### Installer Issues
+## Installer Issues
 
     ***It must be noted that it is close to impossible for our small team of testers to be in a position to work through all the varying parameters available during installation. We do however aim to test all the possible methods of installation (including for OEM and using encryption) available either on a virtual machine or on hardware (where hardware has been used during testing then Xubuntu QA will where possible make that known on the iso testing tracker). Further installation testing information can be on the Ubuntu installation release note(s) listed below**
 
@@ -16,7 +14,7 @@
 -    No restart after installation
     ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
 
-### General Issues
+## General Issues
 
       * At least one Nvidia driver causes issues when removed via Additional Drivers ([[https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1761593| 1761593]])
 
@@ -46,15 +44,15 @@
 -   Wrong resolution at unlock screen (Nvidia)
     ([1760068](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1760068))
 
-#### Ubuntu Generic Release Note
+### Ubuntu Generic Release Note
 
 The main Ubuntu release
 [note](https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes) covers both
 many of the other packages we carry and more generic issues.
 
-## Major Updates
+# Major Updates
 
-### Appearance
+## Appearance
 
 This release, we decided to remove the GTK Theme Configuration tool. It
 is no longer possible to override colors in all themes with a single
@@ -66,9 +64,9 @@ release includes improved HiDPI support, Chrome/ium GTK 3 styles, a new
 dark theme, smaller switches, and improved scales, and greater
 consistency between GTK 2 and GTK 3 applications.
 
-### Panel Plugins
+## Panel Plugins
 
-#### PulseAudio Plugin
+### PulseAudio Plugin
 
 With Xubuntu 18.04, we replaced the Sound Indicator with the Xfce
 PulseAudio Plugin. Some key features include:
@@ -82,7 +80,7 @@ PulseAudio Plugin. Some key features include:
     MPRIS2 support
 -   Swap between playlists in supported applications
 
-#### Status Notifier Plugin
+### Status Notifier Plugin
 
 This new plugin replaces the Application Indicator with a more
 configurable and better supported option. It supports indicators
@@ -95,13 +93,13 @@ StatusNotifierItem specification. Configuration options include:
     symbolic icon if it is available
 -   Hide or show individual application indicators
 
-#### Notification Plugin
+### Notification Plugin
 
 We\'ve included the new xfce4-notifyd panel plugin in Xubuntu 18.04.
 This plugin makes it easy to toggle \"Do Not Disturb\" mode and view
 missed notifications.
 
-### Desktop Applications
+## Desktop Applications
 
 Xfce is a very modular desktop environment, and for a long time we have
 shipped several GNOME components to fill our productivity software
@@ -115,15 +113,15 @@ so you won\'t miss out on anything.
 -   Archive Manager: File Roller → Engrampa
 -   Calculator: GNOME Calculator → MATE Calculator
 
-#### Utilities
+### Utilities
 
-##### Catfish 1.4.4
+#### Catfish 1.4.4
 
 Catfish 1.4.4 is included with Xubuntu 18.04. This maintenance release
 features improved performance, additional error handling, and numerous
 translation updates.
 
-##### MenuLibre 2.2.0
+#### MenuLibre 2.2.0
 
 MenuLibre 2.2.0 is a significant release with a multitude of new
 features, fixes, and supported desktops. Users can now test their
@@ -132,9 +130,9 @@ install launchers in any directory, and identify issues in existing
 launchers. Desktop environment support has been extended to include
 Budgie, Cinnamon, EDE, LXQt, KDE Plasma, MATE, and Pantheon.
 
-#### Xfce
+### Xfce
 
-##### Parole Media Player 1.0.1
+#### Parole Media Player 1.0.1
 
 Parole 1.0.0 introduces the new "Automatic" video output, selected by
 default. This new output will automatically select the best available
@@ -142,14 +140,14 @@ option for your hardware, leading to improved performance and reduced
 configuration issues. Videos are finally playable in Virtualbox with
 this update.
 
-##### Thunar 1.6.15
+#### Thunar 1.6.15
 
 Thunar has had a lot of development time in recent months while it heads
 toward a stable GTK+ 3 release. This release benefits from that
 development with a large number of bug fixes backported to ensure that
 Thunar is and continues to be a dependable file manager.
 
-##### Xfce Power Manager 1.6.1
+#### Xfce Power Manager 1.6.1
 
 Xfce Power Manager has been ported to GTK+ 3 and includes a number of
 improvements and new features.
@@ -160,14 +158,14 @@ improvements and new features.
     on battery power
 -   Numerous bug fixes
 
-##### Xfce Notifications 0.4.2
+#### Xfce Notifications 0.4.2
 
 The latest version of the Xfce notification daemon includes a panel
 plugin, support for links in notifications, and improved markup support.
 The panel plugin allows for quick access to the "do not disturb" mode
 and recent notifications.
 
-#### LibreOffice 6.0
+### LibreOffice 6.0
 
 The latest version of LibreOffice is included with Xubuntu 18.04. This
 release features better file compatibility with Microsoft Office,
@@ -176,20 +174,20 @@ inclusion of the elementary icon theme for all installations (including
 Windows and Mac OS X). This theme was first featured in Xubuntu 16.04
 \"Xenial Xerus\".
 
-#### Firefox & Thunderbird
+### Firefox & Thunderbird
 
 The latest and greatest versions of Firefox and Thunderbird are
 included. Firefox recently rolled out their "Quantum" changes, making
 recent releases incredibly responsive and faster than ever.
 
-### Xfce
+## Xfce
 
 Development on Xfce 4.14 is moving right along, but will not be included
 in Xubuntu 18.04. While we won't be getting the next generation Xfce
 desktop, we do have some additional stable updates and development
 goodies for everyone to enjoy.
 
-#### Applications
+### Applications
 
 -   Xfburn 0.5.5
 -   Xfce Panel 4.12.2
@@ -199,12 +197,12 @@ goodies for everyone to enjoy.
 -   Xfce Whisker Menu Plugin 2.1.5
 -   Xfce XKB Plugin 0.8.1 (Now GTK+ 3)
 
-#### Libraries
+### Libraries
 
 -   exo 0.12.0 (first stable Xfce 4.14-ready release)
 -   libxfce4ui 4.13.4
 
-### Login & Locking
+## Login & Locking
 
 The Xubuntu login screen has had several improvements this development
 cycle, and there are more on the way! LightDM GTK+ Greeter has received
@@ -212,31 +210,31 @@ fixes for accessibility, autologin, and the occasional freeze with
 multiple monitors. It\'s accompanying configuration tool now detects
 more recent GTK themes.
 
-### Hardware Support
+## Hardware Support
 
-#### Bluetooth
+### Bluetooth
 
 The PulseAudio Bluetooth module has been included, meaning Bluetooth
 audio devices will now work out of the box in Xubuntu! Blueman has been
 updated to version 2.0.5 and includes several fixes for game controllers
 and modems.
 
-#### Numlock
+### Numlock
 
 We've integrated numlockx into our startup for improved support of
 keyboard number pads. Numlock will now automatically be enabled for all
 users, regardless of BIOS support.
 
-## Xubuntu core
+# Xubuntu core
 
 The [Xubuntu core](https://xubuntu.org/news/introducing-xubuntu-core/)
 project is still solely a community based effort and as such, the
 produced ISOs can be downloaded from the unofficial [contributor\'s
 site](https://unit193.net/xubuntu/core/).
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   blueman
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/blueman/+changelog))
@@ -279,7 +277,7 @@ site](https://unit193.net/xubuntu/core/).
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/exo/+changelog))
@@ -302,7 +300,7 @@ site](https://unit193.net/xubuntu/core/).
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/catfish/+changelog))
@@ -323,7 +321,7 @@ site](https://unit193.net/xubuntu/core/).
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/bionic/+source/xfce4-cpugraph-plugin/+changelog))

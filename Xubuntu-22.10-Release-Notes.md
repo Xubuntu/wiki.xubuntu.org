@@ -1,5 +1,3 @@
-# Xubuntu 22.10 Release Notes
-
 **Welcome to the Xubuntu 22.10 \"Kinetic Kudu\" release notes!**
 
 ![](images/releases/22.10/xubuntu-22.10.png)
@@ -14,9 +12,9 @@ and the latest updates for Xubuntu 22.10, check out the [release page](https://x
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
@@ -32,7 +30,7 @@ and the latest updates for Xubuntu 22.10, check out the [release page](https://x
     * Xubuntu installer on desktop is "untrusted" ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958|1987958]])
         * The launcher can be run from the menu or you can click "Launch anyway".
 
-### General Issues
+## General Issues
 
 -   Boot: Decryption password prompt not visible
     ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
@@ -42,13 +40,13 @@ and the latest updates for Xubuntu 22.10, check out the [release page](https://x
 -   Xfce Screensaver: Password required twice when switching users
     ([1874178](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1874178))
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/kinetic-kudu-release-notes/27976)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-### Pipewire
+## Pipewire
 
 Unlike Ubuntu and the other flavors, Xubuntu *has not* switched to
 Pipewire in 22.10. If you want to use Pipewire, our good friends, Ubuntu
@@ -59,7 +57,7 @@ to switch to the new sound system.
 `sudo apt-get remove pulseaudio-module-bluetooth`\
 `sudo apt-get install libfdk-aac2 libldacbt-abr2 libldacbt-enc2 libopenaptx0 libspa-0.2-bluetooth libspa-0.2-jack`
 
-## Major Updates
+# Major Updates
 
 -   **Xfce 4.17**, the development version of the next major release, is
     included in Xubuntu 22.10. Notable app updates include:
@@ -102,9 +100,9 @@ to switch to the new sound system.
 
 ![](images/releases/22.10/sgt-puzzles-mosaic.png)
 
-## Appearance Updates
+# Appearance Updates
 
-### Theme Updates
+## Theme Updates
 
 -   **Greybird 3.23.2** adds support for Openbox and includes some minor
     visual improvements for Xfwm4 and GNOME Software.
@@ -112,19 +110,19 @@ to switch to the new sound system.
     others for a cleaner and more consistent Xubuntu desktop experience.
     It also deprecates the elementary-xfce-darker theme.
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 43
 -   GTK 2.24.33 / 3.24.34 / 4.8.1
 -   MATE 1.26
 -   Xfce 4.17
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.65
 -   CUPS 2.4.2
@@ -134,14 +132,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   PulseAudio 16.1
 -   xdg-desktop-portal 1.15.0
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.17
 -   Greybird 3.23.2
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.16.4
 -   Exo 4.17.2
@@ -160,13 +158,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.4
 -   Xfce Whisker Menu Plugin 2.7.1
 
-#### MATE
+### MATE
 
 -   Atril 1.26.0
 -   Engrampa 1.26.0
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 43.0
 -   GNOME Disk Utility 43.0
@@ -176,7 +174,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.6
 -   Simple Scan 42.5
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.3.2
 -   Firefox 105.0.1 (snap)
@@ -187,9 +185,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.8
 -   Thunderbird 102.3.3
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/apturl/+changelog))
@@ -250,7 +248,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/exo/+changelog))
@@ -283,7 +281,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/catfish/+changelog))
@@ -308,7 +306,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/xfce4-clipman-plugin/+changelog))
@@ -343,7 +341,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/kinetic/+source/thunar-archive-plugin/+changelog))

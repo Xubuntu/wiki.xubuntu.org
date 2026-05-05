@@ -1,5 +1,3 @@
-# Xubuntu 21.10 Release Notes
-
 **Welcome to the Xubuntu 21.10 \"Impish Indri\" release notes!**
 
 Xubuntu 21.10 was released on Thursday, October 14, 2021 and will be
@@ -14,9 +12,9 @@ information and the latest updates for Xubuntu 21.10, check out the
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
@@ -31,7 +29,7 @@ information and the latest updates for Xubuntu 21.10, check out the
 ```
         * However, you should be able to press the Enter key to continue with the reboot.
 
-### General Issues
+## General Issues
 
 -   Boot: Decryption password prompt not visible
     ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
@@ -43,12 +41,12 @@ information and the latest updates for Xubuntu 21.10, check out the
 -   Xfce Screensaver: Password required twice when switching users
     ([1874178](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1874178))
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](#) covers both many of the other
 packages we carry and more issues common to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
 -   **GNOME Disk Analyzer** (baobab) and **Disk Utility** have been
     added to Xubuntu to make it easier to monitor and manage your
@@ -63,9 +61,9 @@ packages we carry and more issues common to every Ubuntu flavor.
     applications. Pidgin can be reinstalled from GNOME Software if you
     still rely on it.
 
-## UX Updates
+# UX Updates
 
-### Keyboard Shortcuts
+## Keyboard Shortcuts
 
 For a full list of keyboard shortcuts, [click here](https://wiki.xubuntu.org/releases/21.10/keyboard-shortcuts).
 
@@ -73,29 +71,29 @@ For a full list of keyboard shortcuts, [click here](https://wiki.xubuntu.org/rel
 -   The Super (Windows) key will now show the Whisker Menu
 -   The Music specialty key will now launch Rhythmbox instead of Parole
 
-### Thunar
+## Thunar
 
 -   The Thunar titlebar will now display the full directory path
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 40
 -   GTK 3.24.30
 -   MATE 1.26
 -   Xfce 4.16
 
-### Themes
+## Themes
 
 -   Greybird 3.22.15
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.16.2
 -   Exo 4.16.2
@@ -112,13 +110,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.2
 -   Xfce Whisker Menu Plugin 2.6.0
 
-#### MATE
+### MATE
 
 -   Atril 1.26.0
 -   Engrampa 1.26.0
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 41
 -   GNOME Disk Utility 41
@@ -128,7 +126,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.4
 -   Simple Scan 40.5
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.2.2
 -   Firefox 93.0
@@ -140,9 +138,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.7
 -   Thunderbird 91.1.2
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/impish/+source/apturl/+changelog))
@@ -203,7 +201,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/impish/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/impish/+source/exo/+changelog))
@@ -236,7 +234,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/impish/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/impish/+source/catfish/+changelog))
@@ -261,7 +259,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/impish/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/impish/+source/xfce4-clipman-plugin/+changelog))
@@ -296,7 +294,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/impish/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/impish/+source/thunar-archive-plugin/+changelog))

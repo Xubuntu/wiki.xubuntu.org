@@ -1,5 +1,3 @@
-# Guidelines for Facebook Admins
-
 Facebook is probably the social media outlet with our largest following,
 though we get more discussion and engagement on elsewhere.
 

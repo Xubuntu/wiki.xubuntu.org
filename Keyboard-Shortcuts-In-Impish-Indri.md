@@ -1,8 +1,6 @@
-# Keyboard Shortcuts in Impish Indri
-
 [Back to Release Notes](https://wiki.xubuntu.org/releases/21.10/release-notes)
 
-## General
+# General
 
 
 | Shortcut | Function |
@@ -20,7 +18,7 @@
 | **Ctrl+Alt+Escape** | Activate the kill cursor (click a window to force-close it) |
 | **Ctrl+Shift+Escape** | Launch the Task Manager |
 
-### Screenshots
+## Screenshots
 
 
 | Shortcut | Function |
@@ -29,7 +27,7 @@
 | **Alt+Print** | Take a screenshot of the current window |
 | **Shift+Print** | Take a regional screenshot |
 
-## Multimedia Keyboard Specialty Keys
+# Multimedia Keyboard Specialty Keys
 
 
 | Shortcut | Function |
@@ -42,7 +40,7 @@
 | **Music** | Launch Rhythmbox |
 | **WWW** | Launch default web browser |
 
-## Window Management
+# Window Management
 
 
 | Shortcut | Function |
@@ -70,7 +68,7 @@
 | **Super+D** | Show the Desktop |
 | **Super+Tab** | Show the per-application window switcher |
 
-### Workspaces
+## Workspaces
 
 
 | Shortcut | Function |

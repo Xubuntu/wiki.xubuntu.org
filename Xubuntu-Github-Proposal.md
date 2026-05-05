@@ -1,13 +1,11 @@
-# Xubuntu GitHub Proposal
-
-## Introduction
+# Introduction
 
 Starting with the 20.10 cycle, I would like to move Xubuntu repositories
 to GitHub. Doing so makes it easier for contributors to join and submit
 contributions to the project, while also reducing many of the headaches
 of managing and reporting on project data.
 
-### Summary of Changes
+## Summary of Changes
 
 -   Move all Xubuntu codebases to GitHub, under a new Xubuntu
     organization.
@@ -21,7 +19,7 @@ of managing and reporting on project data.
     organization. The new Teams are given access to their project
     repositories.
 
-### Rationale (Pros)
+## Rationale (Pros)
 
 -   Launchpad Git is still not tightly integrated with the rest of its
     features, so we miss out on many of the benefits of Launchpad.
@@ -47,7 +45,7 @@ of managing and reporting on project data.
     tools, and reduces the need for custom solutions like our
     [Development Tracker](https://dev.xubuntu.org/).
 
-### Potential Downsides (Cons)
+## Potential Downsides (Cons)
 
 -   An additional area where permissions need to be managed
 -   Outside of the Canonical ecosystem, so support varies
@@ -61,7 +59,7 @@ of managing and reporting on project data.
 -   A lower barrier of entry may mean more low-quality suggestions that
     require additional time moderating.
 
-### Implementation
+## Implementation
 
 1.  Create a new Xubuntu organization on GitHub, assigning individual
     members of \~xubuntu-council and \~xubuntu-dev as owners of the
@@ -81,7 +79,7 @@ of managing and reporting on project data.
     the new upstreams.
 8.  Migrate Launchpad blueprints to GitHub projects.
 
-### Background
+## Background
 
 We transitioned all of our code to the Git VCS two years ago with the
 18.10 cycle, citing the following reasons.

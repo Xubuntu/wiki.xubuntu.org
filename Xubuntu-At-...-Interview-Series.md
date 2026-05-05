@@ -1,11 +1,9 @@
-# Xubuntu At ... Interview Series
-
-## \"Xubuntu At\...\" Interview Series
+# \"Xubuntu At\...\" Interview Series
 
 An interview series targeted at talking to groups and organizations
 using Xubuntu.
 
-### Sample Questions
+## Sample Questions
 
 Modify questions based on target organization and invite them to add
 questions if there is something they wish to share and we didn\'t ask,
@@ -24,7 +22,7 @@ but roughly we want to be asking the following:
 Also ask for photos, particularly if there are shots that show Xubuntu
 in action!
 
-### Ideas
+## Ideas
 
 *Anyone can add ideas here, including organizations looking to be
 interviewed!*
@@ -38,7 +36,7 @@ interviewed!*
     him and we are waiting for the answers. \-- knome 2015-02-23
     04:16:50
 
-### Article archive
+## Article archive
 
 [Xubuntu.org: Archive for \"Xubuntu
 at\...\"](http://xubuntu.org/news/tag/xubuntu-at/)

@@ -1,8 +1,6 @@
-# Xubuntu 16.10 Release Notes
+# Xubuntu 16.10 (Yakkety Yak)
 
-## Xubuntu 16.10 (Yakkety Yak)
-
-### Known Issues
+## Known Issues
 
 [Installer Issues]
 
@@ -30,7 +28,7 @@
     -   [1540186](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1540186)
         Thunar crash while dragging and dropping
 
-### Changes
+## Changes
 
 -   Thunar
 
@@ -50,9 +48,9 @@
       *Remove negative sign when temperature is rounded to 0 °F
       *Update API url for Yr.no service
 
-### Changelogs
+## Changelogs
 
-#### Major application versions
+### Major application versions
 
 \* catfish
 ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/c/catfish/catfish_1.4.2-0ubuntu1/changelog))
@@ -96,7 +94,7 @@
 \* xubuntu-meta
 ([changelog](https://launchpad.net/ubuntu/+source/xubuntu-meta/+changelog))
 
-#### Other Application Versions
+### Other Application Versions
 
 \* blueman
 ([changelog](http://changelogs.ubuntu.com/changelogs/pool/universe/b/blueman/blueman_2.0.4-1ubuntu2/changelog))

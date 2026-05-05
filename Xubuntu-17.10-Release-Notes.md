@@ -1,8 +1,6 @@
-# Xubuntu 17.10 Release Notes
+# Notable Changes
 
-## Notable Changes
-
-### Incompatibility with BIOS in certain Lenovo, Acer systems
+## Incompatibility with BIOS in certain Lenovo, Acer systems
 
 A bug in the Linux 4.13 kernel shipped in Ubuntu 17.10 can leave users
 unable to update any of their BIOS settings, including their system's
@@ -24,13 +22,13 @@ bug, create a USB stick with the Ubuntu 16.04 desktop image and try to
 boot it. If you are able to boot it, your system has most likely not
 been impacted by this bug.
 
-### Appearance Updates
+## Appearance Updates
 
       * Client side decorations (CSD) now consume much less space with the Greybird GTK+ theme.
       * New device, mimetype, and monochrome panel icons have been included with the elementary-xfce icon theme.
       * The new wallpaper adds a refreshing touch of green to the desktop.
 
-### Application Updates
+## Application Updates
 
       * GNOME Font Viewer is now included by default. This application simplifies viewing and installing fonts.
       * LibreOffice 5.3 -> 5.4
@@ -38,7 +36,7 @@ been impacted by this bug.
       * Thunderbird 45.8 -> 52.4
       * Numerous Xfce and other components have been updated.
 
-### Technical Updates
+## Technical Updates
 
       * The Xfce Dictionary, Genmon Plugin, and Mount Plugin have been ported to GTK+ 3.  
       * Exo's GTK+ 3 support has been further improved.
@@ -46,14 +44,14 @@ been impacted by this bug.
       * Python 3.5 -> 3.6
       * GTK+ 3.24 -> 3.26. GTK+ 3.26 includes support for Unicode 10.0.0 and support for color Emoji.
 
-## Updates from the Ubuntu Desktop Team
+# Updates from the Ubuntu Desktop Team
 
 We usually just link directly to the Ubuntu release
 [notes](https://wiki.ubuntu.com/ArtfulAardvark/ReleaseNotes), but there
 are several significant improvements that affect all flavors and our
 users.
 
-### Accelerated Video Playback (Intel)
+## Accelerated Video Playback (Intel)
 
 The Ubuntu Desktop team has been hard at work to get accelerated video
 playback working out of the box \[
@@ -71,7 +69,7 @@ also see some performance improvements \[
 [See this page for more
 information.](https://wiki.ubuntu.com/IntelQuickSyncVideo)
 
-### Bluetooth and USB Audio
+## Bluetooth and USB Audio
 
 There's been a number of changes to BlueZ and PulseAudio this cycle
 which should make Bluetooth and USB audio devices work much better by
@@ -81,7 +79,7 @@ default \[
 [5](https://insights.ubuntu.com/2017/08/25/ubuntu-desktop-weekly-update-august-25-2017/)
 \].
 
-### Driverless Printing
+## Driverless Printing
 
 Driverless printing has been added to Ubuntu. This provides support for
 most modern printers: IPP Everywhere, Apple AirPrint, Mopria, PCLm, and
@@ -91,9 +89,9 @@ Printers dialog \[
 [6](https://insights.ubuntu.com/2017/09/08/ubuntu-desktop-weekly-update-september-8-2017/)
 \].
 
-## Notable Issues
+# Notable Issues
 
-### Installer Issues
+## Installer Issues
 
 -    System encryption password set before setting keyboard locale
     ([1047384](https://launchpad.net/bugs/1047384))
@@ -115,7 +113,7 @@ Printers dialog \[
 -    No restart after installation
     ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
 
-### General Issues
+## General Issues
 
 -   Network indicators
     -   Currently at times the panel could show 2 network icons, this
@@ -156,9 +154,9 @@ Printers dialog \[
     working properly
     ([1311685](https://bugs.launchpad.net/ubuntu/+source/xfce4-indicator-plugin/+bug/1311685))
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   blueman
     ([changelog](https://launchpad.net/ubuntu/artful/+source/blueman/+changelog))
@@ -201,7 +199,7 @@ Printers dialog \[
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xubuntu-wallpapers/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/artful/+source/exo/+changelog))
@@ -224,7 +222,7 @@ Printers dialog \[
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/artful/+source/catfish/+changelog))
@@ -245,7 +243,7 @@ Printers dialog \[
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/artful/+source/xfce4-cpugraph-plugin/+changelog))

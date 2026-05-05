@@ -1,17 +1,15 @@
-# Article series
-
-## Xubuntu at\...
+# Xubuntu at\...
 
 See [[\"Xubuntu at\...\" Interview Series|Xubuntu-At-...-Interview-Series]].
 
-## My media manager
+# My media manager
 
 This article series is planned to be published leading to the Xubuntu
 16.04 release. Since 16.04 doesn\'t have a default media manager, it
 would be nice to present some options people can find in the
 repositories, instead of leaving them in the cold.
 
-### Question list (WIP)
+## Question list (WIP)
 
 -   How do you listen to music?
     -   How large is your collection?
@@ -24,7 +22,7 @@ repositories, instead of leaving them in the cold.
 -   Is there something else you would like to share with us?
 -   Finally, feel free to talk (briefly!) about your favorite artists!
 
-### Media managers and team members
+## Media managers and team members
 
 Team members, please add yourself - feel free to add for several apps
 where appropriate!
@@ -39,7 +37,7 @@ where appropriate!
 | Cloud players etc. | jjfrv8, slickymaster, dkessel, bluesabre |  |
 | None, play media with mplayer | pleia2 |  |
 
-## The small details
+# The small details
 
 This article series is planned to be published leading to the Xubuntu
 16.04 release. 16.04 is an LTS release, and for many, it\'s the first
@@ -51,7 +49,7 @@ Additionally, even older but lesser known features can be highlighted.
 The articles should be relatively short but comprehensive, so we can
 only cover more or less trivial things.
 
-### Ideas for articles
+## Ideas for articles
 
 -   Using the presentation mode
 -   Panel layout switching (could be presented with a brief tutorial to
@@ -60,7 +58,7 @@ only cover more or less trivial things.
 -   Something about wallpapers (mention community wallpapers, maybe
     wallpaper rotating?)
 
-### Written articles
+## Written articles
 
 
 | Article | Article draft (need to be logged) | Comments |

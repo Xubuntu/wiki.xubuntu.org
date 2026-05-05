@@ -1,5 +1,3 @@
-# Quality Assurance
-
 [[ISO Testing Runthrough|Iso-Testing]]
 
 [[Team Hardware:Testing Choices|Team-Hardware]]

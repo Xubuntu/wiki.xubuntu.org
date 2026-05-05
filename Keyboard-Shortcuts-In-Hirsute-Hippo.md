@@ -1,8 +1,6 @@
-# Keyboard Shortcuts in Hirsute Hippo
-
 [Back to Release Notes](https://wiki.xubuntu.org/releases/21.04/release-notes)
 
-## General
+# General
 
 
 | Shortcut | Function |
@@ -31,7 +29,7 @@
 | Super+3 | Launch LibreOffice Writer |
 | Super+4 | Launch LibreOffice Calc |
 
-## Multimedia Keyboard Specialty Keys
+# Multimedia Keyboard Specialty Keys
 
 
 | Shortcut | Function |
@@ -45,7 +43,7 @@
 | Music | Launch Parole Media Player |
 | Messenger | Launch Pidgin |
 
-## Window Management
+# Window Management
 
 
 | Shortcut | Function |

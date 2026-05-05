@@ -1,5 +1,3 @@
-# Ideas for Magazine articles
-
 We were recently approached by Sonny Gaviola who is seeking to publish a
 special edition of their magazine and writes: \"I have an idea to make a
 special part (with its own layout) of this issue, devoted to Xubuntu. It
@@ -31,7 +29,7 @@ copy of the magazine! Also available for purchase here: [Linux Identity
 Starter - Ubuntu Family 13.04 Raring
 Ringtail](http://www.linuxidentity.com/us/index.php?name=News&file=article&sid=5067)
 
-## List of articles
+# List of articles
 
 -   [Contributing to Xubuntu: testing the Xubuntu daily
     images](http://pad.ubuntu.com/xubuntu-articles-testing) - *Jackson

@@ -1,5 +1,3 @@
-# Xubuntu 25.04 Release Notes
-
 **Welcome to the Xubuntu 25.04 \"Plucky Puffin\" release notes!**
 
 Xubuntu 25.04 was released on Thursday, April 17, 2025, and will be
@@ -14,9 +12,9 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
 
 ![](images/releases/25.04/xubuntu-25.04.png)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   Selected items are highlighted in a low-contrast grey color, which
     may not be visible on some devices
@@ -35,7 +33,7 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
     * OEM installation is not available.
         * It is under active development and will be ready in time for 25.04.
 
-### General Issues
+## General Issues
 
 -   Xfce Panel:
     -   During the live session, the network icon is displayed twice
@@ -55,21 +53,21 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/plucky-puffin-release-notes/48687)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
-### Xfce 4.20
+## Xfce 4.20
 
 Xfce 4.20 was released on December 15, 2024 and includes \"a gazillion
 of bug fixes and did various minor improvements\". Check the [release announcement](https://xfce.org/about/news/?post=1734220800) to learn
 more.
 
-### GNOME
+## GNOME
 
 Xubuntu 25.04 benefits from some GNOME 48 application releases.
 
@@ -78,7 +76,7 @@ Xubuntu 25.04 benefits from some GNOME 48 application releases.
 -   gnome-mines: 1:40.1-1build2 -\> 1:48.0-1
 -   gnome-sudoku: 1:47.0-1 -\> 1:48.0-2
 
-### Common with Ubuntu
+## Common with Ubuntu
 
 -   firefox: stable/ubuntu-24.10-5014 -\> stable/ubuntu-25.04-5917
 -   firmware-updater: 1/stable/ubuntu-24.10-127 -\>
@@ -89,7 +87,7 @@ Xubuntu 25.04 benefits from some GNOME 48 application releases.
     stable/ubuntu-25.04-253
 -   thunderbird: stable/ubuntu-24.10-526 -\> stable/ubuntu-25.04-684
 
-### Additional Updates
+## Additional Updates
 
 -   gimp: 2.10.38-2 -\> 3.0.2-1
 -   inxi: 3.3.35-1-1 -\> 3.3.37-1-2
@@ -98,9 +96,9 @@ Xubuntu 25.04 benefits from some GNOME 48 application releases.
 -   xubuntu-artwork: 24.10.1 -\> 25.04.1
 -   xubuntu-desktop: 2.263 -\> 2.267
 
-## Appearance Updates
+# Appearance Updates
 
-### elementary-xfce 0.21
+## elementary-xfce 0.21
 
 elementary-xfce is now a fully [GPLv3 licensed](https://github.com/shimmerproject/elementary-xfce/releases/tag/v0.20.1)
 icon theme. The [latest release](https://github.com/shimmerproject/elementary-xfce/releases/tag/v0.21)
@@ -111,19 +109,19 @@ light, dark, and mixed desktop themes.
 
 ![](images/releases/25.04/xubuntu-25.04-xfce-appearance-settings-elementary-xfce.png)
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 48
 -   GTK 2.24.33 / 3.24.49 / 4.18.4
 -   MATE 1.26
 -   Xfce 4.20
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.79
 -   CUPS 2.4.12
@@ -131,14 +129,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   Poppler 25.03.0
 -   xdg-desktop-portal 1.20.0
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.21
 -   Greybird 3.23.3
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.20.0
 -   Exo 4.20.0
@@ -157,13 +155,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.8
 -   Xfce Whisker Menu Plugin 2.9.2
 
-#### MATE
+### MATE
 
 -   Atril 1.26.2
 -   Engrampa 1.26.2
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 48.0
 -   GNOME Disk Utility 46.1
@@ -173,7 +171,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.8
 -   Simple Scan 46.0
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.4.4
 -   Firefox 136.0.2 (snap)
@@ -184,9 +182,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.8
 -   Thunderbird 128.8.1 (snap)
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/apturl/+changelog))
@@ -247,7 +245,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/exo/+changelog))
@@ -280,7 +278,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/catfish/+changelog))
@@ -305,7 +303,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/xfce4-clipman-plugin/+changelog))
@@ -340,7 +338,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/plucky/+source/thunar-archive-plugin/+changelog))

@@ -1,6 +1,4 @@
-# Administrators
-
-## Websites
+# Websites
 
 
 | Site | Primary contact | Other administrators | Notes |
@@ -11,7 +9,7 @@
 | [Reddit](https://www.reddit.com/r/xubuntu/) | [Vincent](https://www.reddit.com/user/vinnl/) | [Elizabeth K. Joseph](http://launchpad.net/~lyz) | Help Wanted |
 | [deviantArt](http://xubuntu-showcase.deviantart.com/) | [Bruno Benitez](http://launchpad.net/~gridcube) | [Elizabeth K. Joseph](http://launchpad.net/~lyz), Rich Dennis, [Thomas Molloy](http://launchpad.net/~lderan), Joan Advincula | Inactive |
 
-## Development server
+# Development server
 
 Our development server at dev.xubuntu.org runs the LTS release of
 Ubuntu.

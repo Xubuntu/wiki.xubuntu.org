@@ -1,6 +1,4 @@
-# Tracker Development
-
-## Feature requests
+# Feature requests
 
 -   Pull data from the QA trackers
     -   Show information about reported tests (amount per testcase,

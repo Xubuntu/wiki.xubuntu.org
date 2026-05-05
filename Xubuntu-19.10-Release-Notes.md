@@ -1,11 +1,9 @@
-# Xubuntu 19.10 Release Notes
-
-## Installer Issues
+# Installer Issues
 
 -   System doesn\'t boot after installation - Legacy mode / 2 disks
     ([1847898](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1847898))
 
-## General Issues
+# General Issues
 
 -   GNOME Font Viewer: Crashes in the live environment
     ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
@@ -18,15 +16,15 @@
     ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578),
     fix committed upstream)
 
-### Ubuntu Generic Release Note
+## Ubuntu Generic Release Note
 
 The main Ubuntu release
 [note](https://wiki.ubuntu.com/EoanErmine/ReleaseNotes) covers both many
 of the other packages we carry and more generic issues.
 
-## Major Updates
+# Major Updates
 
-### Xfce 4.14
+## Xfce 4.14
 
 Released in August 2019, Xfce 4.14 is a modern desktop built on top of
 the latest libraries. From the release announcement:
@@ -41,7 +39,7 @@ the latest libraries. From the release announcement:
 [Feature Tour](https://xfce.org/about/tour) /
 [Changelog](https://www.xfce.org/download/changelogs/4.14)
 
-### Light Locker Replaced by Xfce Screensaver
+## Light Locker Replaced by Xfce Screensaver
 
 ![](images/releases/19.10/screensaver.png)
 
@@ -56,7 +54,7 @@ lock experience in Xubuntu.
 -   DPMS support for better monitor power management
 -   Support for all Xscreensaver screensavers
 
-### Keyboard Shortcuts
+## Keyboard Shortcuts
 
 Xubuntu 19.10 includes two new keyboard shortcuts to make transitioning
 from other desktop environments easier.
@@ -64,7 +62,7 @@ from other desktop environments easier.
 -   **Super + L** will now lock your session.
 -   **Super + D** will now show and hide your desktop.
 
-### ZFS on root
+## ZFS on root
 
 -   Support for ZFS as the root filesystem is added as an experimental
     feature in 19.10
@@ -76,9 +74,9 @@ from other desktop environments easier.
     and
     [here](https://didrocks.fr/2019/10/11/ubuntu-zfs-support-in-19.10-zfs-on-root/)
 
-## Other Updates
+# Other Updates
 
-### Color Emoji
+## Color Emoji
 
 ![Color emoji popup](images/releases/19.10/emoji_popup.png)
 
@@ -93,9 +91,9 @@ add or remove!
 **Restoring monochrome emoji**\
 `sudo apt remove fonts-noto-color-emoji`
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/apturl/+changelog))
@@ -144,7 +142,7 @@ add or remove!
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/exo/+changelog))
@@ -175,7 +173,7 @@ add or remove!
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/catfish/+changelog))
@@ -196,7 +194,7 @@ add or remove!
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/xfce4-cpugraph-plugin/+changelog))
@@ -229,7 +227,7 @@ add or remove!
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/eoan/+source/thunar-archive-plugin/+changelog))

@@ -1,5 +1,3 @@
-# Xfce4 port to Gtk3 and gdbus
-
 Staging PPA:
 [ppa:unit193/xfce4-gtk3](https://launchpad.net/~unit193/+archive/ubuntu/xfce4-gtk3/+packages)
 
@@ -11,7 +9,7 @@ Xfce 4.14 [roadmap](https://wiki.xfce.org/releng/4.14/roadmap)
 xfce4-session
 [roadmap](https://wiki.xfce.org/releng/4.14/roadmap/xfce4-session)
 
-## Uploaded
+# Uploaded
 
 -   garcon
 -   [tumbler](http://git.xfce.org/users/ali/tumbler/)
@@ -22,7 +20,7 @@ xfce4-session
 -   xfce4-appfinder
 -   xfce4-taskmanager
 
-## Todo
+# Todo
 
 -   [xfce4-clipman-plugin](http://git.xfce.org/panel-plugins/xfce4-clipman-plugin/log/)
     1.  Fails distcheck.

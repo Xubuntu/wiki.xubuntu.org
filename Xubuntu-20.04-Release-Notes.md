@@ -1,5 +1,3 @@
-# Xubuntu 20.04 Release Notes
-
 **Welcome to the Xubuntu 20.04 \"Focal Fossa\" release notes!**
 
 Xubuntu 20.04 was released on Thursday, April 23, 2020 and will be
@@ -15,16 +13,16 @@ information and the latest updates for Xubuntu 20.04, check out the
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   System doesn\'t boot after installation - Legacy mode / 2 disks
     ([1847898](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1847898))
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
 
-### Graphical Issues
+## Graphical Issues
 
 -   AMD Graphics: Block staircase display with side-by-side monitors of
     different pixel widths
@@ -35,7 +33,7 @@ information and the latest updates for Xubuntu 20.04, check out the
     ([1860921](https://bugs.launchpad.net/ubuntu/+source/xfwm4/+bug/1860921),
     Fixed upstream, SRU expected for 20.04.1)
 
-### General Issues
+## General Issues
 
 -   GNOME Font Viewer: Crashes in the live environment
     ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
@@ -48,22 +46,22 @@ information and the latest updates for Xubuntu 20.04, check out the
     resulting in appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes) covers both many
 of the other packages we carry and more issues common to every Ubuntu
 flavor.
 
-## Screenshots
+# Screenshots
 
 -   [Installation](https://bluesabre.org/2020/04/12/xubuntu-20-04-in-screenshots-the-installer/)
     (bluesabre.org)
 -   [Desktop Applications](https://bluesabre.org/2020/04/17/xubuntu-20-04-in-screenshots-desktop/)
     (bluesabre.org)
 
-## Major Updates
+# Major Updates
 
-### Xubuntu Community Wallpaper Contest
+## Xubuntu Community Wallpaper Contest
 
 Xubuntu hosted a community wallpaper contest from February 28 through
 March 13, 2020. [6 winners were selected](https://xubuntu.org/news/xubuntu-20-04-community-wallpaper-contest-winners/)
@@ -72,7 +70,7 @@ Thank you to everyone for your submissions!
 
 ![](images/releases/20.04/wallpaper-contest-winners.png)
 
-### Greybird Dark Theme
+## Greybird Dark Theme
 
 Xubuntu 20.04 ships with a brand new optional theme, **Greybird-dark**.
 To switch from the default **Greybird** to **Greybird-dark**, open your
@@ -88,7 +86,7 @@ Settings Manager and:
    *Greybird-dark makes your entire desktop darker while still maintaining a usable contrast.*
   ---------------------------------------------------------------------------------------------
 
-### Desktop Integration
+## Desktop Integration
 
 ![](images/releases/20.04/packages.png)
 
@@ -96,7 +94,7 @@ Settings Manager and:
    *gedit installed as a Debian package, Snap, and Flatpak*
   ----------------------------------------------------------
 
-#### Snaps
+### Snaps
 
 Our desktop themes **Greybird**, **Greybird-dark**, and
 **elementary-xfce** are now included in the gtk-common-themes snap. When
@@ -104,7 +102,7 @@ using any of these themes, you can expect snap packages to fit in
 perfectly with the rest of your desktop. Snaps work out of the box on
 Xubuntu, and can be installed with the included GNOME Software.
 
-#### Flatpaks
+### Flatpaks
 
 **Greybird** and **Greybird-dark** are available to install on Flathub!
 If you use Flatpaks on your system, you can install our themes and enjoy
@@ -113,45 +111,45 @@ a consistent desktop experience with the following commands.
 `flatpak install org.gtk.Gtk3theme.Greybird`\
 `flatpak install org.gtk.Gtk3theme.Greybird-dark`
 
-## Removals
+# Removals
 
-### Python 2
+## Python 2
 
 With Python 2 now officially End of Life as of January 1, 2020, Ubuntu
 and its various flavors are no longer shipping Python 2. Xubuntu
 includes only Python 3.8 as of 20.04.
 
-### Apt Offline
+## Apt Offline
 
 **apt-offline** is no longer included in Xubuntu 20.04. Until February,
 it [depended on Python 2](https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+bug/1848755)
 and was thus removed from the Xubuntu and Ubuntu Studio seeds.
 
-### Pidgin Libnotify Plugin
+## Pidgin Libnotify Plugin
 
 **pidgin-libnotify** is no longer included in the Ubuntu repositories
 and has thus been removed from Xubuntu.
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the Changelogs section below.*
 
-### Application Stack
+## Application Stack
 
 -   GTK / GNOME 3.36
 -   MATE 1.24
 -   Xfce 4.14
 
-### Themes
+## Themes
 
 -   Greybird 3.22.12
 -   Numi: 2.6.7
 -   elementary-xfce 0.15
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 1.4.13
 -   Gigolo 0.5.1
@@ -173,20 +171,20 @@ see the Changelogs section below.*
 -   Xfce Whisker Menu Plugin 2.4.3
 -   Xfce Window Manager 4.14.1
 
-#### MATE
+### MATE
 
 -   Atril 1.24.0
 -   Engrampa 1.24.0
 -   MATE Calculator 1.24.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Mines 3.36.0
 -   GNOME Software 3.36.0
 -   GNOME Sudoku 3.36.0
 -   Simple Scan 3.36.0
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.1.2
 -   Firefox 75.0
@@ -196,9 +194,9 @@ see the Changelogs section below.*
 -   SGT Puzzles 20191231.79a5378-3 (and Launcher 0.2.5)
 -   Thunderbird 68.7.0
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/focal/+source/apturl/+changelog))
@@ -245,7 +243,7 @@ see the Changelogs section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/focal/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/focal/+source/exo/+changelog))
@@ -278,7 +276,7 @@ see the Changelogs section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/focal/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/focal/+source/catfish/+changelog))
@@ -301,7 +299,7 @@ see the Changelogs section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/focal/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/focal/+source/xfce4-cpugraph-plugin/+changelog))
@@ -334,7 +332,7 @@ see the Changelogs section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/focal/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/focal/+source/thunar-archive-plugin/+changelog))

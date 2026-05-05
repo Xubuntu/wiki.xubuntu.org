@@ -1,12 +1,10 @@
-# Xubuntu 18.10 Release Notes
-
-## Upgrading from 18.04
+# Upgrading from 18.04
 
 For 32 bit installations this is
 [disabled](https://wiki.ubuntu.com/CosmicCuttlefish/ReleaseNotes#Upgrades_on_i386)
 and currently out of our control.
 
-### Installer Issues
+## Installer Issues
 
 **It must be noted that it is close to impossible for our small team of
 testers to be in a position to work through all the varying parameters
@@ -21,7 +19,7 @@ release note(s) listed below**
 -    No restart after installation
     ([1723760](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1723760))
 
-### General Issues
+## General Issues
 
 -   **GNOME Software crashes on 32-bit architectures**
     ([1798236](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1798236))
@@ -67,17 +65,17 @@ release note(s) listed below**
     (GTK+ 3 regression)
     ([1653448](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1653448))
 
-#### Ubuntu Generic Release Note
+### Ubuntu Generic Release Note
 
 The main Ubuntu release
 [note](https://wiki.ubuntu.com/CosmicCuttlefish/ReleaseNotes) covers
 both many of the other packages we carry and more generic issues.
 
-## Major Updates
+# Major Updates
 
-### Appearance
+## Appearance
 
-#### Cosmic Wallpaper
+### Cosmic Wallpaper
 
 Our beautiful new wallpaper features a gentle purple tone and greatly
 complements our GTK and icon themes. Past wallpapers are available in
@@ -87,7 +85,7 @@ package.
 
 ![](images/releases/18.10/xubuntu-cosmic.png)
 
-#### elementary Xfce Icon Theme 0.13
+### elementary Xfce Icon Theme 0.13
 
 The latest version of [our icon theme](https://github.com/shimmerproject/elementary-xfce) includes the
 manila folder icons as seen in the [upstream elementary icon theme](https://github.com/elementary/icons). Additionally, our icon
@@ -96,7 +94,7 @@ potentially improved load times.
 
 ![](images/releases/18.10/manilla-folders.png)
 
-#### Greybird 3.22.9
+### Greybird 3.22.9
 
 The latest [Greybird](https://github.com/shimmerproject/Greybird)
 release improves the look and feel of our window manager, alt-tab
@@ -105,9 +103,9 @@ significantly better and consistent with our other applications.
 
 ![](images/releases/18.10/pavucontrol-greybird.png)
 
-### Xfce
+## Xfce
 
-#### Applications
+### Applications
 
 -   [Catfish
     1.4.6](https://bluesabre.org/2018/07/15/catfish-1-4-6-released-now-an-xfce-project/)
@@ -139,7 +137,7 @@ significantly better and consistent with our other applications.
 -   [Xfce Window Manager
     4.12.5](https://mail.xfce.org/pipermail/xfce-announce/2018-July/000629.html)
 
-#### Libraries
+### Libraries
 
 -   [Exo
     0.12.2](https://bluesabre.org/2018/06/20/exo-0-12-1-and-0-12-2-released/)
@@ -150,7 +148,7 @@ significantly better and consistent with our other applications.
 -   [Xfconf
     4.13.5](https://mail.xfce.org/pipermail/xfce-announce/2018-June/000619.html)
 
-#### Panel Plugins
+### Panel Plugins
 
 -   [Xfce Verve Plugin
     2.0.0](https://mail.xfce.org/pipermail/xfce-announce/2018-April/000601.html)
@@ -158,16 +156,16 @@ significantly better and consistent with our other applications.
 -   [Xfce Whisker Menu Plugin
     2.2.1](https://mail.xfce.org/pipermail/xfce-announce/2018-July/000624.html)
 
-#### Thunar Plugins
+### Thunar Plugins
 
 -   [Thunar Archive Plugin
     0.4.0](https://mail.xfce.org/pipermail/xfce-announce/2017-December/000566.html)
 -   [Thunar Media Tags Plugin
     0.3.0](https://mail.xfce.org/pipermail/xfce-announce/2018-February/000577.html)
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   atril
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/atril/+changelog))
@@ -212,7 +210,7 @@ significantly better and consistent with our other applications.
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/exo/+changelog))
@@ -243,7 +241,7 @@ significantly better and consistent with our other applications.
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/catfish/+changelog))
@@ -266,7 +264,7 @@ significantly better and consistent with our other applications.
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfce4-cpugraph-plugin/+changelog))
@@ -299,7 +297,7 @@ significantly better and consistent with our other applications.
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/cosmic/+source/thunar-archive-plugin/+changelog))

@@ -1,5 +1,3 @@
-# Xubuntu 21.04 Release Notes
-
 **Welcome to the Xubuntu 21.04 \"Hirsute Hippo\" release notes!**
 
 Xubuntu 21.04 was released on Thursday, April 22, 2021 and will be
@@ -16,16 +14,16 @@ information and the latest updates for Xubuntu 21.04, check out the
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
 -   OEM installation uses the wrong slideshow
     ([1842047](https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047))
 
-### General Issues
+## General Issues
 
 -   Boot: Decryption password prompt not visible
     ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
@@ -37,13 +35,13 @@ information and the latest updates for Xubuntu 21.04, check out the
 -   Xfce Screensaver: Password required twice when switching users
     ([1874178](https://bugs.launchpad.net/ubuntu/+source/lightdm/+bug/1874178))
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/hirsute-hippo-release-notes/19221)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
 -   **Xfce 4.16** features many improvements over the previous release,
     including:
@@ -106,9 +104,9 @@ to every Ubuntu flavor.
     thanks to our translation team on
     [Transifex](https://www.transifex.com/xubuntu/public/)!
 
-## UX Updates
+# UX Updates
 
-### Keyboard Shortcuts
+## Keyboard Shortcuts
 
 Our keyboard shortcuts were updated to better align with Xfce 4.16 and
 other popular desktop environments. For a full list of keyboard
@@ -119,20 +117,20 @@ shortcuts, [click here](https://wiki.xubuntu.org/releases/21.04/keyboard-shortcu
 -   **Super+R**: Launches the Application Finder
 -   **Super+E** or **Ctrl+Alt+F**: Launches the File Manager
 
-### Desktop
+## Desktop
 
 -   The File System and removable device icons are no longer displayed
     on the desktop
 -   The applications menu has been removed from the desktop right-click
     menu
 
-### Menu
+## Menu
 
 -   The Texinfo launcher has been removed from the menu
 -   The PulseAudio Volume Control launcher has been removed from the
     menu and replaced with a \"Sound\" option in the Settings Manager
 
-### Panel
+## Panel
 
 -   The StatusNotifier and Systray plugins have been merged and replaced
     with the StatusTray plugin
@@ -142,7 +140,7 @@ shortcuts, [click here](https://wiki.xubuntu.org/releases/21.04/keyboard-shortcu
 -   The PulseAudio plugin is now configured with window focus support,
     improving integration with third-party music players
 
-### Thunar
+## Thunar
 
 -   The path bar is now used by default, making it easier to navigate up
     paths
@@ -150,26 +148,26 @@ shortcuts, [click here](https://wiki.xubuntu.org/releases/21.04/keyboard-shortcu
 -   Special folders (such as Home) will no longer change the window
     icon, adding consistency to the panel
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GTK / GNOME 3.38
 -   MATE 1.24
 -   Xfce 4.16
 
-### Themes
+## Themes
 
 -   Greybird 3.22.14
 -   Numix: 2.6.7
 -   elementary-xfce 0.15.2
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.16.0
 -   Gigolo 0.5.1
@@ -190,20 +188,20 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Whisker Menu Plugin 2.5.3
 -   Xfce Window Manager 4.16.1
 
-#### MATE
+### MATE
 
 -   Atril 1.24.1
 -   Engrampa 1.24.2
 -   MATE Calculator 1.24.2
 
-#### GNOME
+### GNOME
 
 -   GNOME Mines 3.36.1
 -   GNOME Software 3.38.0
 -   GNOME Sudoku 40.0
 -   Simple Scan 3.38.1
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.1.4
 -   Firefox 87.0
@@ -215,9 +213,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   Synaptic 0.90.2
 -   Thunderbird 78.8.1
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/apturl/+changelog))
@@ -268,7 +266,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/exo/+changelog))
@@ -301,7 +299,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/catfish/+changelog))
@@ -326,7 +324,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/xfce4-cpugraph-plugin/+changelog))
@@ -359,7 +357,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/hirsute/+source/thunar-archive-plugin/+changelog))

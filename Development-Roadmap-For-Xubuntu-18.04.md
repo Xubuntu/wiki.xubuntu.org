@@ -1,6 +1,4 @@
-# Development Roadmap for Xubuntu 18.04
-
-## Decided
+# Decided
 
 -   Replace xfce4-volumed and indicator-sound with
     xfce4-pulseaudio-plugin
@@ -9,7 +7,7 @@
 -   Determine which xfce 4.13/4.14 components we want to support for 3
     years
 
-## Blueprint left over from Xubuntu 17.10
+# Blueprint left over from Xubuntu 17.10
 
 -   xfce4-keyboard-overlay: Port to vala or integrate with Xfce,
     Consider for inclusion
@@ -27,7 +25,7 @@
 -   Review xubuntu-core patches
     -   Let\'s refresh these and get some eyes on them
 
-## Ideas
+# Ideas
 
 -   Compton works really well and eliminates screen tearing. Is this
     something we\'re interested in investigating for 18.04? Pros/Cons?

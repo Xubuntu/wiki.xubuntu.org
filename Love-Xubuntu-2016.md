@@ -1,9 +1,7 @@
-# Love Xubuntu 2016
-
 The following are stories collected during the 2016 Love Xubuntu
 campaign.
 
-## Federico Airola
+# Federico Airola
 
 The conversation is between me and one of my University mates. We are
 both Xubuntu users and also programmers.
@@ -34,7 +32,7 @@ Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-June/000048.html>
 (private archive)
 
-## Willem Hobers
+# Willem Hobers
 
 My mother in law is 81. She\'s half deaf and her eyesight is getting
 worse and worse. She couldn\'t properly use her old Windows XP computer
@@ -51,7 +49,7 @@ Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-June/000049.html>
 (private archive)
 
-## Dina Goldin
+# Dina Goldin
 
 I live in Israel, and in Hebrew, the slang word \"Zubi\" is an insolent
 and extreme way to say \"No way I\'ll do it\".
@@ -70,7 +68,7 @@ Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-July/000050.html>
 (private archive, see thread)
 
-## Carl Vernersson
+# Carl Vernersson
 
 Reminded me of a modern version of my beloved Workbench 1.3 on my Amiga
 500 which unfortunately doesn\'t work anymore. The blue wallpaper, the
@@ -89,7 +87,7 @@ Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-July/000055.html>
 (private archive)
 
-## Dan Juarez
+# Dan Juarez
 
 I started my computing days in 1986 with my first computer, an Apple
 IIe. From there I went on to use an IBM XT system with DOS. Then later I
@@ -114,7 +112,7 @@ Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-August/000059.html>
 (private archive)
 
-## Robert Streeter (#1)
+# Robert Streeter (#1)
 
 I started my Linux journey about 12 years ago by using Ubuntu and used
 Ubuntu for quite a while until I came across a variant called Xubuntu
@@ -139,7 +137,7 @@ Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-August/000060.html>
 (private archive)
 
-## Daniel Eriksson
+# Daniel Eriksson
 
 We run a small business, mainly doing computer service and maintenance,
 app programming and other similar things. One of the things we do are
@@ -176,7 +174,7 @@ Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-September/000064.html>
 (private archive)
 
-## Keith I Myers
+# Keith I Myers
 
 After seeing a simple metal cookie cutter created by the Xubuntu
 Marketing lead, Keith was inspired to make a plastic 3D-printed version
@@ -193,7 +191,7 @@ the design on Thingiverse so others could also print it.
 
 Source: see links above
 
-## Sean Davis
+# Sean Davis
 
 How about a \@Xubuntu template for your Nexus 5 and Ringke Fusion case?
 #LoveXubuntu How about a \@Xubuntu template for your Nexus 5 and Ringke
@@ -203,7 +201,7 @@ Fusion case? #LoveXubuntu
 
 Source: <https://twitter.com/bluesabredavis/status/746721807156252672>
 
-## Aaron Raimist
+# Aaron Raimist
 
 I converted another one! #LoveXubuntu \@Xubuntu
 
@@ -215,20 +213,20 @@ I converted another one! #LoveXubuntu \@Xubuntu
 
 Source: <https://twitter.com/aaronraimist/status/748696174455033857>
 
-## Jan Jansen
+# Jan Jansen
 
 Im in #LoveXubuntu for two years now! Use it as my only OS on my T420.
 it works beautifully and i think it will do that a while longer :)
 
 Source: <https://twitter.com/two_jays/status/746811720786665473>
 
-## jugem
+# jugem
 
 Happy　birthday Xubuntu!!! #LoveXubuntu
 
 Source: <https://twitter.com/garege_junya/status/747067891489505280>
 
-## Koos Plegt
+# Koos Plegt
 
 Happy 10th birthday for my favourite #Linux distro! Here\'s a screenshot
 of my #Xubuntu 16.04 setup #LoveXubuntu
@@ -237,7 +235,7 @@ of my #Xubuntu 16.04 setup #LoveXubuntu
 
 Source: <https://twitter.com/KoosPlegt/status/748482280780369920>
 
-## Victor Forberger
+# Victor Forberger
 
 #LoveXubuntu \@Xubuntu 14.04 screenshot today. Been with #xubuntu since
 08.10.
@@ -246,14 +244,14 @@ Source: <https://twitter.com/KoosPlegt/status/748482280780369920>
 
 Source: <https://twitter.com/vforberger/status/749277753564803072>
 
-## Michael Morozov
+# Michael Morozov
 
 I #LoveXubuntu because it\'s top-notch, minimalistic neat and helps me
 focus on real things.
 
 Source: <https://twitter.com/m1xo_0n/status/752853361641357312>
 
-## Shamil
+# Shamil
 
 Happy 10th Anniversary to \@Xubuntu A look at my system - #Xubuntu 16.04
 with Plank dock, Arc-Theme #LoveXubuntu
@@ -263,7 +261,7 @@ with Plank dock, Arc-Theme #LoveXubuntu
 
 Source: <https://twitter.com/shamilchoudhury/status/752841588800356352>
 
-## João MC Texeira (#1)
+# João MC Texeira (#1)
 
 #LoveXubuntu! I wrote PhD Thesis in Portugal and now PostDoc at
 \@UniBarcelona also using \@Xubuntu. Almost 10 years with u! Keep on
@@ -271,35 +269,35 @@ fellows!!
 
 Source: <https://twitter.com/joaomcteixeira/status/753164016030285826>
 
-## Adam Brodziak
+# Adam Brodziak
 
 In 2007 I\'ve polished my XFCE, slick grey theme, minimalistic icons,
 gmusicbrowser. Then #Xubuntu came out and #LoveXubuntu from first sight
 
 Source: <https://twitter.com/AdamBrodziak/status/752976583237984256>
 
-## Krist Dylst
+# Krist Dylst
 
 Upgrading to #xubuntu 16.04. Thank you Wily Werewolf, you have served me
 well. #LoveXubuntu
 
 Source: <https://twitter.com/ubuntukadee/status/758582066183282688>
 
-## Víctor Sánchez
+# Víctor Sánchez
 
 Loving \@Xubuntu since 12.04. The perfect distro for getting work done.
 Fast and stable, I\'ve finished mi PhD with you. #LoveXubuntu
 
 Source: <https://twitter.com/victor_sanchezm/status/763837020212957185>
 
-## Sabrin Islam
+# Sabrin Islam
 
 \@Xubuntu A teacher once asked me, \"how did you get windows to look
 like that\" , to which I replied it\'s xubuntu sir #LoveXubuntu
 
 Source: <https://twitter.com/Ornim/status/764006924811546624>
 
-## João MC Teixeira (#2)
+# João MC Teixeira (#2)
 
 Fresh installed and ready for the next two years! \@Xubuntu 16.04 -
 #LoveXubuntu
@@ -308,14 +306,14 @@ Fresh installed and ready for the next two years! \@Xubuntu 16.04 -
 
 Source: <https://twitter.com/joaomcteixeira/status/765188517639155712>
 
-## BstMnFall
+# BstMnFall
 
 I have been using Xubuntu on 3+ home computers for over 8 years. From
 time to time I explore elsewhere, but always come back. #LoveXubuntu
 
 Source: <https://twitter.com/BstMnFall/status/763907159855890433>
 
-## Anton Styazhkin
+# Anton Styazhkin
 
 Thank you for being there \<3 #LoveXubuntu #Xubuntu #Linux #Desktop
 
@@ -323,7 +321,7 @@ Thank you for being there \<3 #LoveXubuntu #Xubuntu #Linux #Desktop
 
 Source: <https://twitter.com/untonyst/status/764620728171917312>
 
-## Robert Streeter (#2)
+# Robert Streeter (#2)
 
 #LoveXubuntu You all rock with this rock solid Distro
 

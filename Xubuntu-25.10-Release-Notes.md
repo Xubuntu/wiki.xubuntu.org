@@ -1,5 +1,3 @@
-# Xubuntu 25.10 Release Notes
-
 **Welcome to the Xubuntu 25.10 \"Questing Quokka\" release notes!**
 
 Xubuntu 25.10 was released on Thursday, October 9, 2025, and will be
@@ -14,16 +12,16 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
 
 ![](images/releases/25.10/xubuntu-2510-desktop.png)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   GRUB menu not displayed for dual-boot system installation
     ([2060624](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/2060624))
 -   Installer may select two root (/) partitions
     ([2060896](https://bugs.launchpad.net/subiquity/+bug/2060896))
 
-### General Issues
+## General Issues
 
 -   GNOME (libadwaita) Apps:
     -   The elementary-xfce icon theme lacks an icon for the window
@@ -54,15 +52,15 @@ the latest updates for Xubuntu 25.10, check out the [release page](https://xubun
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/questing-quokka-release-notes/59220)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
-### Xfce
+## Xfce
 
 Xubuntu 25.10 includes several minor updates for Xfce 4.20, improving
 stability and Wayland support.
@@ -76,7 +74,7 @@ stability and Wayland support.
 -   xfce4-session: 4.20.0-2 -\> 4.20.2-2
 -   xfce4-weather-plugin: 0.11.3-1 -\> 0.12.0-1
 
-### GNOME
+## GNOME
 
 Xubuntu 25.10 benefits from some GNOME 48 application releases.
 
@@ -85,7 +83,7 @@ Xubuntu 25.10 benefits from some GNOME 48 application releases.
 -   gnome-mines: 1:48.0-1 -\> 1:48.1-2
 -   gnome-sudoku: 1:48.0-2 -\> 1:49\~rc-1
 
-### Common with Ubuntu
+## Common with Ubuntu
 
 -   firefox: stable/ubuntu-25.04-5917 -\> stable/ubuntu-25.10-6966
     (143.0.4)
@@ -96,7 +94,7 @@ Xubuntu 25.10 benefits from some GNOME 48 application releases.
 -   thunderbird: stable/ubuntu-25.04-684 -\> stable/ubuntu-25.10-825
     (140.3.1esr)
 
-### Additional Updates
+## Additional Updates
 
 -   gimp: 3.0.2-1 -\> 3.0.4-6.1
 -   inxi: 3.3.37-1-2 -\> 3.3.39-1-1
@@ -104,19 +102,19 @@ Xubuntu 25.10 benefits from some GNOME 48 application releases.
 -   xubuntu-artwork: 25.04.1 -\> 25.10
 -   xubuntu-desktop: 2.267 -\> 2.269
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 49
 -   GTK 2.24.33 / 3.24.50 / 4.20.1
 -   MATE 1.26
 -   Xfce 4.20
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.83
 -   CUPS 2.4.12
@@ -124,14 +122,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   Poppler 25.03.0
 -   xdg-desktop-portal 1.20.3
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.21
 -   Greybird 3.23.3
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.20.0
 -   Exo 4.20.0
@@ -151,13 +149,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.8
 -   Xfce Whisker Menu Plugin 2.9.2
 
-#### MATE
+### MATE
 
 -   Atril 1.26.2
 -   Engrampa 1.26.2
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 48.0
 -   GNOME Disk Utility 46.1
@@ -167,7 +165,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.8
 -   Simple Scan 48.1
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.4.4
 -   Firefox 143.0.4 (snap)
@@ -178,9 +176,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.8
 -   Thunderbird 140.3.1 (snap)
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/questing/+source/apturl/+changelog))
@@ -239,7 +237,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/questing/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/questing/+source/exo/+changelog))
@@ -272,7 +270,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/questing/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/questing/+source/catfish/+changelog))
@@ -297,7 +295,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/questing/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/questing/+source/xfce4-clipman-plugin/+changelog))
@@ -332,7 +330,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/questing/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/questing/+source/thunar-archive-plugin/+changelog))

@@ -1,5 +1,3 @@
-# Xubuntu 22.04 Release Notes
-
 **Welcome to the Xubuntu 22.04 \"Jammy Jellyfish\" release notes!**
 
 Xubuntu 22.04 will be released on Thursday, April 21, 2022, and will be
@@ -12,9 +10,9 @@ the latest updates for Xubuntu 22.04, check out the [release page](https://xubun
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
@@ -29,7 +27,7 @@ the latest updates for Xubuntu 22.04, check out the [release page](https://xubun
 ```
         * However, you should be able to press the Enter key to continue with the reboot.
 
-### General Issues
+## General Issues
 
 -   Boot: Decryption password prompt not visible
     ([1917062](https://bugs.launchpad.net/xubuntu-artwork/+bug/1917062))
@@ -44,7 +42,7 @@ the latest updates for Xubuntu 22.04, check out the [release page](https://xubun
     Xubuntu Docs
     ([1967109](https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/1967109))
 
-### UEFI and BIOS Dual Boot
+## UEFI and BIOS Dual Boot
 
 Other operating systems are not displayed in the boot menu anymore
 unless Xubuntu has been installed alongside another operating system.
@@ -55,19 +53,19 @@ and immediately run \`update-grub\` again. More information on the
 [ubuntu-devel](https://lists.ubuntu.com/archives/ubuntu-devel/2021-December/041769.html)
 mailing list.
 
-### PKCS#11 Smartcard Support
+## PKCS#11 Smartcard Support
 
 Users that need PKCS#11 smartcard support in Firefox should not upgrade
 to 22.04 until PKCS#11 support is added to the Firefox snap
 ([1967632](https://bugs.launchpad.net/ubuntu/+source/firefox/+bug/1967632))
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/jammy-jellyfish-release-notes/24668)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
 -   **Mousepad 0.5.8**, our text editor, broadens its feature set with
     the addition of session backup and restore, plugin support, and a
@@ -79,7 +77,7 @@ to every Ubuntu flavor.
 -   Refreshed [user documentation](https://xubuntu.github.io/xubuntu-docs/user/C/index.html),
     available on the ISO and online.
 
-### Firefox Snap
+## Firefox Snap
 
 Following Ubuntu, **Firefox** is now our first included Snap package.
 Most users won\'t notice a difference, save for potentially slow startup
@@ -93,7 +91,7 @@ times the first time you open Firefox. Benefits Ubuntu lists include:
     \`latest/edge\`
 -   Sandboxed for improved security hardening for this critical app
 
-### For Xubuntu 20.04 Users
+## For Xubuntu 20.04 Users
 
 If you\'re coming from Xubuntu 20.04, you may also want to review the
 20.10, 21.04, and 21.10 release notes to catch up on all of the latest
@@ -103,9 +101,9 @@ updates.
 -   [[Xubuntu 21.04 \"Hirsute Hippo\"|Xubuntu-21.04-Release-Notes]]
 -   [[Xubuntu 21.10 \"Impish Indri\"|Xubuntu-21.10-Release-Notes]]
 
-## Appearance Updates
+# Appearance Updates
 
-### Theme Updates
+## Theme Updates
 
 -   **Greybird 3.23.1** introduces initial support for GTK 4 and
     libhandy, making GNOME and modern GTK applications feel at home in
@@ -114,7 +112,7 @@ updates.
 -   **elementary-xfce 0.16** adds many new icons and refreshes several
     others for a cleaner and more consistent Xubuntu desktop experience.
 
-### Community Wallpaper Contest Winners
+## Community Wallpaper Contest Winners
 
 ![](images/releases/22.04/xubuntu-wallpaper-contest-winners.png)
 
@@ -134,19 +132,19 @@ Six winners were selected from a pool of over 100 submissions for the
 -   [Untitled by Mathias Hüber
     (CC-BY-4.0)](https://github.com/Xubuntu/xubuntu-community-artwork/blob/master/usr/share/xfce4/backdrops/Untitled_by_Mathias_Huber.jpg)
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 42
 -   GTK 3.24.33
 -   MATE 1.26
 -   Xfce 4.16
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.64
 -   CUPS 2.4
@@ -156,14 +154,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   PulseAudio 16
 -   xdg-desktop-portal 1.14
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.16
 -   Greybird 3.23.1
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.16.3
 -   Exo 4.16.3
@@ -180,13 +178,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.2
 -   Xfce Whisker Menu Plugin 2.7.1
 
-#### MATE
+### MATE
 
 -   Atril 1.26.0
 -   Engrampa 1.26.0
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 41.0
 -   GNOME Disk Utility 42.0
@@ -196,7 +194,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.4
 -   Simple Scan 42.0
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.2.4
 -   Firefox 99.0.1 (snap)
@@ -207,9 +205,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.7
 -   Thunderbird 91.8.0
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/apturl/+changelog))
@@ -270,7 +268,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/exo/+changelog))
@@ -303,7 +301,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/catfish/+changelog))
@@ -328,7 +326,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/xfce4-clipman-plugin/+changelog))
@@ -363,7 +361,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/jammy/+source/thunar-archive-plugin/+changelog))

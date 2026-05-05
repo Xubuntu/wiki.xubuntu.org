@@ -1,5 +1,3 @@
-# Xubuntu 24.10 Release Notes
-
 **Welcome to the Xubuntu 24.10 \"Oracular Oriole\" release notes!**
 
 Xubuntu 24.10 will be released on Thursday, October 10, 2024, and will
@@ -19,9 +17,9 @@ instead.*
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   GRUB menu not displayed for dual-boot system installation
     ([2060624](https://bugs.launchpad.net/ubuntu/+source/grub2/+bug/2060624))
@@ -37,7 +35,7 @@ instead.*
     * OEM installation is not available.
         * It is under active development and will be ready in time for 25.04.
 
-### General Issues
+## General Issues
 
 -   Xfce Pulseaudio Plugin:
     -   Multiple notifications displayed if multiple Pulseaudio plugins
@@ -54,15 +52,15 @@ instead.*
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
-### Xfce 4.19
+## Xfce 4.19
 
 Xfce 4.19 is under heavy development and is expected to be finalized in
 the coming months, culminating in the release of [Xfce
@@ -133,7 +131,7 @@ found below.
     -   Increased opacity for inactive icons
     -   Wallpaper gradients are now dithered to reduce color banding
 
-### Xfce 4.18
+## Xfce 4.18
 
 Xubuntu 24.10 also includes several updates from the stable Xfce 4.18
 series. Highlights from each updated component can be found below.
@@ -154,7 +152,7 @@ series. Highlights from each updated component can be found below.
     -   Added preference to set the minimum width of notifications
     -   Improved Wayland support
 
-### GNOME
+## GNOME
 
 Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
 
@@ -178,7 +176,7 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
     -   Improved dark mode support
     -   The game board is now hidden when paused
 
-### Common with Ubuntu
+## Common with Ubuntu
 
 -   firefox: stable/ubuntu-24.04-4793 -\> stable/ubuntu-24.10-5014
 -   firmware-updater: stable/ubuntu-24.04-127 -\>
@@ -188,7 +186,7 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
     stable/ubuntu-24.10-247
 -   thunderbird: stable/ubuntu-24.04-507 -\> stable/ubuntu-24.10-526
 
-### Additional Updates
+## Additional Updates
 
 -   gimp: 2.10.36-3ubuntu0.24.04.1 -\> 2.10.38-2
 -   gucharmap: 1:15.1.3-1build1 -\> 1:15.1.5-1
@@ -199,19 +197,19 @@ Xubuntu 24.10 benefits from some GNOME 46 and 47 application releases.
 -   xubuntu-artwork: 24.04.1 -\> 24.10.1
 -   xubuntu-desktop: 2.262 -\> 2.263
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 47
 -   GTK 2.24.33 / 3.24.43 / 4.16.1
 -   MATE 1.26
 -   Xfce 4.18 & 4.19
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.77
 -   CUPS 2.4.10
@@ -219,14 +217,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   Poppler 24.08.0
 -   xdg-desktop-portal 1.18.4
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.19
 -   Greybird 3.23.3
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.18.0
 -   Exo 4.19.0
@@ -245,13 +243,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.7
 -   Xfce Whisker Menu Plugin 2.8.3
 
-#### MATE
+### MATE
 
 -   Atril 1.26.2
 -   Engrampa 1.26.2
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 47.0
 -   GNOME Disk Utility 46.1
@@ -260,7 +258,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.7
 -   Simple Scan 46.0
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.4.3
 -   Firefox 130.0.1 (snap)
@@ -271,9 +269,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.8
 -   Thunderbird 128.2.2 (snap)
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/apturl/+changelog))
@@ -334,7 +332,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/exo/+changelog))
@@ -367,7 +365,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/catfish/+changelog))
@@ -392,7 +390,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/xfce4-clipman-plugin/+changelog))
@@ -427,7 +425,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/oracular/+source/thunar-archive-plugin/+changelog))

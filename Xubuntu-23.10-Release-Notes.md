@@ -1,5 +1,3 @@
-# Xubuntu 23.10 Release Notes
-
 **Welcome to the Xubuntu 23.10 \"Mantic Minotaur\" release notes!**
 
 ![](images/releases/23.10/xubuntu-23.10.png)
@@ -14,9 +12,9 @@ the latest updates for Xubuntu 23.10, check out the [release page](https://xubun
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
@@ -30,7 +28,7 @@ the latest updates for Xubuntu 23.10, check out the [release page](https://xubun
     * OEM installation fails on Xubuntu Minimal ([[https://launchpad.net/bugs/2013251|2013251]])
     * Installer crashes when quitting in the live session ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/2016009|2016009]])
 
-### General Issues
+## General Issues
 
 -   Xfce Pulseaudio Plugin:
     -   Multiple notifications displayed if multiple Pulseaudio plugins
@@ -45,13 +43,13 @@ the latest updates for Xubuntu 23.10, check out the [release page](https://xubun
         -   In these instances, you will need to either [adjust your configuration](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#stuttering-audio-in-virtual-machine)
             (recommended) or replace PipeWire with PulseAudio
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://discourse.ubuntu.com/t/mantic-minotaur-release-notes/35534)
 covers both many of the other packages we carry and more issues common
 to every Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
 -   Xfce libraries, including **garcon**, **libxfce4ui**, **tumbler**,
     and **xfconf** have received several bug fixes for race conditions
@@ -72,7 +70,7 @@ to every Ubuntu flavor.
 -   Numerous additional stable release updates for Xfce 4.18 and related
     applications.
 
-## Appearance Updates
+# Appearance Updates
 
 -   **[elementary-xfce
     0.18](https://github.com/shimmerproject/elementary-xfce/releases/tag/v0.18)**
@@ -106,7 +104,7 @@ to every Ubuntu flavor.
     -   `xubuntu-wallpapers-hardy`: Edgy, Feisty, Gutsy, and Hardy
     -   `xubuntu-wallpapers-dapper`: Dapper
 
-## Hardware Support
+# Hardware Support
 
 -   Bluetooth headphones are now better supported under PipeWire
     ([2017818](https://bugs.launchpad.net/ubuntu/+source/xubuntu-meta/+bug/2017818))
@@ -115,19 +113,19 @@ to every Ubuntu flavor.
     Magic Trackpad, are now supported with the removal of
     `xserver-xorg-input-synaptics`
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the [Changelogs](#Changelogs) section below.*
 
-### Application Stack
+## Application Stack
 
 -   GNOME 45
 -   GTK 2.24.33 / 3.24.38 / 4.12.1
 -   MATE 1.26
 -   Xfce 4.18
 
-### Subsystems
+## Subsystems
 
 -   BlueZ 5.68
 -   CUPS 2.4.6
@@ -136,14 +134,14 @@ see the [Changelogs](#Changelogs) section below.*
 -   PulseAudio 16.1
 -   xdg-desktop-portal 1.17.2
 
-### Themes
+## Themes
 
 -   elementary-xfce 0.18
 -   Greybird 3.23.3
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 4.16.4
 -   Exo 4.18.0
@@ -162,13 +160,13 @@ see the [Changelogs](#Changelogs) section below.*
 -   Xfce Task Manager 1.5.5
 -   Xfce Whisker Menu Plugin 2.8.0
 
-#### MATE
+### MATE
 
 -   Atril 1.26.0
 -   Engrampa 1.26.0
 -   MATE Calculator 1.26.0
 
-#### GNOME
+### GNOME
 
 -   GNOME Disk Usage Analyzer 45 alpha
 -   GNOME Disk Utility 45.0
@@ -178,7 +176,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   Rhythmbox 3.4.7
 -   Simple Scan 44.0
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.3.5
 -   Firefox 117.0.1 (snap)
@@ -189,9 +187,9 @@ see the [Changelogs](#Changelogs) section below.*
 -   SGT Launcher 0.2.8
 -   Thunderbird 115.2.0
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/apturl/+changelog))
@@ -252,7 +250,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/exo/+changelog))
@@ -285,7 +283,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/catfish/+changelog))
@@ -310,7 +308,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-clipman-plugin
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/xfce4-clipman-plugin/+changelog))
@@ -345,7 +343,7 @@ see the [Changelogs](#Changelogs) section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/mantic/+source/thunar-archive-plugin/+changelog))

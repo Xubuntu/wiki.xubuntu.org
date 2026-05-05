@@ -1,5 +1,3 @@
-# Previous Xubuntu leaders
-
 The following individuals have been instrumental in their former roles
 in helping to shape and direct Xubuntu. Some continue to be key members
 of our community while others have moved on to pursue other challenges.

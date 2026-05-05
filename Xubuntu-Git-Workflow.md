@@ -1,5 +1,3 @@
-# Xubuntu Git Workflow
-
 The Xubuntu team uses Git for all version-controlled projects. While
 Launchpad\'s Git support is still relatively young, it is robust.
 Furthermore, Git is one of the world\'s most common version control
@@ -13,7 +11,7 @@ guide for getting started and some typical use cases.\
 related news. GitHub is a different service than Launchpad with the only
 similarity being the usage of the Git VCS.***
 
-## Why Git?
+# Why Git?
 
 Xubuntu and its various projects have used Bazaar since the beginning.
 Bazaar has served us well in the past, but there are several compelling
@@ -37,9 +35,9 @@ time for us to move.
     [Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/), two of the most popular IDEs
     available for Linux, have native support for Git.
 
-## Setting Up Git
+# Setting Up Git
 
-### Launchpad
+## Launchpad
 
 Git identifies repositories using URLs. Unlike Bazaar, there is no
 built-in abbreviation for repositories hosted on Launchpad, but it is
@@ -52,38 +50,38 @@ these lines, where USER is your Launchpad username:
 This allows you to type `git clone lp:REPOSITORY` and keeps the bzr and
 git workflows consistent.
 
-## Managing Launchpad Projects
+# Managing Launchpad Projects
 
 At the time of writing (May 2018), Launchpad does not have full support
 for git for its project management features. The following features are
 not fully implemented. There are ways to work around some of these
 shortcomings, as described below.
 
-### Linking Series to Git Branches
+## Linking Series to Git Branches
 
 This is currently not possible. Series only help to identify which code
 branches are associated with each version lines. Instead, consider
 pushing each version line as a separate branch in your project.
 
-### Translation Imports & Exports
+## Translation Imports & Exports
 
 Launchpad does not currently support automatic synchronization to/from
 Git branches. Instead, you can create an git-to-bzr code import, and
 import translations from this Bazaar branch. You can periodically
 download the translations for a project and sync them manually.
 
-## Examples
+# Examples
 
 We\'ll use Xubuntu Documentation
 ([lp:xubuntu-docs](https://code.launchpad.net/xubuntu-docs)) for our
 examples.
 
-### Cloning a Repository
+## Cloning a Repository
 
     git clone lp:xubuntu-docs # Requires the configuration outlined above in "Setting up Git"
     cd xubuntu-docs
 
-### Making Changes
+## Making Changes
 
     # Make a change to Makefile
     git status # Shows changed files
@@ -94,7 +92,7 @@ examples.
     git commit -m "Some makefile changes"
     git push # Pushes the commit to the repository
 
-### Pushing to a Branch
+## Pushing to a Branch
 
 Say you have some changes you want want to have merged. Instead of
 pushing directly to the main repository, you can instead push your own
@@ -114,7 +112,7 @@ use the following names:
     git remote add myremote lp:~myusername/xubuntu-docs/myfeaturebranch # Adds the remote repository location
     git push --set-upstream myremote myfeaturebranch
 
-### Merging a Branch
+## Merging a Branch
 
     # clone your branch
     git clone lp:lightdm-gtk-greeter
@@ -128,9 +126,9 @@ use the following names:
     # push the merge
     git push
 
-## Git Repositories
+# Git Repositories
 
-### Xubuntu Team Projects
+## Xubuntu Team Projects
 
 -   [Xubuntu Artwork](https://code.launchpad.net/xubuntu-artwork)
 -   [Xubuntu Community Artwork](https://code.launchpad.net/xubuntu-community-artwork)
@@ -138,7 +136,7 @@ use the following names:
 -   [Xubuntu Documentation](https://code.launchpad.net/xubuntu-docs)
 -   [Xubuntu Seeds](https://code.launchpad.net/~xubuntu-dev/ubuntu-seeds/+git/xubuntu)
 
-### Xubuntu Applications
+## Xubuntu Applications
 
 -   [Catfish File Search](https://code.launchpad.net/catfish-search)
 -   [LightDM GTK+
@@ -150,14 +148,14 @@ use the following names:
 -   [SGT Puzzles Collection](https://code.launchpad.net/sgt-launcher)
 -   [Xfce Panel Switch](https://code.launchpad.net/xfpanel-switch)
 
-### Packages Maintained By Xubuntu
+## Packages Maintained By Xubuntu
 
 -   [libmpris2client](https://code.launchpad.net/~xubuntu-dev/+git/libmpris2client)
 -   [xfce4-hamster-plugin](https://code.launchpad.net/~xubuntu-dev/+git/xfce4-hamster-plugin)
 -   [xfce4-soundmenu-plugin](https://code.launchpad.net/~xubuntu-dev/+git/xfce4-soundmenu-plugin)
 -   [xfdashboard](https://code.launchpad.net/~xubuntu-dev/+git/xfdashboard)
 
-### Related Links
+## Related Links
 
 -   [Debian Salsa: Python App Packaging Team
     (PAPT)](https://salsa.debian.org/python-team/applications)

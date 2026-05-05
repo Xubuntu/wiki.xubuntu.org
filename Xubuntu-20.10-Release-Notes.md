@@ -1,5 +1,3 @@
-# Xubuntu 20.10 Release Notes
-
 **Welcome to the Xubuntu 20.10 \"Groovy Gorilla\" release notes!**
 
 Xubuntu 20.10 was released on Thursday, October 22, 2020 and will be
@@ -14,14 +12,14 @@ information and the latest updates for Xubuntu 20.10, check out the
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-## Known Issues
+# Known Issues
 
-### Installer Issues
+## Installer Issues
 
 -   grub-installer chooses which drive to install to with no user input
     ([964331](https://bugs.launchpad.net/ubuntu/+source/grub-installer/+bug/964331))
 
-### Graphical Issues
+## Graphical Issues
 
 -   AMD Graphics: Block staircase display with side-by-side monitors of
     different pixel widths
@@ -29,7 +27,7 @@ information and the latest updates for Xubuntu 20.10, check out the
     [Fixed upstream](https://gitlab.freedesktop.org/daenzer/xf86-video-amdgpu/-/commit/0732f81a2c67354ddfa7a495bee6b0997c6ef244),
     SRU expected for 20.04.1)
 
-### General Issues
+## General Issues
 
 -   GNOME Font Viewer: Crashes in the live environment
     ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
@@ -42,31 +40,31 @@ information and the latest updates for Xubuntu 20.10, check out the
     resulting in appearance and configuration issues
     ([1870641](https://bugs.launchpad.net/ubuntu/+source/xfce4-settings/+bug/1870641))
 
-## Ubuntu Common Release Notes
+# Ubuntu Common Release Notes
 
 The main Ubuntu [Release Notes](https://wiki.ubuntu.com/GroovyGorilla/ReleaseNotes) covers both
 many of the other packages we carry and more issues common to every
 Ubuntu flavor.
 
-## Major Updates
+# Major Updates
 
 This was a less active development cycle for our team, though we did
 make some significant improvements for our contributors.
 
-### Code Contributions
+## Code Contributions
 
 We\'ve moved all of our code hosting to GitHub to make it easier for new
 and existing contributors to join into the Xubuntu development process.
 Artwork, documentation, marketing, websites, and everything else can now
 be found on the [Xubuntu GitHub](https://github.com/xubuntu)!
 
-### Translations
+## Translations
 
 The second piece of the code migration was managing our translations.
 Easier than ever, our translations can now be found in a single place,
 on [Transifex](https://www.transifex.com/xubuntu/public/)!
 
-### Documentation
+## Documentation
 
 With a small team of new contributors, we worked on revamping our
 documentation this cycle. Every chapter received a number of updates and
@@ -75,9 +73,9 @@ We [started migrating](https://github.com/Xubuntu/xubuntu-docs/tree/docs-refresh
 to Docbook, but didn\'t finish due to technical complications and time
 constraints. If you\'re a Docbook expert, we\'d love the help!
 
-## Removals
+# Removals
 
-### LibreOffice Tango Theme
+## LibreOffice Tango Theme
 
 Users of the LibreOffice Tango theme will find that it is no longer
 included in Xubuntu. However, it is still available to install from the
@@ -85,26 +83,26 @@ repositories. Install in Xubuntu:
 
       sudo apt install libreoffice-style-tango
 
-## Updates
+# Updates
 
 *Significant package and version updates. For full package changelogs,
 see the Changelogs section below.*
 
-### Application Stack
+## Application Stack
 
 -   GTK / GNOME 3.38
 -   MATE 1.24
 -   Xfce 4.14
 
-### Themes
+## Themes
 
 -   Greybird 3.22.12
 -   Numix: 2.6.7
 -   elementary-xfce 0.15.1
 
-### Applications
+## Applications
 
-#### Xfce
+### Xfce
 
 -   Catfish 1.4.13
 -   Gigolo 0.5.1
@@ -126,20 +124,20 @@ see the Changelogs section below.*
 -   Xfce Whisker Menu Plugin 2.4.6
 -   Xfce Window Manager 4.14.5
 
-#### MATE
+### MATE
 
 -   Atril 1.24.0
 -   Engrampa 1.24.1
 -   MATE Calculator 1.24.1
 
-#### GNOME
+### GNOME
 
 -   GNOME Mines 3.36.1
 -   GNOME Software 3.38.0
 -   GNOME Sudoku 3.38.0
 -   Simple Scan 3.36.4
 
-#### Everything Else
+### Everything Else
 
 -   Blueman 2.1.3
 -   Firefox 81.0.2
@@ -149,9 +147,9 @@ see the Changelogs section below.*
 -   SGT Puzzles 20191231.79a5378-3 (and Launcher 0.2.5)
 -   Thunderbird 78.3.2
 
-## Changelogs
+# Changelogs
 
-### Xubuntu/Other Packages
+## Xubuntu/Other Packages
 
 -   apturl
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/apturl/+changelog))
@@ -198,7 +196,7 @@ see the Changelogs section below.*
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/xubuntu-artwork/+changelog))
 
-### Xfce Core
+## Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/exo/+changelog))
@@ -231,7 +229,7 @@ see the Changelogs section below.*
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/xfwm4/+changelog))
 
-### Xfce Applications
+## Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/catfish/+changelog))
@@ -254,7 +252,7 @@ see the Changelogs section below.*
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/xfce4-terminal/+changelog))
 
-### Xfce Panel Plugins
+## Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/xfce4-cpugraph-plugin/+changelog))
@@ -287,7 +285,7 @@ see the Changelogs section below.*
 -   xfce4-xkb-plugin
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/xfce4-xkb-plugin/+changelog))
 
-### Thunar Plugins
+## Thunar Plugins
 
 -   thunar-archive-plugin
     ([changelog](https://launchpad.net/ubuntu/groovy/+source/thunar-archive-plugin/+changelog))

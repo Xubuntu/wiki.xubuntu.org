@@ -1,6 +1,4 @@
-# Notes about licenses
-
-## Canonical IP
+# Canonical IP
 
 Any Xubuntu-branded product is OK according to Canonial Intellectual
 property right policy as long as we make no money from the products. In
@@ -16,7 +14,7 @@ Furthermore, we have received a confirmation from Michelle Canonical on
 to call our products \"official\", but instead refer them as \"Xubuntu
 branded products\".
 
-## Licensing of design proposals
+# Licensing of design proposals
 
 Licensing for all design proposals must be free and modifiable. Whenever
 appropriate, please send the sources for the design proposals for

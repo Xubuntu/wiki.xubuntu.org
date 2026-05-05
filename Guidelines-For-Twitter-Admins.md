@@ -1,5 +1,3 @@
-# Guidelines for Twitter Admins
-
 Twitter is one of our most public social media outlets, and the only one
 where we promote the contents of others (via retweets), so care should
 be taken when using this facility to ensure fairness and effective
@@ -11,7 +9,7 @@ content worth sharing.
 As an administrator, you\'re expected to follow the following
 guidelines.
 
-## What we tweet
+# What we tweet
 
 -   Release notifications
 -   Calls for participation (testing, help with documentation, etc)
@@ -19,7 +17,7 @@ guidelines.
 -   Blog posts we publish
 -   Contests we run (ie - wallpaper contest for each LTS)
 
-## Only tweet (and retweet) about Xubuntu
+# Only tweet (and retweet) about Xubuntu
 
 -   There are a lot of generalist Ubuntu, Linux, and open source news
     sources out there, we are just Xubuntu.
@@ -28,7 +26,7 @@ guidelines.
 -   An occasional tweet from \@Ubuntu is fine, as long as it somehow
     impacts Xubuntu.
 
-## Replies
+# Replies
 
 -   The Xubuntu account does not typically answer questions from users
     directly, unless they are factual in nature (when is the next
@@ -36,7 +34,7 @@ guidelines.
 -   Most discussion and engagement should happen from your personal
     Twitter account.
 
-## Retweets
+# Retweets
 
 -   Before you retweet content from a user, do your best to make sure
     they are worthy of retweeting. If their content is often
@@ -49,7 +47,7 @@ guidelines.
     But be selective about the content we share from them, share the big
     announcements and important things, not every mention.
 
-## Follows and Lists
+# Follows and Lists
 
 -   To avoid favoritism and generally not wanting to upset people if
     they are not followed by the account but believe they should be, we
