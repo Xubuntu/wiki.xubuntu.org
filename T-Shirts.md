@@ -1,9 +1,11 @@
-# T-shirts
+# T Shirts
+
+## T-shirts
 
 Officially endorsed t-shirts are now offered by
 [UnixStickers.com](http://www.unixstickers.com/collections/xubuntu)!
 
-## Test runs
+### Test runs
 
 -   Ordered design on black from <http://www.zazzle.com/> 7/2012, was
     printed slightly off, see
@@ -13,7 +15,7 @@ Officially endorsed t-shirts are now offered by
 -   Ordered free sample non-Xubuntu shirt from
     <http://www.vistaprint.com/>, not greatest quality t-shirt.
 
-## Design Proposals
+### Design Proposals
 
 Things to keep in mind when writing design proposals:
 

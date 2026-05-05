@@ -1,1 +1,1 @@
-##### Xubuntu 16.10 (Yakkety Yak)
+# Xubuntu 16.10 Yakkety Yak

@@ -1,6 +1,6 @@
-##### Building
+# Building
 
-# Building the Xubuntu documentation package locally
+## Building the Xubuntu documentation package locally
 
 The Xubuntu documentation, shipped with every release of Xubuntu, is in
 fact a package that can be built locally, on your computer.
@@ -34,7 +34,7 @@ Be aware that it will take some time to run the **make** command, as it
 builds both HTML and PDF versions of the documentation in various
 languages.
 
-# Testing the Xubuntu installer slideshow
+### Testing the Xubuntu installer slideshow
 
 To be able to test the Xubuntu Ubiquity slideshow, you\'ll need to
 install some build dependencies. To do this, run the following commands

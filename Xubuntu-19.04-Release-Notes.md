@@ -1,6 +1,6 @@
 # Xubuntu 19.04 Release Notes
 
-### Dropping 32-bit Images
+## Dropping 32-bit Images
 
 [In December](https://lists.ubuntu.com/archives/xubuntu-devel/2018-December/011755.html),
 the team voted to discontinue 32-bit images for Xubuntu 19.04 and
@@ -8,7 +8,7 @@ forward. If you want to continue using Xubuntu with 32-bit
 architectures, Xubuntu 18.04 is supported for 3 years, and the Xubuntu
 package set can be installed from the [Minimal CD](https://help.ubuntu.com/community/Installation/MinimalCD).
 
-### Installer Issues
+## Installer Issues
 
 **It must be noted that it is close to impossible for our small team of
 testers to be in a position to work through all the varying parameters
@@ -22,7 +22,7 @@ release note(s) listed below**
 
 *No current documented installer issues.*
 
-### General Issues
+## General Issues
 
 -   Xfce Pulseaudio Plugin: Multiple notifications displayed if multiple
     Pulseaudio plugins added to panel
@@ -30,7 +30,7 @@ release note(s) listed below**
 -   Xfce Task Manager: Tooltips become unresponsive
     ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578))
 
-#### Ubuntu Generic Release Note
+### Ubuntu Generic Release Note
 
 The main Ubuntu release
 [note](https://wiki.ubuntu.com/DiscoDingo/ReleaseNotes) covers both many

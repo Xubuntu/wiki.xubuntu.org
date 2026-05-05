@@ -40,7 +40,7 @@ your item under \"Discussion\".
 
 ------------------------------------------------------------------------
 
-#### Meetings archive
+### Meetings archive
 
 \# If you have chaired the meeting, minutes should be created under \#
 <https://wiki.ubuntu.com/Xubuntu/Meetings/Archive/Minutes/>

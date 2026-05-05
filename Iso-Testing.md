@@ -1,6 +1,6 @@
-## ISO Testing
+# ISO Testing
 
-### ISO Test Builds
+## ISO Test Builds
 
 Test builds available for testing are listed on the ISO
 [tracker](http://iso.qa.ubuntu.com/), you can decide which of the
@@ -30,7 +30,7 @@ useful if your speed is slow, spotty or you have download limits.
 
 ![](images/qa/zsync.png)
 
-### Test Instructions
+## Test Instructions
 
 Once you have your iso, you can burn this to media or use a virtual
 machine to boot the iso. Once you are in a position to boot the iso, you
@@ -45,7 +45,7 @@ the top, followed by the testcase to follow
 
 Follow the testcase text to the end, noting issues that you have seen.
 
-### Submitting Results
+## Submitting Results
 
 Once you have completed the testcase you are in a position to report
 your result on the tracker, you will see this section of the tracker
@@ -68,7 +68,7 @@ reporters have noted during the *same test and milestone* - regardless
 of when, a bug in a daily test could have been reported at the cycle
 start.
 
-### Notes
+## Notes
 
 ^1^ You might find that your result gets edited, while there could be
 many reasons for this, it\'s possible that Xubuntu QA have un-failed

@@ -1,6 +1,6 @@
-##### Contact
+# Contact
 
-# Teams and Leaders
+## Teams and Leaders
 
 Below is table of individuals who have volunteered to take specific
 responsibility for certain components and teams of the Xubuntu project.
@@ -20,7 +20,7 @@ following the team links.
 | QA lead | [David Pearson](http://launchpad.net/~akxwi-dave) | akxwi-dave | [xubuntu-qa](http://launchpad.net/~xubuntu-qa)<br>[xubuntu-testers](http://launchpad.net/~xubuntu-testers)<br>[xubuntu-bugs](http://launchpad.net/~xubuntu-bugs) |
 | Documentation lead | [David Pires](https://wiki.ubuntu.com/slickymaster) | slickymaster | [xubuntu-doc](http://launchpad.net/~xubuntu-doc) |
 
-## Xubuntu Council
+### Xubuntu Council
 
 The Xubuntu Council consists of 3 members and oversees the project\'s
 main direction. It replaces the previous Project Leader role.
@@ -31,11 +31,11 @@ The current council members are:
 -   [Unit 193](https://wiki.ubuntu.com/Unit193) (Unit193)
 -   [???](https://wiki.ubuntu.com/???) (???)
 
-## Previous leaders
+### Previous leaders
 
 The previous leaders for Xubuntu are listed on the [[Previous leaders|Previous-Xubuntu-Leaders]] page.
 
-## Teams supervised by others
+### Teams supervised by others
 
 
 | Team | Launchpad team(s) | Supervisor |

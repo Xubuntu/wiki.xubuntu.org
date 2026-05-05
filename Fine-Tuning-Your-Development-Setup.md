@@ -1,4 +1,4 @@
-## Fine tuning your development setup
+# Fine tuning your development setup
 
 ## Using IRC for contact
 
@@ -174,7 +174,7 @@ see them on your Grub menu
 
 ![](images/qa/isogrub.png)
 
-#### QA Team Contributor Information
+### QA Team Contributor Information
 
 Further, more detailed, information can be found at the Xubuntu Team\'s
 [Contributor Documentation](https://docs.xubuntu.org/contributors/),

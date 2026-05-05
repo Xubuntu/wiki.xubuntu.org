@@ -1,1 +1,1 @@
-##### Xubuntu 18.04 (Bionic Beaver)
+# Xubuntu 18.04 Bionic Beaver

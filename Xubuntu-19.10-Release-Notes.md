@@ -1,11 +1,11 @@
 # Xubuntu 19.10 Release Notes
 
-### Installer Issues
+## Installer Issues
 
 -   System doesn\'t boot after installation - Legacy mode / 2 disks
     ([1847898](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1847898))
 
-### General Issues
+## General Issues
 
 -   GNOME Font Viewer: Crashes in the live environment
     ([1845362](https://bugs.launchpad.net/ubuntu/+source/gnome-font-viewer/+bug/1845362))
@@ -18,7 +18,7 @@
     ([1740578](https://bugs.launchpad.net/ubuntu/+source/xfce4-taskmanager/+bug/1740578),
     fix committed upstream)
 
-#### Ubuntu Generic Release Note
+### Ubuntu Generic Release Note
 
 The main Ubuntu release
 [note](https://wiki.ubuntu.com/EoanErmine/ReleaseNotes) covers both many

@@ -1,6 +1,6 @@
-##### Xubuntu 17.04 Release Notes
+# Xubuntu 17.04 Release Notes
 
-# Xubuntu 17.04 (Zesty Zapus)
+## Xubuntu 17.04 (Zesty Zapus)
 
 Xubuntu 17.04 will be supported for 9 months until January 2018. If you
 need Long Term Support, it is recommended you use [Xubuntu 16.04
@@ -36,9 +36,9 @@ While thanks are due to all of those who contributed to this release,
 the Xubuntu Testing Team would particularly like to thank all of those
 who have reported on the Iso Tracker during this cycle.
 
-## Notable Issues
+### Notable Issues
 
-### Installer Issues
+#### Installer Issues
 
 -    System encryption password set before setting keyboard locale
     ([1047384](https://launchpad.net/bugs/1047384))
@@ -47,7 +47,7 @@ who have reported on the Iso Tracker during this cycle.
         to set your keymap *before* booting to Try or Install Xubuntu
         from that menu.
 
-### General Issues
+#### General Issues
 
 -   Parole Media Player
     -   Parole progress bar lag
@@ -77,7 +77,7 @@ who have reported on the Iso Tracker during this cycle.
 -   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
     dialog ([1644971](https://launchpad.net/bugs/1644917))
 
-## Changes and Bug Fixes
+### Changes and Bug Fixes
 
 -   thunar
     -   Fixes to various issues related to copying and renaming
@@ -118,9 +118,9 @@ who have reported on the Iso Tracker during this cycle.
 -   sgt-launcher
     -   New launcher for Simon Tatham\'s Portable Puzzle Collection
 
-### Changelogs
+#### Changelogs
 
-#### Xubuntu/Other Packages
+##### Xubuntu/Other Packages
 
 -   blueman
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/blueman/+changelog))
@@ -163,7 +163,7 @@ who have reported on the Iso Tracker during this cycle.
 -   xubuntu-wallpapers
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xubuntu-wallpapers/+changelog))
 
-#### Xfce Core
+##### Xfce Core
 
 -   exo
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/exo/+changelog))
@@ -186,7 +186,7 @@ who have reported on the Iso Tracker during this cycle.
 -   xfwm4
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfwm4/+changelog))
 
-#### Xfce Applications
+##### Xfce Applications
 
 -   catfish
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/catfish/+changelog))
@@ -207,7 +207,7 @@ who have reported on the Iso Tracker during this cycle.
 -   xfce4-terminal
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-terminal/+changelog))
 
-#### Xfce Panel Plugins
+##### Xfce Panel Plugins
 
 -   xfce4-cpugraph-plugin
     ([changelog](https://launchpad.net/ubuntu/zesty/+source/xfce4-cpugraph-plugin/+changelog))
