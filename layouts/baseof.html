@@ -92,6 +92,7 @@
 
 {{ define "main" }}
   <article class="markdown book-article">
+    {{- if and .Title (not .IsHome) }}<h1>{{ .Title }}</h1>{{ end -}}
     {{- .Content -}}
   </article>
 {{ end }}
