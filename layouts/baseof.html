@@ -94,6 +94,9 @@
   <article class="markdown book-article">
     {{- if and .Title (not .IsHome) }}<h1>{{ .Title }}</h1>{{ end -}}
     {{- .Content -}}
+    {{- if .GitInfo }}
+    <p class="book-last-modified">Last modified: <a href="{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .Lastmod.Format "2006-01-02" }}</a> by {{ .GitInfo.AuthorName }}</p>
+    {{- end }}
   </article>
 {{ end }}
 

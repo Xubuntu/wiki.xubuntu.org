@@ -124,6 +124,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
 }
 
+// Last-modified line at the bottom of articles
+.book-last-modified {
+  margin-top: 2rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--xu-hairline);
+  font-size: 0.8rem;
+  color: var(--gray-500);
+}
+
 // Content headings
 .book-page {
   h1, h2 {
