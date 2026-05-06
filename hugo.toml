@@ -1,7 +1,7 @@
 baseURL = 'https://wiki.xubuntu.org/'
 languageCode = 'en-us'
 title = 'Xubuntu Team Wiki'
-theme = 'hugo-book'
+theme = ['hugo-redirect', 'hugo-book']
 enableGitInfo = true
 
 [params]
