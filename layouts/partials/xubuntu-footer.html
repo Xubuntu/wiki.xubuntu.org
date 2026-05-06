@@ -1,0 +1,36 @@
+{{ $logo := resources.Get "/images/icon_white_xubuntu.svg" }}
+<footer class="xu-footer">
+  <div class="xu-footer-inner">
+    <div>
+      <a class="xu-footer-logo" href="https://xubuntu.org/">
+        <img src="{{ $logo.Permalink }}" alt="Xubuntu" />
+      </a>
+      <div class="xu-footer-nav">
+        <a href="https://xubuntu.org/">xubuntu.org</a>
+        <a href="https://xubuntu.org/download/">Download</a>
+        <a href="https://xubuntu.org/help/">Support</a>
+        <a href="https://xubuntu.org/contribute/">Contribute</a>
+      </div>
+    </div>
+    <div>
+      <p class="sub">Communicate</p>
+      <ul>
+        <li><a href="https://web.libera.chat/?nick=xu-user?w#xubuntu">IRC</a></li>
+        <li><a href="https://matrix.to/#/#xubuntu:ubuntu.com">Matrix</a></li>
+        <li><a href="https://floss.social/@xubuntu">Mastodon</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="sub">For Developers</p>
+      <ul>
+        <li><a href="https://github.com/Xubuntu">GitHub</a></li>
+        <li><a href="https://web.libera.chat/?nick=xu-contribute?w#xubuntu-devel">IRC</a></li>
+        <li><a href="https://matrix.to/#/#xubuntu-devel:ubuntu.com">Matrix</a></li>
+      </ul>
+      <p class="sub">Wiki Source</p>
+      <ul>
+        <li><a href="{{ .Site.Params.BookRepo }}">{{ .Site.Params.BookRepo | replaceRE "https://github.com/" "" }}</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>

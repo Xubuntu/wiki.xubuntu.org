@@ -1,0 +1,337 @@
+// Xubuntu fonts
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/Montserrat_400.woff2') format('woff2'),
+       url('/fonts/Montserrat_400.woff') format('woff');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/fonts/Montserrat_500.woff2') format('woff2'),
+       url('/fonts/Montserrat_500.woff') format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/Noto_Sans_400.woff2') format('woff2'),
+       url('/fonts/Noto_Sans_400.woff') format('woff');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/fonts/Noto_Sans_400i.woff2') format('woff2'),
+       url('/fonts/Noto_Sans_400i.woff') format('woff');
+}
+
+// Override hugo-book theme mixins with xubuntu palette
+@mixin theme-light {
+  --body-background: #fff;
+  --body-background-tint: none;
+  --body-font-color: #111;
+
+  --color-link: #2c82dd;
+  --color-visited-link: #2c82dd;
+
+  --icon-filter: none;
+
+  --gray-100: #f0f2f5;
+  --gray-200: #e0e4e9;
+  --gray-500: #849cbd;
+
+  @include accent("default", #0044aa);
+  @include accent("note", #2c82dd);
+  @include accent("tip", #3bad3b);
+  @include accent("important", #8144dd);
+  @include accent("warning", #f59e42);
+  @include accent("caution", #d84747);
+
+  @include accent("info", #2c82dd);
+  @include accent("success", #3bad3b);
+  @include accent("danger", #d84747);
+}
+
+@mixin theme-dark {
+  --body-background: #111c2b;
+  --body-background-tint: none;
+  --body-font-color: #eee;
+
+  --color-link: #4790fa;
+  --color-visited-link: #4790fa;
+
+  --icon-filter: brightness(0) invert(1);
+
+  --gray-100: #222b38;
+  --gray-200: #2a3544;
+  --gray-500: #849cbd;
+
+  @include accent("default", #4790fa);
+  @include accent("note", #4790fa);
+  @include accent("tip", #a3be8c);
+  @include accent("important", #b48ead);
+  @include accent("warning", #d08770);
+  @include accent("caution", #bf616a);
+
+  @include accent("info", #4790fa);
+  @include accent("success", #a3be8c);
+  @include accent("danger", #bf616a);
+}
+
+@mixin theme-auto {
+  @include theme-light;
+
+  @media (prefers-color-scheme: dark) {
+    @include theme-dark;
+  }
+}
+
+// Xubuntu design tokens
+:root {
+  --xu-blue: #0044aa;
+  --xu-blue-alt: #4790fa;
+  --xu-gradient-start: #2895d9;
+  --xu-gradient-end: #0d70b3;
+  --xu-angle-tint: #0a5283;
+  --xu-heading: var(--xu-blue);
+  --xu-hairline: rgba(0, 0, 0, 0.15);
+  --xu-footer-bg: #849cbd;
+
+  --font-body: 'Noto Sans', sans-serif;
+  --font-heading: 'Montserrat', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --xu-heading: var(--xu-blue-alt);
+    --xu-hairline: rgba(255, 255, 255, 0.15);
+    --xu-footer-bg: #162333;
+  }
+}
+
+// Apply xubuntu fonts
+body {
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+// Content headings
+.book-page {
+  h1, h2 {
+    color: var(--xu-heading);
+    font-weight: 400;
+  }
+  h3, h4, h5, h6 {
+    font-weight: 500;
+  }
+}
+
+// Sidebar
+.book-menu {
+  border-inline-end: 1px solid var(--xu-hairline);
+
+  .book-brand a {
+    color: var(--xu-heading);
+    font-family: var(--font-heading);
+    font-weight: 500;
+  }
+
+  nav > ul > li > a,
+  nav > ul > li > label {
+    font-weight: 600;
+    font-family: var(--font-heading);
+    font-size: 0.8rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--xu-heading);
+  }
+}
+
+// TOC sidebar
+.book-toc nav > ul > li:first-child {
+  margin-top: 0;
+}
+
+// ─── Site Header ────────────────────────────────────────────────────────────
+
+.xu-header {
+  background: var(--xu-gradient-start) radial-gradient(circle at 30%, var(--xu-gradient-start), var(--xu-gradient-end));
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60%;
+    height: 200%;
+    opacity: 0.18;
+    background-color: var(--xu-angle-tint);
+    mask-image: linear-gradient(to top right, transparent 0%, transparent 50%, #fff calc(50% + 1px), #fff 100%);
+    mask-size: 100% 100%;
+    mask-position: 100% 100%;
+    mask-repeat: no-repeat;
+    pointer-events: none;
+  }
+}
+
+.xu-header-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.xu-logo img {
+  height: 30px;
+  width: auto;
+  display: block;
+}
+
+.xu-nav {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+
+  a {
+    color: #fff;
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover { opacity: 0.8; }
+  }
+}
+
+.xu-menu-btn {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  line-height: 0;
+
+  img {
+    height: 24px;
+    width: 24px;
+    filter: brightness(0) invert(1);
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .xu-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 500;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+    background-color: var(--body-background);
+    border-bottom: 1px solid var(--xu-hairline);
+    padding: 0.5rem 0;
+
+    &.open {
+      display: flex;
+    }
+
+    a {
+      color: var(--color-link);
+      width: 100%;
+      padding: 0.6rem 1.5rem;
+
+      &:hover { opacity: 1; background-color: var(--gray-100); }
+    }
+  }
+
+  .xu-menu-btn {
+    display: block;
+  }
+}
+
+// ─── Site Footer ────────────────────────────────────────────────────────────
+
+.xu-footer {
+  background-color: var(--xu-footer-bg);
+  color: #fff;
+  padding: 2rem 0;
+}
+
+.xu-footer-inner {
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+
+  @media screen and (min-width: 480px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media screen and (min-width: 1024px) {
+    grid-template-columns: 3fr repeat(2, 2fr);
+  }
+}
+
+.xu-footer-logo {
+  display: block;
+  margin-bottom: 0.75rem;
+  line-height: 0;
+
+  img { height: 32px; width: auto; }
+}
+
+.xu-footer {
+  a {
+    display: block;
+    color: #fff;
+    font-size: 90%;
+    text-decoration: none;
+    line-height: 1.4;
+    margin-bottom: 0.2em;
+
+    &:hover { opacity: 0.8; }
+  }
+
+  .xu-footer-nav a {
+    font-size: 100%;
+    font-weight: 600;
+  }
+
+  p.sub {
+    font-family: var(--font-heading);
+    font-size: 85%;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0.8rem 0 0.4rem;
+
+    &:first-of-type { margin-top: 0; }
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0.5rem;
+
+    li { line-height: 1.3; margin-bottom: 0.15em; }
+  }
+}

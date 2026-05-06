@@ -11,6 +11,28 @@ theme = 'hugo-book'
   BookRepo = 'https://github.com/Xubuntu/wiki.xubuntu.org'
   BookEditPath = 'edit/master'
   BookMenuBundle = false
+  BookTheme = 'auto'
+  BookFavicon = 'favicon.ico'
+
+[[menus.main]]
+  name = 'Wiki'
+  url = '/'
+  weight = 10
+
+[[menus.main]]
+  name = 'xubuntu.org'
+  url = 'https://xubuntu.org/'
+  weight = 20
+
+[[menus.main]]
+  name = 'Download'
+  url = 'https://xubuntu.org/download/'
+  weight = 30
+
+[[menus.main]]
+  name = 'Support'
+  url = 'https://xubuntu.org/help/'
+  weight = 40
 
 [markup]
   [markup.goldmark]
