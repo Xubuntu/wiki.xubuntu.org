@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 24.04 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 24.04 \"Noble Numbat\" release notes!**
 
 Xubuntu 24.04 was released on Thursday, April 25, 2024, and will be
@@ -21,9 +26,6 @@ the latest updates for Xubuntu 24.04, check out the [release page](https://xubun
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
-```{=html}
-<!-- -->
-```
         * However, you should be able to press the Enter key to continue with the reboot.
     * OEM installation is not available.
         * It is under active development and will be ready in time for 24.04.1

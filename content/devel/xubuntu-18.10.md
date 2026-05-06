@@ -1,3 +1,8 @@
+---
+title: "Development Roadmap for 18.10"
+weight: 50
+---
+
 # Decided
 
 # Blueprint left over from Xubuntu 18.04

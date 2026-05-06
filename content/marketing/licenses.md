@@ -1,3 +1,8 @@
+---
+title: "Notes About Licenses"
+weight: 20
+---
+
 # Canonical IP
 
 Any Xubuntu-branded product is OK according to Canonial Intellectual

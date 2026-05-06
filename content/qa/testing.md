@@ -1,3 +1,8 @@
+---
+title: "Testing"
+weight: 80
+---
+
 # Step 2: Testing your Xubuntu installation.
 
 As was mentioned in the previous step, now that you\'ve

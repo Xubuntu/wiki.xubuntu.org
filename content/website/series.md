@@ -1,6 +1,11 @@
+---
+title: "Article Series"
+weight: 40
+---
+
 # Xubuntu at\...
 
-See [[\"Xubuntu at\...\" Interview Series|Xubuntu-At-...-Interview-Series]].
+See [\"Xubuntu at\...\" Interview Series](/marketing/projects/xubuntuat/).
 
 # My media manager
 

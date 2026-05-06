@@ -1,3 +1,8 @@
+---
+title: "Desktop of the Week"
+weight: 20
+---
+
 # Queue
 
 

@@ -1,3 +1,8 @@
+---
+title: "Contributor Survey 2012"
+weight: 20
+---
+
 To do some preparation before we will actually get our hands dirty,
 we\'re going to survey your specific areas of interest in documentation.
 We\'ve listed four different groups below, which all require different

@@ -1,3 +1,8 @@
+---
+title: "Ideas for Magazine Articles"
+weight: 30
+---
+
 We were recently approached by Sonny Gaviola who is seeking to publish a
 special edition of their magazine and writes: \"I have an idea to make a
 special part (with its own layout) of this issue, devoted to Xubuntu. It

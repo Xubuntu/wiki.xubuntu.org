@@ -1,3 +1,8 @@
+---
+title: "Keyboard Shortcuts in Impish Indri"
+weight: 20
+---
+
 [Back to Release Notes](https://wiki.xubuntu.org/releases/21.10/release-notes)
 
 # General

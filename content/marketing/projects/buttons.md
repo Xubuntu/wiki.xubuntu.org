@@ -1,3 +1,8 @@
+---
+title: "Xubuntu Buttons"
+weight: 10
+---
+
 -   Order was placed to Zazzle.com but the buttons always have a white
     background so it ends up with some white outline around the edge, as
     seen [here](http://www.flickr.com/photos/pleia2/7640334336/). They

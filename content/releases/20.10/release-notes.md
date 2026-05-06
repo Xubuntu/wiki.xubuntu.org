@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 20.10 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 20.10 \"Groovy Gorilla\" release notes!**
 
 Xubuntu 20.10 was released on Thursday, October 22, 2020 and will be

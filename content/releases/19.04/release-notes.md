@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 19.04 Release Notes"
+weight: 10
+---
+
 # Dropping 32-bit Images
 
 [In December](https://lists.ubuntu.com/archives/xubuntu-devel/2018-December/011755.html),

@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 21.10 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 21.10 \"Impish Indri\" release notes!**
 
 Xubuntu 21.10 was released on Thursday, October 14, 2021 and will be
@@ -24,9 +29,6 @@ information and the latest updates for Xubuntu 21.10, check out the
     ([1942987](https://bugs.launchpad.net/ubuntu/+source/plymouth/+bug/1942987),
     [1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
-```{=html}
-<!-- -->
-```
         * However, you should be able to press the Enter key to continue with the reboot.
 
 ## General Issues

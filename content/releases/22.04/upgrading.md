@@ -1,3 +1,8 @@
+---
+title: "Upgrading to Xubuntu 22.04"
+weight: 30
+---
+
 You can easily upgrade over the network with the following procedure.
 Upgrades from Xubuntu 20.04 or 21.10 are supported. For all other Ubuntu
 systems, please read

@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 20.04 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 20.04 \"Focal Fossa\" release notes!**
 
 Xubuntu 20.04 was released on Thursday, April 23, 2020 and will be
@@ -68,7 +73,7 @@ March 13, 2020. [6 winners were selected](https://xubuntu.org/news/xubuntu-20-04
 from a total 237 submissions. The selection was based on a team vote.
 Thank you to everyone for your submissions!
 
-![](images/releases/20.04/wallpaper-contest-winners.png)
+![](/images/releases/20.04/wallpaper-contest-winners.png)
 
 ## Greybird Dark Theme
 
@@ -80,7 +85,7 @@ Settings Manager and:
 -   Click \"All Settings\".
 -   Click \"Window Manager\". Select \"Greybird-dark\".
 
-![](images/releases/20.04/greybird-dark.png)
+![](/images/releases/20.04/greybird-dark.png)
 
   ---------------------------------------------------------------------------------------------
    *Greybird-dark makes your entire desktop darker while still maintaining a usable contrast.*
@@ -88,7 +93,7 @@ Settings Manager and:
 
 ## Desktop Integration
 
-![](images/releases/20.04/packages.png)
+![](/images/releases/20.04/packages.png)
 
   ----------------------------------------------------------
    *gedit installed as a Debian package, Snap, and Flatpak*

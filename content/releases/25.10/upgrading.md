@@ -1,3 +1,8 @@
+---
+title: "Upgrading to Xubuntu 25.10"
+weight: 20
+---
+
 You can easily upgrade over the network with the following procedure.
 Upgrades from Xubuntu 25.04 are supported. For all other Ubuntu systems,
 please read

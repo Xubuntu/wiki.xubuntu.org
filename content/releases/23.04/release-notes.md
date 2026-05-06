@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 23.04 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 23.04 \"Lunar Lobster\" release notes!**
 
 Xubuntu 23.04 was be released on Thursday, April 20, 2023, and will be
@@ -17,15 +22,12 @@ and the latest updates for Xubuntu 23.04, check out the [release page](https://x
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
-```{=html}
-<!-- -->
-```
         * However, you should be able to press the Enter key to continue with the reboot.
-    * Xubuntu installer on desktop is "untrusted" ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958|1987958]])
+    * Xubuntu installer on desktop is "untrusted" ([1987958](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958))
         * The launcher can be run from the menu or you can click "Launch anyway".
-    * OEM installation fails on Xubuntu Minimal ([[https://launchpad.net/bugs/2013251|2013251]])
-    * OEM installation uses the wrong slideshow ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047|1842047]])
-    * Installer crashes when quitting in the live session ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/2016009|2016009]])
+    * OEM installation fails on Xubuntu Minimal ([2013251](https://launchpad.net/bugs/2013251))
+    * OEM installation uses the wrong slideshow ([1842047](https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/1842047))
+    * Installer crashes when quitting in the live session ([2016009](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/2016009))
 
 ## General Issues
 

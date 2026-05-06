@@ -1,3 +1,8 @@
+---
+title: "Xubuntu Team Wiki"
+weight: 1
+---
+
 # Welcome to the Xubuntu team wiki!
 
 You have landed on the Xubuntu team wiki. This is the place where the

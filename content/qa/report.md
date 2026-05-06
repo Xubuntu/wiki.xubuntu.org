@@ -1,3 +1,8 @@
+---
+title: "Reporting"
+weight: 60
+---
+
 # Step 3: Reporting back!
 
 So, you [tested](https://wiki.xubuntu.org/qa/testing) the new version of

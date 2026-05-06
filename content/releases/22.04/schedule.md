@@ -1,3 +1,8 @@
+---
+title: "Release Schedule (22.04)"
+weight: 20
+---
+
 [Ubuntu Release Schedule](https://discourse.ubuntu.com/t/jammy-jellyfish-release-schedule/23906)
 
 The following schedule is tentative and subject to change.

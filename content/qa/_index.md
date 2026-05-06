@@ -1,7 +1,12 @@
-[[ISO Testing Runthrough|Iso-Testing]]
+---
+title: "Quality Assurance"
+weight: 30
+---
 
-[[Team Hardware:Testing Choices|Team-Hardware]]
+[ISO Testing Runthrough](/qa/isotesting/)
 
-[[New Testers IRC Session|New-Tester-Irc]]
+[Team Hardware:Testing Choices](/qa/teamhardware/)
 
-[[New Testers Start Page|Xubuntu-Guide-For-New-Testers]]
+[New Testers IRC Session](/qa/new_tester_irc/)
+
+[New Testers Start Page](/qa/new_tester_start/)

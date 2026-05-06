@@ -1,3 +1,8 @@
+---
+title: "Building"
+weight: 10
+---
+
 # Building the Xubuntu documentation package locally
 
 The Xubuntu documentation, shipped with every release of Xubuntu, is in

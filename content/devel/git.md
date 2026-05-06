@@ -1,3 +1,8 @@
+---
+title: "Git Workflow"
+weight: 10
+---
+
 The Xubuntu team uses Git for all version-controlled projects. While
 Launchpad\'s Git support is still relatively young, it is robust.
 Furthermore, Git is one of the world\'s most common version control
@@ -105,9 +110,6 @@ use the following names:
 -   \"myusername\" as our Launchpad username.
 -   Replace these as necessary.
 
-```{=html}
-<!-- -->
-```
     git checkout -b myfeaturebranch # Creates a new branch and switches to it
     git remote add myremote lp:~myusername/xubuntu-docs/myfeaturebranch # Adds the remote repository location
     git push --set-upstream myremote myfeaturebranch

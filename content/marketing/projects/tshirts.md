@@ -1,4 +1,7 @@
-# T-shirts
+---
+title: "T-Shirts"
+weight: 40
+---
 
 Officially endorsed t-shirts are now offered by
 [UnixStickers.com](http://www.unixstickers.com/collections/xubuntu)!
@@ -26,9 +29,6 @@ Things to keep in mind when writing design proposals:
 -   You may use this SVG for design proposals:
     [tshirt_template.svg](/attachment/tshirt_template.svg)
 
-```{=html}
-<!-- -->
-```
 -   Xubuntu mouse on front, \"xubuntu.org\" lettering on back
     -   [Download SVG](/attachment/tshirt_lyz_1.svg)
 
@@ -42,7 +42,4 @@ Things to keep in mind when writing design proposals:
 -   Smaller xubuntu logo, on spreadshirt.
     -   <http://www.spreadshirt.com/design-your-own-t-shirt-C59/product/108355733/view/1/sb/l>
 
-```{=html}
-<!-- -->
-```
 -   ***Your proposal here!***

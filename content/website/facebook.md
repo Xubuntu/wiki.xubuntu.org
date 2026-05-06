@@ -1,3 +1,8 @@
+---
+title: "Guidelines for Facebook Admins"
+weight: 20
+---
+
 Facebook is probably the social media outlet with our largest following,
 though we get more discussion and engagement on elsewhere.
 

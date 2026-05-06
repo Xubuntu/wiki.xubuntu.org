@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 22.04 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 22.04 \"Jammy Jellyfish\" release notes!**
 
 Xubuntu 22.04 will be released on Thursday, April 21, 2022, and will be
@@ -22,9 +27,6 @@ the latest updates for Xubuntu 22.04, check out the [release page](https://xubun
     ([1942987](https://bugs.launchpad.net/ubuntu/+source/plymouth/+bug/1942987),
     [1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
-```{=html}
-<!-- -->
-```
         * However, you should be able to press the Enter key to continue with the reboot.
 
 ## General Issues
@@ -97,9 +99,9 @@ If you\'re coming from Xubuntu 20.04, you may also want to review the
 20.10, 21.04, and 21.10 release notes to catch up on all of the latest
 updates.
 
--   [[Xubuntu 20.10 \"Groovy Gorilla\"|Xubuntu-20.10-Release-Notes]]
--   [[Xubuntu 21.04 \"Hirsute Hippo\"|Xubuntu-21.04-Release-Notes]]
--   [[Xubuntu 21.10 \"Impish Indri\"|Xubuntu-21.10-Release-Notes]]
+-   [Xubuntu 20.10 \"Groovy Gorilla\](/xubuntu-20.10-release-notes/)
+-   [Xubuntu 21.04 \"Hirsute Hippo\](/xubuntu-21.04-release-notes/)
+-   [Xubuntu 21.10 \"Impish Indri\](/xubuntu-21.10-release-notes/)
 
 # Appearance Updates
 
@@ -114,7 +116,7 @@ updates.
 
 ## Community Wallpaper Contest Winners
 
-![](images/releases/22.04/xubuntu-wallpaper-contest-winners.png)
+![](/images/releases/22.04/xubuntu-wallpaper-contest-winners.png)
 
 Six winners were selected from a pool of over 100 submissions for the
 22.04 Community Wallpaper Contest. From left to right, top to bottom:

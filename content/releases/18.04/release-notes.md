@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 18.04 Release Notes"
+weight: 10
+---
+
 # Notable Issues
 
 ## Installer Issues
@@ -16,16 +21,13 @@
 
 ## General Issues
 
-      * At least one Nvidia driver causes issues when removed via Additional Drivers ([[https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1761593| 1761593]])
+      * At least one Nvidia driver causes issues when removed via Additional Drivers ([1761593](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1761593))
 
 -   Network indicators
     -   Currently at times the panel could show 2 network icons, this
         appears to be a race condition which we have not been able to
         rectify in time for release.
 
-```{=html}
-<!-- -->
-```
 -   Parole Media Player: Play button inactive
     ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
 -   SGT Puzzles Collection: Menu bar grayed out

@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 16.10 Release Notes"
+weight: 10
+---
+
 # Xubuntu 16.10 (Yakkety Yak)
 
 ## Known Issues
@@ -8,16 +13,13 @@
 
 [General Issues]
 
-    *[[https://bugs.launchpad.net/bugs/792085|792085]] Automatic remount of safely removed usb 3.0 drive
+    *[792085](https://bugs.launchpad.net/bugs/792085) Automatic remount of safely removed usb 3.0 drive
 
 [Xubuntu Issues]
 
 -   [1631715](https://bugs.launchpad.net/ubuntu/+source/light-locker/+bug/1631715)
     Password needed twice restarting from suspend
 
-```{=html}
-<!-- -->
-```
 -   Thunar
     -   [1311926](https://bugs.launchpad.net/ubuntu/+source/thunar/+bug/1311926)
         Thunar file order changes when renaming
@@ -32,9 +34,6 @@
 
 -   Thunar
 
-```{=html}
-<!-- -->
-```
       *Add upstream bugzilla patch to reduce crashes on file move.
     * xfce4-whiskermenu-plugin
       *New upstream release

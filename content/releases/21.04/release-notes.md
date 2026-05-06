@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 21.04 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 21.04 \"Hirsute Hippo\" release notes!**
 
 Xubuntu 21.04 was released on Thursday, April 22, 2021 and will be
@@ -5,7 +10,7 @@ supported for nine months until Thursday, January 22, 2022. For general
 information and the latest updates for Xubuntu 21.04, check out the
 [release page](https://xubuntu.org/release/21-04) on xubuntu.org.
 
-![](images/releases/21.04/xubuntu_21.04.png)
+![](/images/releases/21.04/xubuntu_21.04.png)
 
 -   [Known Issues](#known_issues)
 -   [Ubuntu Common Release Notes](#ubuntu_common_release_notes)
@@ -58,9 +63,6 @@ to every Ubuntu flavor.
         [changelog](https://www.xfce.org/download/changelogs/4.16/), and
         [tour](https://www.xfce.org/about/tour416).
 
-```{=html}
-<!-- -->
-```
 -   **Hexchat** and **Synaptic** are now included in Xubuntu 21.04.
     -   **[HexChat](https://hexchat.github.io/)** is an
         highly-configurable open source IRC client and is recommended
@@ -70,33 +72,21 @@ to every Ubuntu flavor.
         package manager for apt. It joins GNOME Software on Xubuntu and
         can be safely used alongside it.
 
-```{=html}
-<!-- -->
-```
 -   **[Ayatana Indicators](https://ayatanaindicators.github.io/)** are
     now used with LightDM GTK+ Greeter and the Xfce Indicator plugin.
     This change may affect your indicator usage, as not all existing
     Application Indicators have been ported.
 
-```{=html}
-<!-- -->
-```
 -   The full **Adwaita icon theme** is now included. Previously, we
     shipped a partial version of this icon theme as required by GTK 3.
     Using the partial version was a sub-par experience, so we\'ve
     brought in the full version!
 
-```{=html}
-<!-- -->
-```
 -   Xubuntu 21.04 now includes a **\"Minimal\" install option** on the
     main ISO. This installation option is similar to the [Xubuntu Core](https://unit193.net/xubuntu/) installation image, and strips
     Xubuntu down to a might lighter base. To see the packages that are
     removed with the minimal install, check out our [seed file](https://github.com/Xubuntu/xubuntu-seed/blob/hirsute/desktop.minimal-remove).
 
-```{=html}
-<!-- -->
-```
 -   Xubuntu-specific **translations** are vastly improved, with numerous
     updates landing in our [installer slideshow](https://github.com/Xubuntu/ubiquity-slideshow-xubuntu),
     [default settings](https://github.com/Xubuntu/xubuntu-default-settings), and

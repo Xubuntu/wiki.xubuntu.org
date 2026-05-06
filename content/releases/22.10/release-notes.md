@@ -1,6 +1,11 @@
+---
+title: "Xubuntu 22.10 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 22.10 \"Kinetic Kudu\" release notes!**
 
-![](images/releases/22.10/xubuntu-22.10.png)
+![](/images/releases/22.10/xubuntu-22.10.png)
 
 Xubuntu 22.10 will be released on Thursday, October 20, 2022, and will
 be supported for nine months until July 2023. For general information
@@ -23,11 +28,8 @@ and the latest updates for Xubuntu 22.10, check out the [release page](https://x
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
-```{=html}
-<!-- -->
-```
         * However, you should be able to press the Enter key to continue with the reboot.
-    * Xubuntu installer on desktop is "untrusted" ([[https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958|1987958]])
+    * Xubuntu installer on desktop is "untrusted" ([1987958](https://bugs.launchpad.net/ubuntu/+source/ubiquity/+bug/1987958))
         * The launcher can be run from the menu or you can click "Launch anyway".
 
 ## General Issues
@@ -98,7 +100,7 @@ to switch to the new sound system.
     You can play the game online,
     [here](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/mosaic.html).
 
-![](images/releases/22.10/sgt-puzzles-mosaic.png)
+![](/images/releases/22.10/sgt-puzzles-mosaic.png)
 
 # Appearance Updates
 

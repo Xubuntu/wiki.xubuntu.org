@@ -1,3 +1,8 @@
+---
+title: "Keyboard Shortcuts in Hirsute Hippo"
+weight: 20
+---
+
 [Back to Release Notes](https://wiki.xubuntu.org/releases/21.04/release-notes)
 
 # General

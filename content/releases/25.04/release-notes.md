@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 25.04 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 25.04 \"Plucky Puffin\" release notes!**
 
 Xubuntu 25.04 was released on Thursday, April 17, 2025, and will be
@@ -10,7 +15,7 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
 -   [Updates](#updates)
 -   [Changelogs](#changelogs)
 
-![](images/releases/25.04/xubuntu-25.04.png)
+![](/images/releases/25.04/xubuntu-25.04.png)
 
 # Known Issues
 
@@ -26,9 +31,6 @@ and the latest updates for Xubuntu 25.04, check out the [release page](https://x
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
-```{=html}
-<!-- -->
-```
         * However, you should be able to press the Enter key to continue with the reboot.
     * OEM installation is not available.
         * It is under active development and will be ready in time for 25.04.
@@ -107,7 +109,7 @@ introduces a new \"HiDPI\" version of the theme that works better with
 consolidates the former \"dark\" theme into one that works well for
 light, dark, and mixed desktop themes.
 
-![](images/releases/25.04/xubuntu-25.04-xfce-appearance-settings-elementary-xfce.png)
+![](/images/releases/25.04/xubuntu-25.04-xfce-appearance-settings-elementary-xfce.png)
 
 # Updates
 

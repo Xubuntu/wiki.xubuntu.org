@@ -1,4 +1,7 @@
-# Teams and Leaders
+---
+title: "Teams and Leaders"
+weight: 5
+---
 
 Below is table of individuals who have volunteered to take specific
 responsibility for certain components and teams of the Xubuntu project.
@@ -31,7 +34,7 @@ The current council members are:
 
 ## Previous leaders
 
-The previous leaders for Xubuntu are listed on the [[Previous leaders|Previous-Xubuntu-Leaders]] page.
+The previous leaders for Xubuntu are listed on the [Previous leaders](/archive/leaders/) page.
 
 ## Teams supervised by others
 

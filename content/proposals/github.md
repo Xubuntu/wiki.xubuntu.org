@@ -1,3 +1,8 @@
+---
+title: "GitHub Proposal"
+weight: 10
+---
+
 # Introduction
 
 Starting with the 20.10 cycle, I would like to move Xubuntu repositories

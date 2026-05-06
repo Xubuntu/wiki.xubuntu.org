@@ -1,3 +1,8 @@
+---
+title: "Guide for New Testers"
+weight: 50
+---
+
 After reading the [introduction on the website](https://xubuntu.org/contribute/qa), this \'New Tester\' wiki
 will take you through the simple steps that will enable you to join the
 community, start to help making Xubuntu better, and get testing.
@@ -28,9 +33,9 @@ use both within these pages and elsewhere in the Xubuntu world:
 
 It\'s as easy as 1, 2, 3 \...
 
-    -[[https://wiki.xubuntu.org/qa:installing|Install the Xubuntu Development version]]
-    -[[https://wiki.xubuntu.org/qa:testing |Test your Xubuntu Development version]]
-    -[[https://wiki.xubuntu.org/qa:report |Report Back with your results]]
+    -[Install the Xubuntu Development version](/qa/installing/)
+    -[Test your Xubuntu Development version](/qa/testing/)
+    -[Report Back with your results](/qa/report/)
 
 We suggest that you read at least the first two pages before making a
 decision as to how you can help Xubuntu best.

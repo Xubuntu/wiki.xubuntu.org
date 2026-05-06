@@ -1,20 +1,25 @@
+---
+title: "Marketing Projects"
+weight: 30
+---
+
 # Projects
 
 ## Complete
 
--   [[Flyers|Flyers]] for conferences with details
+-   [Flyers](/marketing/projects/) for conferences with details
     about Xubuntu
--   [[T-shirts|T-Shirts]]
--   [[Buttons|Xubuntu-Buttons]]
+-   [T-shirts](/marketing/projects/tshirts/)
+-   [Buttons](/marketing/projects/buttons/)
 -   [LO Impress presentation template
     (external)](http://spreadubuntu.org/en/material/presentation/xubuntu-presentation)
     for individuals giving presentations about Xubuntu (needs updating)
 
 ## Planning/Ongoing
 
--   [[\"Xubuntu at\...\"|Xubuntu-At-...-Interview-Series]] interview series
+-   [\"Xubuntu at\...\](/marketing/projects/xubuntuat/) interview series
     of organizations using Xubuntu
--   [[Desktop of the Week|Desktop-Of-The-Week]]
+-   [Desktop of the Week](/marketing/projects/dotw/)
 
 ## Ideas
 

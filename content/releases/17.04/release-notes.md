@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 17.04 Release Notes"
+weight: 10
+---
+
 # Xubuntu 17.04 (Zesty Zapus)
 
 Xubuntu 17.04 will be supported for 9 months until January 2018. If you
@@ -57,9 +62,6 @@ who have reported on the Iso Tracker during this cycle.
     -   Parole Clear History (Open Recent) clears global history
         ([1681886](https://launchpad.net/bugs/1681886))
 
-```{=html}
-<!-- -->
-```
 -   Thunar File Manager
     -   Thunar occasionally hangs after file changes
         ([13481](https://bugzilla.xfce.org/show_bug.cgi?id=13481) /
@@ -67,9 +69,6 @@ who have reported on the Iso Tracker during this cycle.
     -   Thunar occasionally doesn\'t refresh window
         ([13364](https://bugzilla.xfce.org/show_bug.cgi?id=13364))
 
-```{=html}
-<!-- -->
-```
 -   SGT Puzzles Collection: Menu bar grayed out
     ([1670610](https://launchpad.net/bugs/1670610))
 -   Xfce Indicator Plugin: Label missing from \"Clear Known Indicators\"
@@ -80,39 +79,24 @@ who have reported on the Iso Tracker during this cycle.
 -   thunar
     -   Fixes to various issues related to copying and renaming
 
-```{=html}
-<!-- -->
-```
 -   parole
     -   New release includes \"mini mode\" and improved streaming
         support
 
-```{=html}
-<!-- -->
-```
 -   xfce4-notifyd
     -   New release includes \"do not disturb\" mode, notification
         muting, persistence support
 
-```{=html}
-<!-- -->
-```
 -   xfce4-taskmanager
     -   New release includes ability to click on window to select
         process
 
-```{=html}
-<!-- -->
-```
 -   xubuntu-default-settings
     -   New file templates included - OpenDocument Writer, OpenDocument
         Spreadsheet
     -   Improved QT5 application appearance (requires installation of
         `qt5-style-plugins`)
 
-```{=html}
-<!-- -->
-```
 -   sgt-launcher
     -   New launcher for Simon Tatham\'s Portable Puzzle Collection
 

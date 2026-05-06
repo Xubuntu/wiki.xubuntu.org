@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 24.10 Release Notes"
+weight: 10
+---
+
 **Welcome to the Xubuntu 24.10 \"Oracular Oriole\" release notes!**
 
 Xubuntu 24.10 will be released on Thursday, October 10, 2024, and will
@@ -28,9 +33,6 @@ instead.*
 -   No shutdown prompt after installation
     ([1944519](https://bugs.launchpad.net/ubuntu/+source/casper/+bug/1944519))
 
-```{=html}
-<!-- -->
-```
         * However, you should be able to press the Enter key to continue with the reboot.
     * OEM installation is not available.
         * It is under active development and will be ready in time for 25.04.

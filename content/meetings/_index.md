@@ -1,3 +1,8 @@
+---
+title: "Meetings"
+weight: 70
+---
+
 \# The next Xubuntu community meeting is not scheduled.
 
 The next Xubuntu community meeting is on [Wednesday, 17 February 2016

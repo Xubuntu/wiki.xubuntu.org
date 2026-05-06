@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 18.10 Release Notes"
+weight: 10
+---
+
 # Upgrading from 18.04
 
 For 32 bit installations this is
@@ -26,17 +31,11 @@ release note(s) listed below**
     -   This issue should be resolved after installing and running
         updates.
 
-```{=html}
-<!-- -->
-```
 -   Network indicators
     -   Currently at times the panel could show 2 network icons, this
         appears to be a race condition which we have not been able to
         rectify in time for release.
 
-```{=html}
-<!-- -->
-```
 -   Panel
     -   Applications Menu plugin clips panel icon
         ([1756608](https://bugs.launchpad.net/ubuntu/+source/xfce4-panel/+bug/1756608))
@@ -46,18 +45,12 @@ release note(s) listed below**
         area)
         ([1795135](https://bugs.launchpad.net/ubuntu/+source/greybird-gtk-theme/+bug/1795135))
 
-```{=html}
-<!-- -->
-```
 -   Parole Media Player
     -   Play button inactive
         ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
     -   Player crashes when MPRIS2 plugin is disabled
         ([1698540](https://bugs.launchpad.net/ubuntu/+source/parole/+bug/1698540))
 
-```{=html}
-<!-- -->
-```
 -   Ristretto: Thumbnail sidebar shows error icons instead of thumbnails
     for some images
     ([1756191](https://bugs.launchpad.net/ubuntu/+source/ristretto/+bug/1756191))
@@ -83,7 +76,7 @@ the
 [xubuntu-wallpapers](https://launchpad.net/ubuntu/cosmic/+package/xubuntu-wallpapers)
 package.
 
-![](images/releases/18.10/xubuntu-cosmic.png)
+![](/images/releases/18.10/xubuntu-cosmic.png)
 
 ### elementary Xfce Icon Theme 0.13
 
@@ -92,7 +85,7 @@ manila folder icons as seen in the [upstream elementary icon theme](https://gith
 theme is now optimized with optipng, meaning a smaller install size and
 potentially improved load times.
 
-![](images/releases/18.10/manilla-folders.png)
+![](/images/releases/18.10/manilla-folders.png)
 
 ### Greybird 3.22.9
 
@@ -101,7 +94,7 @@ release improves the look and feel of our window manager, alt-tab
 dialog, Chromium, and even pavucontrol! The notebook styles look
 significantly better and consistent with our other applications.
 
-![](images/releases/18.10/pavucontrol-greybird.png)
+![](/images/releases/18.10/pavucontrol-greybird.png)
 
 ## Xfce
 

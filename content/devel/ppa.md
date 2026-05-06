@@ -1,4 +1,7 @@
-# Personal Package Archives (PPAs)
+---
+title: "Personal Package Archives (PPAs)"
+weight: 30
+---
 
 The Xubuntu Development and QA teams use several PPAs (personal package
 archives) for staging, testing and previewing new packages and package

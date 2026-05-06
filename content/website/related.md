@@ -1,3 +1,8 @@
+---
+title: "Related Websites"
+weight: 30
+---
+
 # Localized
 
 -   <http://xubuntu-ru.net/>

@@ -1,3 +1,8 @@
+---
+title: "Marketing"
+weight: 50
+---
+
 Welcome to the Xubuntu Marketing team wiki. This page is a starting
 point for all the marketing projects ongoing or planned in Xubuntu. To
 get involved, add your ideas to the Future ideas and get in touch with
@@ -19,4 +24,4 @@ target audiences for marketing materials:
 Note: See Strategy Document for target audience for Xubuntu itself (not
 marketing).
 
-Also see [[Notes about licenses|Notes-About-Licenses]].
+Also see [Notes about licenses](/marketing/licenses/).

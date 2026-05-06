@@ -1,3 +1,8 @@
+---
+title: "Xfce4 Port to GTK3 and GDBus"
+weight: 20
+---
+
 Staging PPA:
 [ppa:unit193/xfce4-gtk3](https://launchpad.net/~unit193/+archive/ubuntu/xfce4-gtk3/+packages)
 

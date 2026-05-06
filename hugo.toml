@@ -1,0 +1,18 @@
+baseURL = 'https://wiki.xubuntu.org/'
+languageCode = 'en-us'
+title = 'Xubuntu Team Wiki'
+theme = 'hugo-book'
+
+[params]
+  BookSection = '/'
+  BookToC = true
+  BookSearch = true
+  BookComments = false
+  BookRepo = 'https://github.com/Xubuntu/wiki.xubuntu.org'
+  BookEditPath = 'edit/master'
+  BookMenuBundle = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

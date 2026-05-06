@@ -1,3 +1,8 @@
+---
+title: "Guidelines for Twitter Admins"
+weight: 60
+---
+
 Twitter is one of our most public social media outlets, and the only one
 where we promote the contents of others (via retweets), so care should
 be taken when using this facility to ensure fairness and effective

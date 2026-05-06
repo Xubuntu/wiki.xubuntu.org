@@ -1,3 +1,8 @@
+---
+title: "Xubuntu 17.10 Release Notes"
+weight: 10
+---
+
 # Notable Changes
 
 ## Incompatibility with BIOS in certain Lenovo, Acer systems
@@ -100,9 +105,6 @@ Printers dialog \[
         to set your keymap *before* booting to Try or Install Xubuntu
         from that menu.
 
-```{=html}
-<!-- -->
-```
 -   Keyboard layout issues noted in Ubuntu or other flavours during
     installation:
     -   Auto-selected keyboard layout no longer matches chosen region
@@ -124,9 +126,6 @@ Printers dialog \[
         running session but does not prevent the issue from
         re-appearing.
 
-```{=html}
-<!-- -->
-```
 -   Parole Media Player
     -   Parole progress bar lag
         ([1667786](https://launchpad.net/bugs/1667786))
@@ -137,9 +136,6 @@ Printers dialog \[
     -   Play button inactive
         ([1705243](https://bugs.launchpad.net/parole/+bug/1705243))
 
-```{=html}
-<!-- -->
-```
 -   GNOME Software: GDBUS.Error:org.freedesktop.Dbus.Error.ServiceUnkown
     Error message
     ([1713009](https://bugs.launchpad.net/ubuntu/+source/gnome-software/+bug/1713009))
