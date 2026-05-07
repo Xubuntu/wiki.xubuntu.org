@@ -39,7 +39,7 @@ your item under \"Discussion\".
 
 # Last meeting summary
 
-\# TBD
+{{< latest-meeting >}}
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ your item under \"Discussion\".
 \# If you have chaired the meeting, minutes should be created under \#
 <https://wiki.ubuntu.com/Xubuntu/Meetings/Archive/Minutes/>
 
--   [Meeting archive](https://wiki.ubuntu.com/Xubuntu/Meetings/Archive)
+-   [Meeting archive](/meetings/archive/)

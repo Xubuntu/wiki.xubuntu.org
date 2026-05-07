@@ -1,0 +1,8 @@
+{{ $archive := .Site.GetPage "/meetings/archive" }}
+{{ with $archive }}
+  {{ with first 1 (.Pages.ByDate.Reverse) }}
+    {{ range . }}
+      {{ .Content }}
+    {{ end }}
+  {{ end }}
+{{ end }}
