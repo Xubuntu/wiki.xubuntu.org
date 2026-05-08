@@ -30,7 +30,7 @@ Me: -laughing-
 
 Me: "This was funny!"
 
-![](/images/marketing/projects/lovexubuntu/xubuntu_locked_folder.jpg)
+![](xubuntu_locked_folder.jpg)
 
 Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-June/000048.html>
@@ -85,7 +85,7 @@ first time yesterday.
 With this in mind, Carl made an adjustment to the Xubuntu desktop and
 replaced the Xubuntu mouse logo with the Amiga Boing Ball!
 
-![](/images/marketing/projects/lovexubuntu/carl_vernersson_lovexubuntu.png)
+![](carl_vernersson_lovexubuntu.png)
 
 Source:
 <https://lists.ubuntu.com/mailman/private/xubuntu-contacts/2016-July/000055.html>
@@ -191,7 +191,7 @@ the design on Thingiverse so others could also print it.
     <https://plus.google.com/+KeithIMyers/posts/JYUxKptzf2t>
 -   Design on Thingiverse: <http://www.thingiverse.com/thing:1642573>
 
-![](/images/marketing/projects/lovexubuntu/keithimeyers_lovexubuntu.jpg)
+![](keithimeyers_lovexubuntu.jpg)
 
 Source: see links above
 
@@ -201,7 +201,7 @@ How about a @Xubuntu template for your Nexus 5 and Ringke Fusion case?
 #LoveXubuntu How about a @Xubuntu template for your Nexus 5 and Ringke
 Fusion case? #LoveXubuntu
 
-![](/images/marketing/projects/lovexubuntu/sean-davis.jpg)
+![](sean-davis.jpg)
 
 Source: <https://twitter.com/bluesabredavis/status/746721807156252672>
 
@@ -235,7 +235,7 @@ Source: <https://twitter.com/garege_junya/status/747067891489505280>
 Happy 10th birthday for my favourite #Linux distro! Here's a screenshot
 of my #Xubuntu 16.04 setup #LoveXubuntu
 
-![](/images/marketing/projects/lovexubuntu/koos-plegt.jpg)
+![](koos-plegt.jpg)
 
 Source: <https://twitter.com/KoosPlegt/status/748482280780369920>
 
@@ -244,7 +244,7 @@ Source: <https://twitter.com/KoosPlegt/status/748482280780369920>
 #LoveXubuntu @Xubuntu 14.04 screenshot today. Been with #xubuntu since
 08.10.
 
-![](/images/marketing/projects/lovexubuntu/victor-forberger.jpg)
+![](victor-forberger.jpg)
 
 Source: <https://twitter.com/vforberger/status/749277753564803072>
 
@@ -260,8 +260,8 @@ Source: <https://twitter.com/m1xo_0n/status/752853361641357312>
 Happy 10th Anniversary to @Xubuntu A look at my system - #Xubuntu 16.04
 with Plank dock, Arc-Theme #LoveXubuntu
 
-![](/images/marketing/projects/lovexubuntu/shamil-a.jpg)
-![](/images/marketing/projects/lovexubuntu/shamil-b.jpg)
+![](shamil-a.jpg)
+![](shamil-b.jpg)
 
 Source: <https://twitter.com/shamilchoudhury/status/752841588800356352>
 
@@ -306,7 +306,7 @@ Source: <https://twitter.com/Ornim/status/764006924811546624>
 Fresh installed and ready for the next two years! @Xubuntu 16.04 -
 #LoveXubuntu
 
-![](/images/marketing/projects/lovexubuntu/joao-mc-teixeira-2.jpg)
+![](joao-mc-teixeira-2.jpg)
 
 Source: <https://twitter.com/joaomcteixeira/status/765188517639155712>
 
@@ -321,7 +321,7 @@ Source: <https://twitter.com/BstMnFall/status/763907159855890433>
 
 Thank you for being there <3 #LoveXubuntu #Xubuntu #Linux #Desktop
 
-![](/images/marketing/projects/lovexubuntu/anton-styazhkin.jpeg)
+![](anton-styazhkin.jpeg)
 
 Source: <https://twitter.com/untonyst/status/764620728171917312>
 
@@ -329,6 +329,6 @@ Source: <https://twitter.com/untonyst/status/764620728171917312>
 
 #LoveXubuntu You all rock with this rock solid Distro
 
-![](/images/marketing/projects/lovexubuntu/robert-streeter-2.jpg)
+![](robert-streeter-2.jpg)
 
 Source: <https://twitter.com/Hacker_Planet/status/765645078471725057>

@@ -71,20 +71,20 @@ Once at the Something Else window, select the existing partition you
 wish to resize and then the Change button - set the partition size you
 wish to keep for this partition.
 
-![](/images/qa/edit.png)
+![](edit.png)
 
 Now, select the resulting freespace
 
-![](/images/qa/postedit.png)
+![](postedit.png)
 
 Press the + button to create your new partition
 
-![](/images/qa/newpartition.png)
+![](newpartition.png)
 
 Now you can use the Change button to set the mount point for your new
 installation.
 
-![](/images/qa/setmount.png)
+![](setmount.png)
 
 Once you have done that you can continue with your installation using
 your new partition.
@@ -103,7 +103,7 @@ showing your available partitions. Choose the device which corresponds
 to the installation, in this example /dev/sda2 and then continue the
 installation
 
-![](/images/qa/bootloader.png)
+![](bootloader.png)
 
 Once the installation has finished you can reboot as is normal, however
 in this case there is no way yet to boot into your new installation as
@@ -114,7 +114,7 @@ Login to your main installation, open a terminal and run this command
 
 `sudo update-grub`
 
-![](/images/qa/grubupdate.png)
+![](grubupdate.png)
 
 Reboot the machine again and your new installation will now be available
 in Grub.
@@ -123,7 +123,7 @@ in Grub.
 development installation will not be reflected automatically in the Grub
 menu until you have re-run update-grub.*
 
-![](/images/qa/newgrub.png)
+![](newgrub.png)
 
 # Adding an ISO to Grub
 
@@ -174,7 +174,7 @@ Once the file has been edited and saved, you must update grub to include
 your new ISO options, `sudo update-grub`, when you reboot you should now
 see them on your Grub menu
 
-![](/images/qa/isogrub.png)
+![](isogrub.png)
 
 ## QA Team Contributor Information
 

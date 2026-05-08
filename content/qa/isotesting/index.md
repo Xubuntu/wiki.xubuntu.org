@@ -10,17 +10,17 @@ available iso's you will test.
 
 This page will look similar to this
 
-![](/images/qa/builds.png)
+![](builds.png)
 
 After you have selected an architecture, you will see links at the top,
 select the Download information link
 
-![](/images/qa/images.png)
+![](images.png)
 
 You will now see all the download possibilities available to you, choose
 which suits you and download your iso for testing.
 
-![](/images/qa/downloads.png)
+![](downloads.png)
 
 If you are going to be regularly testing the iso, you might look at
 using [Zsync](https://help.ubuntu.com/community/ZsyncCdImage) to only
@@ -30,7 +30,7 @@ image.
 This can make some difference in the amount to download, particularly
 useful if your speed is slow, spotty or you have download limits.
 
-![](/images/qa/zsync.png)
+![](zsync.png)
 
 # Test Instructions
 
@@ -38,12 +38,12 @@ Once you have your iso, you can burn this to media or use a virtual
 machine to boot the iso. Once you are in a position to boot the iso, you
 will want to choose which testcase to run
 
-![](/images/qa/testcases.png)
+![](testcases.png)
 
 Selecting one of the testcases will show you a page with some links at
 the top, followed by the testcase to follow
 
-![](/images/qa/links.png)
+![](links.png)
 
 Follow the testcase text to the end, noting issues that you have seen.
 
@@ -53,7 +53,7 @@ Once you have completed the testcase you are in a position to report
 your result on the tracker, you will see this section of the tracker
 page directly following the testcase detail
 
-![](/images/qa/reporting.png)
+![](reporting.png)
 
 If you have noted bugs during the testcase you have 2 options:
 
