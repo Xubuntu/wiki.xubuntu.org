@@ -4,7 +4,7 @@ title: "Reporting"
 
 # Step 3: Reporting back!
 
-So, you [tested](https://wiki.xubuntu.org/qa/testing) the new version of
+So, you [tested](/qa/testing) the new version of
 Xubuntu and you noticed something that needs improving (bugs or
 usability suggestions). Great! Information you provide about what you
 noticed can help make Xubuntu better, stronger.
@@ -20,7 +20,7 @@ mailing lists etc.)
 
 ## Reporting an Installation: Using the ISO Tracker
 
-We have a wiki [page](https://wiki.xubuntu.org/qa/isotesting) devoted to
+We have a wiki [page](/qa/isotesting) devoted to
 using the iso tracker.
 
 ## Sharing a screenshot

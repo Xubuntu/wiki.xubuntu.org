@@ -43,4 +43,4 @@ The Xubuntu Team mostly uses IRC to keep in contact with each other. You
 can contact them there as well: simply choose the IRC tab on the
 [developers](https://dev.xubuntu.org/) tracker, or visit
 [#xubuntu-devel](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
-now. More information on IRC is also included in the [fine tuning](https://wiki.xubuntu.org/qa/fine_tuning) wiki page.
+now. More information on IRC is also included in the [fine tuning](/qa/fine_tuning) wiki page.

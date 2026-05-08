@@ -132,7 +132,7 @@ Daily testing on the tracker. The daily testing item runs all the way
 through the cycle refreshing overnight (2AM UTCish).
 
 There is a simple run through of the ISO testing in general at
-<https://wiki.xubuntu.org/qa/isotesting>
+</qa/isotesting>
 
 **#subtopic Milestone and Daily Questions**
 
