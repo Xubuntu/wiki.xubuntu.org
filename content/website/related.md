@@ -16,7 +16,7 @@ title: "Related Websites"
 
 # Unofficial
 
--   <https://quitter.se/group/xhttps://wiki.ubuntu.com/
+-   <https://quitter.se/group/xubuntu>
 -   <http://www.linuxpusher.com/product/notebook-sticker-xubuntu-grey>
     (unendorsed merchandise with old logo)
 
@@ -26,7 +26,7 @@ Note: This list is outdated.
 
 -   <http://www.thelinuxshop.co.uk/catalog/advanced_search_result.php?keywords=xubuntu&x=0&y=0>
     -   Supported releases: 15.04 (old logo)
--   <https://www.osdisc.com/products/xhttps://wiki.ubuntu.com/
+-   <https://www.osdisc.com/products/xubuntu>
     -   Supported releases: 15.04 (old logo), 14.04 (old logo)
     -   EOL: 12.04
 -   <https://www.rainbowcomputech.com/index.php?categoryID=63>
@@ -45,6 +45,6 @@ Note: This list is outdated.
 # Other
 
 -   <http://xebian.org/>
--   <https://www.iconfinder.com/search/?q=xhttps://wiki.ubuntu.com/
+-   <https://www.iconfinder.com/search/?q=xubuntu>
 -   <http://www.flipkart.com/xubuntu-12-04-post-installation-guide/p/itmdqqbgg7dahkku>
 -   <http://www.amazon.in/Linux-Transitions-Custom-Xubuntu-Drives/dp/1494920395>
