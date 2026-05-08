@@ -1,6 +1,5 @@
 ---
 title: "Article Series"
-weight: 40
 ---
 
 # Xubuntu at\...

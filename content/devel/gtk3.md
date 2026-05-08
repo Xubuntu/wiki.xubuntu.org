@@ -1,6 +1,5 @@
 ---
 title: "Xfce4 Port to GTK3 and GDBus"
-weight: 20
 ---
 
 Staging PPA:

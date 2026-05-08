@@ -1,6 +1,5 @@
 ---
 title: "Teams and Leaders"
-weight: 5
 ---
 
 Below is table of individuals who have volunteered to take specific

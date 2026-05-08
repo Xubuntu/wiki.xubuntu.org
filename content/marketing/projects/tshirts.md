@@ -1,6 +1,5 @@
 ---
 title: "T-Shirts"
-weight: 40
 ---
 
 Officially endorsed t-shirts are now offered by

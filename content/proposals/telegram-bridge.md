@@ -1,6 +1,5 @@
 ---
 title: "Telegram Groups and IRC Bridge"
-weight: 20
 ---
 
 Telegram is an instant messenger platform that has become popular in the

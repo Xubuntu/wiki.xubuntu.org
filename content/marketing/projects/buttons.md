@@ -1,6 +1,5 @@
 ---
 title: "Xubuntu Buttons"
-weight: 10
 ---
 
 -   Order was placed to Zazzle.com but the buttons always have a white

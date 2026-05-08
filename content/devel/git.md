@@ -1,6 +1,5 @@
 ---
 title: "Git Workflow"
-weight: 10
 ---
 
 The Xubuntu team uses Git for all version-controlled projects. While

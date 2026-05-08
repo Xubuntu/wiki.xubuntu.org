@@ -1,6 +1,5 @@
 ---
 title: "Website"
-weight: 40
 ---
 
 # Target audiences

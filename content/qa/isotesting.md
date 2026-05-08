@@ -1,6 +1,5 @@
 ---
 title: "ISO Testing"
-weight: 30
 ---
 
 # ISO Test Builds

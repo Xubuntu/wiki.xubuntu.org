@@ -1,6 +1,5 @@
 ---
 title: "Marketing Projects"
-weight: 30
 ---
 
 # Projects

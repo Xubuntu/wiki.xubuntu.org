@@ -1,6 +1,5 @@
 ---
 title: "Team Hardware"
-weight: 70
 ---
 
 A checklist of available testing systems that members of team are able

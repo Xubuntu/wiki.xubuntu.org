@@ -1,6 +1,5 @@
 ---
 title: "Meetings"
-weight: 70
 ---
 
 *The next Xubuntu community meeting is not scheduled.*

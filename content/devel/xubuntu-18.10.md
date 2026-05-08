@@ -1,6 +1,5 @@
 ---
 title: "Development Roadmap for 18.10"
-weight: 50
 ---
 
 # Decided

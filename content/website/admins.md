@@ -1,6 +1,5 @@
 ---
 title: "Administrators"
-weight: 10
 ---
 
 # Websites

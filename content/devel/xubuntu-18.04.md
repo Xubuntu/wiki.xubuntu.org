@@ -1,6 +1,5 @@
 ---
 title: "Development Roadmap for 18.04"
-weight: 40
 ---
 
 # Decided

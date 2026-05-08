@@ -1,6 +1,5 @@
 ---
 title: "Related Websites"
-weight: 30
 ---
 
 # Localized

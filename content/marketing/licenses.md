@@ -1,6 +1,5 @@
 ---
 title: "Notes About Licenses"
-weight: 20
 ---
 
 # Canonical IP

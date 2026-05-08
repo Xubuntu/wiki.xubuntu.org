@@ -1,6 +1,5 @@
 ---
 title: "Fine-Tuning Your Development Setup"
-weight: 10
 ---
 
 # Using IRC for contact

@@ -1,6 +1,5 @@
 ---
 title: "Contributor Survey 2012"
-weight: 20
 ---
 
 To do some preparation before we will actually get our hands dirty,

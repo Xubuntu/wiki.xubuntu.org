@@ -1,6 +1,5 @@
 ---
 title: "Ask Us Anything"
-weight: 10
 ---
 
 # Questions

@@ -1,6 +1,5 @@
 ---
 title: "Reporting"
-weight: 60
 ---
 
 # Step 3: Reporting back!

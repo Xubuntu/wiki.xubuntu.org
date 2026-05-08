@@ -1,6 +1,5 @@
 ---
 title: "Xubuntu Team Wiki"
-weight: 1
 ---
 
 # Welcome to the Xubuntu team wiki!

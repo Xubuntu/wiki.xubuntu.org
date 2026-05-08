@@ -1,6 +1,5 @@
 ---
 title: "GitHub Proposal"
-weight: 10
 ---
 
 # Introduction

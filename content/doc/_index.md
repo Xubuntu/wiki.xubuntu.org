@@ -1,6 +1,5 @@
 ---
 title: "Documentation"
-weight: 60
 ---
 
 Welcome to the Xubuntu Documentation team wiki. The Xubuntu

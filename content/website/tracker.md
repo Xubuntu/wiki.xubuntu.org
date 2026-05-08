@@ -1,6 +1,5 @@
 ---
 title: "Tracker Development"
-weight: 50
 ---
 
 # Feature requests

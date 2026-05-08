@@ -1,6 +1,5 @@
 ---
 title: "Quality Assurance"
-weight: 30
 ---
 
 [ISO Testing Runthrough](/qa/isotesting/)

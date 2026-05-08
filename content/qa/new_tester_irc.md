@@ -1,6 +1,5 @@
 ---
 title: "New Tester IRC Session"
-weight: 40
 ---
 
 #\'s are in place to trigger meetingology - do not change.

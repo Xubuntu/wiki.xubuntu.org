@@ -1,6 +1,5 @@
 ---
 title: "Guide for New Testers"
-weight: 50
 ---
 
 After reading the [introduction on the website](https://xubuntu.org/contribute/qa), this \'New Tester\' wiki

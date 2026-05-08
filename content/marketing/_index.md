@@ -1,6 +1,5 @@
 ---
 title: "Marketing"
-weight: 50
 ---
 
 Welcome to the Xubuntu Marketing team wiki. This page is a starting

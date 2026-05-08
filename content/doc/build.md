@@ -1,6 +1,5 @@
 ---
 title: "Building"
-weight: 10
 ---
 
 # Building the Xubuntu documentation package locally

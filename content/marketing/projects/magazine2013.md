@@ -1,6 +1,5 @@
 ---
 title: "Ideas for Magazine Articles"
-weight: 30
 ---
 
 We were recently approached by Sonny Gaviola who is seeking to publish a

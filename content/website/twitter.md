@@ -1,6 +1,5 @@
 ---
 title: "Guidelines for Twitter Admins"
-weight: 60
 ---
 
 Twitter is one of our most public social media outlets, and the only one

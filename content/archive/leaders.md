@@ -1,6 +1,5 @@
 ---
 title: "Previous Xubuntu Leaders"
-weight: 10
 ---
 
 The following individuals have been instrumental in their former roles

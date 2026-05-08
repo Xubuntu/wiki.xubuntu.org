@@ -1,6 +1,5 @@
 ---
 title: "Roadmaps"
-weight: 20
 ---
 
 The old Xubuntu roadmaps are archived in the [Ubuntu wiki](https://wiki.ubuntu.com/Home)
