@@ -2,18 +2,18 @@
 title: "Guide for New Testers"
 ---
 
-After reading the [introduction on the website](https://xubuntu.org/contribute/qa), this \'New Tester\' wiki
+After reading the [introduction on the website](https://xubuntu.org/contribute/qa), this 'New Tester' wiki
 will take you through the simple steps that will enable you to join the
 community, start to help making Xubuntu better, and get testing.
 
-It\'s important to remember that pretty much anything that you are able
+It's important to remember that pretty much anything that you are able
 to do during a development cycle is of great use to the Xubuntu
-community. Even if you\'ve only got 30 minutes during the whole
+community. Even if you've only got 30 minutes during the whole
 development cycle to test that Xubuntu installs properly then this would
 be both a very worthwhile contribution and, most importantly, greatly
 appreciated.
 
-To avoid confusion, first it\'s worth clearing up a few terms which we
+To avoid confusion, first it's worth clearing up a few terms which we
 use both within these pages and elsewhere in the Xubuntu world:
 
 -   OS - Operating System, referring here to Xubuntu
@@ -30,7 +30,7 @@ use both within these pages and elsewhere in the Xubuntu world:
 
 **Right, OK, How do I start helping?**
 
-It\'s as easy as 1, 2, 3 \...
+It's as easy as 1, 2, 3 ...
 
     -[Install the Xubuntu Development version](/qa/installing/)
     -[Test your Xubuntu Development version](/qa/testing/)

@@ -22,7 +22,7 @@ following the team links.
 
 ## Xubuntu Council
 
-The Xubuntu Council consists of 3 members and oversees the project\'s
+The Xubuntu Council consists of 3 members and oversees the project's
 main direction. It replaces the previous Project Leader role.
 
 The current council members are:

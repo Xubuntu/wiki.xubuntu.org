@@ -2,14 +2,14 @@
 title: "Article Series"
 ---
 
-# Xubuntu at\...
+# Xubuntu at...
 
-See [\"Xubuntu at\...\" Interview Series](/marketing/projects/xubuntuat/).
+See ["Xubuntu at..." Interview Series](/marketing/projects/xubuntuat/).
 
 # My media manager
 
 This article series is planned to be published leading to the Xubuntu
-16.04 release. Since 16.04 doesn\'t have a default media manager, it
+16.04 release. Since 16.04 doesn't have a default media manager, it
 would be nice to present some options people can find in the
 repositories, instead of leaving them in the cold.
 
@@ -44,7 +44,7 @@ where appropriate!
 # The small details
 
 This article series is planned to be published leading to the Xubuntu
-16.04 release. 16.04 is an LTS release, and for many, it\'s the first
+16.04 release. 16.04 is an LTS release, and for many, it's the first
 new release they are going to upgrade to/install. A lot of things have
 happened in 2 years; this article series should highlight some new
 features that the team has included in Xubuntu since 14.04.

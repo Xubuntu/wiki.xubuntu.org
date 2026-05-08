@@ -38,7 +38,7 @@ languages.
 
 ## Testing the Xubuntu installer slideshow
 
-To be able to test the Xubuntu Ubiquity slideshow, you\'ll need to
+To be able to test the Xubuntu Ubiquity slideshow, you'll need to
 install some build dependencies. To do this, run the following commands
 in a terminal window:
 

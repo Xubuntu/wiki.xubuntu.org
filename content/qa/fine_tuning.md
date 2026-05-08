@@ -5,14 +5,14 @@ title: "Fine-Tuning Your Development Setup"
 # Using IRC for contact
 
 If you do have questions regarding issues in a development version,
-please do ask in the Xubuntu Developer channel (chat room)- don\'t worry
-if you dont understand much of what is being discussed there - don\'t be
+please do ask in the Xubuntu Developer channel (chat room)- don't worry
+if you dont understand much of what is being discussed there - don't be
 put off as the community is a friendly bunch and is always happy to see
 more potential testers. Just ask your question and people will try to
 help you.
 
 You can access the channels most easily via the following links - just
-choose a nickname (preferably one that\'s likely to be unique - and easy
+choose a nickname (preferably one that's likely to be unique - and easy
 to type!), the channel is already inserted for you (and ignore the Auth
 to services box, unless you have already registered your chosen
 nickname - see below)
@@ -28,24 +28,24 @@ the latest
 [Xubuntu-devel](https://irclogs.ubuntu.com/latest/%23xubuntu-devel.html)
 and [Xubuntu Support](https://irclogs.ubuntu.com/latest/%23xubuntu.html)
 channels are logged and updated every hour or so, and you can find older
-ones [here](https://irclogs.ubuntu.com/). Similarly, other people won\'t
-be in the channel all the time either - but if you say that you\'ll
+ones [here](https://irclogs.ubuntu.com/). Similarly, other people won't
+be in the channel all the time either - but if you say that you'll
 check the weblogs later for an answer they will at least try to get back
 to you even if when they come back you are not around.
 
-Although it\'s not essential, it is a good idea to register your chosen
+Although it's not essential, it is a good idea to register your chosen
 nickname for IRC, so that you can be guaranteed of always having the
 same recognisable identity because you can then use the same name across
 sessions and across the channels and people will be able to recognize
 you:
 
 Just enter any IRC channel via one of the links above (Remembering to
-choose a nickname!) and type, \'/msg NickServ REGISTER password
-youremail@example.com\' substituting a password of your choice and your
+choose a nickname!) and type, '/msg NickServ REGISTER password
+youremail@example.com' substituting a password of your choice and your
 email.
 
 Then you will receive an email allowing you to register your chosen
-nickname (as long as it isn\'t already taken).
+nickname (as long as it isn't already taken).
 
 You can also use an app for IRC, Hexchat (an Xchat fork) is popular with
 Xubuntu people who can help you get up and running, there is a wiki page
@@ -55,7 +55,7 @@ work for you to setup Hexchat.
 # Manual Partitions and Bootloader location
 
 If you have more than one installation on your system, often the
-autoresize option won\'t be available. Or you want control over where
+autoresize option won't be available. Or you want control over where
 your new install goes.
 
 Use the Something Else option and you will be shown a list of disks and
@@ -107,7 +107,7 @@ installation
 
 Once the installation has finished you can reboot as is normal, however
 in this case there is no way yet to boot into your new installation as
-your main bootloader doesn\'t know about it yet.
+your main bootloader doesn't know about it yet.
 
 Login to your main installation, open a terminal and run this command
 (this updates Grub and finds all systems it can boot)
@@ -178,6 +178,6 @@ see them on your Grub menu
 
 ## QA Team Contributor Information
 
-Further, more detailed, information can be found at the Xubuntu Team\'s
+Further, more detailed, information can be found at the Xubuntu Team's
 [Contributor Documentation](https://docs.xubuntu.org/contributors/),
 Chapter 4 of which is specifically about the Xubuntu QA Team.

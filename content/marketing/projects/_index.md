@@ -16,7 +16,7 @@ title: "Marketing Projects"
 
 ## Planning/Ongoing
 
--   [\"Xubuntu at\...\](/marketing/projects/xubuntuat/) interview series
+-   ["Xubuntu at...\](/marketing/projects/xubuntuat/) interview series
     of organizations using Xubuntu
 -   [Desktop of the Week](/marketing/projects/dotw/)
 
@@ -29,7 +29,7 @@ title: "Marketing Projects"
 
 ### Blog article ideas
 
-Is there a topic you\'d like to see covered on [our blog](http://xubuntu.org/blog/), please share your ideas here:
+Is there a topic you'd like to see covered on [our blog](http://xubuntu.org/blog/), please share your ideas here:
 
 -   ***Your idea here!***
 

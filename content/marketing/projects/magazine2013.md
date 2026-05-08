@@ -3,16 +3,16 @@ title: "Ideas for Magazine Articles"
 ---
 
 We were recently approached by Sonny Gaviola who is seeking to publish a
-special edition of their magazine and writes: \"I have an idea to make a
+special edition of their magazine and writes: "I have an idea to make a
 special part (with its own layout) of this issue, devoted to Xubuntu. It
 would be a guide for people already familiar with Linux, and trying to
 choose proper distribution for their needs. We would show Xubuntu
-advantages and greatest application working in Xfce environment.\"
+advantages and greatest application working in Xfce environment."
 
-Since it\'s targeted at existing users, he explained that articles can
-be \"from installation and configuration, through applications
+Since it's targeted at existing users, he explained that articles can
+be "from installation and configuration, through applications
 presentations up to advanced issues (like performance tuning and
-security).\"
+security)."
 
 **Update (26 Mar):** Just got notes back from the magazine editor, we
 can begin writing! Each article should be 2 to 8 printed pages, each
@@ -20,11 +20,11 @@ page should expect to have have 2500 characters and 2 screen
 shots/images. [Read full update
 here.](https://lists.ubuntu.com/archives/xubuntu-devel/2013-March/008709.html)
 
-**Elizabeth on the schedule:** Articles are due on April 15, so I\'ll
+**Elizabeth on the schedule:** Articles are due on April 15, so I'll
 ask that you get them to me by April 5th so I can review them. Release
 date for the magazine itself is 25th of April.
 
-**Update (26 Apr):** We\'ve gotten the articles back from the editor and
+**Update (26 Apr):** We've gotten the articles back from the editor and
 some of them need extending. See the mail
 [here](https://lists.ubuntu.com/archives/xubuntu-devel/2013-April/008845.html).
 

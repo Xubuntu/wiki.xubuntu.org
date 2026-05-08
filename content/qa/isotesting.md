@@ -6,7 +6,7 @@ title: "ISO Testing"
 
 Test builds available for testing are listed on the ISO
 [tracker](http://iso.qa.ubuntu.com/), you can decide which of the
-available iso\'s you will test.
+available iso's you will test.
 
 This page will look similar to this
 
@@ -61,7 +61,7 @@ Critical bugs: These are bugs which cause you to not pass the testcase.
 For example - you start the installer but are unable to complete. Mark
 your test as Failed.^1^
 
-Bugs: These are bugs discovered during the test, which don\'t affect the
+Bugs: These are bugs discovered during the test, which don't affect the
 testcase. For example, an application not part of the test, crashes and
 you see the crash dialogue.
 
@@ -73,6 +73,6 @@ start.
 # Notes
 
 ^1^ You might find that your result gets edited, while there could be
-many reasons for this, it\'s possible that Xubuntu QA have un-failed
+many reasons for this, it's possible that Xubuntu QA have un-failed
 your result, sometimes there is a fine line between a fail and pass and
 we might allow an issue under particular circumstances.

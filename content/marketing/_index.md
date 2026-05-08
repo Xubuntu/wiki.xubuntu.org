@@ -9,7 +9,7 @@ us at #xubuntu-devel on Freenode.
 
 # Marketing Audience
 
-When we are creating our marketing strategies it\'s important to know
+When we are creating our marketing strategies it's important to know
 what our target audience is. The following is a list of our current
 target audiences for marketing materials:
 

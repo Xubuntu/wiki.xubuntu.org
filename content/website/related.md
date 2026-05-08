@@ -30,16 +30,16 @@ Note: This list is outdated.
     -   Supported releases: 15.04 (old logo), 14.04 (old logo)
     -   EOL: 12.04
 -   <https://www.rainbowcomputech.com/index.php?categoryID=63>
-    -   Doesn\'t sell any supported releases
+    -   Doesn't sell any supported releases
     -   EOL: 11.04, 10.10, 9.10, 9.04, 8.10, 8.04, 7.10
 -   <http://www.amazon.com/Xubuntu-Linux-14-04-CD-Official/dp/B00JTNN88A>
-    -   Can\'t use the word \"official\"
-    -   \"MSRP\" of \$39.99 seems fishy
+    -   Can't use the word "official"
+    -   "MSRP" of $39.99 seems fishy
 -   <https://ualinux.com/en/pay/ubuntu-oem/1404-oem-pack/xubuntu-pack-1404-oem-detail>
     -   Supported releases: 14.04 (old logo on CD label)
     -   EOL: 12.04
 -   <http://on-disk.com/index.php/cPath/482_28_135_306>
-    -   Doesn\'t sell any supported releases
+    -   Doesn't sell any supported releases
     -   EOL: 12.10, 11.10, 11.04 (+alt), 10.04 (+alt), 9.10, 9.04 (+alt)
 
 # Other

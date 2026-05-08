@@ -2,7 +2,7 @@
 title: "\"Xubuntu at...\" Interview Series"
 ---
 
-# \"Xubuntu At\...\" Interview Series
+# "Xubuntu At..." Interview Series
 
 An interview series targeted at talking to groups and organizations
 using Xubuntu.
@@ -10,10 +10,10 @@ using Xubuntu.
 ## Sample Questions
 
 Modify questions based on target organization and invite them to add
-questions if there is something they wish to share and we didn\'t ask,
+questions if there is something they wish to share and we didn't ask,
 but roughly we want to be asking the following:
 
--   *Please tell us a bit about yourself and \$organization. (personal
+-   *Please tell us a bit about yourself and $organization. (personal
     info you wish to share, location and mission of the project, etc)*
 -   *What influenced your decision to use Open Source software in your
     organization?*
@@ -42,5 +42,5 @@ interviewed!*
 
 ## Article archive
 
-[Xubuntu.org: Archive for \"Xubuntu
-at\...\"](http://xubuntu.org/news/tag/xubuntu-at/)
+[Xubuntu.org: Archive for "Xubuntu
+at..."](http://xubuntu.org/news/tag/xubuntu-at/)

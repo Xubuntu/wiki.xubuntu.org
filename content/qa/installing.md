@@ -6,7 +6,7 @@ title: "Installing"
 
 Whatever you do next, first of all you will need to get the Xubuntu
 development version. This is available as an ISO image file, and the
-latest (\'daily\') version can *always* be found
+latest ('daily') version can *always* be found
 [here](http://cdimage.ubuntu.com/xubuntu/daily-live/current/).
 
 There are then four main options for installing the OS, depending on
@@ -18,13 +18,13 @@ what you have available.
     space - **Install Xubuntu alongside another OS (Dual Boot)**
 3.  You have a computer that you do depend on, but can spare 15Gb of
     space - **Install Xubuntu inside a Virtual Machine**
-4.  You have a computer you can use, but either can\'t or don\'t want to
+4.  You have a computer you can use, but either can't or don't want to
     install another OS - **Use Live Media to run Xubuntu**
 
 Each of these is described in a separate paragraph in a bit more detail
 below, and, after you have installed Xubuntu, at the end of each of
 these paragraphs you will find a link onto Step 2 with more information
-about \'Testing\' itself.
+about 'Testing' itself.
 
 However, just by installing the OS you have actually already completed
 some very valuable testing - you have confirmed (or not) that the
@@ -52,23 +52,23 @@ By simply being online, writing a letter, printing a document, sending
 an e-mail you discover the problems, that Xubuntu gets to solve. If this
 seems a fair deal to you, then please get testing.
 
-If you don\'t already know how to install Xubuntu, then please read this
+If you don't already know how to install Xubuntu, then please read this
 [great tutorial](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop),
 which applies as much to Xubuntu as to Ubuntu.
 
-Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+Once you've got Xubuntu running, you are ready to move on to Step 2 and
 start [testing](https://wiki.xubuntu.org/qa/testing).
 
-## 2 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu alongside another OS - \'Dual-boot\'
+## 2 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu alongside another OS - 'Dual-boot'
 
-This should give you enough space to install, update (you\'ll find
+This should give you enough space to install, update (you'll find
 updates more frequent during the 6 month cycle) and not feel constrained
 by free space issues.
 
--   Setting up dual boot can be as simple as choosing the \'Install
-    Alongside\'\' option during the installation where that option
+-   Setting up dual boot can be as simple as choosing the 'Install
+    Alongside'' option during the installation where that option
     exists on the installer.
--   If however, the Install Alongside isn\'t available you need to
+-   If however, the Install Alongside isn't available you need to
     manually create a partition by resizing an existing one and then
     installing. We have a section on the [fine tuning page](https://wiki.xubuntu.org/qa/fine_tuning) that works through
     this issue.
@@ -81,16 +81,16 @@ want to use for that session.
 
 Then the operating system you choose will simply start up and be no
 different from what you are used to - there is no interference between
-the operating systems. It\'s like having two or more computers in one.
+the operating systems. It's like having two or more computers in one.
 
-Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+Once you've got Xubuntu running, you are ready to move on to Step 2 and
 start [testing](https://wiki.xubuntu.org/qa/testing).
 
-## 3 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu inside a \'Virtual Machine\' (\'VM\')
+## 3 - You have a computer that you do depend on, but have 15 GB or so free hard disk space - Install Xubuntu inside a 'Virtual Machine' ('VM')
 
 You can simply install the development version of Xubuntu inside your
-current operating system, using a Virtual Machine, or \'VM\' (an
-\'emulator\'). This virtual computer will not interfere with your main
+current operating system, using a Virtual Machine, or 'VM' (an
+'emulator'). This virtual computer will not interfere with your main
 operating system, apart from taking up some space on your hard disk, but
 it will allow you to do some invaluable testing.
 
@@ -103,10 +103,10 @@ Middle-click
 if you want to talk to people in the Xubuntu Development Channel now in
 a new window. There people are often available in real time.
 
-Xubuntu Testers regularly use VM\'s to test things - so it\'s a
+Xubuntu Testers regularly use VM's to test things - so it's a
 perfectly acceptable method of testing.
 
-Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+Once you've got Xubuntu running, you are ready to move on to Step 2 and
 start [testing](https://wiki.xubuntu.org/qa/testing).
 
 ## 4 - You have a computer that you could use, but can't or don't want to install another operating system - Use a live media version (on a USB stick, DVD or in a VM)
@@ -116,11 +116,11 @@ has a CD or DVD drive, or a USB connection and you have a USB disk or
 stick that you can use, you can do some valuable testing by using the
 development version of Xubuntu in a live-session.
 
-If you don\'t already know how to do this, here is a [great tutorial](https://tutorials.ubuntu.com/tutorial/try-ubuntu-before-you-install).
+If you don't already know how to do this, here is a [great tutorial](https://tutorials.ubuntu.com/tutorial/try-ubuntu-before-you-install).
 
 To do this with a VM you simply need to give the machine a small amount
 of space and boot the iso on that. No need to actually install unless
 you wish to do so.
 
-Once you\'ve got Xubuntu running, you are ready to move on to Step 2 and
+Once you've got Xubuntu running, you are ready to move on to Step 2 and
 start [testing](https://wiki.xubuntu.org/qa/testing).

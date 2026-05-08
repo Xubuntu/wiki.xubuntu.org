@@ -20,18 +20,18 @@ title: "Development Roadmap for 18.04"
     -   This could be worthwhile, but development could be given to a
         new contributor
 -   xfce4-pulseaudio-plugin: Possibly replace indicator-sound
-    -   We\'ll be doing this for 18.04
+    -   We'll be doing this for 18.04
 -   Integrate the Pidgin theme
     -   Pretty low priority, requires several changes to Pidgin
 -   Update appstream metadata for GUI applications
     -   Should probably create a checklist for the items maintained by
         our team and review
 -   Review xubuntu-core patches
-    -   Let\'s refresh these and get some eyes on them
+    -   Let's refresh these and get some eyes on them
 
 # Ideas
 
 -   Compton works really well and eliminates screen tearing. Is this
-    something we\'re interested in investigating for 18.04? Pros/Cons?
+    something we're interested in investigating for 18.04? Pros/Cons?
 -   Trim some fonts added late in the Artful cycle
 -   Split the packaging for elementary-xfce

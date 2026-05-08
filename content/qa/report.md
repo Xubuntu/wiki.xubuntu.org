@@ -25,9 +25,9 @@ using the iso tracker.
 
 ## Sharing a screenshot
 
-Sometimes it\'s easier to show than tell and so sharing your screenshot
+Sometimes it's easier to show than tell and so sharing your screenshot
 has been made easy. Just press the `PrintScreen-button` on your
-keyboard, select \"host on imgur\", click \"ok\" to upload your screen
+keyboard, select "host on imgur", click "ok" to upload your screen
 to Imgur, and then the next dialogue contains the link that points to
 it. Copy the link into your bug-mail, the IRC-channel, or the bug
 report. Only need to share your active window? Press `ALT-PrintScreen`.
@@ -40,8 +40,8 @@ your screenshot on Imgur is for all the world to see.
 ## Launchpad
 
 Xubuntu uses [Launchpad](https://help.ubuntu.com/community/Launchpad)
-for bug reporting. To report bugs you will need an account. An [\'Ubuntu
-One\' account](https://login.ubuntu.com/+login) allows you to log in to
+for bug reporting. To report bugs you will need an account. An ['Ubuntu
+One' account](https://login.ubuntu.com/+login) allows you to log in to
 all the Xubuntu and Ubuntu services and sites, including Launchpad.
 
 ## Reporting issues
@@ -58,10 +58,10 @@ Several types of issues may occur:
 In any of these cases you need the Launchpad-account you set up above to
 report back.
 
-### An application crashes, and there\'s a dialogue to report the crash
+### An application crashes, and there's a dialogue to report the crash
 
 In most cases the operating system will automatically start the
-\"ubuntu-bug\" application **Apport** to produce a crash report and show
+"ubuntu-bug" application **Apport** to produce a crash report and show
 you a dialogue in which you can choose to report the issue. Simply
 follow the instructions.
 
@@ -70,17 +70,16 @@ follow the instructions.
 [You know the name of the application:] If, after a crash,
 there is no dialogue asking you to report the crash, you can press
 `ALT-F2` to open the Run Command dialogue, or press `CTRL-ALT-T` to open
-a terminal, type `ubuntu-bug <package name>` (substituting \<package
-name\>) and press `ENTER`. Then simply follow the instructions.
+a terminal, type `ubuntu-bug <package name>` (substituting `<package name>`) and press `ENTER`. Then simply follow the instructions.
 
-[You don\'t know the right package name of the application:]
+[You don't know the right package name of the application:]
 If the application that crashed still has an open window: press `ALT-F2`
 to open the Run Command dialogue, or press `CTRL-ALT-T` to open a
-terminal and type `ubuntu-bug -w`. An \'X\' will appear. Then click on
+terminal and type `ubuntu-bug -w`. An 'X' will appear. Then click on
 the window of the application you want to report against and just follow
 the instructions.
 
-### You don\'t know which application has the problem
+### You don't know which application has the problem
 
 [Here](https://wiki.ubuntu.com/Bugs/FindRightPackage) are instructions
 to find the right package.
@@ -88,8 +87,8 @@ to find the right package.
 ### Your whole system crashed
 
 You might find [Debugging System Crashes](https://help.ubuntu.com/community/DebuggingSystemCrash)
-helpful. Reporting system crashes is slightly more complex. But don\'t
-worry if you don\'t manage: just start reporting \'normal bugs\'. As you
+helpful. Reporting system crashes is slightly more complex. But don't
+worry if you don't manage: just start reporting 'normal bugs'. As you
 get in the swing of things you will learn how to do more and more.
 
 ### You want to ask a question, or notice things that should work better or need to be more user friendly
@@ -116,7 +115,7 @@ You may not be the first to notice the bug. In many cases the ubuntu-bug
 Apport application will check if the crash you experienced has been
 reported before. If so you will be directed to the appropriate place on
 launchpad, and you can then add any information you think helpful, and
-mark yourself as \"affected too\".
+mark yourself as "affected too".
 
 If in doubt: do report a new bug, as no bug should remain unreported.
 

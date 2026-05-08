@@ -7,10 +7,10 @@ where we promote the contents of others (via retweets), so care should
 be taken when using this facility to ensure fairness and effective
 promotion of content we want our followers to see.
 
-Tip: Follow not only the \@Xubuntu mentions, but also #Xubuntu to find
+Tip: Follow not only the @Xubuntu mentions, but also #Xubuntu to find
 content worth sharing.
 
-As an administrator, you\'re expected to follow the following
+As an administrator, you're expected to follow the following
 guidelines.
 
 # What we tweet
@@ -27,7 +27,7 @@ guidelines.
     sources out there, we are just Xubuntu.
 -   An occasional tweet about a derivative is fine, but make sure they
     abide by the [Guidelines for Xubuntu derivatives](https://xubuntu.org/dev/derivatives/).
--   An occasional tweet from \@Ubuntu is fine, as long as it somehow
+-   An occasional tweet from @Ubuntu is fine, as long as it somehow
     impacts Xubuntu.
 
 # Replies
@@ -43,7 +43,7 @@ guidelines.
 -   Before you retweet content from a user, do your best to make sure
     they are worthy of retweeting. If their content is often
     objectionable to most audiences (violence, nudity, harassment of
-    other users, to name a few), we don\'t want to promote their tweets.
+    other users, to name a few), we don't want to promote their tweets.
 -   Do not over-retweet (no more than 2-3 retweets per day). Most
     followers want to see news from the project, over-retweeting of
     content from other uses may reduce followers.
@@ -55,7 +55,7 @@ guidelines.
 
 -   To avoid favoritism and generally not wanting to upset people if
     they are not followed by the account but believe they should be, we
-    generally don\'t follow anyone.
+    generally don't follow anyone.
     -   We do follow at least one Xubuntu developer and the Xfce
         account, so we are open to suggestions.
 -   Lists are not used for the same reason as following.

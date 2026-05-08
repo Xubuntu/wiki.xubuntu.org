@@ -28,12 +28,12 @@ Things to keep in mind when writing design proposals:
 -   You may use this SVG for design proposals:
     [tshirt_template.svg](/attachment/tshirt_template.svg)
 
--   Xubuntu mouse on front, \"xubuntu.org\" lettering on back
+-   Xubuntu mouse on front, "xubuntu.org" lettering on back
     -   [Download SVG](/attachment/tshirt_lyz_1.svg)
 
 ![tshirt_lyz_1.png](/attachment/tshirt_lyz_1.png)
 
--   Xubuntu mouse on back, \"Xubuntu\" word on front, blue t-shirt
+-   Xubuntu mouse on back, "Xubuntu" word on front, blue t-shirt
     -   [Download SVG](hayden_bickerton_xubuntu_shirt.svg)
 
 ![hayden_bickerton_xubuntu_shirt.png](/attachment/hayden_bickerton_xubuntu_shirt.png)

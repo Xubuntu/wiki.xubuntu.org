@@ -28,5 +28,5 @@ telegram groups.
 
 # Cons
 
--   Telegram isn\'t an open source platform
+-   Telegram isn't an open source platform
 -   The IRC bridge requires sysadmins to be available to fix any issues

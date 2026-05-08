@@ -4,7 +4,7 @@ title: "Testing"
 
 # Step 2: Testing your Xubuntu installation.
 
-As was mentioned in the previous step, now that you\'ve
+As was mentioned in the previous step, now that you've
 [installed](https://wiki.xubuntu.org/qa/installing) Xubuntu, you have
 already tested the installation and this very valuable testing needs to
 be reported via the [Iso Tracker](http://iso.qa.ubuntu.com/), more info
@@ -27,10 +27,10 @@ you move down through the 4 alternatives listed on the [Install the Xubuntu Deve
 page.
 
 If in doubt it is perhaps best to start with exploratory testing with
-Xubuntu installed as your main OS, or as \'dual boot\' option alongside
+Xubuntu installed as your main OS, or as 'dual boot' option alongside
 your existing OS.
 
-## 1. \'Exploratory\' Testing
+## 1. 'Exploratory' Testing
 
 This type of testing holds the greatest value for the Xubuntu
 Development Team. The way to find bugs in applications is for you to use
@@ -41,24 +41,24 @@ You just do what you do during your normal use of Xubuntu.
 After you have installed Xubuntu, install all your favourite extra apps
 and then carrying on using it until the release cycle ends.
 
-It\'s important to keep Xubuntu up to date every day (e.g. using the
-software updater), to make sure that you don\'t see and report bugs that
+It's important to keep Xubuntu up to date every day (e.g. using the
+software updater), to make sure that you don't see and report bugs that
 have already been fixed.
 
 Although at the beginning of the release cycle using a VM may well be
 fine, later on installing as the main OS or dual-booting are preferred
-since they are closer to the \'real life\' case.
+since they are closer to the 'real life' case.
 
 ## Report Back
 
 Should you find bugs, or anything you think the Development Team should
 know, please move on to Step 3 and [report back](https://wiki.xubuntu.org/qa/report).
 
-## 2. \'Static\' Testing
+## 2. 'Static' Testing
 
 This is testing in its purest form -- you get and install the ISO and
 test it without installing anything else or changing anything to your
-main system - the ISO remains \'static\'. Static testing means that you
+main system - the ISO remains 'static'. Static testing means that you
 check that Xubuntu installs without problems and that the pre-installed
 apps work. Actually, each of the different installation methods as shown
 in [this example](http://iso.qa.ubuntu.com/qatracker/milestones/384/builds/170373/testcases)

@@ -3,8 +3,8 @@ title: "Git Workflow"
 ---
 
 The Xubuntu team uses Git for all version-controlled projects. While
-Launchpad\'s Git support is still relatively young, it is robust.
-Furthermore, Git is one of the world\'s most common version control
+Launchpad's Git support is still relatively young, it is robust.
+Furthermore, Git is one of the world's most common version control
 systems (VCS) and is used upstream: both in Debian and Xfce.
 
 If this is your first time working with Git, the Xfce Wiki has a great
@@ -32,9 +32,9 @@ time for us to move.
     and supported, with regular releases and bug fixes. The last Bazaar
     release was over two years ago.
 -   **Application Support:** Many applications provide support for Git
-    in one way or another. [Thunar\'s VCS
+    in one way or another. [Thunar's VCS
     plugin](https://goodies.xfce.org/projects/thunar-plugins/thunar-vcs-plugin)
-    and Geany\'s [GeanyVC](https://plugins.geany.org/geanyvc.html)
+    and Geany's [GeanyVC](https://plugins.geany.org/geanyvc.html)
     plugin provide addon support for managing Git repositories.
     [Atom](https://atom.io/) and [Visual Studio Code](https://code.visualstudio.com/), two of the most popular IDEs
     available for Linux, have native support for Git.
@@ -76,7 +76,7 @@ download the translations for a project and sync them manually.
 
 # Examples
 
-We\'ll use Xubuntu Documentation
+We'll use Xubuntu Documentation
 ([lp:xubuntu-docs](https://code.launchpad.net/xubuntu-docs)) for our
 examples.
 
@@ -100,13 +100,13 @@ examples.
 
 Say you have some changes you want want to have merged. Instead of
 pushing directly to the main repository, you can instead push your own
-branch. In the below example, you tell git about your new \"remote\"
+branch. In the below example, you tell git about your new "remote"
 where you are going to be pushing your commits. In this example we will
 use the following names:
 
--   \"myfeaturebranch\" as the name of our new branch.
--   \"myremote\" as the name of our new remote repository.
--   \"myusername\" as our Launchpad username.
+-   "myfeaturebranch" as the name of our new branch.
+-   "myremote" as the name of our new remote repository.
+-   "myusername" as our Launchpad username.
 -   Replace these as necessary.
 
     git checkout -b myfeaturebranch # Creates a new branch and switches to it

@@ -3,8 +3,8 @@ title: "Contributor Survey 2012"
 ---
 
 To do some preparation before we will actually get our hands dirty,
-we\'re going to survey your specific areas of interest in documentation.
-We\'ve listed four different groups below, which all require different
+we're going to survey your specific areas of interest in documentation.
+We've listed four different groups below, which all require different
 qualities from the contributor.
 
 Please add **your name and Launchpad nick** to **one or two** of the
@@ -15,7 +15,7 @@ following groups:
 The writers focus on covering all aspects of documentation and producing
 content to be processed further. To be a writer, you need to have
 relatively good English skills and some knowledge about Xubuntu, but you
-don\'t need technical skills.
+don't need technical skills.
 
 -   Jack Fromm (jjfrv8-gmail)
 -   Chris (racerx-makeworld)
@@ -23,13 +23,13 @@ don\'t need technical skills.
 -   Paulo Ribeiro (prcr)
 -   Kev (Elfy)
 -   James Freer (jessejazza3-uk)
--   Joshua O\'Leary (jmoleary)
+-   Joshua O'Leary (jmoleary)
 -   George Miles (dicegeorge)
 -   David Pearson (akxwi-dave)
 
 # Grammar editor
 
-The grammar editors proof-read others\' text to make it more
+The grammar editors proof-read others' text to make it more
 understandable and easy-to-read. To be an editor, you need good English
 skills but no technical skills.
 
@@ -52,16 +52,16 @@ and technical skills to understand what different things do.
 
 -   Paulo Ribeiro (prcr)
 -   James Freer (jessejazza-uk)
--   Joshua O\'Leary (jmoleary)
+-   Joshua O'Leary (jmoleary)
 -   Michael Price (mprice)
 
 # Docbook editor
 
 The Docbook editors convert the written documentation into the
-[Docbook](http://www.docbook.org/) syntax. You don\'t need any writing
-skills, but you need to have some technical skills. We\'re also hoping
+[Docbook](http://www.docbook.org/) syntax. You don't need any writing
+skills, but you need to have some technical skills. We're also hoping
 that the Docbook editors are willing to contribute for a longer period
-of time than just the Quantal cycle, but it\'s not a hard requirement.
+of time than just the Quantal cycle, but it's not a hard requirement.
 
 -   Chris (racerx-makeworld)
 -   S Venu Gopal (dream_liner2k2)
