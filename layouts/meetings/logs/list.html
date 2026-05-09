@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  {{- .Content -}}
+
+  {{ range (.Pages.GroupByDate "2006") }}
+  <h2>{{ .Key }}</h2>
+  <ul>
+    {{ range .Pages.ByDate.Reverse }}
+    <li><a href="{{ .RelPermalink }}">{{ .Date.Format "January 2, 2006" }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</article>
+{{ end }}
