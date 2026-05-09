@@ -75,11 +75,11 @@
 {{ end }}
 
 {{ define "copyright" }}
-  {{ if or .Site.Copyright .Params.Copyright }}
-  <div class="book-copyright flex justify-center">
-    {{ partial "docs/copyright" . }}
+  <div class="book-copyright flex justify-left">
+    {{ if or .Site.Copyright .Params.Copyright }}{{ partial "docs/copyright" . }}{{ end }}
+    <p class="book-license">Except where otherwise noted, content on this wiki is licensed under the following license:<br>
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener">CC Attribution-Noncommercial-Share Alike 4.0 International</a></p>
   </div>
-  {{ end }}
 {{ end }}
 
 {{ define "comments" }}
@@ -98,10 +98,16 @@
     <p class="book-last-modified">Last modified: <a href="{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .Lastmod.Format "2006-01-02" }}</a> by {{ .GitInfo.AuthorName }}</p>
     {{- end }}
     {{- if .File }}
+    {{- $filePath := strings.TrimLeft "/" (strings.TrimPrefix hugo.WorkingDir .File.Filename) }}
+    {{- $branch := strings.TrimPrefix "edit/" .Site.Params.BookEditPath }}
     <p class="book-page-links">
-      <a href="{{ .Site.Params.BookRepo }}/issues/new?title={{ printf "Issue with: %s" .Title | urlquery }}&amp;body={{ printf "Page: %s" .Permalink | urlquery }}" target="_blank" rel="noopener">Report an issue</a>
+      <a href="{{ .Site.Params.BookRepo }}/blob/{{ $branch }}/{{ $filePath }}" target="_blank" rel="noopener">Show page source</a>
       ·
-      <a href="{{ .Site.Params.BookRepo }}/{{ .Site.Params.BookEditPath }}/{{ strings.TrimLeft "/" (strings.TrimPrefix hugo.WorkingDir .File.Filename) }}" target="_blank" rel="noopener">Edit this page</a>
+      <a href="{{ .Site.Params.BookRepo }}/commits/{{ $branch }}/{{ $filePath }}" target="_blank" rel="noopener">History</a>
+      ·
+      <a href="{{ .Site.Params.BookRepo }}/{{ .Site.Params.BookEditPath }}/{{ $filePath }}" target="_blank" rel="noopener">Edit this page</a>
+      ·
+      <a href="{{ .Site.Params.BookRepo }}/issues/new?title={{ printf "Issue with: %s" .Title | urlquery }}&amp;body={{ printf "Page: %s" .Permalink | urlquery }}" target="_blank" rel="noopener">Report an issue</a>
     </p>
     {{- end }}
   </article>
