@@ -8,7 +8,7 @@ All wiki content lives in the [`content/`](content/) directory as Markdown (`.md
 
 1. Fork this repository on GitHub.
 2. Edit or add a Markdown file under `content/`.
-3. Open a pull request against the `master` branch.
+3. Open a pull request against the `main` branch.
 
 You can also click **Edit this page** at the bottom of any wiki page to jump straight to the file on GitHub.
 
