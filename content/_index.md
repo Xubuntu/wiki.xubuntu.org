@@ -13,7 +13,7 @@ If you are looking for **user support**, **downloads**, or **general information
 - **[Meetings](/meetings/)**: current meeting agenda and the full [archive of past meetings](/meetings/archive/)
 - **[Development](/devel/)**: developer references: Git workflow, PPAs, and release notes
 - **[Quality Assurance](/qa/)**: ISO testing guides and resources for new testers
-- **[Documentation](/doc/)** :information for the documentation team
+- **[Documentation](/doc/)**: information for the documentation team
 - **[Marketing](/marketing/)**: marketing projects, materials, and brand guidelines
 - **[Website](/website/)**: resources for the website team
 
