@@ -97,6 +97,13 @@
     {{- if .GitInfo }}
     <p class="book-last-modified">Last modified: <a href="{{ .Site.Params.BookRepo }}/commit/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .Lastmod.Format "2006-01-02" }}</a> by {{ .GitInfo.AuthorName }}</p>
     {{- end }}
+    {{- if .File }}
+    <p class="book-page-links">
+      <a href="{{ .Site.Params.BookRepo }}/issues/new?title={{ printf "Issue with: %s" .Title | urlquery }}&amp;body={{ printf "Page: %s" .Permalink | urlquery }}" target="_blank" rel="noopener">Report an issue</a>
+      ·
+      <a href="{{ .Site.Params.BookRepo }}/{{ .Site.Params.BookEditPath }}/{{ strings.TrimLeft "/" (strings.TrimPrefix hugo.WorkingDir .File.Filename) }}" target="_blank" rel="noopener">Edit this page</a>
+    </p>
+    {{- end }}
   </article>
 {{ end }}
 
