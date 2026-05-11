@@ -21,8 +21,8 @@
   var btn = document.getElementById('xu-menu-btn');
   var nav = document.getElementById('xu-nav');
   var icon = document.getElementById('xu-menu-icon');
-  var openSrc = {{ $menuOpen.Permalink | jsonify }};
-  var closeSrc = {{ $menuClose.Permalink | jsonify }};
+  var openSrc = '{{ $menuOpen.Permalink }}';
+  var closeSrc = '{{ $menuClose.Permalink }}';
   btn.addEventListener('click', function() {
     var open = nav.classList.toggle('open');
     btn.setAttribute('aria-expanded', open);

@@ -263,15 +263,14 @@ h1, h2, h3, h4, h5, h6 {
   img {
     height: 24px;
     width: 24px;
-    filter: brightness(0) invert(1);
   }
 }
 
 @media screen and (max-width: 640px) {
   .xu-nav {
     display: none;
-    position: absolute;
-    top: 100%;
+    position: fixed;
+    top: var(--xu-header-height);
     left: 0;
     right: 0;
     z-index: 500;
