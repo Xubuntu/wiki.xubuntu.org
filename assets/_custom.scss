@@ -198,7 +198,6 @@ h1, h2, h3, h4, h5, h6 {
   position: sticky;
   top: 0;
   z-index: 100;
-  overflow: hidden;
 
   &::before {
     content: '';
@@ -214,6 +213,7 @@ h1, h2, h3, h4, h5, h6 {
     mask-position: 100% 100%;
     mask-repeat: no-repeat;
     pointer-events: none;
+    clip-path: inset(0 0 50% 0);
   }
 }
 
@@ -269,8 +269,8 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 640px) {
   .xu-nav {
     display: none;
-    position: fixed;
-    top: var(--xu-header-height);
+    position: absolute;
+    top: 100%;
     left: 0;
     right: 0;
     z-index: 500;
