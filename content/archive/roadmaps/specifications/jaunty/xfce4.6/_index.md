@@ -2,7 +2,7 @@
 title: "Xfce4.6"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/Xfce4.6).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/Xfce4.6), last updated 2009-03-07.*
 
 # Jaunty Specification: Xfce4.6
 

@@ -2,7 +2,7 @@
 title: "Ubuntu Open Week"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Maverick/UbuntuOpenWeek).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Maverick/UbuntuOpenWeek), last updated 2012-03-25.*
 
 # Xubuntu Development - UbuntuOpenWeek
 ## Objective

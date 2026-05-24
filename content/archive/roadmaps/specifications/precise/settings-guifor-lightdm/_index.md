@@ -2,7 +2,7 @@
 title: "Settings GUIfor Lightdm"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/SettingsGUIforLightdm).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/SettingsGUIforLightdm), last updated 2011-11-17.*
 
 ## Settings GUI for lightdm
 

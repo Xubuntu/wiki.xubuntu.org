@@ -2,7 +2,7 @@
 title: "Default Media Manager"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/X/DefaultMediaManager).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/X/DefaultMediaManager), last updated 2015-11-09.*
 
 ## Definitions
 For the purposes of this wiki page and discussion, the following terms are used:

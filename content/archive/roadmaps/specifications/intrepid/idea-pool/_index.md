@@ -2,7 +2,7 @@
 title: "Idea Pool"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/IdeaPool).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/IdeaPool), last updated 2012-03-25.*
 
 # Xubuntu Idea Pool
 [![](http://brainstorm.ubuntu.com/modules/qawebsite/images/logo/idea-logo.png)](http://brainstorm.ubuntu.com)

@@ -2,7 +2,7 @@
 title: "Incoming"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/Incoming).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/Incoming), last updated 2013-09-13.*
 
 ### Wallpaper and gdm login backround
 ![wallpaper.png](/archive/roadmaps/specifications/feisty/artwork/incoming/wallpaper.png)

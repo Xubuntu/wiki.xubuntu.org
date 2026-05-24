@@ -2,7 +2,7 @@
 title: "Xubuntu Documentation"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/XubuntuDocumentation).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/XubuntuDocumentation), last updated 2012-03-25.*
 
 Specifications for this cycle : 
 # Xubuntu documentation look and availability

@@ -2,7 +2,7 @@
 title: "Ubiquity Application Sets"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/UbiquityApplicationSets).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/UbiquityApplicationSets), last updated 2011-11-28.*
 
 ## Ubiquity "Application sets"
 

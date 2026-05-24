@@ -2,7 +2,7 @@
 title: "Gtk Theme"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GtkTheme).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GtkTheme), last updated 2008-08-06.*
 
 # Ubuntulooks-graphite
 

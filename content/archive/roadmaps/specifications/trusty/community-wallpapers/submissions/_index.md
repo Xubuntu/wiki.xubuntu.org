@@ -2,7 +2,7 @@
 title: "Submissions"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions), last updated 2014-01-27.*
 
 # Submissions for Xubuntu's 14.04 default wallpaper set
 

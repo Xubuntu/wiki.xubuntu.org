@@ -2,7 +2,7 @@
 title: "Website Update"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/WebsiteUpdate).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/WebsiteUpdate), last updated 2016-02-16.*
 
 This is the todo -list for the Xubuntu website for Pangolin.
 

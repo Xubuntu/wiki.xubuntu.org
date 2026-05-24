@@ -2,7 +2,7 @@
 title: "Xubuntu Wishlist"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Xubuntu-Wishlist).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Xubuntu-Wishlist), last updated 2012-03-25.*
 
 This page exists to allow users to quickly add their own small suggestions as to help improve the next release of Xubuntu (Feisty Fawn). Please try to file your ideas under the appropriate category; use headers (See HelpOnHeadlines) to keep things neat and easy to access; and sign all comments (See: HelpOnPageCreation#variablesubstitution)
 

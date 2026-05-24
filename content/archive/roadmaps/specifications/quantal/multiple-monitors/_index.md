@@ -2,7 +2,7 @@
 title: "Multiple Monitors"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/MultipleMonitors).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/MultipleMonitors), last updated 2012-06-19.*
 ** Disclaimer**
 ***This specification is still a work in progress. This paragraph will be removed once it's finalized.***
 

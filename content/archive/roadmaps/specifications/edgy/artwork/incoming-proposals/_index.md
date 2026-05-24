@@ -2,7 +2,7 @@
 title: "Incoming Proposals"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork/IncomingProposals).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork/IncomingProposals), last updated 2008-08-06.*
 
 These artworks are some of my explorations in the direction of developing a pleasing look and feel for xubuntu/edgy.
 

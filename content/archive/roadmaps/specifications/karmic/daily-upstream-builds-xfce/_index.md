@@ -2,7 +2,7 @@
 title: "Daily Upstream Builds Xfce"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/daily-upstream-builds-xfce).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/daily-upstream-builds-xfce), last updated 2012-03-25.*
 
 Specifications for this cycle : 
 # Daily upstream builds of Xfce

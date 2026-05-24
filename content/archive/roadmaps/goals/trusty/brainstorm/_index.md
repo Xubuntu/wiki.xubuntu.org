@@ -2,7 +2,7 @@
 title: "Brainstorm"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty/Brainstorm).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty/Brainstorm), last updated 2014-03-12.*
 
 ## Brainstorming and discussion
 

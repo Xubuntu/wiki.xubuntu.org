@@ -2,7 +2,7 @@
 title: "Artwork"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Artwork).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Artwork), last updated 2013-09-13.*
 
 Xubuntu Intrepid Artworks.
 

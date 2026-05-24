@@ -2,7 +2,7 @@
 title: "Documentation Browser"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/DocumentationBrowser).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/DocumentationBrowser), last updated 2012-03-25.*
 - **Launchpad Entry**: [Xubuntu Documentation Browser](https://blueprints.launchpad.net/ubuntu/+spec/xubuntu-documentation-browser)
 - **Created**: 2007-05-31
 - **Contributors**: Jim Campbell ([j1mc](https://wiki.ubuntu.com/j1mc)), Freddy Martinez ([FreddyMartinez](https://wiki.ubuntu.com/FreddyMartinez)), Cody A.W. Somerville ([CodySomerville](https://wiki.ubuntu.com/CodySomerville)), and Aaron Taddei  

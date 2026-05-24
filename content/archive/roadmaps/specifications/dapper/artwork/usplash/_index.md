@@ -2,7 +2,7 @@
 title: "Usplash"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Usplash).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Usplash), last updated 2008-08-06.*
 
 *DapperXubuntuLook*
 # Final propositions

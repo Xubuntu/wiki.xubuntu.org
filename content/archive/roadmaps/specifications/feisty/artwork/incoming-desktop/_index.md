@@ -2,7 +2,7 @@
 title: "Incoming Desktop"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/IncomingDesktop).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/IncomingDesktop), last updated 2008-08-06.*
 
 # Menu Buttons
 

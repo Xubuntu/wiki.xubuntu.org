@@ -2,7 +2,7 @@
 title: "All Images"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/AllImages).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/AllImages), last updated 2012-03-25.*
 
 ### Wallpaper and GDM background
 

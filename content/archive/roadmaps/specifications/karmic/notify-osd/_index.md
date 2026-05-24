@@ -2,7 +2,7 @@
 title: "Notify Osd"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/NotifyOsd).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/NotifyOsd), last updated 2012-03-25.*
 
 Specifications for this cycle : 
 # Notify-osd in Karmic

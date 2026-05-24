@@ -2,7 +2,7 @@
 title: "Keyboard Shortcuts Overlay"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/KeyboardShortcutsOverlay).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/KeyboardShortcutsOverlay), last updated 2012-12-22.*
 
 ## Specification title
 

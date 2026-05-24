@@ -2,7 +2,7 @@
 title: "Desktop Layout Proposal"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/DesktopLayoutProposal).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/DesktopLayoutProposal), last updated 2014-06-22.*
 
 ## Xubuntu 14.10's default desktop
 

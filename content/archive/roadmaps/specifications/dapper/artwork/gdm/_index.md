@@ -2,7 +2,7 @@
 title: "GDM"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GDM).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GDM), last updated 2008-08-06.*
 
 *DapperXubuntuLook*
 

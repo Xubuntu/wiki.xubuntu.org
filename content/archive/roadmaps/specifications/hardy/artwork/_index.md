@@ -2,7 +2,7 @@
 title: "Artwork"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/Artwork).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/Artwork), last updated 2008-08-06.*
 
 # Xubuntu Hardy Design
 Artwork from the release candidate:

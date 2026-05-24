@@ -2,7 +2,7 @@
 title: "How To"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions/HowTo).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions/HowTo), last updated 2013-11-30.*
 
 ## How to submit wallpapers to the 14.04 wallpaper contest
 

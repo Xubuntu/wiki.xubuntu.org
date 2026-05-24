@@ -2,7 +2,7 @@
 title: "Raring"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Raring).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Raring), last updated 2013-03-23.*
 
 # Xubuntu Development Roadmap
 

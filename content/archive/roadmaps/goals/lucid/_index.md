@@ -2,7 +2,7 @@
 title: "Lucid"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Lucid).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Lucid), last updated 2009-11-04.*
 
 ## New objectives for Lucid
 

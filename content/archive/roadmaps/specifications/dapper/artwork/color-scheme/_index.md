@@ -2,7 +2,7 @@
 title: "Color Scheme"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/ColorScheme).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/ColorScheme), last updated 2008-08-06.*
 
 Currently we have 
 

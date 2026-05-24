@@ -2,7 +2,7 @@
 title: "Icons"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Icons).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Icons), last updated 2008-08-06.*
 
 *[Xubuntu/Artwork/Dapper](https://wiki.ubuntu.com/Xubuntu/Artwork/Dapper)*
 

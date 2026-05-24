@@ -2,7 +2,7 @@
 title: "Pkexec"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Pkexec).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Pkexec), last updated 2014-07-21.*
 
 ## List of applications that will need policy files for pkexec
 

@@ -2,7 +2,7 @@
 title: "Gtk3 Indicators"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/Gtk3Indicators).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/Gtk3Indicators), last updated 2014-02-12.*
 
 # Instructions on how to get Gtk3 indicators in a Gtk2 Xfce-Panel
 

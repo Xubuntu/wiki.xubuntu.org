@@ -2,7 +2,7 @@
 title: "Terminal Theme Review"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/TerminalThemeReview).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/TerminalThemeReview), last updated 2012-08-23.*
 
 ## Specification title
 

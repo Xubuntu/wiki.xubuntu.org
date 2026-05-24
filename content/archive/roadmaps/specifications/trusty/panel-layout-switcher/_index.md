@@ -2,7 +2,7 @@
 title: "Panel Layout Switcher"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/PanelLayoutSwitcher).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/PanelLayoutSwitcher), last updated 2014-11-27.*
 
 ## Specification title
 

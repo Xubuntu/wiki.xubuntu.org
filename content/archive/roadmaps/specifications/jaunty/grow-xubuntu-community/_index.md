@@ -2,7 +2,7 @@
 title: "Grow Xubuntu Community"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/GrowXubuntuCommunity).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/GrowXubuntuCommunity), last updated 2009-01-14.*
 
 # Xubuntu Specification: Grow the Xubuntu Community.
 

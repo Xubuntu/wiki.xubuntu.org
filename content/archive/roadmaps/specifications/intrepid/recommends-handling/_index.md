@@ -2,7 +2,7 @@
 title: "Recommends Handling"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/RecommendsHandling).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/RecommendsHandling), last updated 2008-08-12.*
 
 | **Contents** |
 |---|

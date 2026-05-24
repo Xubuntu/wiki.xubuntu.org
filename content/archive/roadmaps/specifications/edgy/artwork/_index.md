@@ -2,7 +2,7 @@
 title: "Artwork"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork), last updated 2008-08-06.*
 
 # Artwork for Xubuntu Edgy
 

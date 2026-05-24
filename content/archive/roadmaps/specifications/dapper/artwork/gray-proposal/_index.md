@@ -2,7 +2,7 @@
 title: "Gray Proposal"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GrayProposal).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GrayProposal), last updated 2008-08-06.*
 
 Proposal "Gray" by Luzi:
 

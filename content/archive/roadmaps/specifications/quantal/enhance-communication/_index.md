@@ -2,7 +2,7 @@
 title: "Enhance Communication"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/EnhanceCommunication).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/EnhanceCommunication), last updated 2012-04-30.*
 
 ## Specification title
 

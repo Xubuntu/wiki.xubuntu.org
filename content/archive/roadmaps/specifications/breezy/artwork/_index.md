@@ -2,7 +2,7 @@
 title: "Artwork"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Breezy/Artwork).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Breezy/Artwork), last updated 2008-08-06.*
 
 # Logo
 

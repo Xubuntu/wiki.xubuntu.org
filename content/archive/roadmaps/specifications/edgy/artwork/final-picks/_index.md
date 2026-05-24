@@ -2,7 +2,7 @@
 title: "Final Picks"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork/FinalPicks).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork/FinalPicks), last updated 2008-08-06.*
 
 #### Final picks for xubuntu Edgy
 

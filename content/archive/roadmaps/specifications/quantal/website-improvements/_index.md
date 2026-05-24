@@ -2,7 +2,7 @@
 title: "Website Improvements"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/WebsiteImprovements).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/WebsiteImprovements), last updated 2012-07-17.*
 
 ## Specification title
 

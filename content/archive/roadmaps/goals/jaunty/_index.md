@@ -2,7 +2,7 @@
 title: "Jaunty"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Jaunty).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Jaunty), last updated 2009-04-07.*
 
 ## Objectives for Jaunty
 | **Goal** | **Status** |

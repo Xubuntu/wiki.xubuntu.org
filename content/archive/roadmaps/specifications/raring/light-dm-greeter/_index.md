@@ -2,7 +2,7 @@
 title: "Light DM Greeter"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/LightDM-Greeter).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/LightDM-Greeter), last updated 2013-05-09.*
 
 This is a short specification of what could be improved in the lightdm-gtk-greeter and what design it could feature.
 It will show a few mockups and describe the functionality the gtk-greeter should gain.

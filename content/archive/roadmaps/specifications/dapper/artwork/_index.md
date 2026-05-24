@@ -2,7 +2,7 @@
 title: "Artwork"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork), last updated 2008-08-06.*
 
 This page is tracking progress on the Dapper Look for Xubuntu.
 

@@ -2,7 +2,7 @@
 title: "Default Music Player"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultMusicPlayer).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultMusicPlayer), last updated 2012-03-25.*
 
 Specifications for this cycle : 
 # Default Music Player - WORK IN PROGRESS

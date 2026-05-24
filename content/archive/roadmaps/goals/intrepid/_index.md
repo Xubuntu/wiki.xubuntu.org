@@ -2,7 +2,7 @@
 title: "Intrepid"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Intrepid).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Intrepid), last updated 2009-04-07.*
 
 | **Goal** | **Status** |
 |---|---|

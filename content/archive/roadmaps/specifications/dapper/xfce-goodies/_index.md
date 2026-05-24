@@ -2,7 +2,7 @@
 title: "Xfce Goodies"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/XfceGoodies).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/XfceGoodies), last updated 2012-04-27.*
 
 This is a list of [goodies for Xfce 4](http://xfce-goodies.berlios.de/), and their implementation state for Xubuntu.
 

@@ -2,7 +2,7 @@
 title: "Xubuntu Welcome Center"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/XubuntuWelcomeCenter).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/XubuntuWelcomeCenter), last updated 2012-03-25.*
 
 ##(see the SpecSpec for an explanation)
 

@@ -2,7 +2,7 @@
 title: "New Lightdm Theme"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/NewLightdmTheme).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/NewLightdmTheme), last updated 2011-12-03.*
 
 ## New lightdm theme
 

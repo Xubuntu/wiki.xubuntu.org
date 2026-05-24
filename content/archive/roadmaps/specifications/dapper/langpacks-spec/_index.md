@@ -2,7 +2,7 @@
 title: "Langpacks Spec"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/LangpacksSpec).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/LangpacksSpec), last updated 2012-07-17.*
 
 ##(see the SpecSpec for an explanation)
 

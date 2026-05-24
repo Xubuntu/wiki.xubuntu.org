@@ -2,7 +2,7 @@
 title: "Karmic"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Karmic).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Karmic), last updated 2009-07-17.*
 
 ## Objectives for Karmic
 

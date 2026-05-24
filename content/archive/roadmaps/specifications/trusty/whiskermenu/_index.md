@@ -2,7 +2,7 @@
 title: "Whiskermenu"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/Whiskermenu).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/Whiskermenu), last updated 2014-02-24.*
 
 ## Specification to include whisker-menu in Xubuntu Trusty by default
 

@@ -2,7 +2,7 @@
 title: "Exit Spec"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/ExitSpec).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/ExitSpec), last updated 2012-03-25.*
 
 ## Xubuntu Exit Specification
 

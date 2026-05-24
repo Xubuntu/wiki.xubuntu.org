@@ -2,7 +2,7 @@
 title: "Artwork Incoming"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/ArtworkIncoming).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/ArtworkIncoming), last updated 2012-03-25.*
 
 ## Hardy mockup
 

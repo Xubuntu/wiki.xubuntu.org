@@ -2,7 +2,7 @@
 title: "Artwork Directions"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/ArtworkDirections).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/ArtworkDirections), last updated 2013-09-13.*
 
 # General directions for Xubuntu Jaunty artwork
 - Theme: Murrina

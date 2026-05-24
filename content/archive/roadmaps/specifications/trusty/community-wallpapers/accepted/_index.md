@@ -2,7 +2,7 @@
 title: "Accepted"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Accepted).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Accepted), last updated 2014-01-17.*
 
 # Accepted submissions for Xubuntu's 14.04 default wallpaper set
 

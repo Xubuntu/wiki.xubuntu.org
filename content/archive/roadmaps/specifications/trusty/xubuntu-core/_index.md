@@ -2,7 +2,7 @@
 title: "Xubuntu Core"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/xubuntu-core).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/xubuntu-core), last updated 2013-11-03.*
 
 Describe Xubuntu/Roadmap/Specifications/Trusty/xubuntu-core here.Task-Per-Derivative: 1
 Task-Section: user

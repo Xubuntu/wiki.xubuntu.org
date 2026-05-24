@@ -2,7 +2,7 @@
 title: "Incoming Roller Blind"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/IncomingRollerBlind).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/IncomingRollerBlind), last updated 2008-08-06.*
 
 Proposal of a wallpaper which I like to call 'Roller Blind':
 

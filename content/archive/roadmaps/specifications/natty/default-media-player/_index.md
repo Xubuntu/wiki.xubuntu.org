@@ -2,7 +2,7 @@
 title: "Default Media Player"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/DefaultMediaPlayer).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/DefaultMediaPlayer), last updated 2012-03-25.*
 
 Specifications for this cycle : 
 # Exaile vs. gmusicbrowser

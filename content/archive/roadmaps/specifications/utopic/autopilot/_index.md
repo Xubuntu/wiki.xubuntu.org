@@ -2,7 +2,7 @@
 title: "Autopilot"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Autopilot).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Autopilot), last updated 2014-11-05.*
 
 ## Specification title
 

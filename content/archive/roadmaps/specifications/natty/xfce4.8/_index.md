@@ -2,7 +2,7 @@
 title: "Xfce4.8"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/Xfce4.8).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/Xfce4.8), last updated 2011-02-24.*
 
 # Status of Xfce 4.8 in Natty
 

@@ -2,7 +2,7 @@
 title: "Webcam Application"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/WebcamApplication).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/WebcamApplication), last updated 2012-08-05.*
 
 ## Default Webcam Application
 | Overview | |

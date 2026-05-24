@@ -2,7 +2,7 @@
 title: "Reducing Duplication Spec"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/ReducingDuplicationSpec).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/ReducingDuplicationSpec), last updated 2012-07-17.*
 
 - **Launchpad Entry**: <https://launchpad.net/distros/ubuntu/+spec/xubuntu-reducing-duplication>
 - **Created**: 2006-06-11 by JaniMonoses

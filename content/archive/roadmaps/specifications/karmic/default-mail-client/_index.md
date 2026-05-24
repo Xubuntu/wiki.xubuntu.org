@@ -2,7 +2,7 @@
 title: "Default Mail Client"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultMailClient).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultMailClient), last updated 2012-03-25.*
 
 Specifications for this cycle : 
 # Default Mail Client

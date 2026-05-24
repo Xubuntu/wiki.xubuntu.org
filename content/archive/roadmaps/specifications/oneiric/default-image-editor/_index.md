@@ -2,7 +2,7 @@
 title: "Default Image Editor"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Oneiric/DefaultImageEditor).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Oneiric/DefaultImageEditor), last updated 2012-03-25.*
 
 # Default Image Editor
 This comparison is made to analyze the current Image Editor, GIMP, against other Image Editors, and the Image Viewer, Ristretto, against other image viewers

@@ -2,7 +2,7 @@
 title: "Utopic"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Utopic).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Utopic), last updated 2014-07-23.*
 
 ## Roadmap for Utopic Unicorn
 

@@ -2,7 +2,7 @@
 title: "Ideas"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Ideas).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Ideas), last updated 2012-03-25.*
 
 Here's a list of ideas for Xubuntu Edgy. Please do not edit this unless for tidying and organizing, bring ideas up in xubuntu-devel first.
 

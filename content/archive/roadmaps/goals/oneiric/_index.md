@@ -2,7 +2,7 @@
 title: "Oneiric"
 ---
 
-*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Oneiric).*
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Oneiric), last updated 2011-05-23.*
 
 ## New objectives for Oneiric
 
