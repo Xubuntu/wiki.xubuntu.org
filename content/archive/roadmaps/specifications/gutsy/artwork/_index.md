@@ -13,3 +13,11 @@ Gutsy artwork development and discussion will occur here.
 **Sub-pages :** 
 ---
 CategoryArtwork
+
+## Additional Links
+
+- [All Images](/archive/roadmaps/specifications/gutsy/artwork/all-images/)
+- [Clearlooks Kokodi Dropline](/archive/roadmaps/specifications/gutsy/artwork/clearlooks-kokodi-dropline/)
+- [Desktop Layout](/archive/roadmaps/specifications/gutsy/artwork/desktop-layout/)
+- [Icon Theme](/archive/roadmaps/specifications/gutsy/artwork/icon-theme/)
+- [Icon Theme Dropline](/archive/roadmaps/specifications/gutsy/artwork/icon-theme-dropline/)

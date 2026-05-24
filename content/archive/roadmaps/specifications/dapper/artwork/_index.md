@@ -36,3 +36,18 @@ Candidates for the poll were:
 # Links
 
 - [Logo Proposals](http://debased.sourceforge.net/xubuntu/tmp/artworks/html/logos.html)
+
+## Additional Links
+
+- [Aluminium Proposal](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/)
+- [Cd Faces](/archive/roadmaps/specifications/dapper/artwork/cd-faces/)
+- [Color Scheme](/archive/roadmaps/specifications/dapper/artwork/color-scheme/)
+- [Desktop](/archive/roadmaps/specifications/dapper/artwork/desktop/)
+- [GDM](/archive/roadmaps/specifications/dapper/artwork/gdm/)
+- [Gray Proposal](/archive/roadmaps/specifications/dapper/artwork/gray-proposal/)
+- [Gtk Theme](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/)
+- [Icons](/archive/roadmaps/specifications/dapper/artwork/icons/)
+- [Logo](/archive/roadmaps/specifications/dapper/artwork/logo/)
+- [Steel Proposal](/archive/roadmaps/specifications/dapper/artwork/steel-proposal/)
+- [Usplash](/archive/roadmaps/specifications/dapper/artwork/usplash/)
+- [Xubuntulooks](/archive/roadmaps/specifications/dapper/artwork/xubuntulooks/)

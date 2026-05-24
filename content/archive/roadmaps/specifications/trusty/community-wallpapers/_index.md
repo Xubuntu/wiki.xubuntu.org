@@ -108,3 +108,9 @@ This simulates the effect the "Style: Zoom" setting in "Appearance Preferences: 
 ### Wallpaper submissions
 
 To submit your wallpapers for potential use in Xubuntu 14.04, please post them on this [submissions-page](/archive/roadmaps/specifications/trusty/community-wallpapers/submissions/). Thanks in advance!
+
+## Additional Links
+
+- [Accepted](/archive/roadmaps/specifications/trusty/community-wallpapers/accepted/)
+- [Submissions](/archive/roadmaps/specifications/trusty/community-wallpapers/submissions/)
+- [Winners](/archive/roadmaps/specifications/trusty/community-wallpapers/winners/)

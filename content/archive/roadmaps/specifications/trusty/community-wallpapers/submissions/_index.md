@@ -18,3 +18,7 @@ If you're not sure how this page works and if you're running into trouble, pleas
 
 #### Accepted submissions
 All the submissions that fulfil the guidelines will be moved to the page for [accepted submissions](/archive/roadmaps/specifications/trusty/community-wallpapers/accepted/).
+
+## Additional Links
+
+- [How To](/archive/roadmaps/specifications/trusty/community-wallpapers/submissions/how-to/)

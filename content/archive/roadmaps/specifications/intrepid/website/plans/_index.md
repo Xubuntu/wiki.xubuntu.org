@@ -42,3 +42,7 @@ We'll keep the news up-to-date, I think we can mail Jonathan for the news when t
 Please see [Xubuntu Website Team](http://launchpad.net/people/xubuntu-website) for a list of current maintainers.
 
 ## Comments
+
+## Additional Links
+
+- [Theme](/archive/roadmaps/specifications/intrepid/website/plans/theme/)

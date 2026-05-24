@@ -61,3 +61,9 @@ Would be nice to have a gtk theme specifically made for Xubutu Fiesty.
 
 Contributing to the xubuntu art-project is always welcome. The best way to contribute is to offer a design concept for the entire desktop. A plan like this can incorporate visual themes like the usplash, login screen background and so on. Individual pieces are also welcome but keep in mind that conflicting designs and styles are hard to integrate into a coherent look and feel. 
 Icon design and gtk theme customization are also possible areas for contribution.
+
+## Additional Links
+
+- [Incoming](/archive/roadmaps/specifications/feisty/artwork/incoming/)
+- [Incoming Desktop](/archive/roadmaps/specifications/feisty/artwork/incoming-desktop/)
+- [Incoming Roller Blind](/archive/roadmaps/specifications/feisty/artwork/incoming-roller-blind/)
