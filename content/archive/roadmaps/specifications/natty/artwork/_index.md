@@ -9,7 +9,7 @@ This would be the right place to send proposed artwork for Xubuntu Natty Narwhal
 ## Wallpaper
 Wallpaper submissions for Natty Narwhal are being done through the community artwork team. There are specifications for the wallpaper available [here](https://wiki.ubuntu.com/Artwork/Specs/0007_Xubuntu_Natty_Wallpaper). Those wallpapers submitted can be viewed on [flickr](http://www.flickr.com/groups/uawt-7/). 
 
-Please send an email to the [xubuntu-devel mailing list](https://wiki.ubuntu.com/mailto: xubuntu-devel@lists.ubuntu.com) concerning issues on any of the artwork, themes, or icons.
+Please send an email to the [xubuntu-devel mailing list](mailto:xubuntu-devel@lists.ubuntu.com) concerning issues on any of the artwork, themes, or icons.
 
 The top five wallpapers have been chosen. They are (images linked directly from Flickr):
 
@@ -38,7 +38,7 @@ To test the new greybird theme, please [download its latest release](http://shim
 Then copy or move the "greybird" folder itself to either ` /home/$USER/.themes/ ` (create that directory if it doesn't exist) or with super-user-rights (via terminal with a leading "sudo") to ` /usr/share/themes/ `.
 You will then be able to select **greybird** in *Settings Manager* -> *Appearance* and *Settings Manager* -> *Window Manager*.
 
-Please contact ochosi on irc.freenode.net **#xubuntu-devel** or **#shimmer** to report any issues you have with both the gtk (the one from Appearance) and the xfwm4 (Window-Manager) theme. You may also send an email to the [xubuntu-devel mailing list](https://wiki.ubuntu.com/mailto: xubuntu-devel@lists.ubuntu.com) concerning issues on any of the artwork, themes, or icons. 
+Please contact ochosi on irc.freenode.net **#xubuntu-devel** or **#shimmer** to report any issues you have with both the gtk (the one from Appearance) and the xfwm4 (Window-Manager) theme. You may also send an email to the [xubuntu-devel mailing list](mailto:xubuntu-devel@lists.ubuntu.com) concerning issues on any of the artwork, themes, or icons. 
 
 - A list of open issues with the icons: <http://wiki.knome.fi/shimmer:greybird>
 
@@ -51,7 +51,7 @@ Ochosi is working hard to make elementary xfce-complete, if you find issues with
 ### deprecated: Faenza-xfce
 To test the new icon set, you will need to [download](http://shimmerproject.org/hg/faenza-xfce) and install them. Choose **gz** on the left, that should start the download manager. After extracting, you will find a folder labeled "icons" inside the extracted folder. Please rename that to "faenza-xfce", then copy or move it to either ` /home/$USER/.themes/ ` (create that directory if it doesn't exist) or with super-user-rights (via terminal with a leading "sudo") to ` /usr/share/icons `. You can then choose **faenza-xfce** in Settings Manager -> Appearance -> Icons. 
 
-Please contact ochosi on irc.freenode.net **#xubuntu-devel** or **#shimmer** to report any issues you have with these. You may also send an email to the [xubuntu-devel mailing list](https://wiki.ubuntu.com/mailto: xubuntu-devel@lists.ubuntu.com) concerning issues on any of the artwork, themes, or icons. 
+Please contact ochosi on irc.freenode.net **#xubuntu-devel** or **#shimmer** to report any issues you have with these. You may also send an email to the [xubuntu-devel mailing list](mailto:xubuntu-devel@lists.ubuntu.com) concerning issues on any of the artwork, themes, or icons. 
 
 - A list of open issues with the icons: <http://wiki.knome.fi/shimmer:faenza_for_xfce> 
 

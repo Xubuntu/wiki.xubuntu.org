@@ -9,7 +9,7 @@ Specifications for this cycle :
 
 - **Application Role**: Music player
 - **Release target**: Karmic
-- **Contributors**: [LaunchpadHome:SiDi](https://wiki.ubuntu.com/LaunchpadHome:SiDi)
+- **Contributors**: [LaunchpadHome:SiDi](https://launchpad.net/~sidi)
 - **Field of the spec**: 'Application Study'
 - **Current application**: Listen 0.5
 - **Studied applications**: Listen 0.7 trunk, Exaile 0.3.0 trunk, Banshee 1.4.3, Rhythmbox 0.12
@@ -170,7 +170,7 @@ That would be too long to write too. I consider Exaile the most suitable choice,
 ## Comments
 I reviewed CPU usage of many popular players and Exaile did the worst, you should be able to easily come to the same results with the Phoronix Test Suite.
 <http://gquigs.blogspot.com/2009/08/music-player-review-cpu-performance.html>
-- This review is quite useful however when you say "Banshee shows a sexy bubble that uses the GTK+ theme's colours, but with a slider used as a progress bar for the remaining duration, which gives you the impression it's click-able." this is because it *is* clickable (although this was not the case in older versions). It is also possible to toggle play and pause in Banshee via the commandline easily using its dbus api -- [LaunchpadHome:twright-tdw](https://wiki.ubuntu.com/LaunchpadHome:twright-tdw) 
+- This review is quite useful however when you say "Banshee shows a sexy bubble that uses the GTK+ theme's colours, but with a slider used as a progress bar for the remaining duration, which gives you the impression it's click-able." this is because it *is* clickable (although this was not the case in older versions). It is also possible to toggle play and pause in Banshee via the commandline easily using its dbus api -- [LaunchpadHome:twright-tdw](https://launchpad.net/~twright-tdw) 
 
 ## Playground - TO BE ADDED ABOVE
 - **Multimedia keys support :**

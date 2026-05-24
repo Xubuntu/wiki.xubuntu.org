@@ -10,7 +10,7 @@ Specifications for this cycle :
 
 - **Launchpad entry**: [daily-upstream-builds-xfce](https://blueprints.launchpad.net/xubuntu-desktop/+spec/daily-upstream-builds-xfce)
 - **Release target**: Karmic
-- **Contributors**: [LaunchpadHome:CodySomerville](https://wiki.ubuntu.com/LaunchpadHome:CodySomerville)
+- **Contributors**: [LaunchpadHome:CodySomerville](https://launchpad.net/~cody-somerville)
 - **Field of the spec**: Team Infrastructure
 
 ## Summary

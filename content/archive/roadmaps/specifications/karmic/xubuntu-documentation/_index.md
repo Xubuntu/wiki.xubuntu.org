@@ -10,7 +10,7 @@ Specifications for this cycle :
 
 - **Launchpad entry**: None yet
 - **Release target**: Karmic
-- **Contributors**: [LaunchpadHome:jwcampbell](https://wiki.ubuntu.com/LaunchpadHome:jwcampbell) and [LaunchpadHome:knome](https://wiki.ubuntu.com/LaunchpadHome:knome)
+- **Contributors**: [LaunchpadHome:jwcampbell](https://launchpad.net/~jwcampbell) and [LaunchpadHome:knome](https://launchpad.net/~knome)
 - **Field of the spec**: 'Documentation & Support', 'Website'
 
 ## Summary

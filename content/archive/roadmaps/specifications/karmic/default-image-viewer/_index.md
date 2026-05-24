@@ -9,7 +9,7 @@ Specifications for this cycle :
 
 - **Application Role**: image viewer
 - **Release target**: Karmic
-- **Contributors**: [LaunchpadHome:simon-steinbeiss](https://wiki.ubuntu.com/LaunchpadHome:simon-steinbeiss), [LaunchpadHome:SiDi](https://wiki.ubuntu.com/LaunchpadHome:SiDi)
+- **Contributors**: [LaunchpadHome:simon-steinbeiss](https://launchpad.net/~simon-steinbeiss), [LaunchpadHome:SiDi](https://launchpad.net/~sidi)
 - **Field of the spec**: 'Application Study'
 - **Current application**: Gpicview 0.1.11
 - **Studied applications**: Gpicview 0.2.0, Ristretto 0.0.22, Geeqie 1.0beta1
@@ -180,4 +180,4 @@ Though, Ristretto has the following feature that it's the only one to provide :
     - the escape button shouldn't close the window, at least not in fullscreen (little patch to write)
 
 ## Comments
-- "I'm personally keen on choosing Ristretto and help Stephan to improve the GUI and reduce the RAM usage" [LaunchpadHome:SiDi](https://wiki.ubuntu.com/LaunchpadHome:SiDi)
+- "I'm personally keen on choosing Ristretto and help Stephan to improve the GUI and reduce the RAM usage" [LaunchpadHome:SiDi](https://launchpad.net/~sidi)

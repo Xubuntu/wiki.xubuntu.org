@@ -10,7 +10,7 @@ Specifications for this cycle :
 
 - **Launchpad entry**: UbuntuSpec:xubuntu-karmic-notify-osd
 - **Release target**: Karmic
-- **Contributors**: [LaunchpadHome:sidi](https://wiki.ubuntu.com/LaunchpadHome:sidi)
+- **Contributors**: [LaunchpadHome:sidi](https://launchpad.net/~sidi)
 - **Field of the spec**: 'Desktop Experience'
 
 ## Summary
@@ -51,13 +51,13 @@ Notify-Osd is now used by default, but there are some issues to be fixed, see be
 #### Audio notifications
 *Status : done*
 The daemon is coded and available at <https://launchpad.net/xfce4-volumed>
-It is maintained by [LaunchpadHome:SiDi](https://wiki.ubuntu.com/LaunchpadHome:SiDi).
+It is maintained by [LaunchpadHome:SiDi](https://launchpad.net/~sidi).
 
 Xfce4-Volumed does two things : 
 - make the XF86AudioRaiseVolume, XF86AudioLowerVolume and XF86AudioMute keys work out of the box if there is a sound card
 - show synchronous volume notifications if there is Notify-Osd
 
-It also uses new xfconf keys that can be used by the mixer and panel plugin for choosing which track's volume should be controlled. The necessary changes to the mixer still have to be done, though (probably by [Jannis](https://wiki.ubuntu.com/LaunchpadHome:jannis-xfce)).
+It also uses new xfconf keys that can be used by the mixer and panel plugin for choosing which track's volume should be controlled. The necessary changes to the mixer still have to be done, though (probably by [Jannis](https://launchpad.net/~jannis-xfce)).
 
 The daemon weights 2.8MB on a 64bit swapless install, mostly Gstreamer. It is apparently free of memory leaks.
 

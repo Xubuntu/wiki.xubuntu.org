@@ -10,7 +10,7 @@ Specifications for this cycle :
 
 - **Launchpad entry**: [xubuntu-karmic-session-slim-down](https://blueprints.launchpad.net/xubuntu-desktop/+spec/xubuntu-karmic-session-slim-down)
 - **Release target**: Karmic
-- **Contributors**: [LaunchpadHome:CodySomerville](https://wiki.ubuntu.com/LaunchpadHome:CodySomerville)
+- **Contributors**: [LaunchpadHome:CodySomerville](https://launchpad.net/~cody-somerville)
 - **Field of the spec**: Performance
 
 ## Summary

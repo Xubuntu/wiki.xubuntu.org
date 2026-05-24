@@ -10,7 +10,7 @@ Specifications for this cycle :
 
 - **Launchpad entry**: Does not exist.
 - **Release target**: Natty
-- **Contributors**: [Pasi Lallinaho](https://wiki.ubuntu.com/LaunchpadHome:knome), [Simon Steinbeiß](https://wiki.ubuntu.com/LaunchpadHome:simon-steinbeiss)
+- **Contributors**: [Pasi Lallinaho](https://launchpad.net/~knome), [Simon Steinbeiß](https://launchpad.net/~simon-steinbeiss)
 - **Field of the spec**: 'Default Applications' & 'Desktop Experience'
 
 ## Summary

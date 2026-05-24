@@ -42,7 +42,7 @@ It is important to note Ubuntu – and hence Xubuntu – is shipped to users fro
   - Submissions must adhere to the [Creative Commons ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
   - Attribution must be declared if the submission is based on another design.
 
-Specific comments and words of encouragement may be posted to the [Xubuntu development](https://wiki.ubuntu.com/mailto:xubuntu-devel@lists.ubuntu.com) mailing list.
+Specific comments and words of encouragement may be posted to the [Xubuntu development](mailto:xubuntu-devel@lists.ubuntu.com) mailing list.
 
 Please offer comments and discussions as guided by the [Ubuntu code of Conduct](http://www.ubuntu.com/community/conduct).
 

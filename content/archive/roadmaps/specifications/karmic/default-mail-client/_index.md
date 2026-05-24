@@ -9,7 +9,7 @@ Specifications for this cycle :
 
 - **Application Role**: email client
 - **Release target**: Karmic
-- **Contributors**: [LaunchpadHome:simon-steinbeiss](https://wiki.ubuntu.com/LaunchpadHome:simon-steinbeiss)
+- **Contributors**: [LaunchpadHome:simon-steinbeiss](https://launchpad.net/~simon-steinbeiss)
 - **Field of the spec**: 'Application Study'
 - **Current application**: Thunderbird 2.0.0.21
 - **Studied applications**: Thunderbird 2.0.0.21, Claws-Mail 3.7.1
