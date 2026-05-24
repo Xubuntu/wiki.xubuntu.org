@@ -1,9 +1,6 @@
 ---
 title: "Specification for Multi-Monitor Use-cases in Xubuntu"
 ---
-
-| |
-|---|
 ** Disclaimer**
 ***This specification is still a work in progress. This paragraph will be removed once it's finalized.***
 

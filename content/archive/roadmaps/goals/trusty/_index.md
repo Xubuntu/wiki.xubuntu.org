@@ -12,10 +12,10 @@ title: "Goals — Trusty"
 | See the **[release schedule](https://wiki.ubuntu.com/TrustyTahr/ReleaseSchedule)** for freeze and other important dates. *Read more about the phases from the [processes page](https://wiki.ubuntu.com/Xubuntu/Processes).* | | | |
 
 ## Approved specifications
-/*
-/* Please don't edit unless you are the XPL or have their permission.
-/* Usual row is: || Item 1 || Driver 1 || - || - ||
- */
+<!--
+  Please don't edit unless you are the XPL or have their permission.
+  Usual row is: || Item 1 || Driver 1 || - || - ||
+-->
 
 | **Item** | **Driver(s)** | **Importance** | **Links** |
 |---|---|---|---|

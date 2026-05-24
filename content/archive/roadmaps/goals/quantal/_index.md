@@ -2,7 +2,7 @@
 title: "Goals — Quantal"
 ---
 
-#title Xubuntu Development Roadmap
+# Xubuntu Development Roadmap
 
 ## Roadmap for Quantal Quetzal
 This page is to serve as a development roadmap for the next version of Xubuntu.
@@ -21,13 +21,12 @@ This page is to serve as a development roadmap for the next version of Xubuntu.
 ### New features, major bugs, improvements to community
 Note that any items with no assignee will not be driven, and most probably won't make it to the release.
 
-/*
-/*  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
-/*  See existing rows for example.
-/*  Please don't edit the importance column yourself.
-/*  It will be set by the Project Lead or the concerned Team Lead.
-/*
- */
+<!--
+  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
+  See existing rows for example.
+  Please don't edit the importance column yourself.
+  It will be set by the Project Lead or the concerned Team Lead.
+-->
 | **Item** | **Assignee** | **Importance** | **Links** |
 |---|---|---|---|
 | Review the Strategy Document | Pasi Lallinaho, community | Essential | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-review-strategy-document)**  [Old Strategy Document](https://wiki.ubuntu.com/Xubuntu/StrategyDocument)  [New Strategy Document (reviewing)](http://strategydoc.knome.fi/) |
@@ -57,8 +56,8 @@ Note that any items with no assignee will not be driven, and most probably won't
 ### Changes on default applications
 *Items in this group (usually) need comprehensive ***application comparisons***. An assignee for each "group"/type of application should take up the task, ideally more than one to make it less subjective/one-sided.*
 
-/* Please use a #ededed and #fafafa rowstyles alternately so readability stays. */
-/* See existing rows for example. */
+<!-- Please use a #ededed and #fafafa rowstyles alternately so readability stays. -->
+<!-- See existing rows for example. -->
 | **Application group** | **Proposed (Current)** | **Assignee** | **Importance** | **Links** |
 |---|---|---|---|---|
 | Package manager | Lubuntu Software Center? (USC, Synaptic) | Pasi Lallinaho, Simon Steinbeiß | High | - |

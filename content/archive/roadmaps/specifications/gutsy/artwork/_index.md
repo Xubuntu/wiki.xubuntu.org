@@ -1,10 +1,6 @@
 ---
 title: "Gutsy Artwork"
 ---
-
-| |
-|---|
-
 # Gutsy Artwork
 
 Gutsy artwork development and discussion will occur here.

@@ -2,7 +2,7 @@
 title: "Goals — Saucy"
 ---
 
-#title Xubuntu Development Roadmap
+# Xubuntu Development Roadmap
 
 | To edit the roadmap for Saucy Salamander, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Saucy?action=edit). |
 |---|
@@ -38,14 +38,12 @@ These are the blueprints for tracking development status. Only approved items sh
 ### Specifications
 Note that proposed ideas with no driver most probably won't make it to the release.
 
-/*
-/*  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
-/*  See existing rows for example.
-/*
-/*  Usual row is:
-/*  || Item 1 || Driver 1 || - ||
-/*
- */
+<!--
+  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
+  See existing rows for example.
+  Usual row is:
+  || Item 1 || Driver 1 || - ||
+-->
 | **Item** | **Driver(s)** | **Links** |
 |---|---|---|
 | Ship [apt-offline](http://apt-offline.alioth.debian.org/) by default | Stephen Michael Kellat | [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/AptOffline) |

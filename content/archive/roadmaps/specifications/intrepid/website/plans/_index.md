@@ -2,7 +2,7 @@
 title: "Specifications — Intrepid — Website — Plans"
 ---
 
-#title Xubuntu Website Plans
+# Xubuntu Website Plans
 
 This page is for listing the plans for the [Xubuntu website](http://xubuntu.org). 
 

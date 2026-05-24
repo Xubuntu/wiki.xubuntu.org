@@ -2,7 +2,7 @@
 title: "Specifications — Intrepid — Idea Pool"
 ---
 
-#title Xubuntu Idea Pool
+# Xubuntu Idea Pool
 [![](http://brainstorm.ubuntu.com/modules/qawebsite/images/logo/idea-logo.png)](http://brainstorm.ubuntu.com)
 | **This page is kept for archiving purposes. Do not add any new ideas here, use [Ubuntu Brainstorm](http://brainstorm.ubuntu.com) *(Make sure you mark your ideas as related to Xubuntu)*** |
 |---|

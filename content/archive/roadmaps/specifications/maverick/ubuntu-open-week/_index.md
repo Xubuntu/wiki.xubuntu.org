@@ -2,11 +2,7 @@
 title: "Specifications — Maverick — Ubuntu Open Week"
 ---
 
-#title Xubuntu Development - UbuntuOpenWeek
-
-| |
-|---|
-
+# Xubuntu Development - UbuntuOpenWeek
 ## Objective
 
 The Ubuntu Open Week is a week of IRC tuition and Q+A sessions all about getting involved in the rock-and-roll world that is the Ubuntu community. We organise this week for the beginning of a new release cycle to help new contributors get involved. This week of sessions is aimed at users, developers have their own week of sessions called "UbuntuDeveloperWeek".

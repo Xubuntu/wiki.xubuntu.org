@@ -2,7 +2,7 @@
 title: "Goals — Precise"
 ---
 
-#title Xubuntu Development Roadmap
+# Xubuntu Development Roadmap
 
 ## Roadmap for Precise Pangolin
 This page is to serve as a development roadmap for the next version of Xubuntu.
@@ -22,8 +22,8 @@ Read more about [the phases](https://wiki.ubuntu.com/Xubuntu/Roadmap/Phases).
 ### Changes on default applications
 *Items in this group (usually) need comprehensive ***application comparisons***. An assignee for each "group"/type of application should take up the task, ideally more than one to make it less subjective/one-sided.* All proposed applications can be found in [Xubuntu/Roadmap/ProposedApplications](https://wiki.ubuntu.com/Xubuntu/Roadmap/ProposedApplications); please add one here only if that group/application has an assignee.
 
-/* Please use a #ededed and #fafafa rowstyles alternately so readability stays. */
-/* See existing rows for example. */
+<!-- Please use a #ededed and #fafafa rowstyles alternately so readability stays. -->
+<!-- See existing rows for example. -->
 | **Application group** | **Proposed (Current)** | **Assignee** | **Importance** | **Links** |
 |---|---|---|---|---|
 | --(Media Player (Audio))-- | Any (gmusicbrowser) | Grid*'*'Cube | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-default-media-player), [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/DefaultMediaPlayer) |
@@ -31,13 +31,12 @@ Read more about [the phases](https://wiki.ubuntu.com/Xubuntu/Roadmap/Phases).
 ### New features
 Note that any features with no assignee will not be driven, and most probably won't make it to the Precise Pangolin release.
 
-/*
-/*  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
-/*  See existing rows for example.
-/*  Please don't edit the importance column yourself.
-/*  It will be set by the Project Lead or the concerned Team Lead.
-/*
- */
+<!--
+  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
+  See existing rows for example.
+  Please don't edit the importance column yourself.
+  It will be set by the Project Lead or the concerned Team Lead.
+-->
 | **Item** | **Assignee** | **Importance** | **Links** |
 |---|---|---|---|
 | Release the new website | Pasi Lallinaho, Elizabeth Krumbach | Essential | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-release-website), [Sprint 19 Nov](https://wiki.ubuntu.com/Xubuntu/Website/Sprint) |
@@ -55,13 +54,12 @@ Note that any features with no assignee will not be driven, and most probably wo
 | --(Port Albatross to GTK3)-- | | Postponed | |
 
 ### Bugs and other standing issues
-/*
-/*  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
-/*  See existing rows for example.
-/*  Please don't edit the importance column yourself.
-/*  It will be set by the Project Lead or the concerned Team Lead.
-/*
- */
+<!--
+  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
+  See existing rows for example.
+  Please don't edit the importance column yourself.
+  It will be set by the Project Lead or the concerned Team Lead.
+-->
 | **Item** | **Assignee** | **Importance** | **Links** |
 |---|---|---|---|
 | Fix Greybird (GTK3) issues | Simon Steinbeiß | Essential | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-greybird-fixes) |

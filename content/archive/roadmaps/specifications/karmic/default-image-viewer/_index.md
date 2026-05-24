@@ -3,10 +3,6 @@ title: "Default Image Viewer"
 ---
 
 Specifications for this cycle : 
-
-| |
-|---|
-
 # Default Image Viewer
 
 - **Application Role**: image viewer

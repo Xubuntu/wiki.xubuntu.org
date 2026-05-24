@@ -1,10 +1,6 @@
 ---
 title: "Xubuntu Artwork for Karmic"
 ---
-
-| |
-|---|
-
 # Xubuntu Artwork for Karmic
 
 This place contains previews of the artwork developed for Xubuntu 9.10 Karmic Koala, as well as links to access this artwork.

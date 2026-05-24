@@ -2,7 +2,7 @@
 title: "Specifications — Jaunty — Grow Xubuntu Community"
 ---
 
-#title Xubuntu Specification: Grow the Xubuntu Community.
+# Xubuntu Specification: Grow the Xubuntu Community.
 
 **OBJECTIVE:** Grow the Xubuntu community.
 

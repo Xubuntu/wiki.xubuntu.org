@@ -3,10 +3,6 @@ title: "Exaile vs. gmusicbrowser"
 ---
 
 Specifications for this cycle : 
-
-| |
-|---|
-
 # Exaile vs. gmusicbrowser
 *** Replace Exaile with gmusicbrowser as the default music (you can also think: media) player in Xubuntu Natty ***
 

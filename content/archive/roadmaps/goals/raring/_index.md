@@ -2,7 +2,7 @@
 title: "Goals — Raring"
 ---
 
-#title Xubuntu Development Roadmap
+# Xubuntu Development Roadmap
 
 | To edit the roadmap for Raring Ringtail, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Raring?action=edit). |
 |---|
@@ -25,13 +25,12 @@ This page is to serve as a development roadmap for the next version of Xubuntu.
 ### New features, major bugs, improvements to community
 Note that any items with no driver most probably won't make it to the release.
 
-/*
-/*  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
-/*  See existing rows for example.
-/*  Please don't edit the importance column yourself.
-/*  It will be set by the Project Lead or the concerned Team Lead.
-/*
- */
+<!--
+  Please use a #ededed and #fafafa rowstyles alternately so readability stays.
+  See existing rows for example.
+  Please don't edit the importance column yourself.
+  It will be set by the Project Lead or the concerned Team Lead.
+-->
 | **Item** | **Driver(s)** | **Importance** | **Links** |
 |---|---|---|---|
 | Community improvements | Pasi Lallinaho | High | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-r-xubuntu-community)** |
@@ -51,8 +50,8 @@ Note that any items with no driver most probably won't make it to the release.
 ### Changes on default applications
 *Items in this group (usually) need comprehensive ***application comparisons***. An assignee for each "group"/type of application should take up the task, ideally more than one to make it less subjective/one-sided.*
 
-/* Please use a #ededed and #fafafa rowstyles alternately so readability stays. */
-/* See existing rows for example. */
+<!-- Please use a #ededed and #fafafa rowstyles alternately so readability stays. -->
+<!-- See existing rows for example. -->
 | **Application group** | **Proposed (Current)** | **Assignee** | **Relative Importance** | **Links** |
 |---|---|---|---|---|
 | Package manager | Lubuntu Software Center? (USC, Synaptic) | - | High | - |

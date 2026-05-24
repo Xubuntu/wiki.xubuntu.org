@@ -3,10 +3,6 @@ title: "Default Music Player - WORK IN PROGRESS"
 ---
 
 Specifications for this cycle : 
-
-| |
-|---|
-
 # Default Music Player - WORK IN PROGRESS
 
 - **Application Role**: Music player

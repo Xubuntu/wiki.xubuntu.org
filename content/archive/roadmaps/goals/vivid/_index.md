@@ -4,7 +4,7 @@ title: "Goals — Vivid"
 
 ## Roadmap for Vivid Vervet
 
-##|| To see the current status of development, visit the [Xubuntu work items tracker](http://status.ubuntu.com/ubuntu-t/group/topic-v-flavor-xubuntu.html). ||
+> To see the current status of development, visit the [Xubuntu work items tracker](http://status.ubuntu.com/ubuntu-t/group/topic-v-flavor-xubuntu.html).
 
 | **Brainstorm** | **Approve blueprints** | **Finalize specifications** | **Implement**Ubuntu freezes |
 |---|---|---|---|

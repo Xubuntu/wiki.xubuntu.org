@@ -3,10 +3,6 @@ title: "Daily upstream builds of Xfce"
 ---
 
 Specifications for this cycle : 
-
-| |
-|---|
-
 # Daily upstream builds of Xfce
 *** Perform daily upstream package builds of Xfce trunk for testing & debugging   ***
 

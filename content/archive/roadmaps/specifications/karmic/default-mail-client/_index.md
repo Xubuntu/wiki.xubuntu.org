@@ -3,10 +3,6 @@ title: "Default Mail Client"
 ---
 
 Specifications for this cycle : 
-
-| |
-|---|
-
 # Default Mail Client
 
 - **Application Role**: email client

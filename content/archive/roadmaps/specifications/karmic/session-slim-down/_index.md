@@ -3,10 +3,6 @@ title: "Slim down Xubuntu sessions for Karmic (xubuntu-karmic-session-slim-down)
 ---
 
 Specifications for this cycle : 
-
-| |
-|---|
-
 # Slim down Xubuntu sessions for Karmic (xubuntu-karmic-session-slim-down)
 *** Slim down the default Xubuntu desktop session to improve user experience ***
 

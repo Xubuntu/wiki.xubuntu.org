@@ -1,10 +1,6 @@
 ---
 title: "Specifications — Trusty — Community Wallpapers"
 ---
-
-| |
-|---|
-
 The Xubuntu community desires to create a high quality Linux Distribution which appeals to a wide variety of user lifestyles and personal preferences.
 
 ### Goal(s)
