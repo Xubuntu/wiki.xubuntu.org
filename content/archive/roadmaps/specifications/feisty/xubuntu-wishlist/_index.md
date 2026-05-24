@@ -2,6 +2,8 @@
 title: "Desktop & Thunar"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Xubuntu-Wishlist).*
+
 This page exists to allow users to quickly add their own small suggestions as to help improve the next release of Xubuntu (Feisty Fawn). Please try to file your ideas under the appropriate category; use headers (See HelpOnHeadlines) to keep things neat and easy to access; and sign all comments (See: HelpOnPageCreation#variablesubstitution)
 
 **Note:** More complex suggestions/ideas/feature requests should have their own [specification](https://wiki.ubuntu.com/Xubuntu/Specifications).

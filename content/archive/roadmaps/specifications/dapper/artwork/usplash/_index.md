@@ -2,6 +2,8 @@
 title: "Final propositions"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Usplash).*
+
 *DapperXubuntuLook*
 # Final propositions
 Due to the final Ubuntu usplash propositions, a new Xubuntu splash screen has been made. Please vote on which one should be included by default in Xubuntu.

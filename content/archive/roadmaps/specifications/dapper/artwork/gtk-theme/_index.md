@@ -2,6 +2,8 @@
 title: "Ubuntulooks-graphite"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GtkTheme).*
+
 # Ubuntulooks-graphite
 
 ![xubuntulook-graphite-small.png](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/xubuntulook-graphite-small.png) [view large](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/xubuntulook-graphite.png)

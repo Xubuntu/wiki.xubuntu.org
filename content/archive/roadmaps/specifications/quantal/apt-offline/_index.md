@@ -2,6 +2,8 @@
 title: "Specifications — Quantal — Apt Offline"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/AptOffline).*
+
 ## Including apt-offline on LiveCD
 
 | Overview | |

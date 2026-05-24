@@ -2,6 +2,8 @@
 title: "Artwork Guidelines"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/ArtworkGuidelines).*
+
 # Artwork Guidelines
 
 Our main goal with artwork is uniform and consistent brand. The branding should remind the users of Xubuntu as much as possible.

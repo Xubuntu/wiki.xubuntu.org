@@ -2,6 +2,8 @@
 title: "Specifications — Feisty — Artwork — Incoming"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/Incoming).*
+
 ### Wallpaper and gdm login backround
 ![wallpaper.png](/archive/roadmaps/specifications/feisty/artwork/incoming/wallpaper.png)
 

@@ -2,6 +2,8 @@
 title: "Xubuntu documentation look and availability"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/XubuntuDocumentation).*
+
 Specifications for this cycle : 
 # Xubuntu documentation look and availability
 *** Update appearance of Xubuntu documentation, and make it available from the Xubuntu website ***

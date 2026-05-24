@@ -2,6 +2,8 @@
 title: "Specifications — Lucid — Artwork"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Lucid/Artwork).*
+
 This would be the right place to send proposed artwork for Lucid.
 
 ## New Xubuntu brandmark

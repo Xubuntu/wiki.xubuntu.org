@@ -2,6 +2,8 @@
 title: "Specifications — Quantal — Default Media Player"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/DefaultMediaPlayer).*
+
 ## Default media player
 | Overview | |
 |---|---|

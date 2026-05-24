@@ -2,6 +2,8 @@
 title: "Specifications — Dapper — Lighter Spec"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/LighterSpec).*
+
 - **Launchpad Entry**: <https://launchpad.net/distros/ubuntu/+spec/xubuntu-lighter>
 - **Created**: 2006-06-11 by JaniMonoses
 - **Contributors**: 

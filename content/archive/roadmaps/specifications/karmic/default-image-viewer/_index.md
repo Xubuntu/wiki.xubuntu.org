@@ -2,6 +2,8 @@
 title: "Default Image Viewer"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultImageViewer).*
+
 Specifications for this cycle : 
 # Default Image Viewer
 

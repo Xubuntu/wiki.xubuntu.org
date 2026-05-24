@@ -2,6 +2,8 @@
 title: "Specifications — Quantal — Enhance Communication"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/EnhanceCommunication).*
+
 ## Specification title
 
 | Overview | |

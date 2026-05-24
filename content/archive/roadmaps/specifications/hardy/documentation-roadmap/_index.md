@@ -2,6 +2,8 @@
 title: "Xubuntu Hardy Docs Roadmap"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/DocumentationRoadmap).*
+
 # Xubuntu Hardy Docs Roadmap
 This document will serve as a roadmap for the Xubuntu Hardy docs. General ideas and broad concepts and areas that we would like to add to the docs will be talked about here. If you have a specific bug to report, please file it in [Launchpad](https://bugs.launchpad.net/~xubuntu-doc/+assignedbugs). The page is broken down roughly by goals to be accomplished followed by how we plan on accomplishing them.
 

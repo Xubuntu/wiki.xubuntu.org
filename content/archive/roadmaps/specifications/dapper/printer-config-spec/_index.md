@@ -2,6 +2,8 @@
 title: "Specifications — Dapper — Printer Config Spec"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/PrinterConfigSpec).*
+
 - **Launchpad Entry**: <https://launchpad.net/distros/ubuntu/+spec/xubuntu-printer-config>
 - **Created**: 2006-06-11 by JaniMonoses
 - **Contributors**:

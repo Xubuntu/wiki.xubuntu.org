@@ -2,6 +2,8 @@
 title: "Menu Buttons"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/IncomingDesktop).*
+
 # Menu Buttons
 
 ### 1) Menu Button Version_1

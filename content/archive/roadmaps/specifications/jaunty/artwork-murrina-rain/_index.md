@@ -2,6 +2,8 @@
 title: "Specifications — Jaunty — Artwork Murrina Rain"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/ArtworkMurrinaRain).*
+
 Xubuntu Jaunty Artworks.
 
 ## GTK theme

@@ -2,6 +2,8 @@
 title: "Specifications — Precise — Default Media Player"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/DefaultMediaPlayer).*
+
 ## Default media player
 | Overview | |
 |---|---|

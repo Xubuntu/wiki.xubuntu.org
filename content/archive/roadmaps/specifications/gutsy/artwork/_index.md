@@ -1,6 +1,8 @@
 ---
 title: "Gutsy Artwork"
 ---
+
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork).*
 # Gutsy Artwork
 
 Gutsy artwork development and discussion will occur here.

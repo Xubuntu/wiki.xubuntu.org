@@ -2,6 +2,8 @@
 title: "Network Services"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/xubuntu-core).*
+
 Describe Xubuntu/Roadmap/Specifications/Trusty/xubuntu-core here.Task-Per-Derivative: 1
 Task-Section: user
 Task-Description: Xubuntu minimal installation

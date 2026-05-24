@@ -2,6 +2,8 @@
 title: "GTK Theme"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork/IncomingProposals).*
+
 These artworks are some of my explorations in the direction of developing a pleasing look and feel for xubuntu/edgy.
 
 ### xubuntu splash animation V3

@@ -2,6 +2,8 @@
 title: "Specifications — Precise — Clean Themes"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/CleanThemes).*
+
 ## Clean theme and wallpaper lists
 
 | Overview | |

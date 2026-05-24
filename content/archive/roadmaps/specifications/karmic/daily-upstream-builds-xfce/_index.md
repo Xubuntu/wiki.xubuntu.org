@@ -2,6 +2,8 @@
 title: "Daily upstream builds of Xfce"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/daily-upstream-builds-xfce).*
+
 Specifications for this cycle : 
 # Daily upstream builds of Xfce
 *** Perform daily upstream package builds of Xfce trunk for testing & debugging   ***

@@ -2,6 +2,8 @@
 title: "STATUS"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/XfceGoodies).*
+
 This is a list of [goodies for Xfce 4](http://xfce-goodies.berlios.de/), and their implementation state for Xubuntu.
 
 ## Dapper Xfce Goodies

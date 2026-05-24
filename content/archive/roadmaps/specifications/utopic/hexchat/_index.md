@@ -2,6 +2,8 @@
 title: "Specifications — Utopic — Hexchat"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Hexchat).*
+
 ## Replace Xchat with Hexchat
 
 | Overview | |

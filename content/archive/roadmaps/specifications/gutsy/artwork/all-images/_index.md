@@ -2,6 +2,8 @@
 title: "Mockups"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/AllImages).*
+
 ### Wallpaper and GDM background
 
 ![wallpaper.png](/archive/roadmaps/specifications/gutsy/artwork/all-images/wallpaper.png)

@@ -2,6 +2,8 @@
 title: "Goals — Karmic"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Karmic).*
+
 ## Objectives for Karmic
 
 | **Objective** | **Assignee** |

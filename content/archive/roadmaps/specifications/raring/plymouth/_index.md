@@ -2,6 +2,8 @@
 title: "Specifications — Raring — Plymouth"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/Plymouth).*
+
 ## Specification
 Improve Xubuntu's current plymouth bootscreen. There are a few features we should implement, such as proper wallpaper scaling, and we should probably revisit the boot animation.
 

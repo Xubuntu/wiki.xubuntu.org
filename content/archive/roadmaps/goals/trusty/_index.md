@@ -2,6 +2,8 @@
 title: "Goals — Trusty"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty).*
+
 ## Roadmap for Trusty Tahr
 
 | To see the current status of development, visit the [Xubuntu work items tracker](http://status.ubuntu.com/ubuntu-t/group/topic-t-flavor-xubuntu.html). |

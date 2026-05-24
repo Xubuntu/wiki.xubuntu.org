@@ -2,6 +2,8 @@
 title: "Default Music Player - WORK IN PROGRESS"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultMusicPlayer).*
+
 Specifications for this cycle : 
 # Default Music Player - WORK IN PROGRESS
 

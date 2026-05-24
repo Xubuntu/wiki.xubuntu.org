@@ -2,6 +2,8 @@
 title: "Goals — Jaunty"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Jaunty).*
+
 ## Objectives for Jaunty
 | **Goal** | **Status** |
 |---|---|

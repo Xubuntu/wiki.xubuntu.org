@@ -2,6 +2,8 @@
 title: "Specifications — Intrepid — Website — Plans"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Website/Plans).*
+
 # Xubuntu Website Plans
 
 This page is for listing the plans for the [Xubuntu website](http://xubuntu.org). 

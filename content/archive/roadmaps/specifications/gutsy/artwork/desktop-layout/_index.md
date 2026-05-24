@@ -2,6 +2,8 @@
 title: "Desktop layout"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/DesktopLayout).*
+
 # Desktop layout
 
 ### 1) Default

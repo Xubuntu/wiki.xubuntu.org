@@ -2,6 +2,8 @@
 title: "Specifications — Feisty — Artwork"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork).*
+
 ## Summary
 The purpose of this document is to describe the process aiming at the creation of the default desktop look and feel for xubuntu Feisty. In this development phase, top priority should be given to the creation of a unified desktop. I expect that Feisty will be the most tightly composed visual experience to-date. 
 

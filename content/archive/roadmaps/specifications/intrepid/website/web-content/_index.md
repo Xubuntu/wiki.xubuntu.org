@@ -2,6 +2,8 @@
 title: "Specifications — Intrepid — Website — Web Content"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Website/WebContent).*
+
 Describe Xubuntu/SpecialProjects/WebContent here.
 
 ## Analysis of Various Site Structures

@@ -2,6 +2,8 @@
 title: "AluminiumLogo"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/AluminiumProposal).*
+
 These artworks are based on Tango's aluminium color scheme.
 Created by JozsefMak
 

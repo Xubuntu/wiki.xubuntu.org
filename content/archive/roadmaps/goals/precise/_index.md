@@ -2,6 +2,8 @@
 title: "Goals — Precise"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Precise).*
+
 # Xubuntu Development Roadmap
 
 ## Roadmap for Precise Pangolin

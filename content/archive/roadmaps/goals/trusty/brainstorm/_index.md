@@ -2,6 +2,8 @@
 title: "Goals — Trusty — Brainstorm"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty/Brainstorm).*
+
 ## Brainstorming and discussion
 
 ### Development

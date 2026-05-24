@@ -2,6 +2,8 @@
 title: "Specifications — Natty — Artwork"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/Artwork).*
+
 This would be the right place to send proposed artwork for Xubuntu Natty Narwhal.
 
 ## Wallpaper

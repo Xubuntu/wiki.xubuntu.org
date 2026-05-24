@@ -2,6 +2,8 @@
 title: "Specifications — Intrepid — Website — Plans — Theme"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Website/Plans/Theme).*
+
 Proposals for the theme of the Xubuntu website.
 
 ## Web 2.0-ish

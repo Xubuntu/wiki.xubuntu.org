@@ -2,6 +2,8 @@
 title: "Specifications — Precise — Settings GUIfor Lightdm"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/SettingsGUIforLightdm).*
+
 ## Settings GUI for lightdm
 
 | Overview | |

@@ -2,6 +2,8 @@
 title: "Goals — Quantal"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Quantal).*
+
 # Xubuntu Development Roadmap
 
 ## Roadmap for Quantal Quetzal

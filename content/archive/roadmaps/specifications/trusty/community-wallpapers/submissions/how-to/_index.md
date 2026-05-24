@@ -2,6 +2,8 @@
 title: "Specifications — Trusty — Community Wallpapers — Submissions — How To"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions/HowTo).*
+
 ## How to submit wallpapers to the 14.04 wallpaper contest
 
 1. After you've read the guidelines and prepared your artwork for upload, first [head over to the attachments](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions?action=AttachFile) of the submission page.

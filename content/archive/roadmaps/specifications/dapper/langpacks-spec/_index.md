@@ -2,6 +2,8 @@
 title: "Specifications — Dapper — Langpacks Spec"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/LangpacksSpec).*
+
 ##(see the SpecSpec for an explanation)
 
 - **Launchpad Entry**: <https://launchpad.net/distros/ubuntu/+spec/xubuntu-langpacks>

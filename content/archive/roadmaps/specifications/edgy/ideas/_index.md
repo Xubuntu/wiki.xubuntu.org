@@ -2,6 +2,8 @@
 title: "Specifications — Edgy — Ideas"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Ideas).*
+
 Here's a list of ideas for Xubuntu Edgy. Please do not edit this unless for tidying and organizing, bring ideas up in xubuntu-devel first.
 
 Some of these may be flashed out later to full specifications if necessary.

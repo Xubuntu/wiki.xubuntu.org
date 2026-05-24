@@ -2,6 +2,8 @@
 title: "Handling Recommends by Default"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/RecommendsHandling).*
+
 | **Contents** |
 |---|
 

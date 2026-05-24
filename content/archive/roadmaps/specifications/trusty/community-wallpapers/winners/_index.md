@@ -2,6 +2,8 @@
 title: "The winners of the 14.04 Community wallpaper contest!"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Winners).*
+
 ## The Xubuntu team proudly presents...
 # The winners of the 14.04 Community wallpaper contest!
 (In alphabetical order)

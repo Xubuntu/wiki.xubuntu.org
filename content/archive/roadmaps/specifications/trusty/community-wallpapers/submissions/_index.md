@@ -2,6 +2,8 @@
 title: "Submissions for Xubuntu's 14.04 default wallpaper set"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions).*
+
 # Submissions for Xubuntu's 14.04 default wallpaper set
 
 ## Submissions are closed at this point. Thanks for participating!

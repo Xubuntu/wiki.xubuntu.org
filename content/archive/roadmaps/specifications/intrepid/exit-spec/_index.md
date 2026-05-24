@@ -2,6 +2,8 @@
 title: "Specifications — Intrepid — Exit Spec"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/ExitSpec).*
+
 ## Xubuntu Exit Specification
 
 As it stands now, for several releases, Xubuntu has deviated from Xfce upstream by changing the behavior of xfce4-session to display a six button switch board involving logouts. This switchboard is not clear at first, and may intimate newer users by giving them six choices with large icons which may not be clear. Although these buttons are labeled, I don't 

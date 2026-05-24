@@ -2,6 +2,8 @@
 title: "Specifications — Edgy — Artwork — Final Picks"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork/FinalPicks).*
+
 #### Final picks for xubuntu Edgy
 
 ## Logo

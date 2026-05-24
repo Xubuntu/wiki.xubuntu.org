@@ -2,6 +2,8 @@
 title: "Specifications — W — Default Media Player"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/W/DefaultMediaPlayer).*
+
 ## Desired Features
 
 Here we do a simple comparison of some known and popular media players for linux, most of them are in the repos, the set of minimal desired functions are:

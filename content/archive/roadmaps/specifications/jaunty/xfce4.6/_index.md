@@ -2,6 +2,8 @@
 title: "Jaunty Specification: Xfce4.6"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/Xfce4.6).*
+
 # Jaunty Specification: Xfce4.6
 
 Current 4.6 Version

@@ -2,6 +2,8 @@
 title: "Links"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork).*
+
 This page is tracking progress on the Dapper Look for Xubuntu.
 
 Final:

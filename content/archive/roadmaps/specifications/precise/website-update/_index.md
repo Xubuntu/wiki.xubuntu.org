@@ -2,6 +2,8 @@
 title: "Specifications — Precise — Website Update"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/WebsiteUpdate).*
+
 This is the todo -list for the Xubuntu website for Pangolin.
 
 ## Pages

@@ -2,6 +2,8 @@
 title: "Specifications — Raring — Wallpapers"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/Wallpapers).*
+
 **NOTE:** This specification has been postponed. The current draft is at [Xubuntu/Specifications/Trusty/CommunityWallpapers](https://wiki.ubuntu.com/Xubuntu/Specifications/Trusty/CommunityWallpapers).
 
 ---

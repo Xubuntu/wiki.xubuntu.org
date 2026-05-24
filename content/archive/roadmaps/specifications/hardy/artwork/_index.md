@@ -2,6 +2,8 @@
 title: "Xubuntu Hardy Design"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/Artwork).*
+
 # Xubuntu Hardy Design
 Artwork from the release candidate:
 ![desktop.png](/archive/roadmaps/specifications/hardy/artwork/desktop.png)

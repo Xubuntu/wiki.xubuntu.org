@@ -2,6 +2,8 @@
 title: "Specifications — Raring — ISOSize Transition"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/ISOSizeTransition).*
+
 ## Specification title
 
 | Overview | |

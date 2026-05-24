@@ -2,6 +2,8 @@
 title: "Specifications — Maverick — Ubuntu Open Week"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Maverick/UbuntuOpenWeek).*
+
 # Xubuntu Development - UbuntuOpenWeek
 ## Objective
 

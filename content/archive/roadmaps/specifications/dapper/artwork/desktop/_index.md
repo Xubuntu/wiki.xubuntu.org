@@ -2,6 +2,8 @@
 title: "Decided"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Desktop).*
+
 # Decided
 
 ![XubuntuSteel.png](/archive/roadmaps/specifications/dapper/artwork/desktop/XubuntuSteel.png)

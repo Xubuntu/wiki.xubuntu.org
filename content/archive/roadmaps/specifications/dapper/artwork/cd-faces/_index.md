@@ -2,6 +2,8 @@
 title: "CD Faces"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/CdFaces).*
+
 A page to collect artworks aimed at being printed on cd surfaces.
 
 # CD Faces

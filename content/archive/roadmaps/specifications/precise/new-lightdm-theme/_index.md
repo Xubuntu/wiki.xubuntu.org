@@ -2,6 +2,8 @@
 title: "Specifications — Precise — New Lightdm Theme"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/NewLightdmTheme).*
+
 ## New lightdm theme
 
 | Overview | |

@@ -2,6 +2,8 @@
 title: "Goals — Oneiric"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Oneiric).*
+
 ## New objectives for Oneiric
 
 | **Objective** | **Assignee** |

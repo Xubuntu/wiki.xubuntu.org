@@ -2,6 +2,8 @@
 title: "Artwork for Xubuntu Edgy"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork).*
+
 # Artwork for Xubuntu Edgy
 
 ## New (Logo) Proposals:

@@ -2,6 +2,8 @@
 title: "Status of Xfce 4.8 in Natty"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/Xfce4.8).*
+
 # Status of Xfce 4.8 in Natty
 
 This page in work in progress and might not be completely accurate! Please get in touch with mr_pouit on #xubuntu-devel before picking a TODO item. Thanks!

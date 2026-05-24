@@ -2,6 +2,8 @@
 title: "Goals — Raring"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Raring).*
+
 # Xubuntu Development Roadmap
 
 | To edit the roadmap for Raring Ringtail, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Raring?action=edit). |

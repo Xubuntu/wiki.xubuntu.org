@@ -2,6 +2,8 @@
 title: "Logo"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Breezy/Artwork).*
+
 # Logo
 
 ## first logo suggestion

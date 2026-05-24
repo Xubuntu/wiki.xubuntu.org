@@ -2,6 +2,8 @@
 title: "Notify-osd in Karmic"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/NotifyOsd).*
+
 Specifications for this cycle : 
 # Notify-osd in Karmic
 *** Proposal to change the default notification server to notify-osd in Karmic and adapt a few applications ***

@@ -2,6 +2,8 @@
 title: "Goals — Intrepid"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Intrepid).*
+
 | **Goal** | **Status** |
 |---|---|
 | Implement Xfce 4.6 | Deferred to Intrepid+1 |

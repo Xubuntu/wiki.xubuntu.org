@@ -2,6 +2,8 @@
 title: "Goals — Lucid"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Lucid).*
+
 ## New objectives for Lucid
 
 | **Objective** | **Assignee** |

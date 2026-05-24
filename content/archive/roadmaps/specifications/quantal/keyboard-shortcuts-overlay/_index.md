@@ -2,6 +2,8 @@
 title: "Specifications — Quantal — Keyboard Shortcuts Overlay"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/KeyboardShortcutsOverlay).*
+
 ## Specification title
 
 | Overview | |

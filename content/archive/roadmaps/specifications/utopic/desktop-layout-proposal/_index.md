@@ -2,6 +2,8 @@
 title: "Specifications — Utopic — Desktop Layout Proposal"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/DesktopLayoutProposal).*
+
 ## Xubuntu 14.10's default desktop
 
 | Overview | |

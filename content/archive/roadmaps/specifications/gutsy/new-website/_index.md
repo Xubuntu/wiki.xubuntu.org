@@ -2,6 +2,8 @@
 title: "Specifications — Gutsy — New Website"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/NewWebsite).*
+
 ##(see the SpecSpec for an explanation)
 
 *Please check the status of this specification in Launchpad before editing it.  If it is Approved, contact the Assignee or another knowledgeable person before making changes.*

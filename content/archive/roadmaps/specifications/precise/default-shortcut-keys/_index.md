@@ -2,6 +2,8 @@
 title: "Specifications — Precise — Default Shortcut Keys"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/DefaultShortcutKeys).*
+
 ## Rethink default shortcut keys
 
 | Overview | |

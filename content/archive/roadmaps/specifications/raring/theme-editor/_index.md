@@ -2,6 +2,8 @@
 title: "Specifications — Raring — Theme Editor"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/ThemeEditor).*
+
 ## Implement a tool to configure GTK theme colors
 | | |
 |---|---|

@@ -2,6 +2,8 @@
 title: "Links"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/ColorScheme).*
+
 Currently we have 
 
 - blue (usplash, logo)

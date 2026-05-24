@@ -2,6 +2,8 @@
 title: "Specifications — X — Default Media Manager"
 ---
 
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/X/DefaultMediaManager).*
+
 ## Definitions
 For the purposes of this wiki page and discussion, the following terms are used:
 - **Media Manager** is an application that has collection/library/extensive playlist support, eg. gmusicbrowser
