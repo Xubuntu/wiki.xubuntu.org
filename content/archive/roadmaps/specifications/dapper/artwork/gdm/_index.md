@@ -8,7 +8,7 @@ title: "GDM"
 
 # Decided
 
-![](https://wiki.ubuntu.com/DapperXubuntLookProposalSteel?action=AttachFile&do=get&target=login.png)
+![login.png](/archive/roadmaps/specifications/dapper/artwork/steel-proposal/login.png)
 
 # May also be shipped
 ![screenshot.png](/archive/roadmaps/specifications/dapper/artwork/gdm/screenshot.png)

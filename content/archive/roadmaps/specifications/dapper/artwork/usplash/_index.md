@@ -7,7 +7,7 @@ title: "Usplash"
 *DapperXubuntuLook*
 # Final propositions
 Due to the final Ubuntu usplash propositions, a new Xubuntu splash screen has been made. Please vote on which one should be included by default in Xubuntu.
-![](https://wiki.ubuntu.com/DapperXubuntLookProposalSteel?action=AttachFile&do=get&target=usplash.png)
+![usplash.png](/archive/roadmaps/specifications/dapper/artwork/steel-proposal/usplash.png)
 #1
 - *Viper550* : Wow, that looks alot like mine! Awesome! (votes for it)
 - *Add your vote here.*
@@ -32,7 +32,7 @@ this is a tweaked version of the default with different text colors (don't use r
 ## Vincent's Usplash
 ![VincentXubuntuSplashLo.png](/archive/roadmaps/specifications/dapper/artwork/usplash/VincentXubuntuSplashLo.png)
 
-This is my try at the splash screen, I also uploaded a [better quality one](https://wiki.ubuntu.com/DapperXubuntuUsplash?action=AttachFile&do=get&target=VincentXubuntuSplashHi.png), and an [XFC](https://wiki.ubuntu.com/DapperXubuntuUsplash?action=AttachFile&do=get&target=VincentXubuntuSplashGIMP.xcf) (from the GIMP) version.
+This is my try at the splash screen.
 
 ### Comments
 It does not really fit a general Xfce or Xubuntu theme, but some might like it as it is. -- VincentZekred

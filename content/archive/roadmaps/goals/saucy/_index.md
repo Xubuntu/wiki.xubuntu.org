@@ -6,9 +6,6 @@ title: "Saucy"
 
 # Xubuntu Development Roadmap
 
-| To edit the roadmap for Saucy Salamander, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Saucy?action=edit). |
-|---|
-
 ## Roadmap for Saucy Salamander
 This page is to serve as a development roadmap for the next version of Xubuntu.
 

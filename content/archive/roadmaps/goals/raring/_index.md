@@ -6,9 +6,6 @@ title: "Raring"
 
 # Xubuntu Development Roadmap
 
-| To edit the roadmap for Raring Ringtail, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Raring?action=edit). |
-|---|
-
 ## Roadmap for Raring Ringtail
 This page is to serve as a development roadmap for the next version of Xubuntu.
 

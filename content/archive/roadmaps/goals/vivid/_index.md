@@ -14,5 +14,3 @@ title: "Vivid"
 
 ## Specifications
 
-| To edit the roadmap for the Vivid cycle, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Vivid?action=edit). |
-|---|

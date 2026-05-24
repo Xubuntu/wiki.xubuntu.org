@@ -27,5 +27,3 @@ title: "Utopic"
 ## Trello Board
 [https://trello.com/b/P9r6ICd0/xubuntu-team](https://trello.com/b/P9r6ICd0/xubuntu-team)
 
-| To edit the roadmap for the U-cycle, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Utopic?action=edit). |
-|---|

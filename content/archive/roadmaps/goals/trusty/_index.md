@@ -56,5 +56,3 @@ title: "Trusty"
 ## Brainstorm and discussion
  Read the [brainstorm and discussion here](/archive/roadmaps/goals/trusty/brainstorm/).
 
-| To edit the roadmap for Trusty Tahr, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty?action=edit). |
-|---|
