@@ -1,0 +1,26 @@
+---
+title: "Specifications — Utopic — Desktop Layout Proposal"
+---
+
+## Xubuntu 14.10's default desktop
+
+| Overview | |
+|---|---|
+| **Title** | Reconsider the Xubuntu desktop layout |
+| **Blueprint** | - |
+| **Assignee** | - |
+| **Release** | [U-cycle](https://wiki.ubuntu.com/Xubuntu/Roadmap/U) |
+
+## Detailed specification
+
+The end of the Windows XP life cycle is basicaly here so many of its users will want get other OS, my sugerence is make the Xubuntu's XFCE desktop ideal for those users how? well with a XP like desktop, whiskermenu with icon and title (saying start on english inicio in spanish etc...) a firefox launcher a show desktop applet a parole launcher task manager separator systray indicators clock and a log out boton check this image to see the results <https://plus.google.com/+SEDur%C3%A1n/posts/iw8GCYamwsz>
+
+Areas covered in the specification should be the following (where applicable):
+- **Summary:** The next Xubuntu's desktop.
+- **Rationale:** This changes good for the distribution because will atract more users
+- **Use cases:** Which use cases this addresses?
+- **Detailed application comparison** this is only for the XFCE desktop this modern and classic layout is a littke bit fresh and make everything look better
+- **Notes on design, implementation and maintenance work**
+- **Notes on issues that need solving** use shotwell instead of Gthumb, this one and the Gnome CSSD decorations break with the mentioned style
+- **Discussion on the specification**
+  - I don't think that this is really something that's very feasible for the 14.10 release or something we want either. Having the panel at the monitor's top or bottom really isn't too big a difference to overcome for people. Furthermore we can't add a label to whiskermenu, because it wouldn't be translateable. Gthumb isn't shipped anymore and I don't think we really *need* an application like Shotwell by default (but that should be the topic for a separate specification anyhow). We ship whiskermenu because we can set some favorites that show in the popup directly, adding launchers to the panel seems like overkill (e.g. Windows XP used to put firefox launchers in the panel, the menu and the desktop - I really don't want us to copy that terrible duplication just for the sake of people being used to it). So with my XPL hat on, I think this simply isn't a good idea. ~ochosi

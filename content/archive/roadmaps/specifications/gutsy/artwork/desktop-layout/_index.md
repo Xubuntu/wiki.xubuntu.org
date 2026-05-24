@@ -1,0 +1,17 @@
+---
+title: "Desktop layout"
+---
+
+# Desktop layout
+
+### 1) Default
+
+![default.png](/archive/roadmaps/specifications/gutsy/artwork/desktop-layout/default.png)
+
+### 2) Traditional
+
+![traditional.png](/archive/roadmaps/specifications/gutsy/artwork/desktop-layout/traditional.png)
+
+### 3) Side Panel
+
+![side.png](/archive/roadmaps/specifications/gutsy/artwork/desktop-layout/side.png)

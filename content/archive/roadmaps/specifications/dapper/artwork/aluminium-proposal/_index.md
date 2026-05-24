@@ -1,0 +1,22 @@
+---
+title: "AluminiumLogo"
+---
+
+These artworks are based on Tango's aluminium color scheme.
+Created by JozsefMak
+
+# AluminiumLogo
+
+![logo.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/logo.png)
+
+# Wallpaper
+
+![wallpaper.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/wallpaper.png)
+
+# GDM login screen
+
+![login.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/login.png)
+
+# Usplash
+
+![usplash.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/usplash.png)
