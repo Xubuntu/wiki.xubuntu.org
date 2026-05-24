@@ -8,12 +8,12 @@ This page is tracking progress on the Dapper Look for Xubuntu.
 
 Final:
 
-- [/Desktop](https://wiki.ubuntu.com//Desktop)
-- [/Logo](https://wiki.ubuntu.com//Logo)
-- [/Usplash](https://wiki.ubuntu.com//Usplash)
-- [/GDM](https://wiki.ubuntu.com//GDM)
-- [/Icons](https://wiki.ubuntu.com//Icons)
-- [/ColorScheme](https://wiki.ubuntu.com//ColorScheme)  *is this final? It's being linked in DapperXubuntuLogo page*
+- [/Desktop](/archive/roadmaps/specifications/dapper/artwork/desktop/)
+- [/Logo](/archive/roadmaps/specifications/dapper/artwork/logo/)
+- [/Usplash](/archive/roadmaps/specifications/dapper/artwork/usplash/)
+- [/GDM](/archive/roadmaps/specifications/dapper/artwork/gdm/)
+- [/Icons](/archive/roadmaps/specifications/dapper/artwork/icons/)
+- [/ColorScheme](/archive/roadmaps/specifications/dapper/artwork/color-scheme/)  *is this final? It's being linked in DapperXubuntuLogo page*
 
 ## ArtworkPoll
 **Poll is over.**
@@ -21,15 +21,15 @@ Final:
 
 Candidates for the poll were:
 
-- [/GrayProposal](https://wiki.ubuntu.com//GrayProposal)
-- [/AluminiumProposal](https://wiki.ubuntu.com//AluminiumProposal)
-- [/SteelProposal](https://wiki.ubuntu.com//SteelProposal)
+- [/GrayProposal](/archive/roadmaps/specifications/dapper/artwork/gray-proposal/)
+- [/AluminiumProposal](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/)
+- [/SteelProposal](/archive/roadmaps/specifications/dapper/artwork/steel-proposal/)
 
 ## Artwork
 
-- [/CdFaces](https://wiki.ubuntu.com//CdFaces)
-- [/GtkTheme](https://wiki.ubuntu.com//GtkTheme)
-- [/Xubuntulooks](https://wiki.ubuntu.com//Xubuntulooks)
+- [/CdFaces](/archive/roadmaps/specifications/dapper/artwork/cd-faces/)
+- [/GtkTheme](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/)
+- [/Xubuntulooks](/archive/roadmaps/specifications/dapper/artwork/xubuntulooks/)
 
 ## All subpages
 

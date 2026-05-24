@@ -11,7 +11,7 @@ title: "Terminal Theme Review"
 | **Title** | Review terminal theme |
 | **Blueprint** | [https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-terminal-theme](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-terminal-theme) |
 | **Assignee** | Simon Steinbeiß, Pasi Lallinaho |
-| **Release** | [Quantal Quetzal](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Quantal) |
+| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
 
 ## Detailed specification
 

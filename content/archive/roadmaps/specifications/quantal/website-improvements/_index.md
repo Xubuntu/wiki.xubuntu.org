@@ -11,7 +11,7 @@ title: "Website Improvements"
 | **Title** | Xubuntu website improvements |
 | **Blueprint** | [https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-website-improvements](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-website-improvements) |
 | **Assignee** | Pasi Lallinaho, Elizabeth Krumbach |
-| **Release** | [Quantal Quetzal](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Quantal) |
+| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
 
 ## Detailed specification
 

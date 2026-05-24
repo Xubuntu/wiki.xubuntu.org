@@ -10,7 +10,7 @@ title: "Panel Layout Switcher"
 |---|---|
 | **Title** | Panel layout switcher |
 | **Assignee** | Alistain Buxton |
-| **Release** | [Trusty Tahr](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty) |
+| **Release** | [Trusty Tahr](/archive/roadmaps/goals/trusty/) |
 
 ## Detailed specification
 

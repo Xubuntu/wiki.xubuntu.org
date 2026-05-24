@@ -16,7 +16,7 @@ There's also another (collaborative) effort with folks from Lubuntu to improve t
   - Integrate accessibility menu and shutdown/restart menu into login-box and drop top panel
   - Lock the screen
   - Correctly scale the wallpaper/background
-  - Better multi-monitor support (as laid out [here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/MultipleMonitors))
+  - Better multi-monitor support (as laid out [here](/archive/roadmaps/specifications/quantal/multiple-monitors/))
 
 ## Screen Lock (Postponed)
 **Todo list**:

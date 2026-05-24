@@ -28,7 +28,7 @@ Read more about [the phases](https://wiki.ubuntu.com/Xubuntu/Roadmap/Phases).
 <!-- See existing rows for example. -->
 | **Application group** | **Proposed (Current)** | **Assignee** | **Importance** | **Links** |
 |---|---|---|---|---|
-| --(Media Player (Audio))-- | Any (gmusicbrowser) | Grid*'*'Cube | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-default-media-player), [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/DefaultMediaPlayer) |
+| --(Media Player (Audio))-- | Any (gmusicbrowser) | Grid*'*'Cube | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-default-media-player), [Specification](/archive/roadmaps/specifications/precise/default-media-player/) |
 
 ### New features
 Note that any features with no assignee will not be driven, and most probably won't make it to the Precise Pangolin release.
@@ -44,11 +44,11 @@ Note that any features with no assignee will not be driven, and most probably wo
 | Release the new website | Pasi Lallinaho, Elizabeth Krumbach | Essential | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-release-website), [Sprint 19 Nov](https://wiki.ubuntu.com/Xubuntu/Website/Sprint) |
 | New Plymouth theme | madnick | High | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-new-plymouth-theme) |
 | New generic greeter engine for lightdm | madnick | High | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-lightdm-greeter-engine) |
-| New lightdm theme | madnick | High | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-new-lightdm-theme), [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/NewLightdmTheme) |
+| New lightdm theme | madnick | High | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-new-lightdm-theme), [Specification](/archive/roadmaps/specifications/precise/new-lightdm-theme/) |
 | Create a new wallpaper | Pasi Lallinaho | Medium | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-new-wallpaper) |
 | Create a GUI for managing menu | Lauri Paatelainen | Medium | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-menu-managing) |
-| Settings GUI for lightdm (under Settings Manager) | madnick | Medium | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-lightdm-settings-gui), [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/SettingsGUIforLightdm) |
-| Ubiquity "Application sets" | Janne Jokitalo | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-ubiquity-application-sets), [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/UbiquityApplicationSets) |
+| Settings GUI for lightdm (under Settings Manager) | madnick | Medium | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-lightdm-settings-gui), [Specification](/archive/roadmaps/specifications/precise/settings-guifor-lightdm/) |
+| Ubiquity "Application sets" | Janne Jokitalo | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-ubiquity-application-sets), [Specification](/archive/roadmaps/specifications/precise/ubiquity-application-sets/) |
 | Port Bluebird to GTK3 | Simon Steinbeiß | Low | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-bluebird-gtk3-port) |
 | Miscellaneous appearance improvements | Pasi Lallinaho | Low | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-appearance-improvements) |
 | Add [kbdleds](http://git.xfce.org/panel-plugins/xfce4-kbdleds-plugin/) to the repositories | Lionel Le Folgoc, Grid*'*'Cube | Low | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-kbdleds-in-repository) |
@@ -65,5 +65,5 @@ Note that any features with no assignee will not be driven, and most probably wo
 | **Item** | **Assignee** | **Importance** | **Links** |
 |---|---|---|---|
 | Fix Greybird (GTK3) issues | Simon Steinbeiß | Essential | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-greybird-fixes) |
-| Rethink shortcut keys | Sysi, community | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-default-shortcuts), [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/DefaultShortcutKeys) |
-| Clean themes (GTK, xfwm, wallpapers) list | Pasi Lallinaho | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-cleanthemes), [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/CleanThemes) |
+| Rethink shortcut keys | Sysi, community | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-default-shortcuts), [Specification](/archive/roadmaps/specifications/precise/default-shortcut-keys/) |
+| Clean themes (GTK, xfwm, wallpapers) list | Pasi Lallinaho | Low * | [Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-p-xubuntu-cleanthemes), [Specification](/archive/roadmaps/specifications/precise/clean-themes/) |

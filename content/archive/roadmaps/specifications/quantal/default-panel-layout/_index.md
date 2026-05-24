@@ -11,7 +11,7 @@ title: "Default Panel Layout"
 | **Title** | Default Panel Layout |
 | **Blueprint** | |
 | **Assignee** | Simon Steinbeiß, Pasi Lallinaho |
-| **Release** | [Quantal Quetzal](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Quantal) |
+| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
 
 ## Status Quo in Precise
 

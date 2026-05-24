@@ -11,7 +11,7 @@ title: "Keyboard Shortcuts Overlay"
 | **Title** | Implement Keyboard-Shortcuts overlay/window |
 | **Blueprint** | [https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-shortcuts-overlay](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-shortcuts-overlay) |
 | **Assignee** | Sean Davis, Simon Steinbeiß |
-| **Release** | [Quantal Quetzal](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Quantal) |
+| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
 
 ## Detailed specification
 

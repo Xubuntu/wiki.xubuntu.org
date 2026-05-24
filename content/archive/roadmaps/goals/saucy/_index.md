@@ -48,7 +48,7 @@ Note that proposed ideas with no driver most probably won't make it to the relea
 -->
 | **Item** | **Driver(s)** | **Links** |
 |---|---|---|
-| Ship [apt-offline](http://apt-offline.alioth.debian.org/) by default | Stephen Michael Kellat | [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/AptOffline) |
+| Ship [apt-offline](http://apt-offline.alioth.debian.org/) by default | Stephen Michael Kellat | [Specification](/archive/roadmaps/specifications/quantal/apt-offline/) |
 | *Ideas carried on from Raring* | | |
 | Add 'optimal' partitioning option to install options | - | - |
 | Add DVD support to Xubuntu restricted extras | - | - |

@@ -16,4 +16,4 @@ title: "How To"
 `  **License:** CC-BY-SA`
 `  **Resolution:** width x height`
  1.#5 Then save the page and you're done.
-1. Patiently wait for your submission [to be accepted](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Accepted).
+1. Patiently wait for your submission [to be accepted](/archive/roadmaps/specifications/trusty/community-wallpapers/accepted/).

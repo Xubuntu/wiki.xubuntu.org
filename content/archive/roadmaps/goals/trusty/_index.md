@@ -54,7 +54,7 @@ title: "Trusty"
 - Promoting 64-bit images by default
 
 ## Brainstorm and discussion
- Read the [brainstorm and discussion here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty/Brainstorm).
+ Read the [brainstorm and discussion here](/archive/roadmaps/goals/trusty/brainstorm/).
 
 | To edit the roadmap for Trusty Tahr, please [click here](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty?action=edit). |
 |---|

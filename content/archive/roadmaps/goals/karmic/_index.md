@@ -20,4 +20,4 @@ title: "Karmic"
 
 | **Objective** | **Assignee** |
 |---|---|
-| [Grow the Xubuntu Community](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/GrowXubuntuCommunity) | PasiLallinaho |
+| [Grow the Xubuntu Community](/archive/roadmaps/specifications/jaunty/grow-xubuntu-community/) | PasiLallinaho |

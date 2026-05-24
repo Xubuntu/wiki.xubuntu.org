@@ -43,7 +43,7 @@ Note that any items with no driver most probably won't make it to the release.
 | Improve testing procedures | Elfy, Pasi Lallinaho | High | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-r-xubuntu-testing)** |
 | Enhance offline documentation | Pasi Lallinaho, Elizabeth Krumbach | High | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-r-xubuntu-docs)** |
 | *Ideas carried on from Quantal* | | | |
-| Ship [apt-offline](http://apt-offline.alioth.debian.org/) by default | - | - | [Specification](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/AptOffline) |
+| Ship [apt-offline](http://apt-offline.alioth.debian.org/) by default | - | - | [Specification](/archive/roadmaps/specifications/quantal/apt-offline/) |
 | Add optimum partitioning option to install options | - | - | - |
 | Add DVD support to Xubuntu restricted extras | - | - | - |
 | New Panel Plug in: Disk access monitor | - | - | - |
