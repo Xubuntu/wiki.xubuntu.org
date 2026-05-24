@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Jaunty — Grow Xubuntu Community"
+title: "Grow Xubuntu Community"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/GrowXubuntuCommunity).*

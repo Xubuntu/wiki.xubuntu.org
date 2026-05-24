@@ -1,5 +1,5 @@
 ---
-title: "Intrepid & Xfce 4.6"
+title: "Xfce4.6"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Xfce4.6).*

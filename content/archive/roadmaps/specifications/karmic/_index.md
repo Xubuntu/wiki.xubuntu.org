@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Karmic"
+title: "Karmic"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic).*

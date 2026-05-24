@@ -1,5 +1,5 @@
 ---
-title: "Decided"
+title: "GDM"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/GDM).*

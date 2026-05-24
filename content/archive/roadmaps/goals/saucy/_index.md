@@ -1,5 +1,5 @@
 ---
-title: "Goals — Saucy"
+title: "Saucy"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Saucy).*

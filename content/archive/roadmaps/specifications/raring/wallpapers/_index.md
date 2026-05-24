@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Raring — Wallpapers"
+title: "Wallpapers"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/Wallpapers).*

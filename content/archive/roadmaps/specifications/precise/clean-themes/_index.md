@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Precise — Clean Themes"
+title: "Clean Themes"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/CleanThemes).*

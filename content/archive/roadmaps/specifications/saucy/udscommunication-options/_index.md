@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Saucy — UDSCommunication Options"
+title: "UDSCommunication Options"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Saucy/UDSCommunicationOptions).*

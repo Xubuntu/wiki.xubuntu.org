@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Quantal — Apt Offline"
+title: "Apt Offline"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/AptOffline).*

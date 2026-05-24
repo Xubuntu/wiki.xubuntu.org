@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Gutsy — Documentation Browser"
+title: "Documentation Browser"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/DocumentationBrowser).*

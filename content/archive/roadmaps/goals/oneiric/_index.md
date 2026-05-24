@@ -1,5 +1,5 @@
 ---
-title: "Goals — Oneiric"
+title: "Oneiric"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Oneiric).*

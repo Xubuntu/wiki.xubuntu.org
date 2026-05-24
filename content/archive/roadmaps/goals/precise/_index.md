@@ -1,5 +1,5 @@
 ---
-title: "Goals — Precise"
+title: "Precise"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Precise).*

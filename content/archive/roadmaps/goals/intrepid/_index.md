@@ -1,5 +1,5 @@
 ---
-title: "Goals — Intrepid"
+title: "Intrepid"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Intrepid).*

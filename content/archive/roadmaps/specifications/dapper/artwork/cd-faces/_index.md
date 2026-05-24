@@ -1,5 +1,5 @@
 ---
-title: "CD Faces"
+title: "Cd Faces"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/CdFaces).*

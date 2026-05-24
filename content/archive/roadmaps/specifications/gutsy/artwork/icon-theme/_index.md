@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Gutsy — Artwork — Icon Theme"
+title: "Icon Theme"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/IconTheme).*

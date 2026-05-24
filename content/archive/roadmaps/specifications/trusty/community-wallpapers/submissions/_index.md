@@ -1,5 +1,5 @@
 ---
-title: "Submissions for Xubuntu's 14.04 default wallpaper set"
+title: "Submissions"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions).*

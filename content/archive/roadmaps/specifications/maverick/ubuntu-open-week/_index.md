@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Maverick — Ubuntu Open Week"
+title: "Ubuntu Open Week"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Maverick/UbuntuOpenWeek).*

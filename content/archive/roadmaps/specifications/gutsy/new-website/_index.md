@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Gutsy — New Website"
+title: "New Website"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/NewWebsite).*

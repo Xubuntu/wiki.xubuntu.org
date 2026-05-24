@@ -1,5 +1,5 @@
 ---
-title: "General directions for Xubuntu Jaunty artwork"
+title: "Artwork Directions"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/ArtworkDirections).*

@@ -1,5 +1,5 @@
 ---
-title: "Final propositions"
+title: "Usplash"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Usplash).*

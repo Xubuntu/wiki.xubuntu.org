@@ -1,5 +1,5 @@
 ---
-title: "The winners of the 14.04 Community wallpaper contest!"
+title: "Winners"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Winners).*

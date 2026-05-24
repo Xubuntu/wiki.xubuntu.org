@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Raring — Theme Editor"
+title: "Theme Editor"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/ThemeEditor).*

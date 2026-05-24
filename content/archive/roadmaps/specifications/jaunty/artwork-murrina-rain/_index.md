@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Jaunty — Artwork Murrina Rain"
+title: "Artwork Murrina Rain"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/ArtworkMurrinaRain).*

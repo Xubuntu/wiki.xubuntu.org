@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Hardy — Artwork Incoming"
+title: "Artwork Incoming"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/ArtworkIncoming).*

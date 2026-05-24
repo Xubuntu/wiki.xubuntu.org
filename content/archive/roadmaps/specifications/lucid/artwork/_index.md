@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Lucid — Artwork"
+title: "Artwork"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Lucid/Artwork).*

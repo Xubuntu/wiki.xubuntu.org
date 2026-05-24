@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Gutsy — Artwork — Clearlooks Kokodi Dropline"
+title: "Clearlooks Kokodi Dropline"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/ClearlooksKokodiDropline).*

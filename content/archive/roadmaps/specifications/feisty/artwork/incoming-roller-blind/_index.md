@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Feisty — Artwork — Incoming Roller Blind"
+title: "Incoming Roller Blind"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/IncomingRollerBlind).*

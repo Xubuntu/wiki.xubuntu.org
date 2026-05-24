@@ -1,5 +1,5 @@
 ---
-title: "Goals — Natty"
+title: "Natty"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Natty).*

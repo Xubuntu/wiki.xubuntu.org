@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Edgy — Desktop Goals Spec"
+title: "Desktop Goals Spec"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/DesktopGoalsSpec).*

@@ -1,5 +1,5 @@
 ---
-title: "Artwork for Xubuntu Edgy"
+title: "Artwork"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork).*

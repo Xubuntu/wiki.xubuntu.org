@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Edgy — Ideas"
+title: "Ideas"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Ideas).*

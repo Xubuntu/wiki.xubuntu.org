@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Intrepid — Idea Pool"
+title: "Idea Pool"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/IdeaPool).*

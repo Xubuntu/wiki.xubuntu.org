@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Raring — Light DM-Greeter"
+title: "Light DM Greeter"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/LightDM-Greeter).*

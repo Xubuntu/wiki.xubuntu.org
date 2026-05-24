@@ -1,5 +1,5 @@
 ---
-title: "Mockups"
+title: "All Images"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/AllImages).*

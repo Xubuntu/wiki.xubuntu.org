@@ -1,5 +1,5 @@
 ---
-title: "Decided"
+title: "Desktop"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Desktop).*

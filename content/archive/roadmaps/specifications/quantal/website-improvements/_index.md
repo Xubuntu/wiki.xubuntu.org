@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Quantal — Website Improvements"
+title: "Website Improvements"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/WebsiteImprovements).*

@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Utopic — Hexchat"
+title: "Hexchat"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Hexchat).*

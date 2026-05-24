@@ -1,5 +1,5 @@
 ---
-title: "Exaile vs. gmusicbrowser"
+title: "Default Media Player"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/DefaultMediaPlayer).*

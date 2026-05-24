@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Saucy — Enabling Xubuntu Developers"
+title: "Enabling Xubuntu Developers"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Saucy/EnablingXubuntuDevelopers).*

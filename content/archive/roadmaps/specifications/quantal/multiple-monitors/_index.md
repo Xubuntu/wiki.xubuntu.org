@@ -1,5 +1,5 @@
 ---
-title: "Specification for Multi-Monitor Use-cases in Xubuntu"
+title: "Multiple Monitors"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/MultipleMonitors).*

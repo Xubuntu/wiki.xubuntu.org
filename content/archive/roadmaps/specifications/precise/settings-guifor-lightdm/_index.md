@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Precise — Settings GUIfor Lightdm"
+title: "Settings GUIfor Lightdm"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/SettingsGUIforLightdm).*

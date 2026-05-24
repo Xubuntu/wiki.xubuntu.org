@@ -1,5 +1,5 @@
 ---
-title: "Xubuntu Hardy Docs Roadmap"
+title: "Documentation Roadmap"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/DocumentationRoadmap).*

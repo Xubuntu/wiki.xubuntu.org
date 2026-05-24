@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Saucy — Autopilot Testing"
+title: "Autopilot Testing"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Saucy/AutopilotTesting).*

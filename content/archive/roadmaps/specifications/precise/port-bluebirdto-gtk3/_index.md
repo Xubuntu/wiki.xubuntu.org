@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Precise — Port Bluebirdto GTK3"
+title: "Port Bluebirdto GTK3"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/PortBluebirdtoGTK3).*

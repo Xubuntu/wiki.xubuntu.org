@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Raring — ISOSize Transition"
+title: "ISOSize Transition"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/ISOSizeTransition).*

@@ -1,5 +1,5 @@
 ---
-title: "Default Music Player - WORK IN PROGRESS"
+title: "Default Music Player"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultMusicPlayer).*

@@ -1,5 +1,5 @@
 ---
-title: "STATUS"
+title: "Xfce Goodies"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/XfceGoodies).*

@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Dapper — Langpacks Spec"
+title: "Langpacks Spec"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/LangpacksSpec).*

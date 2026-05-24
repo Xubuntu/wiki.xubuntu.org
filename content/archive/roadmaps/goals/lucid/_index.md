@@ -1,5 +1,5 @@
 ---
-title: "Goals — Lucid"
+title: "Lucid"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Lucid).*

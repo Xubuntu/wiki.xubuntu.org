@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Quantal — Webcam Application"
+title: "Webcam Application"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/WebcamApplication).*

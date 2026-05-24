@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Natty — Artwork"
+title: "Artwork"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Natty/Artwork).*

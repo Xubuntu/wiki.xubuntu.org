@@ -1,5 +1,5 @@
 ---
-title: "Goals — Trusty — Brainstorm"
+title: "Brainstorm"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty/Brainstorm).*

@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Feisty — Xubuntu Welcome Center"
+title: "Xubuntu Welcome Center"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/XubuntuWelcomeCenter).*

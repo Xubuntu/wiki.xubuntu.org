@@ -1,5 +1,5 @@
 ---
-title: "Specifications — X — Default Media Manager"
+title: "Default Media Manager"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/X/DefaultMediaManager).*

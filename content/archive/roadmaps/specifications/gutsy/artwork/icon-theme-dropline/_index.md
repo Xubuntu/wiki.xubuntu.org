@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Gutsy — Artwork — Icon Theme Dropline"
+title: "Icon Theme Dropline"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/IconThemeDropline).*

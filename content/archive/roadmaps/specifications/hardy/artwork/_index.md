@@ -1,5 +1,5 @@
 ---
-title: "Xubuntu Hardy Design"
+title: "Artwork"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/Artwork).*

@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Quantal — Default Panel Layout"
+title: "Default Panel Layout"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/DefaultPanelLayout).*

@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Dapper — Track Progress"
+title: "Track Progress"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/TrackProgress).*

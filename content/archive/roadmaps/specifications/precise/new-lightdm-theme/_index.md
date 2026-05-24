@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Precise — New Lightdm Theme"
+title: "New Lightdm Theme"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/NewLightdmTheme).*

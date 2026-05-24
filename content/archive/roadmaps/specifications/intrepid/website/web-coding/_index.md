@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Intrepid — Website — Web Coding"
+title: "Web Coding"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Website/WebCoding).*

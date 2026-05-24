@@ -1,5 +1,5 @@
 ---
-title: "Notify-osd in Karmic"
+title: "Notify Osd"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/NotifyOsd).*

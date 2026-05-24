@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Dapper — Printer Config Spec"
+title: "Printer Config Spec"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/PrinterConfigSpec).*

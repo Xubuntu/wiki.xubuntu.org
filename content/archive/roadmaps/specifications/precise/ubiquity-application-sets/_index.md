@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Precise — Ubiquity Application Sets"
+title: "Ubiquity Application Sets"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/UbiquityApplicationSets).*

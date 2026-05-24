@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Feisty — Artwork"
+title: "Artwork"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork).*

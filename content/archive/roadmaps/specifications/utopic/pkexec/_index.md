@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Utopic — Pkexec"
+title: "Pkexec"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Pkexec).*

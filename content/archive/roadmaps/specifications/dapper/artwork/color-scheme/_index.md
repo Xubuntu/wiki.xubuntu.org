@@ -1,5 +1,5 @@
 ---
-title: "Links"
+title: "Color Scheme"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/ColorScheme).*

@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Intrepid — Xfce4.6 Milestones"
+title: "Xfce4.6 Milestones"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Xfce4.6Milestones).*

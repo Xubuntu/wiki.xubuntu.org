@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Quantal — Terminal Theme Review"
+title: "Terminal Theme Review"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/TerminalThemeReview).*

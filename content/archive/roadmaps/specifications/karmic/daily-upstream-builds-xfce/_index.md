@@ -1,5 +1,5 @@
 ---
-title: "Daily upstream builds of Xfce"
+title: "Daily Upstream Builds Xfce"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/daily-upstream-builds-xfce).*

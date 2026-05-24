@@ -1,5 +1,5 @@
 ---
-title: "Handling Recommends by Default"
+title: "Recommends Handling"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/RecommendsHandling).*

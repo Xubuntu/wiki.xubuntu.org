@@ -1,5 +1,5 @@
 ---
-title: "Network Services"
+title: "Xubuntu Core"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/xubuntu-core).*

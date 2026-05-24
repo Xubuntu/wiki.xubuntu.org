@@ -1,5 +1,5 @@
 ---
-title: "Instructions on how to get Gtk3 indicators in a Gtk2 Xfce-Panel"
+title: "Gtk3 Indicators"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/Gtk3Indicators).*

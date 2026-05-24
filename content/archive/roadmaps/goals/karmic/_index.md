@@ -1,5 +1,5 @@
 ---
-title: "Goals — Karmic"
+title: "Karmic"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Karmic).*

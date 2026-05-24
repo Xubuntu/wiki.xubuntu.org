@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Dapper — Lighter Spec"
+title: "Lighter Spec"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/LighterSpec).*

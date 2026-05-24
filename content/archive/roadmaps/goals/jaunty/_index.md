@@ -1,5 +1,5 @@
 ---
-title: "Goals — Jaunty"
+title: "Jaunty"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Jaunty).*

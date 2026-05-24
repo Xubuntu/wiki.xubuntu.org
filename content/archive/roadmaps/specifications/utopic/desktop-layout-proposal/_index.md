@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Utopic — Desktop Layout Proposal"
+title: "Desktop Layout Proposal"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/DesktopLayoutProposal).*

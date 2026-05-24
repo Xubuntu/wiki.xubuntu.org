@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Dapper — Artwork — Xubuntulooks"
+title: "Xubuntulooks"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Xubuntulooks).*

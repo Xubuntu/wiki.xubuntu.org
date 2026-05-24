@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Dapper — Reducing Duplication Spec"
+title: "Reducing Duplication Spec"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/ReducingDuplicationSpec).*

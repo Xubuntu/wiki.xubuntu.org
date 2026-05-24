@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Trusty — Community Wallpapers — Submissions — How To"
+title: "How To"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions/HowTo).*

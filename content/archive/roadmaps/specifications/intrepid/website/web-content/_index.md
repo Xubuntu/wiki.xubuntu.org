@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Intrepid — Website — Web Content"
+title: "Web Content"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Website/WebContent).*

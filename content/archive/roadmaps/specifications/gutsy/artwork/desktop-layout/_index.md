@@ -1,5 +1,5 @@
 ---
-title: "Desktop layout"
+title: "Desktop Layout"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/DesktopLayout).*

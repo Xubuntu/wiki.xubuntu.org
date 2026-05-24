@@ -1,5 +1,5 @@
 ---
-title: "Goals — Vivid"
+title: "Vivid"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Vivid).*

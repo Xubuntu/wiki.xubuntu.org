@@ -1,5 +1,5 @@
 ---
-title: "Goals — Quantal"
+title: "Quantal"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Quantal).*

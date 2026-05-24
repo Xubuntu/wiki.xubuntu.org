@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Utopic — Inxi"
+title: "Inxi"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Inxi).*

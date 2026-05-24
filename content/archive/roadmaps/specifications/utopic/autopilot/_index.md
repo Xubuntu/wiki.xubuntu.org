@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Utopic — Autopilot"
+title: "Autopilot"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Autopilot).*

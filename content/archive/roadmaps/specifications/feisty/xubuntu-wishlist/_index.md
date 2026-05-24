@@ -1,5 +1,5 @@
 ---
-title: "Desktop & Thunar"
+title: "Xubuntu Wishlist"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Xubuntu-Wishlist).*

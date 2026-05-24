@@ -1,5 +1,5 @@
 ---
-title: "Specifications — Precise — Website Update"
+title: "Website Update"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/WebsiteUpdate).*

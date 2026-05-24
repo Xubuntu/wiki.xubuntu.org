@@ -1,5 +1,5 @@
 ---
-title: "Xubuntu documentation look and availability"
+title: "Xubuntu Documentation"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/XubuntuDocumentation).*
