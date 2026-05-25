@@ -1,5 +1,6 @@
 ---
 title: "Documentation Browser"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/DocumentationBrowser), last updated 2012-03-25.*

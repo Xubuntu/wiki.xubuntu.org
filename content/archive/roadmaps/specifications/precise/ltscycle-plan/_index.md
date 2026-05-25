@@ -1,5 +1,6 @@
 ---
 title: "LTSCycle Plan"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/LTSCyclePlan), last updated 2012-01-10.*

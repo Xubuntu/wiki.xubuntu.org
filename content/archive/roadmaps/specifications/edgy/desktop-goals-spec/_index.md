@@ -1,5 +1,6 @@
 ---
 title: "Desktop Goals Spec"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/DesktopGoalsSpec), last updated 2012-03-25.*

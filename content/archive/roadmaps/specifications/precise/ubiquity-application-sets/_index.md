@@ -1,5 +1,6 @@
 ---
 title: "Ubiquity Application Sets"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/UbiquityApplicationSets), last updated 2011-11-28.*

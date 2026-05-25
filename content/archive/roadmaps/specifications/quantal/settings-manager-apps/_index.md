@@ -1,5 +1,6 @@
 ---
 title: "Settings Manager Apps"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/SettingsManagerApps), last updated 2012-08-25.*

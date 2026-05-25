@@ -1,5 +1,6 @@
 ---
 title: "Whiskermenu"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/Whiskermenu), last updated 2014-02-24.*

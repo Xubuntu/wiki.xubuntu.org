@@ -1,5 +1,6 @@
 ---
 title: "Gtk3 Indicators"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/Gtk3Indicators), last updated 2014-02-12.*

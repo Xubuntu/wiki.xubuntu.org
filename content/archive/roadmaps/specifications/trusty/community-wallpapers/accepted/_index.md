@@ -1,5 +1,6 @@
 ---
 title: "Accepted"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Accepted), last updated 2014-01-17.*

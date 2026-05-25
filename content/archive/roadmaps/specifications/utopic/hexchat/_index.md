@@ -1,5 +1,6 @@
 ---
 title: "Hexchat"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Hexchat), last updated 2014-05-03.*

@@ -1,5 +1,6 @@
 ---
 title: "Web Content"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Website/WebContent), last updated 2012-03-25.*

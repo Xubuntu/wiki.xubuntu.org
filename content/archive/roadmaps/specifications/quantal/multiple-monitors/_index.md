@@ -1,5 +1,6 @@
 ---
 title: "Multiple Monitors"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/MultipleMonitors), last updated 2012-06-19.*

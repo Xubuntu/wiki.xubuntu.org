@@ -1,5 +1,6 @@
 ---
 title: "Raring"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Raring), last updated 2013-03-23.*

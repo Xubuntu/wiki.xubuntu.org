@@ -1,5 +1,6 @@
 ---
 title: "Winners"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Winners), last updated 2014-01-31.*

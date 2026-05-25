@@ -1,5 +1,6 @@
 ---
 title: "Community Wallpapers"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers), last updated 2013-11-12.*

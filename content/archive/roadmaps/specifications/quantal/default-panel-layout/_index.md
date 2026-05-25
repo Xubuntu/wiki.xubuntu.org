@@ -1,5 +1,6 @@
 ---
 title: "Default Panel Layout"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/DefaultPanelLayout), last updated 2012-07-11.*

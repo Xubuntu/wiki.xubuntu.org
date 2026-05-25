@@ -1,5 +1,6 @@
 ---
 title: "Default Mail Client"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultMailClient), last updated 2012-03-25.*

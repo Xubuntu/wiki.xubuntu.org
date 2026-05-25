@@ -1,5 +1,6 @@
 ---
 title: "Incoming Roller Blind"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork/IncomingRollerBlind), last updated 2008-08-06.*

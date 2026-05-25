@@ -1,5 +1,6 @@
 ---
 title: "Lighter Spec"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/LighterSpec), last updated 2012-07-17.*

@@ -1,5 +1,6 @@
 ---
 title: "Artwork"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Feisty/Artwork), last updated 2013-09-13.*

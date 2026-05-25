@@ -1,5 +1,6 @@
 ---
 title: "Xfce4.6"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Xfce4.6), last updated 2008-08-25.*

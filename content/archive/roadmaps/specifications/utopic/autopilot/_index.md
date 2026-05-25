@@ -1,5 +1,6 @@
 ---
 title: "Autopilot"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Autopilot), last updated 2014-11-05.*

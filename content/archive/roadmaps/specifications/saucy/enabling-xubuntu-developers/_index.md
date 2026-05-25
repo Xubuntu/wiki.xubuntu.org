@@ -1,5 +1,6 @@
 ---
 title: "Enabling Xubuntu Developers"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Saucy/EnablingXubuntuDevelopers), last updated 2013-05-27.*

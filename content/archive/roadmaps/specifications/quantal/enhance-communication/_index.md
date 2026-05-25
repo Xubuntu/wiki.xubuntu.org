@@ -1,5 +1,6 @@
 ---
 title: "Enhance Communication"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/EnhanceCommunication), last updated 2012-04-30.*

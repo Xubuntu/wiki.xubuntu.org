@@ -1,5 +1,6 @@
 ---
 title: "Oneiric"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Oneiric), last updated 2011-05-23.*

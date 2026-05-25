@@ -1,5 +1,6 @@
 ---
 title: "Xfce Goodies"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/XfceGoodies), last updated 2012-04-27.*

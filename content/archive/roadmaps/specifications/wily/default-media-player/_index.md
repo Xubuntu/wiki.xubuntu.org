@@ -1,5 +1,6 @@
 ---
 title: "Default Media Player"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/W/DefaultMediaPlayer), last updated 2015-03-30.*

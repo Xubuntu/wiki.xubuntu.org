@@ -1,5 +1,6 @@
 ---
 title: "Plans"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Website/Plans), last updated 2012-03-25.*

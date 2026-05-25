@@ -1,3 +1,4 @@
 ---
 title: "Xenial"
+bookHidden: true
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Precise"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Precise), last updated 2012-04-23.*

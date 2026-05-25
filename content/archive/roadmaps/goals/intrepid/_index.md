@@ -1,5 +1,6 @@
 ---
 title: "Intrepid"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Intrepid), last updated 2009-04-07.*

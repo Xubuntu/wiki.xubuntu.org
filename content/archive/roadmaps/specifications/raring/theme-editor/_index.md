@@ -1,5 +1,6 @@
 ---
 title: "Theme Editor"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/ThemeEditor), last updated 2013-05-09.*

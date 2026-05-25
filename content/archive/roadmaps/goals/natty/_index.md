@@ -1,5 +1,6 @@
 ---
 title: "Natty"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Natty), last updated 2011-05-23.*

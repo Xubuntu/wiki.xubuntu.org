@@ -1,5 +1,6 @@
 ---
 title: "Usplash"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/Usplash), last updated 2008-08-06.*

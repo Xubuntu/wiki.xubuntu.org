@@ -1,5 +1,6 @@
 ---
 title: "Default Image Viewer"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/DefaultImageViewer), last updated 2012-03-25.*

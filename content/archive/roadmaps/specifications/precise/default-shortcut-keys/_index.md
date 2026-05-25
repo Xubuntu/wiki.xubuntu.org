@@ -1,5 +1,6 @@
 ---
 title: "Default Shortcut Keys"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/DefaultShortcutKeys), last updated 2012-02-08.*

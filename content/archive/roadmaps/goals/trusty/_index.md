@@ -1,5 +1,6 @@
 ---
 title: "Trusty"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty), last updated 2014-01-12.*

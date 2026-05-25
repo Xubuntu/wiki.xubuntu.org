@@ -1,5 +1,6 @@
 ---
 title: "Printer Config Spec"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/PrinterConfigSpec), last updated 2012-07-17.*

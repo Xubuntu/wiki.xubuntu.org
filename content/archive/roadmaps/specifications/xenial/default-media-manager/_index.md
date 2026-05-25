@@ -1,5 +1,6 @@
 ---
 title: "Default Media Manager"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/X/DefaultMediaManager), last updated 2015-11-09.*

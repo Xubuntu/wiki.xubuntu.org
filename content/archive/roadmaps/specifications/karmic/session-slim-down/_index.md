@@ -1,5 +1,6 @@
 ---
 title: "Session Slim Down"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/session-slim-down), last updated 2012-03-25.*

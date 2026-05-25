@@ -1,5 +1,6 @@
 ---
 title: "Recommends Handling"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/RecommendsHandling), last updated 2008-08-12.*

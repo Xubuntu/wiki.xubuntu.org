@@ -1,5 +1,6 @@
 ---
 title: "Brainstorm"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Trusty/Brainstorm), last updated 2014-03-12.*

@@ -1,3 +1,4 @@
 ---
 title: "Lucid"
+bookHidden: true
 ---

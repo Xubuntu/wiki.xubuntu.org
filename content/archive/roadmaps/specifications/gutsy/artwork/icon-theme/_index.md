@@ -1,5 +1,6 @@
 ---
 title: "Icon Theme"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork/IconTheme), last updated 2013-09-13.*

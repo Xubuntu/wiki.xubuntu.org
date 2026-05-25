@@ -1,5 +1,6 @@
 ---
 title: "Xubuntu Core"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/xubuntu-core), last updated 2013-11-03.*

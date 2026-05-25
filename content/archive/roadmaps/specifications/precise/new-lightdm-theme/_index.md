@@ -1,5 +1,6 @@
 ---
 title: "New Lightdm Theme"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/NewLightdmTheme), last updated 2011-12-03.*

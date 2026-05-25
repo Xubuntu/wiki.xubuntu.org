@@ -1,5 +1,6 @@
 ---
 title: "Karmic"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Karmic), last updated 2009-07-17.*

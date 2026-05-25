@@ -1,5 +1,6 @@
 ---
 title: "Clean Themes"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Precise/CleanThemes), last updated 2012-01-05.*

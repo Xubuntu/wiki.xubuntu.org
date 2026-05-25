@@ -1,5 +1,6 @@
 ---
 title: "Track Progress"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/TrackProgress), last updated 2012-07-17.*

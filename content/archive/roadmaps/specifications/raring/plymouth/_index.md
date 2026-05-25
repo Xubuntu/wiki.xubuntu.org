@@ -1,5 +1,6 @@
 ---
 title: "Plymouth"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring/Plymouth), last updated 2013-05-09.*

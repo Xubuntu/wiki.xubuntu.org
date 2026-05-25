@@ -1,5 +1,6 @@
 ---
 title: "Steel Proposal"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/SteelProposal), last updated 2008-08-06.*

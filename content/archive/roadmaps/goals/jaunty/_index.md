@@ -1,5 +1,6 @@
 ---
 title: "Jaunty"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Jaunty), last updated 2009-04-07.*

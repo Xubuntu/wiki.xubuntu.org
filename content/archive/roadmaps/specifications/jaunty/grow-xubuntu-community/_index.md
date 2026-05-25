@@ -1,5 +1,6 @@
 ---
 title: "Grow Xubuntu Community"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Jaunty/GrowXubuntuCommunity), last updated 2009-01-14.*

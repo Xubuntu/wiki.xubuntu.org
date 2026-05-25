@@ -1,5 +1,6 @@
 ---
 title: "Inxi"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/Inxi), last updated 2014-05-02.*

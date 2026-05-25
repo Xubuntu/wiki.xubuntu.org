@@ -1,5 +1,6 @@
 ---
 title: "Xfce4.6 Milestones"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid/Xfce4.6Milestones), last updated 2012-03-25.*

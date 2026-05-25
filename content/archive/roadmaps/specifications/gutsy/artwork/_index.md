@@ -1,5 +1,6 @@
 ---
 title: "Artwork"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork), last updated 2008-08-06.*

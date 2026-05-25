@@ -1,5 +1,6 @@
 ---
 title: "Xubuntu Documentation"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic/XubuntuDocumentation), last updated 2012-03-25.*

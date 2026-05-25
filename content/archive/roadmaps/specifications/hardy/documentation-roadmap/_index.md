@@ -1,5 +1,6 @@
 ---
 title: "Documentation Roadmap"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Hardy/DocumentationRoadmap), last updated 2012-03-25.*

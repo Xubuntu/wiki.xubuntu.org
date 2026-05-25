@@ -1,5 +1,6 @@
 ---
 title: "Desktop Layout Proposal"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Utopic/DesktopLayoutProposal), last updated 2014-06-22.*

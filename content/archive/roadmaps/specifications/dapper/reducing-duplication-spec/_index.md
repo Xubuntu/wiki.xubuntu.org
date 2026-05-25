@@ -1,5 +1,6 @@
 ---
 title: "Reducing Duplication Spec"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/ReducingDuplicationSpec), last updated 2012-07-17.*

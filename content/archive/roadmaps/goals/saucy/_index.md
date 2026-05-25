@@ -1,5 +1,6 @@
 ---
 title: "Saucy"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Saucy), last updated 2013-07-14.*

@@ -1,5 +1,6 @@
 ---
 title: "Webcam Application"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/WebcamApplication), last updated 2012-08-05.*

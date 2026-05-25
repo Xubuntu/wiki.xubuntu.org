@@ -1,5 +1,6 @@
 ---
 title: "Quantal"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Goals/Quantal), last updated 2012-08-26.*

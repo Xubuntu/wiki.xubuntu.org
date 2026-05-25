@@ -1,5 +1,6 @@
 ---
 title: "Incoming Proposals"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Edgy/Artwork/IncomingProposals), last updated 2008-08-06.*

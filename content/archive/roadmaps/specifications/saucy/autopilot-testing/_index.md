@@ -1,5 +1,6 @@
 ---
 title: "Autopilot Testing"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Saucy/AutopilotTesting), last updated 2014-04-23.*

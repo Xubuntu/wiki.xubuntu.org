@@ -1,5 +1,6 @@
 ---
 title: "Aluminium Proposal"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Dapper/Artwork/AluminiumProposal), last updated 2008-08-06.*

@@ -1,5 +1,6 @@
 ---
 title: "Apt Offline"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/AptOffline), last updated 2012-05-07.*

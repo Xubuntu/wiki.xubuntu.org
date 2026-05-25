@@ -1,5 +1,6 @@
 ---
 title: "Keyboard Shortcuts Overlay"
+bookHidden: true
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal/KeyboardShortcutsOverlay), last updated 2012-12-22.*
