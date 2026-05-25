@@ -4,7 +4,7 @@ title: "Quantal"
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Quantal), last updated 2012-04-28.*
 
-## Additional Links
+## All subpages
 
 - [Apt Offline](/archive/roadmaps/specifications/quantal/apt-offline/)
 - [Default Media Player](/archive/roadmaps/specifications/quantal/default-media-player/)

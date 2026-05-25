@@ -4,7 +4,7 @@ title: "Intrepid"
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Intrepid), last updated 2012-04-28.*
 
-## Additional Links
+## All subpages
 
 - [Artwork](/archive/roadmaps/specifications/intrepid/artwork/)
 - [Exit Spec](/archive/roadmaps/specifications/intrepid/exit-spec/)

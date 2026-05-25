@@ -43,6 +43,6 @@ Please see [Xubuntu Website Team](http://launchpad.net/people/xubuntu-website) f
 
 ## Comments
 
-## Additional Links
+## All subpages
 
 - [Theme](/archive/roadmaps/specifications/intrepid/website/plans/theme/)

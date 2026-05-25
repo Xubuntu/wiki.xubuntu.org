@@ -3,6 +3,7 @@ title: "Community Wallpapers"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers), last updated 2013-11-12.*
+
 The Xubuntu community desires to create a high quality Linux Distribution which appeals to a wide variety of user lifestyles and personal preferences.
 
 ### Goal(s)
@@ -108,9 +109,3 @@ This simulates the effect the "Style: Zoom" setting in "Appearance Preferences: 
 ### Wallpaper submissions
 
 To submit your wallpapers for potential use in Xubuntu 14.04, please post them on this [submissions-page](/archive/roadmaps/specifications/trusty/community-wallpapers/submissions/). Thanks in advance!
-
-## Additional Links
-
-- [Accepted](/archive/roadmaps/specifications/trusty/community-wallpapers/accepted/)
-- [Submissions](/archive/roadmaps/specifications/trusty/community-wallpapers/submissions/)
-- [Winners](/archive/roadmaps/specifications/trusty/community-wallpapers/winners/)

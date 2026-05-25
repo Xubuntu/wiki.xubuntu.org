@@ -4,7 +4,7 @@ title: "Trusty"
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty), last updated 2013-11-02.*
 
-## Additional Links
+## All subpages
 
 - [Community Wallpapers](/archive/roadmaps/specifications/trusty/community-wallpapers/)
 - [Gtk3 Indicators](/archive/roadmaps/specifications/trusty/gtk3-indicators/)

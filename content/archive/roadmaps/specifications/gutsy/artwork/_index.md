@@ -3,6 +3,7 @@ title: "Artwork"
 ---
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Gutsy/Artwork), last updated 2008-08-06.*
+
 # Gutsy Artwork
 
 Gutsy artwork development and discussion will occur here.
@@ -14,7 +15,7 @@ Gutsy artwork development and discussion will occur here.
 ---
 CategoryArtwork
 
-## Additional Links
+## All subpages
 
 - [All Images](/archive/roadmaps/specifications/gutsy/artwork/all-images/)
 - [Clearlooks Kokodi Dropline](/archive/roadmaps/specifications/gutsy/artwork/clearlooks-kokodi-dropline/)

@@ -4,7 +4,7 @@ title: "Karmic"
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Karmic), last updated 2012-04-28.*
 
-## Additional Links
+## All subpages
 
 - [Artwork](/archive/roadmaps/specifications/karmic/artwork/)
 - [Artwork Guidelines](/archive/roadmaps/specifications/karmic/artwork-guidelines/)

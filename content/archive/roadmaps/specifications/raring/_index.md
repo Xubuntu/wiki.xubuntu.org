@@ -4,7 +4,7 @@ title: "Raring"
 
 *Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Raring), last updated 2013-05-09.*
 
-## Additional Links
+## All subpages
 
 - [ISOSize Transition](/archive/roadmaps/specifications/raring/isosize-transition/)
 - [Light DM Greeter](/archive/roadmaps/specifications/raring/light-dm-greeter/)
