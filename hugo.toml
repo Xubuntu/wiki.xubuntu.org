@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Xubuntu Wiki'
 theme = ['hugo-redirect', 'hugo-book']
 enableGitInfo = true
+relativeURLs = true
 
 [params]
   BookSection = '/'
