@@ -7,6 +7,6 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/feisty/artwork/)
-- [Xubuntu Welcome Center](/archive/roadmaps/specifications/feisty/xubuntu-welcome-center/)
-- [Xubuntu Wishlist](/archive/roadmaps/specifications/feisty/xubuntu-wishlist/)
+- [Artwork](artwork/)
+- [Xubuntu Welcome Center](xubuntu-welcome-center/)
+- [Xubuntu Wishlist](xubuntu-wishlist/)

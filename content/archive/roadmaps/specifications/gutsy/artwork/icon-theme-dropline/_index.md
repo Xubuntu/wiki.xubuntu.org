@@ -7,4 +7,4 @@ bookHidden: true
 
 ### This is the default theme except the icon theme changed to Dropline
 
-![default_dropline.png](/archive/roadmaps/specifications/gutsy/artwork/icon-theme-dropline/default_dropline.png)
+![default_dropline.png](default_dropline.png)

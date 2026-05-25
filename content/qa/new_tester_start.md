@@ -32,9 +32,9 @@ use both within these pages and elsewhere in the Xubuntu world:
 
 It's as easy as 1, 2, 3 ...
 
-    -[Install the Xubuntu Development version](/qa/installing/)
-    -[Test your Xubuntu Development version](/qa/testing/)
-    -[Report Back with your results](/qa/report/)
+    -[Install the Xubuntu Development version](../installing/)
+    -[Test your Xubuntu Development version](../testing/)
+    -[Report Back with your results](../report/)
 
 We suggest that you read at least the first two pages before making a
 decision as to how you can help Xubuntu best.
@@ -43,4 +43,4 @@ The Xubuntu Team mostly uses IRC to keep in contact with each other. You
 can contact them there as well: simply choose the IRC tab on the
 [developers](https://dev.xubuntu.org/) tracker, or visit
 [#xubuntu-devel](http://webchat.freenode.net/?channels=xubuntu-devel&nick=tracker.&prompt=1&uio=MTE9MjE131)
-now. More information on IRC is also included in the [fine tuning](/qa/fine_tuning) wiki page.
+now. More information on IRC is also included in the [fine tuning](../fine_tuning) wiki page.

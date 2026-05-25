@@ -78,7 +78,7 @@ To create a new (sub)folder, you can either right-click the folder you want your
 
 To set up **filters**, you have to go to "Tools">"Message Filters...". In two dialogs with dropdown-lists you can choose the match-criteria and action. The interface is quite sensible and well structured.
 
-![thunderbird-filtersetup.png](/archive/roadmaps/specifications/karmic/default-mail-client/thunderbird-filtersetup.png)
+![thunderbird-filtersetup.png](thunderbird-filtersetup.png)
 
 ### Import Mailbox
 I tried to export my Claws-mailbox and import it into Thunderbird. As Claws can export mbox files I thought this should be rather easy. When I went to "Tools">"Import">"Mail" in Thunderbird though, the only option that I was given was to import from "Communicator 4.x" (whatever that may be). To my surprise I wasn't able to import any mail from there. (Maybe someone can verify that.) Even though Thunderbird uses the same format that I exported from Claws ([mbox](http://en.wikipedia.org/wiki/Mbox)), there was no way of choosing that somewhere in the import-dialog. I assume (haven't tried) that simply replacing my inbox file in my Thunderbird-profile-folder with the one from Claws would work - but seriously: who would do that.
@@ -123,7 +123,7 @@ For creating new (sub)folders you have to right-click an existing folder. In the
 
 To set up **filters**, you have to go to "Configuration">"Filtering". The dialog is a bit cluttered and something people have to get used to but it still makes sense.
 
-![claws-filtersetup.png](/archive/roadmaps/specifications/karmic/default-mail-client/claws-filtersetup.png)
+![claws-filtersetup.png](claws-filtersetup.png)
 
 As you can clearly see in this screenshot, it's not as well structured as Thunderbird. You have to go to a new dialog to define your condition and action. (On the other hand the filter management is a lot more flexible and allows more different conditions/settings.) One thing that might confuse newbies here is the use of add, delete *and* replace. A button called "save" would make a lot more sense I guess.
 What kinda makes up for that is the option to create a filter based on a message. You can do that by either using the context(right-click)-menu on a single message or by going to "Tools">"Create Filter Rule". This option seems to be the easier and maybe more natural way of creating a filter as the four available options ("Automatically","From","To","Subject") are sufficient in many cases. If you want to edit these filters later on of course you're back on the above described system.
@@ -137,12 +137,12 @@ If you want to use a local spamfilter you have to either install the SpamAssassi
 
 If you want to edit the settings of Bogofilter you have to go to "Tools">"Preferences">"Plugins">"Bogofilter". This screenshot should also show how cluttered and unfortunate Claws' preferences-dialog is:
 
-![claws-preferences.png](/archive/roadmaps/specifications/karmic/default-mail-client/claws-preferences.png)
+![claws-preferences.png](claws-preferences.png)
 
 ### Address book
 **Importing** your address book is simple in Claws. You go to "Tools">"Address Book" and there to "Tools">"Import *** File" (where *** stands for ldif, mutt or pine; those are the three formats supported by Claws). From there on you choose the address-book-file you would like to import and get the options on which fields you would like to import (which you don't get in Thunderbird). To **create** new entries or to later **edit** them is similar to Thunderbird, but again it's a bit too cluttered.
 
-![edit-address.png](/archive/roadmaps/specifications/karmic/default-mail-client/edit-address.png)
+![edit-address.png](edit-address.png)
 
 The main point of my criticism is that you have to click the "Add" button after you entered an email address, otherwise your changes will be lost when you hit "OK". Otherwise it works ok and intuitive.
 Claws gives you more options here (connect to a LDAP server for example), but lacks one crucial (and simple) feature: you cannot search your address book. If you want to do that, the easiest way is to compose a new message and use the auto-completion of the "To:" field. That's quite annoying to say the least and asks for a bugreport.

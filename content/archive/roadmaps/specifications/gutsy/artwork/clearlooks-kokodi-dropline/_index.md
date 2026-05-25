@@ -7,4 +7,4 @@ bookHidden: true
 
 ### Clearlooks Kokodi_win_manager Dropline Icon theme
 
-![kokodi.png](/archive/roadmaps/specifications/gutsy/artwork/clearlooks-kokodi-dropline/kokodi.png)
+![kokodi.png](kokodi.png)

@@ -2,10 +2,10 @@
 title: "Quality Assurance"
 ---
 
-[ISO Testing Runthrough](/qa/isotesting/)
+[ISO Testing Runthrough](isotesting/)
 
-[Team Hardware:Testing Choices](/qa/teamhardware/)
+[Team Hardware:Testing Choices](teamhardware/)
 
-[New Testers IRC Session](/qa/new_tester_irc/)
+[New Testers IRC Session](new_tester_irc/)
 
-[New Testers Start Page](/qa/new_tester_start/)
+[New Testers Start Page](new_tester_start/)

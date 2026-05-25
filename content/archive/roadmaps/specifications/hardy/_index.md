@@ -7,6 +7,6 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/hardy/artwork/)
-- [Artwork Incoming](/archive/roadmaps/specifications/hardy/artwork-incoming/)
-- [Documentation Roadmap](/archive/roadmaps/specifications/hardy/documentation-roadmap/)
+- [Artwork](artwork/)
+- [Artwork Incoming](artwork-incoming/)
+- [Documentation Roadmap](documentation-roadmap/)

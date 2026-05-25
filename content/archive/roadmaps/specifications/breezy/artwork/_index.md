@@ -9,9 +9,9 @@ bookHidden: true
 
 ## first logo suggestion
 
-![xubuntu_logo.png](/archive/roadmaps/specifications/breezy/artwork/xubuntu_logo.png)
+![xubuntu_logo.png](xubuntu_logo.png)
 
-One potential problem is the similarity in color scheme to the Kubuntu logo.  However, the colors are true to the Xfce logo.  A gzipped SVG file of this logo (produced in Inkscape) is available here: [xubuntu_logo.svgz](/archive/roadmaps/specifications/breezy/artwork/xubuntu_logo.svgz)
+One potential problem is the similarity in color scheme to the Kubuntu logo.  However, the colors are true to the Xfce logo.  A gzipped SVG file of this logo (produced in Inkscape) is available here: [xubuntu_logo.svgz](xubuntu_logo.svgz)
 
 ### Comments
 - I like the logo, but I do feel this is to much of kubuntu instead of having its own personality. A logo is whatever we want it to be, as long as we make it exist on people's minds. Therefore, I'd strongly suggest Xubuntu logo to be a radical different color. (violet, purple, green, etc) -- Mauriciohernandez 
@@ -27,15 +27,15 @@ One potential problem is the similarity in color scheme to the Kubuntu logo.  Ho
 - That's really awesome! That's exactly what I meant (maybe not animated, but that looks even better!). -- Vincent 
 
 ## Viper 550's idea
-![xubuntulogo2.png](/archive/roadmaps/specifications/breezy/artwork/xubuntulogo2.png)
+![xubuntulogo2.png](xubuntulogo2.png)
 
 My idea is a bit different, the mouse kinda looked ugly inside the Ubuntu device, so I made a new logo, greyscale with a screw design on the dots which looks like an X.
 
 I like this one most. (Alexei aka BSDard)
 
 ## AbelChiaro's idea
-![xubuntumice.png](/archive/roadmaps/specifications/breezy/artwork/xubuntumice.png)
-[xubuntu_mice.svgz](/archive/roadmaps/specifications/breezy/artwork/xubuntu_mice.svgz)
+![xubuntumice.png](xubuntumice.png)
+[xubuntu_mice.svgz](xubuntu_mice.svgz)
 
 I decided to go for purple and replace the round heads with mice heads.
 
@@ -61,9 +61,9 @@ I wanted to make something clean and simple, so as a variation of the original u
 ## Ubuntu X logo idea
 by MauricioHernandez
 
-![xbuntu_x.png](/archive/roadmaps/specifications/breezy/artwork/xbuntu_x.png)
+![xbuntu_x.png](xbuntu_x.png)
 
-- or get the SVG file [xbuntu_x.svg](/archive/roadmaps/specifications/breezy/artwork/xbuntu_x.svg)
+- or get the SVG file [xbuntu_x.svg](xbuntu_x.svg)
 
 ### Comments?
 <!> Please add a @SIG``@ at the end of your comments so we get timestamps macro running, like this -- MauricioHernandez 
@@ -77,53 +77,53 @@ by Eric Hewitt
 
 The banner:
 
-![xubuntu_banner.png](/archive/roadmaps/specifications/breezy/artwork/xubuntu_banner.png)
+![xubuntu_banner.png](xubuntu_banner.png)
 
 The main menu logo:
 
-![xubuntu_logo_3mouse_small.png](/archive/roadmaps/specifications/breezy/artwork/xubuntu_logo_3mouse_small.png)
+![xubuntu_logo_3mouse_small.png](xubuntu_logo_3mouse_small.png)
 
-I made a hybrid combining the the original idea and Derick's colors.  The mouse is a little enlarged to scale, so that it's discernable at smaller resolutions.  The x in xubuntu is closer to the logo in the standard *ubuntu logos to create an arrow effect with the logo, so that the mouse is (subliminally) moving foward.  In essence, it's the best of both worlds, as it steps away from the Kubuntu color scheme and still has a strong connection to XFCE.  You can get the SVG here: [xubuntu_banner.svg](/archive/roadmaps/specifications/breezy/artwork/xubuntu_banner.svg)
+I made a hybrid combining the the original idea and Derick's colors.  The mouse is a little enlarged to scale, so that it's discernable at smaller resolutions.  The x in xubuntu is closer to the logo in the standard *ubuntu logos to create an arrow effect with the logo, so that the mouse is (subliminally) moving foward.  In essence, it's the best of both worlds, as it steps away from the Kubuntu color scheme and still has a strong connection to XFCE.  You can get the SVG here: [xubuntu_banner.svg](xubuntu_banner.svg)
 
 # Xubuntu USplash
 
-![USplash.png](/archive/roadmaps/specifications/breezy/artwork/USplash.png)
-![xubuntumiceusplash640x480.png](/archive/roadmaps/specifications/breezy/artwork/xubuntumiceusplash640x480.png)
+![USplash.png](USplash.png)
+![xubuntumiceusplash640x480.png](xubuntumiceusplash640x480.png)
 ![](http://penguin.agrid.usm.edu/~deisenhardt/Xubuntu_usplash_Derick_Eisenhardt.png)
  - USplash based off my X-Circle idea -- Derick Eisenhardt
 
 - My try at the splash screen. I have also uploaded an [svg](https://wiki.ubuntu.com/XubuntuArtwork?action=AttachFile&do=get&target=XubuntuSplashByVincent.svg) and an [xcf](https://wiki.ubuntu.com/XubuntuArtwork?action=AttachFile&do=get&target=XubuntuSplashByVincent.xcf) (from the GIMP). Feel free to use, edit or whatever suits you. -- Vincent 
 *Edit:* It didn't work because it had more than 16 colours, I now cut it down to 16, however, it doesn't look as good as it used to do. The 16-colour-version is the attachment "XubuntuSplashByVincentCorrect.png", however, if you want to see the good-looking one, you'd have to take a look at "XubuntuSplashByVincent.png". Regards, -- VincentZekred 
 
-![XubuntuSplashByVincentCorrect.png](/archive/roadmaps/specifications/breezy/artwork/XubuntuSplashByVincentCorrect.png)
+![XubuntuSplashByVincentCorrect.png](XubuntuSplashByVincentCorrect.png)
 
 # Wallpapers
 
 ## size 1024x768 JozsefMak
 
-![xubuntu_blue.jpg](/archive/roadmaps/specifications/breezy/artwork/xubuntu_blue.jpg)
+![xubuntu_blue.jpg](xubuntu_blue.jpg)
 
 ## size 1024x768 JozsefMak
 
-![simply_steel.jpg](/archive/roadmaps/specifications/breezy/artwork/simply_steel.jpg)
+![simply_steel.jpg](simply_steel.jpg)
 
 ## size 1024x768 JozsefMak
 
-![distant.jpg](/archive/roadmaps/specifications/breezy/artwork/distant.jpg)
+![distant.jpg](distant.jpg)
 
 ## size 1024x768 JozsefMak
 
-![xubuntu_mist.jpg](/archive/roadmaps/specifications/breezy/artwork/xubuntu_mist.jpg)
+![xubuntu_mist.jpg](xubuntu_mist.jpg)
 
 # Userbars
 by marines
-![xubuntu_userbar1.png](/archive/roadmaps/specifications/breezy/artwork/xubuntu_userbar1.png)
+![xubuntu_userbar1.png](xubuntu_userbar1.png)
 
 by xonTAB
-![xubuntuserbarxontab.jpg](/archive/roadmaps/specifications/breezy/artwork/xubuntuserbarxontab.jpg)
+![xubuntuserbarxontab.jpg](xubuntuserbarxontab.jpg)
 
 # Login screen design concept
 
 ## Size:1024x768 JozsefMak
 
-![login.png](/archive/roadmaps/specifications/breezy/artwork/login.png)
+![login.png](login.png)

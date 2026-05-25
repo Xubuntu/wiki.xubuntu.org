@@ -98,8 +98,8 @@ I'm going to write the most common expectations I can think of. Some are contrad
 
 | Listen | Exaile 0.2 | Banshee Music | Banshee Video | Rhythmbox |
 |---|---|---|---|---|
-| ![listen_tb.png](/archive/roadmaps/specifications/karmic/default-music-player/listen_tb.png) | ![exaile-0.2_tb.png](/archive/roadmaps/specifications/karmic/default-music-player/exaile-0.2_tb.png) | ![banshee-music_tb.png](/archive/roadmaps/specifications/karmic/default-music-player/banshee-music_tb.png) | ![banshee-video_tb.png](/archive/roadmaps/specifications/karmic/default-music-player/banshee-video_tb.png) | ![rb_tb.png](/archive/roadmaps/specifications/karmic/default-music-player/rb_tb.png) |
-| [Full size](/archive/roadmaps/specifications/karmic/default-music-player/listen.png) | [Full size](/archive/roadmaps/specifications/karmic/default-music-player/exaile-0.2.png) | [Full size](/archive/roadmaps/specifications/karmic/default-music-player/banshee-music.png) | [Full size](/archive/roadmaps/specifications/karmic/default-music-player/banshee-video.png) | [Full size](/archive/roadmaps/specifications/karmic/default-music-player/rb.png) |
+| ![listen_tb.png](listen_tb.png) | ![exaile-0.2_tb.png](exaile-0.2_tb.png) | ![banshee-music_tb.png](banshee-music_tb.png) | ![banshee-video_tb.png](banshee-video_tb.png) | ![rb_tb.png](rb_tb.png) |
+| [Full size](listen.png) | [Full size](exaile-0.2.png) | [Full size](banshee-music.png) | [Full size](banshee-video.png) | [Full size](rb.png) |
 
 The screenshot for Exaile is 0.2.14 because the 0.3.0 branch's GUI is not finished yet.
 There also is a screenshot of Banshee's video mode.

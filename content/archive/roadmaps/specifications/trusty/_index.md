@@ -7,8 +7,8 @@ bookHidden: true
 
 ## All subpages
 
-- [Community Wallpapers](/archive/roadmaps/specifications/trusty/community-wallpapers/)
-- [Gtk3 Indicators](/archive/roadmaps/specifications/trusty/gtk3-indicators/)
-- [Panel Layout Switcher](/archive/roadmaps/specifications/trusty/panel-layout-switcher/)
-- [Whiskermenu](/archive/roadmaps/specifications/trusty/whiskermenu/)
-- [Xubuntu Core](/archive/roadmaps/specifications/trusty/xubuntu-core/)
+- [Community Wallpapers](community-wallpapers/)
+- [Gtk3 Indicators](gtk3-indicators/)
+- [Panel Layout Switcher](panel-layout-switcher/)
+- [Whiskermenu](whiskermenu/)
+- [Xubuntu Core](xubuntu-core/)

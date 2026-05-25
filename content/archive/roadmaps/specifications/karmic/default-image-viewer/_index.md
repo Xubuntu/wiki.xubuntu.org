@@ -63,8 +63,8 @@ Gpicview has always been lacking a few features, such as thumbnail bar and slide
 
 | Gpicview | Ristretto | Geeqie | Geeqie's pan view |
 |---|---|---|---|
-| ![gpicview_tb.png](/archive/roadmaps/specifications/karmic/default-image-viewer/gpicview_tb.png) | ![ristretto_tb.png](/archive/roadmaps/specifications/karmic/default-image-viewer/ristretto_tb.png) | ![geeqie_tb.png](/archive/roadmaps/specifications/karmic/default-image-viewer/geeqie_tb.png) | ![geeqie2_tb.png](/archive/roadmaps/specifications/karmic/default-image-viewer/geeqie2_tb.png) |
-| [Full size](/archive/roadmaps/specifications/karmic/default-image-viewer/gpicview.png) | [Full size](/archive/roadmaps/specifications/karmic/default-image-viewer/ristretto.png) | [Full size](/archive/roadmaps/specifications/karmic/default-image-viewer/geeqie.png) | [Full size](/archive/roadmaps/specifications/karmic/default-image-viewer/geeqie2.png) |
+| ![gpicview_tb.png](gpicview_tb.png) | ![ristretto_tb.png](ristretto_tb.png) | ![geeqie_tb.png](geeqie_tb.png) | ![geeqie2_tb.png](geeqie2_tb.png) |
+| [Full size](gpicview.png) | [Full size](ristretto.png) | [Full size](geeqie.png) | [Full size](geeqie2.png) |
 
 ### Usability
 - First impression / Ease of understanding how to get started and how to use the basic features

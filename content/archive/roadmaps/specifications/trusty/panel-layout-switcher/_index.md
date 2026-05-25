@@ -11,7 +11,7 @@ bookHidden: true
 |---|---|
 | **Title** | Panel layout switcher |
 | **Assignee** | Alistain Buxton |
-| **Release** | [Trusty Tahr](/archive/roadmaps/goals/trusty/) |
+| **Release** | [Trusty Tahr](../../../goals/trusty/) |
 
 ## Detailed specification
 
@@ -37,6 +37,6 @@ The current implementation uses dbus to read/write xfconf keys directly - it doe
   - The config tarballs should include a description and screenshot of the panel, which would be displayed by the GUI.
 - **Mockups for the UI**
   - Mockup 1 (Simplistic Backup/Restore): 
-[![Mockup 1](/archive/roadmaps/specifications/trusty/panel-layout-switcher/panelswitch.png)](/archive/roadmaps/specifications/trusty/panel-layout-switcher/panelswitch.png)
+[![Mockup 1](panelswitch.png)](panelswitch.png)
     Behavior: When the current layout has not yet been backuped/saved, show the infobar, otherwise select the current layout in the listview. Warn the user again (with a warning dialog "Do you really want to load the new layout, your current layout will be lost") when he selects an item from the list without saving the current layout. The listview shows the content of the default folder for backups (e.g. .config/panel-layouts/), consequently distributors can add their presets/defaults.
 - **Discussion on the specification**

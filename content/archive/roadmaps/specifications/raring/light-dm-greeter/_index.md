@@ -17,7 +17,7 @@ There's also another (collaborative) effort with folks from Lubuntu to improve t
   - Integrate accessibility menu and shutdown/restart menu into login-box and drop top panel
   - Lock the screen
   - Correctly scale the wallpaper/background
-  - Better multi-monitor support (as laid out [here](/archive/roadmaps/specifications/quantal/multiple-monitors/))
+  - Better multi-monitor support (as laid out [here](../../quantal/multiple-monitors/))
 
 ## Screen Lock (Postponed)
 **Todo list**:
@@ -44,4 +44,4 @@ There's also another (collaborative) effort with folks from Lubuntu to improve t
 
 ## Mockups
   - Here's an interesting mockup taken from Debian's artwork contest, entitled [7th-element](http://wiki.debian.org/DebianArt/Themes/7th-element).
-    [![](/archive/roadmaps/specifications/raring/light-dm-greeter/greeter-7th-element.png)](/archive/roadmaps/specifications/raring/light-dm-greeter/greeter-7th-element.png)
+    [![](greeter-7th-element.png)](greeter-7th-element.png)

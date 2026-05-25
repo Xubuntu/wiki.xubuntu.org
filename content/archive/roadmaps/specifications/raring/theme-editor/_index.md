@@ -22,6 +22,6 @@ Currently, it has the following features,
 - Customize Xfce panel, Gnome panel and Unity panel
 - Customize menu colors
 
-![gtk-theme-config.png](/archive/roadmaps/specifications/raring/theme-editor/gtk-theme-config.png)
+![gtk-theme-config.png](gtk-theme-config.png)
 
 The toggle switches just turn off recoloring the respective widgets without loosing the saved color. All color customization can be reset with a click with the "Revert" button.

@@ -24,7 +24,7 @@ bookHidden: true
 |---|---|
 | [Slim down Xubuntu session](https://blueprints.launchpad.net/xubuntu-desktop/+spec/xubuntu-karmic-session-slim-down) | CodySomerville |
 | [Review default applications](https://blueprints.launchpad.net/xubuntu-desktop/+spec/xubuntu-karmic-seeds) | CodySomerville |
-| [Grow the Xubuntu Community](/archive/roadmaps/specifications/jaunty/grow-xubuntu-community/) | PasiLallinaho |
+| [Grow the Xubuntu Community](../../specifications/jaunty/grow-xubuntu-community/) | PasiLallinaho |
 
 ## Completed objectives!!
 

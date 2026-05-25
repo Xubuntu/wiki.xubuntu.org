@@ -7,9 +7,9 @@ bookHidden: true
 
 ## All subpages
 
-- [Autopilot](/archive/roadmaps/specifications/utopic/autopilot/)
-- [Deja Dup](/archive/roadmaps/specifications/utopic/deja-dup/)
-- [Desktop Layout Proposal](/archive/roadmaps/specifications/utopic/desktop-layout-proposal/)
-- [Hexchat](/archive/roadmaps/specifications/utopic/hexchat/)
-- [Inxi](/archive/roadmaps/specifications/utopic/inxi/)
-- [Pkexec](/archive/roadmaps/specifications/utopic/pkexec/)
+- [Autopilot](autopilot/)
+- [Deja Dup](deja-dup/)
+- [Desktop Layout Proposal](desktop-layout-proposal/)
+- [Hexchat](hexchat/)
+- [Inxi](inxi/)
+- [Pkexec](pkexec/)

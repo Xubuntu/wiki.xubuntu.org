@@ -7,11 +7,11 @@ bookHidden: true
 
 # Xubuntu Hardy Design
 Artwork from the release candidate:
-![desktop.png](/archive/roadmaps/specifications/hardy/artwork/desktop.png)
+![desktop.png](desktop.png)
 
 # Artworks
 
-![wallpaper.png](/archive/roadmaps/specifications/hardy/artwork/wallpaper.png)
-![logo.png](/archive/roadmaps/specifications/hardy/artwork/logo.png)
-![box.png](/archive/roadmaps/specifications/hardy/artwork/box.png)
-[Xubuntu.xml](/archive/roadmaps/specifications/hardy/artwork/Xubuntu.xml)
+![wallpaper.png](wallpaper.png)
+![logo.png](logo.png)
+![box.png](box.png)
+[Xubuntu.xml](Xubuntu.xml)

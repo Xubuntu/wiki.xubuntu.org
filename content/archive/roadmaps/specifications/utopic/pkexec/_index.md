@@ -9,6 +9,6 @@ bookHidden: true
 
 | **Application** | **Status** |
 |---|---|
-| [Thunar](/archive/roadmaps/specifications/utopic/pkexec/Thunar) | DONE |
-| [xfce4-terminal](/archive/roadmaps/specifications/utopic/pkexec/xfce4-term) | DONE |
-| [mousepad](/archive/roadmaps/specifications/utopic/pkexec/Mousepad) | DONE |
+| [Thunar](Thunar) | DONE |
+| [xfce4-terminal](xfce4-term) | DONE |
+| [mousepad](Mousepad) | DONE |

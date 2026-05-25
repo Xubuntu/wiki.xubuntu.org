@@ -10,4 +10,4 @@ Details and announcement:
 
 Story archive:
 
--   [Love-Xubuntu-2016](/marketing/projects/lovexubuntu/2016/)
+-   [Love-Xubuntu-2016](2016/)

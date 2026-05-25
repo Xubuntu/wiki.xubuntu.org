@@ -9,12 +9,12 @@ bookHidden: true
 
 ### 1) Default
 
-![default.png](/archive/roadmaps/specifications/gutsy/artwork/desktop-layout/default.png)
+![default.png](default.png)
 
 ### 2) Traditional
 
-![traditional.png](/archive/roadmaps/specifications/gutsy/artwork/desktop-layout/traditional.png)
+![traditional.png](traditional.png)
 
 ### 3) Side Panel
 
-![side.png](/archive/roadmaps/specifications/gutsy/artwork/desktop-layout/side.png)
+![side.png](side.png)

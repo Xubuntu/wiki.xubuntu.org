@@ -12,7 +12,7 @@ bookHidden: true
 | **Title** | Enabling Xubuntu Developers |
 | **Blueprint** | Part of [https://blueprints.launchpad.net/ubuntu/+spec/xubuntu-s-community](https://blueprints.launchpad.net/ubuntu/+spec/xubuntu-s-community) |
 | **Assignee** | Stephen Michael Kellat, Sean Davis, Simon Steinbeiß |
-| **Release** | [Saucy Salamander](/archive/roadmaps/goals/saucy/) |
+| **Release** | [Saucy Salamander](../../../goals/saucy/) |
 
 ## Detailed specification
 

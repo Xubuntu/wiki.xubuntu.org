@@ -2,5 +2,5 @@
 title: "Roadmaps"
 ---
 
-- [Goals](/archive/roadmaps/goals/)
-- [Specifications](/archive/roadmaps/specifications/)
+- [Goals](goals/)
+- [Specifications](specifications/)

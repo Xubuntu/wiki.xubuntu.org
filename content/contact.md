@@ -33,7 +33,7 @@ The current council members are:
 
 ## Previous leaders
 
-The previous leaders for Xubuntu are listed on the [Previous leaders](/archive/leaders/) page.
+The previous leaders for Xubuntu are listed on the [Previous leaders](../archive/leaders/) page.
 
 ## Teams supervised by others
 

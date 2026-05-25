@@ -23,4 +23,4 @@ target audiences for marketing materials:
 Note: See Strategy Document for target audience for Xubuntu itself (not
 marketing).
 
-Also see [Notes about licenses](/marketing/licenses/).
+Also see [Notes about licenses](licenses/).

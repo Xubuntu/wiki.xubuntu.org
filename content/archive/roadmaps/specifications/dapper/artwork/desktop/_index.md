@@ -7,8 +7,8 @@ bookHidden: true
 
 # Decided
 
-![XubuntuSteel.png](/archive/roadmaps/specifications/dapper/artwork/desktop/XubuntuSteel.png)
+![XubuntuSteel.png](XubuntuSteel.png)
 
 # Also shipped
 
-![xubuntu-wallpaper.png](/archive/roadmaps/specifications/dapper/artwork/desktop/xubuntu-wallpaper.png)
+![xubuntu-wallpaper.png](xubuntu-wallpaper.png)

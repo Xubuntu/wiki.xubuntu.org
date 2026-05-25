@@ -12,7 +12,7 @@ bookHidden: true
 | **Title** | Implement Keyboard-Shortcuts overlay/window |
 | **Blueprint** | [https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-shortcuts-overlay](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-shortcuts-overlay) |
 | **Assignee** | Sean Davis, Simon Steinbeiß |
-| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
+| **Release** | [Quantal Quetzal](../../../goals/quantal/) |
 
 ## Detailed specification
 
@@ -46,8 +46,8 @@ Xubuntu does not have the first three, but does have application specific shortc
 - Windows
 
 #### Screenshots/Current look in Unity
-![Keyboard Shortcuts Overlay in Unity (Precise)](/archive/roadmaps/specifications/quantal/keyboard-shortcuts-overlay/shortcut-hints-overlay-unity.png)[Keyboard Shortcuts Overlay in Unity (Precise)](/archive/roadmaps/specifications/quantal/keyboard-shortcuts-overlay/shortcut-hints-overlay-unity.png)
+![Keyboard Shortcuts Overlay in Unity (Precise)](shortcut-hints-overlay-unity.png)[Keyboard Shortcuts Overlay in Unity (Precise)](shortcut-hints-overlay-unity.png)
 #### Mockups for Xubuntu
-![Current Python Implementation](/archive/roadmaps/specifications/quantal/keyboard-shortcuts-overlay/CurrentPythonImplementation.png)
-[Current Python Implementation](/archive/roadmaps/specifications/quantal/keyboard-shortcuts-overlay/CurrentPythonImplementation.png) -- 
+![Current Python Implementation](CurrentPythonImplementation.png)
+[Current Python Implementation](CurrentPythonImplementation.png) -- 
 <https://launchpad.net/xfce4-keyboard-overlay>

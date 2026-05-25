@@ -7,13 +7,13 @@ bookHidden: true
 
 ## All subpages
 
-- [Apt Offline](/archive/roadmaps/specifications/quantal/apt-offline/)
-- [Default Media Player](/archive/roadmaps/specifications/quantal/default-media-player/)
-- [Default Panel Layout](/archive/roadmaps/specifications/quantal/default-panel-layout/)
-- [Enhance Communication](/archive/roadmaps/specifications/quantal/enhance-communication/)
-- [Keyboard Shortcuts Overlay](/archive/roadmaps/specifications/quantal/keyboard-shortcuts-overlay/)
-- [Multiple Monitors](/archive/roadmaps/specifications/quantal/multiple-monitors/)
-- [Settings Manager Apps](/archive/roadmaps/specifications/quantal/settings-manager-apps/)
-- [Terminal Theme Review](/archive/roadmaps/specifications/quantal/terminal-theme-review/)
-- [Webcam Application](/archive/roadmaps/specifications/quantal/webcam-application/)
-- [Website Improvements](/archive/roadmaps/specifications/quantal/website-improvements/)
+- [Apt Offline](apt-offline/)
+- [Default Media Player](default-media-player/)
+- [Default Panel Layout](default-panel-layout/)
+- [Enhance Communication](enhance-communication/)
+- [Keyboard Shortcuts Overlay](keyboard-shortcuts-overlay/)
+- [Multiple Monitors](multiple-monitors/)
+- [Settings Manager Apps](settings-manager-apps/)
+- [Terminal Theme Review](terminal-theme-review/)
+- [Webcam Application](webcam-application/)
+- [Website Improvements](website-improvements/)

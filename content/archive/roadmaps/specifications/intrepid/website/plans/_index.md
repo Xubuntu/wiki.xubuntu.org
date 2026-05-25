@@ -46,4 +46,4 @@ Please see [Xubuntu Website Team](http://launchpad.net/people/xubuntu-website) f
 
 ## All subpages
 
-- [Theme](/archive/roadmaps/specifications/intrepid/website/plans/theme/)
+- [Theme](theme/)

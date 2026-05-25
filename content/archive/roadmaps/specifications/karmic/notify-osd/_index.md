@@ -40,9 +40,9 @@ Now using notify-osd for notifications. Improved compatibility of the Xubuntu ap
 - **Done : ** Replacement of notification-daemon by notify-osd
   - Fix of a few bugs (lack of server caps checking) in XFCE apps
 - **Done : **Implementation of a daemon for volume notifications
-![notify-osd-audio-example.png](/archive/roadmaps/specifications/karmic/notify-osd/notify-osd-audio-example.png)
+![notify-osd-audio-example.png](notify-osd-audio-example.png)
 - Improvement of battery state notifications
-![notify-osd-powerinfo-example.png](/archive/roadmaps/specifications/karmic/notify-osd/notify-osd-powerinfo-example.png)
+![notify-osd-powerinfo-example.png](notify-osd-powerinfo-example.png)
 
 ### Notes on the implementation
 #### Inclusion of notify-osd
@@ -66,7 +66,7 @@ The daemon weights 2.8MB on a 64bit swapless install, mostly Gstreamer. It is ap
 *Status : done*
 The original idea is to use the different icons as a way to indicate the current remaining power percentage, and put minimalistic text info in the bubble to avoid the current mess (as below).
 
-![notify-osd-power-current.png](/archive/roadmaps/specifications/karmic/notify-osd/notify-osd-power-current.png)
+![notify-osd-power-current.png](notify-osd-power-current.png)
 
 The changes to do have been documented in Ayatana and a draft is available here : <http://www.youtube.com/watch?v=fkdaiXXcv8w>
 

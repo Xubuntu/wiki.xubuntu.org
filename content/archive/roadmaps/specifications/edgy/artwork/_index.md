@@ -11,9 +11,9 @@ bookHidden: true
 
 1. <https://wiki.ubuntu.com/Xubuntu/Artwork/Edgy/IncomingProposals> ( by J.Mak)
 
-1. ![edgy_logo_luzi.png](/archive/roadmaps/specifications/edgy/artwork/edgy_logo_luzi.png)  (by Luzi) [Inkscape Source](/archive/roadmaps/specifications/edgy/artwork/edgy_logo_luzi.svg)
+1. ![edgy_logo_luzi.png](edgy_logo_luzi.png)  (by Luzi) [Inkscape Source](edgy_logo_luzi.svg)
 
 ## All subpages
 
-- [Final Picks](/archive/roadmaps/specifications/edgy/artwork/final-picks/)
-- [Incoming Proposals](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/)
+- [Final Picks](final-picks/)
+- [Incoming Proposals](incoming-proposals/)

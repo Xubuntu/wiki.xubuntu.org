@@ -6,19 +6,19 @@ title: "Marketing Projects"
 
 ## Complete
 
--   [Flyers](/marketing/projects/) for conferences with details
+-   [Flyers](./) for conferences with details
     about Xubuntu
--   [T-shirts](/marketing/projects/tshirts/)
--   [Buttons](/marketing/projects/buttons/)
+-   [T-shirts](tshirts/)
+-   [Buttons](buttons/)
 -   [LO Impress presentation template
     (external)](http://spreadubuntu.org/en/material/presentation/xubuntu-presentation)
     for individuals giving presentations about Xubuntu (needs updating)
 
 ## Planning/Ongoing
 
--   ["Xubuntu at...\](/marketing/projects/xubuntuat/) interview series
+-   ["Xubuntu at...\](xubuntuat/) interview series
     of organizations using Xubuntu
--   [Desktop of the Week](/marketing/projects/dotw/)
+-   [Desktop of the Week](dotw/)
 
 ## Ideas
 

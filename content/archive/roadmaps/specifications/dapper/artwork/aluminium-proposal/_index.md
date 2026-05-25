@@ -10,16 +10,16 @@ Created by JozsefMak
 
 # AluminiumLogo
 
-![logo.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/logo.png)
+![logo.png](logo.png)
 
 # Wallpaper
 
-![wallpaper.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/wallpaper.png)
+![wallpaper.png](wallpaper.png)
 
 # GDM login screen
 
-![login.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/login.png)
+![login.png](login.png)
 
 # Usplash
 
-![usplash.png](/archive/roadmaps/specifications/dapper/artwork/aluminium-proposal/usplash.png)
+![usplash.png](usplash.png)

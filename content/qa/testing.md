@@ -5,7 +5,7 @@ title: "Testing"
 # Step 2: Testing your Xubuntu installation.
 
 As was mentioned in the previous step, now that you've
-[installed](/qa/installing) Xubuntu, you have
+[installed](../installing) Xubuntu, you have
 already tested the installation and this very valuable testing needs to
 be reported via the [Iso Tracker](http://iso.qa.ubuntu.com/), more info
 about which you will see on the Step 3: Reporting back page that follows
@@ -23,7 +23,7 @@ Deciding which type of testing is best for you is dependent on the type
 of installation that you can do; installing Xubuntu as the main
 Operating System is best suited to exploratory testing - with the
 remaining installation options becoming more suited to static testing as
-you move down through the 4 alternatives listed on the [Install the Xubuntu Development version](/qa/installing)
+you move down through the 4 alternatives listed on the [Install the Xubuntu Development version](../installing)
 page.
 
 If in doubt it is perhaps best to start with exploratory testing with
@@ -52,7 +52,7 @@ since they are closer to the 'real life' case.
 ## Report Back
 
 Should you find bugs, or anything you think the Development Team should
-know, please move on to Step 3 and [report back](/qa/report).
+know, please move on to Step 3 and [report back](../report).
 
 ## 2. 'Static' Testing
 
@@ -84,4 +84,4 @@ partition on your hard drive.
 ## Report Back
 
 Should you find bugs, or anything you think the Development Team should
-know, please move on to Step 3 and [report back](/qa/report).
+know, please move on to Step 3 and [report back](../report).

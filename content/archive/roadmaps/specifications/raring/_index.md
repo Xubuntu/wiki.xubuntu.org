@@ -7,8 +7,8 @@ bookHidden: true
 
 ## All subpages
 
-- [ISOSize Transition](/archive/roadmaps/specifications/raring/isosize-transition/)
-- [Light DM Greeter](/archive/roadmaps/specifications/raring/light-dm-greeter/)
-- [Plymouth](/archive/roadmaps/specifications/raring/plymouth/)
-- [Theme Editor](/archive/roadmaps/specifications/raring/theme-editor/)
-- [Wallpapers](/archive/roadmaps/specifications/raring/wallpapers/)
+- [ISOSize Transition](isosize-transition/)
+- [Light DM Greeter](light-dm-greeter/)
+- [Plymouth](plymouth/)
+- [Theme Editor](theme-editor/)
+- [Wallpapers](wallpapers/)

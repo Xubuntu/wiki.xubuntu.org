@@ -7,7 +7,7 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork Directions](/archive/roadmaps/specifications/jaunty/artwork-directions/)
-- [Artwork Murrina Rain](/archive/roadmaps/specifications/jaunty/artwork-murrina-rain/)
-- [Grow Xubuntu Community](/archive/roadmaps/specifications/jaunty/grow-xubuntu-community/)
-- [Xfce4.6](/archive/roadmaps/specifications/jaunty/xfce4.6/)
+- [Artwork Directions](artwork-directions/)
+- [Artwork Murrina Rain](artwork-murrina-rain/)
+- [Grow Xubuntu Community](grow-xubuntu-community/)
+- [Xfce4.6](xfce4.6/)

@@ -7,11 +7,11 @@ bookHidden: true
 
 # Ubuntulooks-graphite
 
-![xubuntulook-graphite-small.png](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/xubuntulook-graphite-small.png) [view large](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/xubuntulook-graphite.png)
+![xubuntulook-graphite-small.png](xubuntulook-graphite-small.png) [view large](xubuntulook-graphite.png)
 
-- theme file: [gtkrc](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/graphite-gtkrc)
+- theme file: [gtkrc](graphite-gtkrc)
 - gtk2 engine: [gtk2-engines-ubuntulooks]
-- icon theme: [Tango-Aluminium](/archive/roadmaps/specifications/dapper/artwork/gtk-theme/Tango-Aluminium.tar.gz)
+- icon theme: [Tango-Aluminium](Tango-Aluminium.tar.gz)
 # Theme 2
 
 # Links

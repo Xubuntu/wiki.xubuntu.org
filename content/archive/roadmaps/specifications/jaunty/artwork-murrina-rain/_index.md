@@ -11,10 +11,10 @@ Xubuntu Jaunty Artworks.
 
 ### Murrina Rain
 
-![murrinarainthumbnail.png](/archive/roadmaps/specifications/jaunty/artwork-murrina-rain/murrinarainthumbnail.png)
+![murrinarainthumbnail.png](murrinarainthumbnail.png)
 
-[Full preview](/archive/roadmaps/specifications/jaunty/artwork-murrina-rain/murrinarain.png)
+[Full preview](murrinarain.png)
 
-[Theme](/archive/roadmaps/specifications/jaunty/artwork-murrina-rain/Murrina Rain1.2.tar.gz)
+[Theme](Murrina Rain1.2.tar.gz)
 
 [Theme at Xfce-look](http://www.xfce-look.org/content/show.php/Murrina+Rain?content=98115)

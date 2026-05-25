@@ -62,10 +62,10 @@ If you’re not sure exactly where a program is listed, instead of browsing thro
 
 ### Screenshots
 ##### Example Menu
-[![Example menu](/archive/roadmaps/specifications/trusty/whiskermenu/whiskermenu.png)](/archive/roadmaps/specifications/trusty/whiskermenu/whiskermenu.png)
+[![Example menu](whiskermenu.png)](whiskermenu.png)
 
 ##### Example Search
-[![Example search](/archive/roadmaps/specifications/trusty/whiskermenu/whiskermenu_search.png)](/archive/roadmaps/specifications/trusty/whiskermenu/whiskermenu_search.png)
+[![Example search](whiskermenu_search.png)](whiskermenu_search.png)
 
 ### Test it
 There's a PPA holding the latest version of whisker-menu (for all versions from Precise to Trusty): <https://launchpad.net/~gottcode/+archive/gcppa>

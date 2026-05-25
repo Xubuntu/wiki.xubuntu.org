@@ -55,4 +55,4 @@ bookHidden: true
 - Promoting 64-bit images by default
 
 ## Brainstorm and discussion
- Read the [brainstorm and discussion here](/archive/roadmaps/goals/trusty/brainstorm/).
+ Read the [brainstorm and discussion here](brainstorm/).

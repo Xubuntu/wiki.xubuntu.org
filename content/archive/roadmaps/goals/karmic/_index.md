@@ -21,4 +21,4 @@ bookHidden: true
 
 | **Objective** | **Assignee** |
 |---|---|
-| [Grow the Xubuntu Community](/archive/roadmaps/specifications/jaunty/grow-xubuntu-community/) | PasiLallinaho |
+| [Grow the Xubuntu Community](../../specifications/jaunty/grow-xubuntu-community/) | PasiLallinaho |

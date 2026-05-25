@@ -7,4 +7,4 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/breezy/artwork/)
+- [Artwork](artwork/)

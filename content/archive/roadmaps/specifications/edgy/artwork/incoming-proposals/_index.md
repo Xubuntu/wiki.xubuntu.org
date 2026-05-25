@@ -9,37 +9,37 @@ These artworks are some of my explorations in the direction of developing a plea
 
 ### xubuntu splash animation V3
 
-![splash_jmak_03.gif](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/splash_jmak_03.gif)
+![splash_jmak_03.gif](splash_jmak_03.gif)
 
 ### xubuntu splash animation V2
 
-![splash_jmak_02.gif](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/splash_jmak_02.gif)
+![splash_jmak_02.gif](splash_jmak_02.gif)
 
 ### Logo
 
-![logo3.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/logo3.png)
+![logo3.png](logo3.png)
 
 ### GDM greeter screen V1
 
-![login_jmak_02.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/login_jmak_02.png)
+![login_jmak_02.png](login_jmak_02.png)
 
 ### GDM greeter screen V3
 
-![login_jmak_03.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/login_jmak_03.png)
+![login_jmak_03.png](login_jmak_03.png)
 
 ### GDM greeter screen V4
 
-![login_jmak_04.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/login_jmak_04.png)
+![login_jmak_04.png](login_jmak_04.png)
 
 ### GDM greeter screen V5
 
-![login_jmak_05.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/login_jmak_05.png)
+![login_jmak_05.png](login_jmak_05.png)
 
 # GTK Theme
 
 Viper550:
 
-![xubuntu-murrina.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/xubuntu-murrina.png)
+![xubuntu-murrina.png](xubuntu-murrina.png)
 
 Just whipped up a nice new GTK theme for Xubuntu using the Murrine engine, since the theme choice on Dapper (Clearlooks) seemed a bit dissapointing.
 
@@ -51,12 +51,12 @@ ArtworkUbuntuProduce
 Pyrotica:
 
 My GTK theme based on the clearlooks engine. (fonts in screenshot are larger than they appear.)
-![xedgy_pyrotica_0.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/xedgy_pyrotica_0.png)
-[gtkrc.xedgy_pyrotica_0](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/gtkrc.xedgy_pyrotica_0)
+![xedgy_pyrotica_0.png](xedgy_pyrotica_0.png)
+[gtkrc.xedgy_pyrotica_0](gtkrc.xedgy_pyrotica_0)
 
 and a similar colorscheme in human:
-![human_pyrotica__xedgy0.png](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/human_pyrotica__xedgy0.png)
-[gtkrc.pyrotica_human_xedgy0](/archive/roadmaps/specifications/edgy/artwork/incoming-proposals/gtkrc.pyrotica_human_xedgy0)
+![human_pyrotica__xedgy0.png](human_pyrotica__xedgy0.png)
+[gtkrc.pyrotica_human_xedgy0](gtkrc.pyrotica_human_xedgy0)
 
 # Comments
 

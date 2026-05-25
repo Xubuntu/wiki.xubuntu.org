@@ -19,7 +19,7 @@ This seems like a sensible default. (Note: At the moment (<=12.04) we're showing
 The greeter is currently shown on both screens in mirrored-mode (like the boot-splash), same downsides as mentioned in the previous section (scaling, confusing at first sight). Since we never know whether external displays are switched on or where they reside, the login-screen should only be shown on the primary display.
 (Note: Ubuntu wants to enable users to switch the greeter to a secondary display, however I think this is over-the-top.)
 
-![](/archive/roadmaps/specifications/quantal/multiple-monitors/login.png)
+![](login.png)
 
 ## Session
 
@@ -64,7 +64,7 @@ Furthermore it should contain a button linking to the display-settings dialog (s
 
 Theoretically (and according to Ubuntu's Multi-Monitor Spec) it's possible to (heuristically) detect whether the connected device is a TV or a Projector or an external monitor. We could try to use this information to set the window-title (at least).
 
-![](/archive/roadmaps/specifications/quantal/multiple-monitors/minimal.png)
+![](minimal.png)
 This design currently features three 128px icons for the three basic modes, a tickbox for presentation-mode and a button to launch the display settings dialog.
 
 ### Display Settings Dialog
@@ -73,7 +73,7 @@ This dialog will enable the user to change all the settings of all connected dis
 #### Improve Xfce's dialog
 To improve Xfce's dialog one would have to implement the "extended desktop"-mode of RandR, i.e. positioning the monitors "left-of" and "right-of". (Theoretically there's also "above" and "below", but in most scenarios multiple monitors are aligned horizontally.)
 The "mirror displays"-checkbox would make the combobox for choosing the position of the screen insensitive.
-![](/archive/roadmaps/specifications/quantal/multiple-monitors/display_simple.png)
+![](display_simple.png)
 
 #### Mockups
-![](/archive/roadmaps/specifications/quantal/multiple-monitors/dialog.png)
+![](dialog.png)

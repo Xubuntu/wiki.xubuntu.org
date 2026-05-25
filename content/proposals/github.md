@@ -88,7 +88,7 @@ of managing and reporting on project data.
 We transitioned all of our code to the Git VCS two years ago with the
 18.10 cycle, citing the following reasons.
 
-[Xubuntu Git Workflow](/devel/git)
+[Xubuntu Git Workflow](../../devel/git)
 
 *Xubuntu and its various projects have used Bazaar since the beginning.
 Bazaar has served us well in the past, but there are several compelling

@@ -12,7 +12,7 @@ bookHidden: true
 | **Title** | Default Panel Layout |
 | **Blueprint** | |
 | **Assignee** | Simon Steinbeiß, Pasi Lallinaho |
-| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
+| **Release** | [Quantal Quetzal](../../../goals/quantal/) |
 
 ## Status Quo in Precise
 

@@ -10,12 +10,12 @@ If you are looking for **user support**, **downloads**, or **general information
 
 ## What's here
 
-- **[Meetings](/meetings/)**: current meeting agenda and the full [archive of past meetings](/meetings/archive/)
-- **[Development](/devel/)**: developer references: Git workflow, PPAs, and release notes
-- **[Quality Assurance](/qa/)**: ISO testing guides and resources for new testers
-- **[Documentation](/doc/)**: information for the documentation team
-- **[Marketing](/marketing/)**: marketing projects, materials, and brand guidelines
-- **[Website](/website/)**: resources for the website team
+- **[Meetings](meetings/)**: current meeting agenda and the full [archive of past meetings](meetings/archive/)
+- **[Development](devel/)**: developer references: Git workflow, PPAs, and release notes
+- **[Quality Assurance](qa/)**: ISO testing guides and resources for new testers
+- **[Documentation](doc/)**: information for the documentation team
+- **[Marketing](marketing/)**: marketing projects, materials, and brand guidelines
+- **[Website](website/)**: resources for the website team
 
 ## Contributing to the wiki
 
@@ -23,4 +23,4 @@ Wiki pages are maintained as Markdown files in a [GitHub repository](https://git
 
 ## Getting involved with Xubuntu
 
-The [Teams and Leaders](/contact/) page lists the people behind each team and how to reach them. The best way to get started is to join `#xubuntu-devel` on Libera Chat and introduce yourself.
+The [Teams and Leaders](contact/) page lists the people behind each team and how to reach them. The best way to get started is to join `#xubuntu-devel` on Libera Chat and introduce yourself.

@@ -12,7 +12,7 @@ bookHidden: true
 | **Title** | Review terminal theme |
 | **Blueprint** | [https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-terminal-theme](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-terminal-theme) |
 | **Assignee** | Simon Steinbeiß, Pasi Lallinaho |
-| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
+| **Release** | [Quantal Quetzal](../../../goals/quantal/) |
 
 ## Detailed specification
 

@@ -8,7 +8,7 @@ bookHidden: true
 *DapperXubuntuLook*
 # Final propositions
 Due to the final Ubuntu usplash propositions, a new Xubuntu splash screen has been made. Please vote on which one should be included by default in Xubuntu.
-![usplash.png](/archive/roadmaps/specifications/dapper/artwork/steel-proposal/usplash.png)
+![usplash.png](../steel-proposal/usplash.png)
 #1
 - *Viper550* : Wow, that looks alot like mine! Awesome! (votes for it)
 - *Add your vote here.*
@@ -26,12 +26,12 @@ Due to the final Ubuntu usplash propositions, a new Xubuntu splash screen has be
 # May also be shipped
 
 ## Tweaked default (different font colors)
-![xubuntu-usplash-tweaked.png](/archive/roadmaps/specifications/dapper/artwork/usplash/xubuntu-usplash-tweaked.png)
+![xubuntu-usplash-tweaked.png](xubuntu-usplash-tweaked.png)
 
 this is a tweaked version of the default with different text colors (don't use red for 'ok')
 
 ## Vincent's Usplash
-![VincentXubuntuSplashLo.png](/archive/roadmaps/specifications/dapper/artwork/usplash/VincentXubuntuSplashLo.png)
+![VincentXubuntuSplashLo.png](VincentXubuntuSplashLo.png)
 
 This is my try at the splash screen.
 

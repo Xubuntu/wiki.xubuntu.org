@@ -7,6 +7,6 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/gutsy/artwork/)
-- [Documentation Browser](/archive/roadmaps/specifications/gutsy/documentation-browser/)
-- [New Website](/archive/roadmaps/specifications/gutsy/new-website/)
+- [Artwork](artwork/)
+- [Documentation Browser](documentation-browser/)
+- [New Website](new-website/)

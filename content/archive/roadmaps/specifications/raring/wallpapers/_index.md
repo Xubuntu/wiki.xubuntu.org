@@ -21,10 +21,10 @@ The artwork team will pick the best wallpapers to be included.
 
 ### Wallpaper submissions
 #### CC BY SA
-[![The Southern Alps](/archive/roadmaps/specifications/raring/wallpapers/the_southern_alps.jpg)](/archive/roadmaps/specifications/raring/wallpapers/<http://photonfossil.deviantart.com/art/The-Southern-Alps-347377670>)
-[![Just Rocks](/archive/roadmaps/specifications/raring/wallpapers/just_rocks.jpg)](/archive/roadmaps/specifications/raring/wallpapers/just_rocks.jpg)
-[![Tantys Garden](/archive/roadmaps/specifications/raring/wallpapers/tantys_garden.jpg)](/archive/roadmaps/specifications/raring/wallpapers/tantys_garden.jpg)
-[![Clouds](/archive/roadmaps/specifications/raring/wallpapers/clouds_knome.jpg)](/archive/roadmaps/specifications/raring/wallpapers/clouds_knome.jpg)
+[![The Southern Alps](the_southern_alps.jpg)](/archive/roadmaps/specifications/raring/wallpapers/<http://photonfossil.deviantart.com/art/The-Southern-Alps-347377670>)
+[![Just Rocks](just_rocks.jpg)](just_rocks.jpg)
+[![Tantys Garden](tantys_garden.jpg)](tantys_garden.jpg)
+[![Clouds](clouds_knome.jpg)](clouds_knome.jpg)
 [![Spring!!! (CC-BY-SA "Benson Kua, bensonkua@Flickr")](http://farm5.staticflickr.com/4034/4546399877_e575438643.jpg)](http://www.flickr.com/photos/bensonkua/4546399877/in/photostream/)
 
 #### CC BY

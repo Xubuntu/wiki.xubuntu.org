@@ -12,7 +12,7 @@ bookHidden: true
 | **Title** | Add more applications to Settings manager |
 | **Blueprint** | [https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-settings-manager-launchers](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-settings-manager-launchers) |
 | **Assignee** | Unit193, community |
-| **Release** | [Quantal Quetzal](/archive/roadmaps/goals/quantal/) |
+| **Release** | [Quantal Quetzal](../../../goals/quantal/) |
 
 ## Detailed specification
 

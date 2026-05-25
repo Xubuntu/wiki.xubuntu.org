@@ -7,4 +7,4 @@ bookHidden: true
 
 ## All subpages
 
-- [Ubuntu Open Week](/archive/roadmaps/specifications/maverick/ubuntu-open-week/)
+- [Ubuntu Open Week](ubuntu-open-week/)

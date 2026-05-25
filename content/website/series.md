@@ -4,7 +4,7 @@ title: "Article Series"
 
 # Xubuntu at...
 
-See ["Xubuntu at..." Interview Series](/marketing/projects/xubuntuat/).
+See ["Xubuntu at..." Interview Series](../../marketing/projects/xubuntuat/).
 
 # My media manager
 

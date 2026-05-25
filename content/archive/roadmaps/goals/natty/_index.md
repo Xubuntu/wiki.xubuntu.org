@@ -12,7 +12,7 @@ bookHidden: true
 | Work towards an accessibile theme for Xubuntu | CharlieKravetz |
 | Sessions for [UbuntuOpenWeek](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/UbuntuOpenWeek) and UbuntuDeveloperWeek | CharlieKravetz |
 | Website theme with new branding for Xubuntu.org | [ElizabethKrumbach](https://wiki.ubuntu.com/lyz) |
-| [Inclusion of Xfce 4.7.x/4.8](/archive/roadmaps/specifications/natty/xfce4.8/) | LionelLeFolgoc |
+| [Inclusion of Xfce 4.7.x/4.8](../../specifications/natty/xfce4.8/) | LionelLeFolgoc |
 
 ## Objectives carried over from prior release cycles
 
@@ -28,11 +28,11 @@ bookHidden: true
 |---|---|
 | [Slim down Xubuntu session](https://blueprints.launchpad.net/xubuntu-desktop/+spec/xubuntu-karmic-session-slim-down) | CodySomerville |
 | [Review default applications](https://blueprints.launchpad.net/xubuntu-desktop/+spec/xubuntu-karmic-seeds) | CodySomerville |
-| [Grow the Xubuntu Community](/archive/roadmaps/specifications/jaunty/grow-xubuntu-community/) | CharlieKravetz |
+| [Grow the Xubuntu Community](../../specifications/jaunty/grow-xubuntu-community/) | CharlieKravetz |
 
 ## Completed objectives!!
 
 | **Objective** | **Assignee** |
 |---|---|
-| [Inclusion of Xfce 4.7.x/4.8](/archive/roadmaps/specifications/natty/xfce4.8/) | LionelLeFolgoc |
+| [Inclusion of Xfce 4.7.x/4.8](../../specifications/natty/xfce4.8/) | LionelLeFolgoc |
 | Work towards an accessibile theme for Xubuntu | CharlieKravetz |

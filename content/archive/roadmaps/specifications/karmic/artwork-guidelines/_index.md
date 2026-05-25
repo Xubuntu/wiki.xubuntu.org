@@ -15,7 +15,7 @@ Our main goal with artwork is uniform and consistent brand. The branding should 
 
 To make the branding consistent, artists should always use the official logo. This logos is provided as an attached SVG file. The font used in the file can be installed from apt-get (ttf-ubuntu-title).
 
-![xubuntu_910_logo.png](/archive/roadmaps/specifications/karmic/artwork-guidelines/xubuntu_910_logo.png)
+![xubuntu_910_logo.png](xubuntu_910_logo.png)
 
 ### General
 

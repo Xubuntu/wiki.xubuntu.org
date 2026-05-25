@@ -8,4 +8,4 @@ bookHidden: true
 ## Hardy mockup
 
 ### Layout mockup
-![panel.png](/archive/roadmaps/specifications/hardy/artwork-incoming/panel.png)
+![panel.png](panel.png)

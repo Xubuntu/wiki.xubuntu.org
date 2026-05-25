@@ -30,20 +30,20 @@ Use the same design elements as the wallpaper (like fedora, kubuntu). The log-in
 For the time being let's stick with the current one. Wait and see what direction the other ubuntu flavors go in this regard. Until, I fix up the gradient behind the logo of the current one to get rid of the ugly color banding effect. 
 ## Logo
 Basic vertical logo:
-[vertXubLogo.svg](/archive/roadmaps/specifications/feisty/artwork/vertXubLogo.svg)
+[vertXubLogo.svg](vertXubLogo.svg)
 
 We can stick with the current one, unless somebody has a better idea.
 
-I took the distributor-logo.svg from the tango icon set, changed the colors, added the mouse, and made [xubuntu-logo.svg](/archive/roadmaps/specifications/feisty/artwork/xubuntu-logo.svg)! I was missing an svg logo, especially for the welcome center. The mouse surely can be improved. -- RadomirDopieralski
+I took the distributor-logo.svg from the tango icon set, changed the colors, added the mouse, and made [xubuntu-logo.svg](xubuntu-logo.svg)! I was missing an svg logo, especially for the welcome center. The mouse surely can be improved. -- RadomirDopieralski
 
 ## Color Palette
-![light.png](/archive/roadmaps/specifications/feisty/artwork/light.png)
+![light.png](light.png)
 #b7d1ea
 
-![middle.png](/archive/roadmaps/specifications/feisty/artwork/middle.png)
+![middle.png](middle.png)
 #789abd
 
-![dark.png](/archive/roadmaps/specifications/feisty/artwork/dark.png)
+![dark.png](dark.png)
 #3a5065
 
 ## Icons
@@ -65,6 +65,6 @@ Icon design and gtk theme customization are also possible areas for contribution
 
 ## All subpages
 
-- [Incoming](/archive/roadmaps/specifications/feisty/artwork/incoming/)
-- [Incoming Desktop](/archive/roadmaps/specifications/feisty/artwork/incoming-desktop/)
-- [Incoming Roller Blind](/archive/roadmaps/specifications/feisty/artwork/incoming-roller-blind/)
+- [Incoming](incoming/)
+- [Incoming Desktop](incoming-desktop/)
+- [Incoming Roller Blind](incoming-roller-blind/)

@@ -12,9 +12,9 @@ bookHidden: true
 1. After you've successfully uploaded your wallpaper, [edit the page-contents](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/Trusty/CommunityWallpapers/Submissions?action=edit&editor=text).
 1. Then copy-paste this template-text and update it with your information:
 `=== Wallpaper Name ===`
-`[![Wallpaper Name](/archive/roadmaps/specifications/trusty/community-wallpapers/submissions/how-to/authorname_wallpapername.jpg)](/archive/roadmaps/specifications/trusty/community-wallpapers/submissions/how-to/authorname_wallpapername.jpg)`
+`[![Wallpaper Name](authorname_wallpapername.jpg)](authorname_wallpapername.jpg)`
 `  **Author:** Author Name`
 `  **License:** CC-BY-SA`
 `  **Resolution:** width x height`
  1.#5 Then save the page and you're done.
-1. Patiently wait for your submission [to be accepted](/archive/roadmaps/specifications/trusty/community-wallpapers/accepted/).
+1. Patiently wait for your submission [to be accepted](../../accepted/).

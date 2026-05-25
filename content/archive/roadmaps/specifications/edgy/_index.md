@@ -7,6 +7,6 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/edgy/artwork/)
-- [Desktop Goals Spec](/archive/roadmaps/specifications/edgy/desktop-goals-spec/)
-- [Ideas](/archive/roadmaps/specifications/edgy/ideas/)
+- [Artwork](artwork/)
+- [Desktop Goals Spec](desktop-goals-spec/)
+- [Ideas](ideas/)

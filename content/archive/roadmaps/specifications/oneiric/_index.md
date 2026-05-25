@@ -7,4 +7,4 @@ bookHidden: true
 
 ## All subpages
 
-- [Default Image Editor](/archive/roadmaps/specifications/oneiric/default-image-editor/)
+- [Default Image Editor](default-image-editor/)

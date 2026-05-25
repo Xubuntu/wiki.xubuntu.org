@@ -54,4 +54,4 @@ Website: knome
 
 ## Meetings archive
 
-[Meeting archive](/meetings/archive/)
+[Meeting archive](archive/)

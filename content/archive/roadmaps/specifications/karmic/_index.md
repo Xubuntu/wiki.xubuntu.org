@@ -7,12 +7,12 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/karmic/artwork/)
-- [Artwork Guidelines](/archive/roadmaps/specifications/karmic/artwork-guidelines/)
-- [Daily Upstream Builds Xfce](/archive/roadmaps/specifications/karmic/daily-upstream-builds-xfce/)
-- [Default Image Viewer](/archive/roadmaps/specifications/karmic/default-image-viewer/)
-- [Default Mail Client](/archive/roadmaps/specifications/karmic/default-mail-client/)
-- [Default Music Player](/archive/roadmaps/specifications/karmic/default-music-player/)
-- [Notify Osd](/archive/roadmaps/specifications/karmic/notify-osd/)
-- [Session Slim Down](/archive/roadmaps/specifications/karmic/session-slim-down/)
-- [Xubuntu Documentation](/archive/roadmaps/specifications/karmic/xubuntu-documentation/)
+- [Artwork](artwork/)
+- [Artwork Guidelines](artwork-guidelines/)
+- [Daily Upstream Builds Xfce](daily-upstream-builds-xfce/)
+- [Default Image Viewer](default-image-viewer/)
+- [Default Mail Client](default-mail-client/)
+- [Default Music Player](default-music-player/)
+- [Notify Osd](notify-osd/)
+- [Session Slim Down](session-slim-down/)
+- [Xubuntu Documentation](xubuntu-documentation/)

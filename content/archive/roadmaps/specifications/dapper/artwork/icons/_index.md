@@ -19,12 +19,12 @@ providing same infos and materials as Ubuntu (see [Artwork/Official](https://wik
 
 # Icon Naming file "Xfce" Patched Version
 
-- [legacy-icon-mapping.xml](/archive/roadmaps/specifications/dapper/artwork/icons/legacy-icon-mapping.xml)
+- [legacy-icon-mapping.xml](legacy-icon-mapping.xml)
 
 # Xfce Setting Show
 
 Icons to draw for dapper:
 
-![xfce-setting-show.png](/archive/roadmaps/specifications/dapper/artwork/icons/xfce-setting-show.png)
+![xfce-setting-show.png](xfce-setting-show.png)
 
 these icons are in /usr/share/icons/hicolors/xfce*

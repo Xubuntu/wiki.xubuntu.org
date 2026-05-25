@@ -8,10 +8,10 @@ bookHidden: true
 ## Objectives for Jaunty
 | **Goal** | **Status** |
 |---|---|
-| [Grow the Xubuntu Community](/archive/roadmaps/specifications/jaunty/grow-xubuntu-community/) | Work in progress. |
+| [Grow the Xubuntu Community](../../specifications/jaunty/grow-xubuntu-community/) | Work in progress. |
 | Refresh distro artwork | Uploaded to the archive. |
 | Update the documentation | Uploaded to the archive. |
-| [Implement Xfce4.6](/archive/roadmaps/specifications/jaunty/xfce4.6/) | Uploaded to the archive. |
+| [Implement Xfce4.6](../../specifications/jaunty/xfce4.6/) | Uploaded to the archive. |
 | Thunar Improvements | No progress yet. |
 | User switcher applet to Xfce panel | Uploaded to the archive. |
 

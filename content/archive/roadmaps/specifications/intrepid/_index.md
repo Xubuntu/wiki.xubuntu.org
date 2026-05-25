@@ -7,9 +7,9 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/intrepid/artwork/)
-- [Exit Spec](/archive/roadmaps/specifications/intrepid/exit-spec/)
-- [Idea Pool](/archive/roadmaps/specifications/intrepid/idea-pool/)
-- [Recommends Handling](/archive/roadmaps/specifications/intrepid/recommends-handling/)
-- [Xfce4.6](/archive/roadmaps/specifications/intrepid/xfce4.6/)
-- [Xfce4.6 Milestones](/archive/roadmaps/specifications/intrepid/xfce4.6-milestones/)
+- [Artwork](artwork/)
+- [Exit Spec](exit-spec/)
+- [Idea Pool](idea-pool/)
+- [Recommends Handling](recommends-handling/)
+- [Xfce4.6](xfce4.6/)
+- [Xfce4.6 Milestones](xfce4.6-milestones/)

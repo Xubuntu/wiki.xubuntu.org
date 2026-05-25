@@ -39,19 +39,19 @@ Note that any items with no assignee will not be driven, and most probably won't
 | New Plymouth theme | madnick | High | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-new-plymouth)** |
 | New LightDM theme | madnick | High | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-new-lightdm)** |
 | Analyze and optimize boot times | Janne Jokitalo, Pasi Lallinaho, testers | High | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-optimize-boot)** |
-| Website improvements | Pasi Lallinaho, Elizabeth Krumbach | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-website-improvements)**, [Specification](/archive/roadmaps/specifications/quantal/website-improvements/) |
-| Review terminal theme | Simon Steinbeiß, Pasi Lallinaho | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-terminal-theme)**, [Specification](/archive/roadmaps/specifications/quantal/terminal-theme-review/) |
+| Website improvements | Pasi Lallinaho, Elizabeth Krumbach | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-website-improvements)**, [Specification](../../specifications/quantal/website-improvements/) |
+| Review terminal theme | Simon Steinbeiß, Pasi Lallinaho | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-terminal-theme)**, [Specification](../../specifications/quantal/terminal-theme-review/) |
 | Albatross theme facelift | Simon Steinbeiß, Pasi Lallinaho | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-albatross-facelift)** |
 | Improve Bluebird theme | Simon Steinbeiß, Markus Klinga | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-improve-bluebird)** |
 | Rethink elementary-xfce icons concept | Simon Steinbeiß | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-elementary-xfce)** |
 | Explore possibilities of desktop search | Sean Davis, Simon Steinbeiß | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-desktop-search)** |
-| Add more launchers to Settings manager | Unit193, community | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-settings-manager-launchers)**, [Specification](/archive/roadmaps/specifications/quantal/settings-manager-apps/) |
+| Add more launchers to Settings manager | Unit193, community | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-settings-manager-launchers)**, [Specification](../../specifications/quantal/settings-manager-apps/) |
 | Xubuntu marketing initiatives | Elizabeth Krumbach, community | Medium | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-marketing)**, [Marketing wikipage](https://wiki.ubuntu.com/Xubuntu/Marketing) |
-| Implement Keyboard-Shortcuts overlay/window | Sean Davis, Simon Steinbeiß | Low | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-shortcuts-overlay)**, [Specification](/archive/roadmaps/specifications/quantal/keyboard-shortcuts-overlay/) |
+| Implement Keyboard-Shortcuts overlay/window | Sean Davis, Simon Steinbeiß | Low | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-shortcuts-overlay)**, [Specification](../../specifications/quantal/keyboard-shortcuts-overlay/) |
 | Ubiquity application sets | Janne Jokitalo | Low | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-application-sets)** |
-| Umbrella blueprint for appearance blueprints | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-appearance)**, [Panel layout spec](/archive/roadmaps/specifications/quantal/default-panel-layout/) | | |
+| Umbrella blueprint for appearance blueprints | **[Blueprint](https://blueprints.launchpad.net/ubuntu/+spec/other-q-xubuntu-appearance)**, [Panel layout spec](../../specifications/quantal/default-panel-layout/) | | |
 | **Ideas that are postponed for now** | | | |
-| Ship [apt-offline](http://apt-offline.alioth.debian.org/) by default | - | - | [Specification](/archive/roadmaps/specifications/quantal/apt-offline/) |
+| Ship [apt-offline](http://apt-offline.alioth.debian.org/) by default | - | - | [Specification](../../specifications/quantal/apt-offline/) |
 | Add optimum partitioning option to install options | - | - | - |
 | Add DVD support to Xubuntu restricted extras | - | - | - |
 | New Panel Plug in: Disk access monitor | - | - | - |
@@ -65,10 +65,10 @@ Note that any items with no assignee will not be driven, and most probably won't
 |---|---|---|---|---|
 | Package manager | Lubuntu Software Center? (USC, Synaptic) | Pasi Lallinaho, Simon Steinbeiß | High | - |
 | Monitor management | Improve xfce4-display-dialog | GridCube | Medium | - |
-| Media player | Listen, DeadBeef? (gmusicbrowser) | GridCube | Medium | [Specifications](/archive/roadmaps/specifications/quantal/default-media-player/) |
+| Media player | Listen, DeadBeef? (gmusicbrowser) | GridCube | Medium | [Specifications](../../specifications/quantal/default-media-player/) |
 | Backup App | Deja Dup, ? (-) | - | Medium | - |
 | Video player | Improve Parole | - | Low | - |
-| Webcam Application | Cheese? | GridCube | Low | [Specifications](/archive/roadmaps/specifications/quantal/webcam-application/) |
+| Webcam Application | Cheese? | GridCube | Low | [Specifications](../../specifications/quantal/webcam-application/) |
 | Menu manager | MenuLibre, LXMenueditor, (Alacarte) | - | Low | - |
 | Terminal | Sakura | - | Low | - |
 | Image editor | ? (GIMP) | - | Low | - |

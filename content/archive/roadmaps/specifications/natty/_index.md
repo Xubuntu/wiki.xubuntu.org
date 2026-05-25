@@ -7,6 +7,6 @@ bookHidden: true
 
 ## All subpages
 
-- [Artwork](/archive/roadmaps/specifications/natty/artwork/)
-- [Default Media Player](/archive/roadmaps/specifications/natty/default-media-player/)
-- [Xfce4.8](/archive/roadmaps/specifications/natty/xfce4.8/)
+- [Artwork](artwork/)
+- [Default Media Player](default-media-player/)
+- [Xfce4.8](xfce4.8/)

@@ -18,9 +18,9 @@ The top five wallpapers have been chosen. They are (images linked directly from 
 
 The default wallpaper will be one of these two. The artist are now given 1 week to finish off their designs. The final vote on the default wallpaper will be taken at the Xubuntu meeting on 17th of March.
 
-[![](http://farm6.static.flickr.com/5127/5247055287_9e3145b65f_m.jpg)](http://www.flickr.com/photos/leogg/5247055287/in/pool-1546142@N20/) [![5247055287_with_panels_tb.png](/archive/roadmaps/specifications/natty/artwork/5247055287_with_panels_tb.png)](/archive/roadmaps/specifications/natty/artwork/5247055287_with_panels.png)  by leogg@Flickr (CC-BY-SA)
+[![](http://farm6.static.flickr.com/5127/5247055287_9e3145b65f_m.jpg)](http://www.flickr.com/photos/leogg/5247055287/in/pool-1546142@N20/) [![5247055287_with_panels_tb.png](5247055287_with_panels_tb.png)](5247055287_with_panels.png)  by leogg@Flickr (CC-BY-SA)
 
-[![](http://farm6.static.flickr.com/5253/5515540418_2cb2415419_m.jpg)](http://www.flickr.com/photos/emunkki/5515540418/in/pool-1546142@N20/) [![5515540418_with_panels_tb.png](/archive/roadmaps/specifications/natty/artwork/5515540418_with_panels_tb.png)](/archive/roadmaps/specifications/natty/artwork/5515540418_with_panels.png)  by Pasi Lallinaho, emunkki@Flickr (CC-BY)  **Downloads** (draft 2011-03-11): [SVG source](/archive/roadmaps/specifications/natty/artwork/knome_wallpaper_draft_20110311.svg), [PNG download (1920x1200)](/archive/roadmaps/specifications/natty/artwork/knome_wallpaper_draft_20110311.png)
+[![](http://farm6.static.flickr.com/5253/5515540418_2cb2415419_m.jpg)](http://www.flickr.com/photos/emunkki/5515540418/in/pool-1546142@N20/) [![5515540418_with_panels_tb.png](5515540418_with_panels_tb.png)](5515540418_with_panels.png)  by Pasi Lallinaho, emunkki@Flickr (CC-BY)  **Downloads** (draft 2011-03-11): [SVG source](knome_wallpaper_draft_20110311.svg), [PNG download (1920x1200)](knome_wallpaper_draft_20110311.png)
 
 ### 3-5 (2 votes in the meeting)
 
