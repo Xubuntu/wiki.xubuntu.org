@@ -1,0 +1,21 @@
+---
+title: "Default Media Manager"
+bookHidden: true
+---
+
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/Roadmap/Specifications/X/DefaultMediaManager), last updated 2015-11-09.*
+
+## Definitions
+For the purposes of this wiki page and discussion, the following terms are used:
+- **Media Manager** is an application that has collection/library/extensive playlist support, eg. gmusicbrowser
+- **Media Player** is a application that plays a variety of media formats, including videos and music, eg. Parole
+
+## Options
+
+### Option A
+- Leave both Parole and gmusicbrowser seeded
+- **Considerations:** Which bugs are critical to fix? Do we need more documentation?
+
+### Option B
+- Leave Parole seeded and remove gmusicbrowser
+- On the website, do a *team member's media manager of choice* article series with their comments and rationales why they use what they do

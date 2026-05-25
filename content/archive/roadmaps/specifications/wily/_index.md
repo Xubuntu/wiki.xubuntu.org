@@ -1,0 +1,4 @@
+---
+title: "Wily"
+bookHidden: true
+---
