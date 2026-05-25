@@ -1,0 +1,41 @@
+---
+title: "July 2010"
+date: 2010-07-01
+bookHidden: true
+---
+
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/TeamReports/10/July), last updated 2010-07-20.*
+
+**Xubuntu team report for July, 2010**
+
+#### Bug Triage
+
+- Many bugs have been triaged and fixed this month.
+
+#### Packaging, Development, & Testing
+
+- Uploaded new bugfix releases of Goffice (0.8.7) and Gnumeric (1.10.7) in Maverick Meerkat.
+- Synced xfce4-notifyd (Xfce Notification Daemon) into Maverick Meerkat from Debian to let it work again with the latest libnotify.
+- Released Maverick Meerkat Alpha2 on 2010-07-01. This is the second development release of what will become the next version of Xubuntu, 10.10. It is available for testing purposes at [http://cdimages.ubuntu.com/xubuntu/releases/maverick/alpha-2/](http://cdimages.ubuntu.com/xubuntu/releases/maverick/alpha-2/).
+- New default applications selected since Maverick Meerkat Alpha 2: Parole (Xfce4 Media Player), Xfburn (Xfce4 CD/DVD burning tool) and xfce4-taskmanager (Xfce4 process manager). Feedback appreciated!
+- FFmpeg thumbnailer support added to [Tumbler](http://foo-projects.org/pipermail/xfce/2010-July/027372.html) (file thumbnail generator for the not-yet-released Xfce 4.8), thanks to the work of Lionel Le Folgoc (mr_pouit).
+- Development packages of Xfce 4.7.x (future 4.8) updated in [Xubuntu developers' PPA](https://launchpad.net/~xubuntu-dev/+archive/ppa). Feel free to test them and report bugs on <http://bugzilla.xfce.org> to make Xfce 4.8 rock!
+
+#### Website & Marketing
+
+- Gave a presentation at Ubuntu Developer Week. Xubuntu is alive and kicking hard!
+- Xubuntu needs a new Marketing Lead. Contact us per <http://xubuntu.org/devel> if interested
+
+#### Artwork
+
+- Chose a new Xubuntu logo to go with the new branding. Thanks to Elizabeth Krumbach it can be seen at <https://wiki.ubuntu.com/Xubuntu/Artwork/Maverick>
+- Sent a call for artwork to be submitted for Maverick to <http://ubuntu-artists.deviantart.com/> .
+
+#### Community
+
+- We are striving to get more users to blog about Xubuntu. We would like to keep word out of the changes being made, as well as new releases.
+- charlie-tca opened an account on indenti.ca to try and keep everyone updated about changes and needs of Xubuntu. Username is charlietca1.
+
+#### Documentation
+
+- Xubuntu needs a new Documentation Lead. Contact us per <http://xubuntu.org/devel> if interested

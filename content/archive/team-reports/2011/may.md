@@ -1,0 +1,42 @@
+---
+title: "May 2011"
+date: 2011-05-01
+bookHidden: true
+---
+
+*Migrated from [Ubuntu Wiki](https://wiki.ubuntu.com/Xubuntu/TeamReports/11/May), last updated 2011-06-12.*
+
+### Xubuntu team report for May, 2011
+
+#### Bug Triage
+
+- Triaged over 100 bugs this month. 
+- Began smoke testing the images for Oneiric Ocelot. 
+
+#### Packaging, Development, & Testing
+
+- Many bugs have been fixed.
+- Released Natty Narwhal, Xubuntu 11.04 on April 29, 2011.
+- Started work on the next release of Xubuntu, Oneiric Ocelot. 
+
+#### Website & Marketing
+
+- Approval has been received for the website to be converted to Wordpress.
+- Website team is currently working out where to place a staging site for Wordpress. Staging site set up by Canonical is for them to test what we have only.
+- Xubuntu needs a Marketing Lead. Contact us per <http://xubuntu.org/devel> or email charlie-tca@ubuntu.com, if interested.
+
+#### Artwork
+
+- We still need a good plymouth theme. 
+- Xubuntu needs an Artwork Lead. Contact us per <http://xubuntu.org/devel> or email charlie-tca@ubuntu.com, if interested.
+
+#### Community
+
+- We are striving to get more users to blog about Xubuntu. We would like to get word out of the changes being made, as well as new releases.
+- The Xubuntu Community holds a regular meeting on Monday at 19:00 UTC in #xubuntu-devel.
+- Minutes and Logs from the meetings are available at <https://wiki.ubuntu.com/Xubuntu/Meetings.>
+- The community meeting was held on 2011-05-23.
+
+#### Documentation
+
+- Xubuntu needs a Documentation Lead. Contact us per <http://xubuntu.org/devel> or email charlie-tca@ubuntu.com, if interested.
