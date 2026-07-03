@@ -43,6 +43,24 @@ If you cloned without `--recurse-submodules`, fetch the themes with:
 git submodule update --init
 ```
 
+### Using distrobox
+
+If your host uses [distrobox](https://distrobox.it/), a manifest is provided to spin up an Ubuntu 24.04 container with the exact Hugo extended version used by CI ([`distrobox.ini`](distrobox.ini)):
+
+```sh
+distrobox assemble create --file distrobox.ini
+distrobox enter wiki-xubuntu-org
+git submodule update --init
+hugo server
+```
+
+On subsequent runs:
+
+```sh
+distrobox enter wiki-xubuntu-org
+hugo server
+```
+
 ## Repository structure
 
 ```
