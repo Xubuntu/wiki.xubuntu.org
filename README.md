@@ -45,7 +45,7 @@ git submodule update --init
 
 ### Using distrobox
 
-If your host uses [distrobox](https://distrobox.it/), a manifest is provided to spin up an Ubuntu 24.04 container with the exact Hugo extended version used by CI ([`distrobox.ini`](distrobox.ini)):
+If you use [distrobox](https://distrobox.it/), a manifest is provided to spin up an Ubuntu 24.04 container with the exact Hugo extended version used by CI ([`distrobox.ini`](distrobox.ini)):
 
 ```sh
 distrobox assemble create --file distrobox.ini
