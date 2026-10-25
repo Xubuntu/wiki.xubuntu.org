@@ -6,7 +6,7 @@ title: "Fine-Tuning Your Development Setup"
 
 If you do have questions regarding issues in a development version,
 please do ask in the Xubuntu Developer channel (chat room)- don't worry
-if you dont understand much of what is being discussed there - don't be
+if you don't understand much of what is being discussed there - don't be
 put off as the community is a friendly bunch and is always happy to see
 more potential testers. Just ask your question and people will try to
 help you.
@@ -62,7 +62,7 @@ Use the Something Else option and you will be shown a list of disks and
 partitions on your system, with any unallocated space shown as such.
 
 You can create partitions or edit existing partition sizes until you
-have a new partition available to install too.
+have a new partition available to install to.
 
 The following runs through using the installer to create a new partition
 and then install to it.
