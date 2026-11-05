@@ -1,0 +1,16 @@
+{{- /* .Plain keeps code-block text entity-encoded twice, hence two htmlUnescapes. */ -}}
+{{- $out := slice -}}
+{{- range site.Pages -}}
+  {{- if and .File (ne .Type "redirect") (not .Params.bookSearchExclude) (not .Params.wikiSystem) -}}
+    {{- $section := "" -}}
+    {{- if not .IsHome }}{{ with .FirstSection }}{{ if and .File (not .IsHome) }}{{ $section = .LinkTitle }}{{ end }}{{ end }}{{ end -}}
+    {{- $out = $out | append (dict
+      "t" .LinkTitle
+      "d" (.Description | plainify | htmlUnescape)
+      "s" $section
+      "h" .RelPermalink
+      "x" (.Plain | truncate 240 | htmlUnescape | htmlUnescape)
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $out | jsonify -}}

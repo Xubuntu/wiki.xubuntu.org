@@ -1,5 +1,7 @@
 ---
 title: "Documentation"
+description: "Information for the documentation team."
+icon: book-open
 ---
 
 Welcome to the Xubuntu Documentation team wiki. The Xubuntu

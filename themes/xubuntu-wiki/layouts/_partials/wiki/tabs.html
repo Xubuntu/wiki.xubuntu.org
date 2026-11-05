@@ -1,0 +1,10 @@
+{{- $section := .ctx.section -}}
+{{- $isHome := .ctx.page.IsHome -}}
+<nav class="wiki-tabs" aria-label="Sections">
+  <div class="wiki-tabs-inner">
+    <a href="{{ site.Home.RelPermalink }}"{{ if $isHome }} class="active" aria-current="page"{{ end }}>Home</a>
+    {{- range .ctx.sections }}
+    <a href="{{ .RelPermalink }}"{{ if and $section (.Eq $section) }} class="active"{{ if $.page.Eq . }} aria-current="page"{{ end }}{{ end }}>{{ .LinkTitle }}</a>
+    {{- end }}
+  </div>
+</nav>

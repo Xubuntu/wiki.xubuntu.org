@@ -5,6 +5,21 @@ by Alex Shpak (MIT licensed), imported at upstream commit
 `ae912cc38d3f77d928b5c1f8f1a3c0575bf3415a` and maintained locally as part of
 wiki.xubuntu.org. It is being adapted to match the look of xubuntu.org.
 
+The page chrome has since been rewritten to the Xubuntu Wiki design (section
+tabs, scoped sidebar, Read/Source/History views, edit dialog, search page,
+light/dark themes and a phone layout):
+
+- `layouts/baseof.html` and `layouts/_partials/wiki/`: page shell and components
+- `layouts/{home,section,page,history,search,sitemap,recent}.html`: views
+- `assets/wiki.scss`, `assets/wiki.js`, `assets/search.js`: styles and behaviour
+- `assets/icons/ph/`: inline [Phosphor](https://phosphoricons.com/) icons (MIT)
+
+hugo-book's markup render hooks, shortcodes and Markdown/shortcode styles are
+kept. Its menu, TOC, header and service-worker templates and settings
+(`BookToC`, `BookSearch`, `BookTheme`, ...) no longer apply; only `BookRepo`,
+`BookEditPath`, `BookFavicon` and the `bookHidden`/`bookSearchExclude` front
+matter are still used.
+
 The upstream README follows for reference.
 
 ---

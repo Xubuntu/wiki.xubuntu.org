@@ -1,0 +1,20 @@
+{{- /*
+  The scoped navigation list (desktop aside and phone drawer).
+  Context: dict "ctx" <context> "class" <row class>
+*/ -}}
+{{- $current := .ctx.page -}}
+{{- $class := .class -}}
+{{- with .ctx.section }}
+<div class="wiki-nav-label">{{ .LinkTitle }}</div>
+<a class="{{ $class }}{{ if $current.Eq . }} active{{ end }}" href="{{ .RelPermalink }}"{{ if $current.Eq . }} aria-current="page"{{ end }}>{{ partial "wiki/icon" "squares-four" }}<span>Overview</span></a>
+  {{- range partialCached "wiki/tree" (dict "page" . "depth" 0) .Path }}
+    {{- $active := $current.Eq .p }}
+<a class="{{ $class }}{{ if $active }} active{{ end }}" href="{{ .p.RelPermalink }}" style="--depth:{{ .d }}"{{ if $active }} aria-current="page"{{ end }}>{{ partial "wiki/icon" (cond (gt .kids 0) "folder-simple" "file-text") }}<span>{{ .p.LinkTitle }}</span></a>
+  {{- end }}
+{{- else }}
+<div class="wiki-nav-label">Start here</div>
+  {{- range site.Menus.start }}
+    {{- $active := and .Page ($current.Eq .Page) }}
+<a class="{{ $class }}{{ if $active }} active{{ end }}" href="{{ .URL }}"{{ if $active }} aria-current="page"{{ end }}>{{ partial "wiki/icon" (default "file-text" .Params.icon) }}<span>{{ .Name }}</span></a>
+  {{- end }}
+{{- end }}

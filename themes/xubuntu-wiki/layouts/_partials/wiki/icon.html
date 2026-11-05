@@ -1,0 +1,16 @@
+{{- /*
+  Inline Phosphor (regular) icon from assets/icons/ph/<name>.svg.
+  Usage: partial "wiki/icon" "file-text"
+     or: partial "wiki/icon" (dict "name" "file-text" "class" "extra")
+*/ -}}
+{{- $name := . -}}
+{{- $class := "ph" -}}
+{{- if reflect.IsMap . -}}
+  {{- $name = .name -}}
+  {{- with .class }}{{ $class = printf "ph %s" . }}{{ end -}}
+{{- end -}}
+{{- with resources.Get (printf "icons/ph/%s.svg" $name) -}}
+  {{- replace .Content "<svg " (printf `<svg class="%s" aria-hidden="true" focusable="false" ` $class) | safeHTML -}}
+{{- else -}}
+  {{- warnf "xubuntu-wiki: missing icon %q" $name -}}
+{{- end -}}

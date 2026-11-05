@@ -1,0 +1,19 @@
+{{- /*
+  "On this page" (H2s). Context: dict "page" <page> "variant" "rail"|"inline"
+  Renders nothing when the page has no H2s.
+*/ -}}
+{{- $toc := .page.TableOfContents -}}
+{{- if in $toc "<li" -}}
+  {{- $toc = replace $toc `<nav id="TableOfContents">` `<nav class="wiki-toc-nav" aria-label="On this page">` -}}
+  {{- if eq .variant "inline" }}
+<details class="wiki-toc-inline">
+  <summary>{{ partial "wiki/icon" "list" }}<span>On this page</span>{{ partial "wiki/icon" (dict "name" "caret-down" "class" "caret") }}</summary>
+  {{ $toc | safeHTML }}
+</details>
+  {{- else }}
+<div class="wiki-rail-block wiki-toc" data-toc>
+  <div class="wiki-rail-label">On this page</div>
+  {{ $toc | safeHTML }}
+</div>
+  {{- end }}
+{{- end -}}

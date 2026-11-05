@@ -1,0 +1,34 @@
+{{- /*
+  GitHub and history URLs for a content page.
+  Returns: dict with repo, branch, file (repo path), edit, blob, commits,
+  history (internal page if generated, else GitHub commits), historyInternal,
+  issue, new (GitHub "new file" URL in the page's folder).
+*/ -}}
+{{- $repo := strings.TrimSuffix "/" site.Params.BookRepo -}}
+{{- $branch := strings.TrimPrefix "edit/" (default "edit/main" site.Params.BookEditPath) -}}
+{{- $r := dict "repo" $repo "branch" $branch -}}
+{{- with .File -}}
+  {{- $file := path.Join "content" .Path -}}
+  {{- $hp := strings.TrimSuffix ".md" .Path -}}
+  {{- $hp = strings.TrimSuffix "/_index" $hp -}}
+  {{- $hp = strings.TrimSuffix "/index" $hp -}}
+  {{- if in (slice "_index" "index") $hp }}{{ $hp = "home" }}{{ end -}}
+  {{- $commits := printf "%s/commits/%s/%s" $repo $branch $file -}}
+  {{- $history := $commits -}}
+  {{- $internal := false -}}
+  {{- with site.GetPage (printf "/history/%s" $hp) -}}
+    {{- $history = .RelPermalink -}}
+    {{- $internal = true -}}
+  {{- end -}}
+  {{- $r = merge $r (dict
+    "file" $file
+    "edit" (printf "%s/edit/%s/%s" $repo $branch $file)
+    "blob" (printf "%s/blob/%s/%s" $repo $branch $file)
+    "commits" $commits
+    "history" $history
+    "historyInternal" $internal
+    "issue" (printf "%s/issues/new?title=%s&body=%s" $repo (printf "Issue with: %s" $.Title | urlquery) (printf "Page: %s" $.Permalink | urlquery))
+    "new" (printf "%s/new/%s/%s/" $repo $branch (path.Dir $file))
+  ) -}}
+{{- end -}}
+{{- return $r -}}

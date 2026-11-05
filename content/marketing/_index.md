@@ -1,5 +1,7 @@
 ---
 title: "Marketing"
+description: "Marketing projects, materials, and brand guidelines."
+icon: megaphone
 ---
 
 Welcome to the Xubuntu Marketing team wiki. This page is a starting

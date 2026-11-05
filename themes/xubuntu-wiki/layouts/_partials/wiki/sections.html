@@ -1,0 +1,11 @@
+{{- /*
+  Top-level wiki sections shown as tabs: they need an _index.md and must not
+  be bookHidden. Ordered by weight, then title.
+*/ -}}
+{{- $out := slice -}}
+{{- range site.Sections.ByWeight -}}
+  {{- if and .File (not .Params.bookHidden) -}}
+    {{- $out = $out | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

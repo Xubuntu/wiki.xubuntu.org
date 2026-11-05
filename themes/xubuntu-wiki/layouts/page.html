@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{- $links := partial "wiki/links" . -}}
+<article class="wiki-article">
+  <h1>{{ .Title }}</h1>
+  <div class="wiki-page-tabs" role="tablist">
+    <button type="button" role="tab" class="active" aria-selected="true" aria-controls="wiki-read" data-view="read">Read</button>
+    {{- if .File }}
+    <button type="button" role="tab" aria-selected="false" aria-controls="wiki-source" data-view="source">Source</button>
+    <a href="{{ $links.history }}">History</a>
+    <span class="wiki-tabs-spacer"></span>
+    <a class="wiki-btn wiki-btn-primary" href="{{ $links.edit }}" data-edit-open>{{ partial "wiki/icon" "pencil-simple" }}Edit this page</a>
+    {{- end }}
+  </div>
+  <div id="wiki-read" role="tabpanel">
+    {{ partial "wiki/toc" (dict "page" . "variant" "inline") }}
+    {{- with .Description }}
+    <p class="wiki-lede">{{ . }}</p>
+    {{- end }}
+    <div class="markdown">
+      {{- .Content -}}
+    </div>
+  </div>
+  {{- with .File }}
+  <div id="wiki-source" role="tabpanel" class="wiki-source" hidden>
+    <div class="wiki-source-head">{{ partial "wiki/icon" "file-md" }}<code>{{ $links.file }}</code></div>
+    <pre>{{ os.ReadFile $links.file }}</pre>
+  </div>
+  {{- end }}
+  {{ partial "wiki/footer-meta" . }}
+</article>
+{{ end }}

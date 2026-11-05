@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{- $pages := partialCached "wiki/content-pages" . "content-pages" -}}
+{{- $limit := .Params.limit | default 50 -}}
+<article class="wiki-recent-page">
+  <h1>{{ .Title }}</h1>
+  <p class="wiki-subtitle">The {{ $limit }} most recently changed pages, newest first.</p>
+  <div class="wiki-page-list">
+    {{- range first $limit (sort $pages "Lastmod" "desc") }}
+    {{- $links := partial "wiki/links" . }}
+    <div class="wiki-page-row wiki-recent-row">
+      <a class="wiki-page-title" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      <span class="wiki-page-date"><a href="{{ $links.history }}">{{ .Lastmod.Format "2006-01-02" }}</a></span>
+      <span class="wiki-page-desc">{{ with .FirstSection }}{{ if not .IsHome }}{{ .LinkTitle }} · {{ end }}{{ end }}{{ with .GitInfo }}{{ .Subject }} — {{ .AuthorName }}{{ end }}</span>
+    </div>
+    {{- end }}
+  </div>
+</article>
+{{ end }}

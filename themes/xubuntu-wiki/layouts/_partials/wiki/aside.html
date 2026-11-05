@@ -1,0 +1,15 @@
+{{- $links := partial "wiki/links" site.Home -}}
+{{- $sitemap := site.GetPage "/sitemap" -}}
+<aside class="wiki-aside" aria-label="{{ with .section }}{{ .LinkTitle }}{{ else }}Start here{{ end }}">
+  <div class="wiki-aside-inner">
+  <nav class="wiki-nav">
+    {{ partial "wiki/scope-list" (dict "ctx" . "class" "wiki-nav-row") }}
+  </nav>
+  <div class="wiki-nav wiki-nav-extra">
+    {{- with $sitemap }}
+    <a class="wiki-nav-row" href="{{ .RelPermalink }}">{{ partial "wiki/icon" "tree-structure" }}<span>All pages</span></a>
+    {{- end }}
+    <a class="wiki-nav-row" href="{{ $links.repo }}">{{ partial "wiki/icon" "github-logo" }}<span>Wiki on GitHub</span></a>
+  </div>
+  </div>
+</aside>

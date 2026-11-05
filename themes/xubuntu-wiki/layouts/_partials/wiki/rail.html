@@ -1,0 +1,9 @@
+{{- /* Right rail: TOC on home and articles, plus Recently updated on home. */ -}}
+{{- $out := "" -}}
+{{- if or .IsHome (and .IsPage (not .Params.wikiSystem) (not .Params.historyFile)) -}}
+  {{- $out = partial "wiki/toc" (dict "page" . "variant" "rail") -}}
+{{- end -}}
+{{- if .IsHome -}}
+  {{- $out = print $out (partial "wiki/recent" (dict "count" 4 "variant" "rail")) -}}
+{{- end -}}
+{{- return (trim $out " \n" | safeHTML) -}}

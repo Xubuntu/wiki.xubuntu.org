@@ -10,7 +10,7 @@ All wiki content lives in the [`content/`](content/) directory as Markdown (`.md
 2. Edit or add a Markdown file under `content/`.
 3. Open a pull request against the `main` branch.
 
-You can also click **Edit this page** at the bottom of any wiki page to jump straight to the file on GitHub.
+You can also click **Edit this page** on any wiki page to jump straight to the file on GitHub. The [Wiki Editing Guide](content/editing.md) covers front matter (`title`, `description`, section `icon`s) and writing conventions.
 
 ### Content sections
 
@@ -61,10 +61,22 @@ distrobox enter wiki-xubuntu-org
 hugo server
 ```
 
+### Page history
+
+Each page's **History** view is built from `data/history.json`, which `scripts/gen-history.py` generates from the Git log (CI runs it before every build). Locally the file is optional: without it, History links point to GitHub. To preview the history pages, run:
+
+```sh
+python3 scripts/gen-history.py
+hugo server
+```
+
 ## Repository structure
 
 ```
 content/        Wiki pages (Markdown)
+  history/        Content adapter that builds /history/<page>/ from data/history.json
+data/           Generated history data (not committed)
+scripts/        Build helpers (gen-history.py)
 layouts/        Section-specific templates and shortcodes
 themes/         Hugo themes
   xubuntu-wiki/   Site theme: templates, styles, fonts, images, favicon

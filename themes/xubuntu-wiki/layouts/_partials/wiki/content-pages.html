@@ -1,0 +1,11 @@
+{{- /*
+  Every visible content page: backed by a file, not bookHidden, not a
+  redirect stub and not one of the wiki's generated pages.
+*/ -}}
+{{- $out := slice -}}
+{{- range site.Pages -}}
+  {{- if and .File (not .IsHome) (not .Params.bookHidden) (ne .Type "redirect") (not .Params.wikiSystem) -}}
+    {{- $out = $out | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

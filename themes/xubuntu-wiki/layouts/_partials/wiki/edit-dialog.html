@@ -1,0 +1,19 @@
+{{- /* "Edit this page" dialog (bottom sheet on phones). Context: page */ -}}
+{{- $links := partial "wiki/links" . -}}
+{{- $repoName := strings.TrimPrefix "https://github.com/" $links.repo -}}
+<dialog class="wiki-dialog" id="wiki-edit-dialog" aria-labelledby="wiki-edit-title">
+  <div class="wiki-dialog-card">
+    <h2 id="wiki-edit-title">Edit “{{ .LinkTitle }}”</h2>
+    <p>Pages are Markdown files in <strong>{{ $repoName }}</strong> on GitHub. Your edit becomes a pull request that a team member reviews before it goes live.</p>
+    <div class="wiki-path-chip">{{ partial "wiki/icon" "file-md" }}<code>{{ $links.file }}</code></div>
+    <ol class="wiki-steps">
+      <li><span><strong>Edit on GitHub.</strong> GitHub forks the repository for you if needed.</span></li>
+      <li><span><strong>Describe your change.</strong> A short summary is enough.</span></li>
+      <li><span><strong>Open a pull request.</strong> It shows up in this page’s history once merged.</span></li>
+    </ol>
+    <div class="wiki-dialog-actions">
+      <button type="button" class="wiki-btn wiki-btn-secondary" data-edit-close>Cancel</button>
+      <a class="wiki-btn wiki-btn-primary" href="{{ $links.edit }}">{{ partial "wiki/icon" "github-logo" }}Open in GitHub editor{{ partial "wiki/icon" "arrow-square-out" }}</a>
+    </div>
+  </div>
+</dialog>
