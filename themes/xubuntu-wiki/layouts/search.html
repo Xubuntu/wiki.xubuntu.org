@@ -1,15 +1,17 @@
 {{ define "main" }}
-<article class="wiki-search-page" data-search-page data-index="{{ "search-index.json" | relURL }}">
+{{- $sitemap := "" }}{{ with site.GetPage "/sitemap" }}{{ $sitemap = .RelPermalink }}{{ end -}}
+<article class="wiki-search-page" data-search-page data-pagefind="{{ "pagefind/pagefind.js" | relURL }}" data-base="{{ site.Home.RelPermalink }}">
   <h1 data-search-title>Search the wiki</h1>
   <p class="wiki-subtitle" data-search-count></p>
   <div class="wiki-chips" data-search-chips></div>
   <div class="wiki-results" data-search-results></div>
-  <p class="wiki-empty" data-search-empty hidden>Nothing matches. Try a broader word, or <a href="{{ with site.GetPage "/sitemap" }}{{ .RelPermalink }}{{ end }}">browse all pages</a>.</p>
-  <noscript><p>Search needs JavaScript. You can <a href="{{ with site.GetPage "/sitemap" }}{{ .RelPermalink }}{{ end }}">browse all pages</a> instead.</p></noscript>
+  <button type="button" class="wiki-btn wiki-btn-secondary wiki-more" data-search-more hidden>Show more results</button>
+  <p class="wiki-empty" data-search-empty hidden>Nothing matches. Try a broader word, or <a href="{{ $sitemap }}">browse all pages</a>.</p>
+  <p class="wiki-empty" data-search-unavailable hidden>The search index hasn’t been built for this copy of the wiki. Run <code>hugo --baseURL http://localhost:1414/ && pagefind --site public --serve</code> to preview search locally, or <a href="{{ $sitemap }}">browse all pages</a>.</p>
+  <noscript><p>Search needs JavaScript. You can <a href="{{ $sitemap }}">browse all pages</a> instead.</p></noscript>
 </article>
 {{ end }}
 {{ define "scripts" }}
-<script defer src="{{ "fuse.min.js" | relURL }}"></script>
 {{- $js := resources.Get "search.js" | js.Build (dict "minify" true) | resources.Fingerprint }}
 <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
 {{ end }}

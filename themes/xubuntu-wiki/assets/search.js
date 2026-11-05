@@ -1,83 +1,89 @@
-// Search results page: loads search-index.json, matches with Fuse.js,
-// filters by section and highlights matches.
-// Index entries: t = title, d = description, s = section, h = href, x = summary.
+// Search results page, backed by Pagefind (https://pagefind.app/).
+// The index is built after Hugo by `pagefind --site public`. Pages opt in with
+// data-pagefind-body and carry a "section" filter, which drives the chips.
 
 const page = document.querySelector("[data-search-page]");
 const titleEl = page.querySelector("[data-search-title]");
 const countEl = page.querySelector("[data-search-count]");
 const chipsEl = page.querySelector("[data-search-chips]");
 const resultsEl = page.querySelector("[data-search-results]");
+const moreEl = page.querySelector("[data-search-more]");
 const emptyEl = page.querySelector("[data-search-empty]");
+const unavailableEl = page.querySelector("[data-search-unavailable]");
 
+const PAGE_SIZE = 20;
 const query = (new URLSearchParams(location.search).get("q") || "").trim();
+
+let pagefind = null;
+let sectionCounts = {};
+let total = 0;
 let filter = "";
-let results = [];
+let hits = [];
+let shown = 0;
 
 const escapeHTML = (s) =>
-  s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+  String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 
-// Wrap each query word found in `text` with <mark>.
-function highlight(text, words) {
-  const safe = escapeHTML(text);
-  if (!words.length) return safe;
-  const re = new RegExp("(" + words.map((w) => escapeHTML(w).replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|") + ")", "gi");
-  return safe.replace(re, "<mark>$1</mark>");
-}
+const plural = (n) => (n === 1 ? "1 page" : `${n} pages`);
 
-// A short excerpt of `text` around the first match.
-function excerpt(text, words, size = 180) {
-  const lower = text.toLowerCase();
-  let at = -1;
-  for (const w of words) {
-    const i = lower.indexOf(w.toLowerCase());
-    if (i !== -1 && (at === -1 || i < at)) at = i;
-  }
-  if (at === -1 || text.length <= size) return text.slice(0, size) + (text.length > size ? "…" : "");
-  const start = Math.max(0, at - 50);
-  return (start > 0 ? "…" : "") + text.slice(start, start + size) + (start + size < text.length ? "…" : "");
-}
-
-function plural(n) {
-  return n === 1 ? "1 page" : `${n} pages`;
-}
-
-function render() {
-  const words = query.split(/\s+/).filter(Boolean);
-  const shown = filter ? results.filter((r) => r.s === filter) : results;
-
-  // Chips: All + one per section that has hits.
-  const counts = new Map();
-  results.forEach((r) => counts.set(r.s, (counts.get(r.s) || 0) + 1));
+function renderChips() {
   chipsEl.replaceChildren();
-  if (results.length) {
-    const chip = (label, value, n) => {
-      const b = document.createElement("button");
-      b.type = "button";
-      b.className = "wiki-chip";
-      b.textContent = `${label} ${n}`;
-      b.setAttribute("aria-pressed", String(filter === value));
-      b.addEventListener("click", () => { filter = value; render(); });
-      chipsEl.append(b);
-    };
-    chip("All", "", results.length);
-    [...counts.keys()].filter(Boolean).sort().forEach((s) => chip(s, s, counts.get(s)));
-  }
-
-  resultsEl.innerHTML = shown.map((r) => {
-    const trail = ["Wiki", r.s].filter(Boolean).join(" › ");
-    const desc = r.d || excerpt(r.x, words);
-    return `<a class="wiki-result" href="${escapeHTML(r.h)}">` +
-      `<span class="wiki-result-trail">${escapeHTML(trail)}</span>` +
-      `<span class="wiki-result-title">${highlight(r.t, words)}</span>` +
-      (desc ? `<span class="wiki-result-desc">${highlight(desc, words)}</span>` : "") +
-      `</a>`;
-  }).join("");
-
-  countEl.textContent = plural(shown.length);
-  emptyEl.hidden = results.length > 0;
+  if (!total) return;
+  const chip = (label, value, n) => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "wiki-chip";
+    b.textContent = `${label} ${n}`;
+    b.setAttribute("aria-pressed", String(filter === value));
+    b.addEventListener("click", () => {
+      if (filter === value) return;
+      filter = value;
+      runSearch();
+    });
+    chipsEl.append(b);
+  };
+  chip("All", "", total);
+  Object.keys(sectionCounts)
+    .filter((s) => sectionCounts[s] > 0)
+    .sort()
+    .forEach((s) => chip(s, s, sectionCounts[s]));
 }
 
-async function run() {
+// Pagefind excerpts are HTML-escaped text with <mark> around matches.
+function resultHTML(r) {
+  const section = (r.filters && r.filters.section && r.filters.section[0]) || "";
+  const trail = ["Wiki", section].filter(Boolean).join(" › ");
+  const title = (r.meta && r.meta.title) || r.url;
+  return `<a class="wiki-result" href="${escapeHTML(r.url)}">` +
+    `<span class="wiki-result-trail">${escapeHTML(trail)}</span>` +
+    `<span class="wiki-result-title">${escapeHTML(title)}</span>` +
+    (r.excerpt ? `<span class="wiki-result-desc">${r.excerpt}</span>` : "") +
+    `</a>`;
+}
+
+async function showMore() {
+  moreEl.disabled = true;
+  const batch = await Promise.all(hits.slice(shown, shown + PAGE_SIZE).map((h) => h.data()));
+  resultsEl.insertAdjacentHTML("beforeend", batch.map(resultHTML).join(""));
+  shown += batch.length;
+  moreEl.hidden = shown >= hits.length;
+  moreEl.disabled = false;
+}
+
+async function runSearch() {
+  const options = filter ? { filters: { section: filter } } : {};
+  const search = await pagefind.search(query, options);
+  if (!search) return; // superseded by a newer search
+  hits = search.results;
+  shown = 0;
+  resultsEl.replaceChildren();
+  countEl.textContent = plural(hits.length);
+  renderChips();
+  emptyEl.hidden = total > 0;
+  await showMore();
+}
+
+async function init() {
   if (!query) {
     countEl.textContent = "Type a word in the search field above.";
     return;
@@ -86,19 +92,23 @@ async function run() {
   document.title = `Results for “${query}” ‹ ${document.title.split(" ‹ ").pop()}`;
   countEl.textContent = "Searching…";
 
-  const index = await (await fetch(page.dataset.index)).json();
-  const fuse = new Fuse(index, {
-    keys: [
-      { name: "t", weight: 3 },
-      { name: "d", weight: 2 },
-      { name: "x", weight: 1 },
-    ],
-    ignoreLocation: true,
-    threshold: 0.3,
-    minMatchCharLength: 2,
-  });
-  results = fuse.search(query).map((r) => r.item);
-  render();
+  try {
+    pagefind = await import(page.dataset.pagefind);
+  } catch (e) {
+    countEl.textContent = "";
+    unavailableEl.hidden = false;
+    return;
+  }
+  await pagefind.options({ baseUrl: page.dataset.base, excerptLength: 30 });
+  // Load the filter index up front; otherwise searches return no per-section counts.
+  await pagefind.filters();
+
+  // Unfiltered counts per section, for the chips.
+  const all = await pagefind.search(query);
+  total = all.results.length;
+  sectionCounts = (all.filters && all.filters.section) || {};
+  await runSearch();
 }
 
-window.addEventListener("DOMContentLoaded", run);
+moreEl.addEventListener("click", showMore);
+window.addEventListener("DOMContentLoaded", init);

@@ -45,7 +45,7 @@ git submodule update --init
 
 ### Using distrobox
 
-If you use [distrobox](https://distrobox.it/), a manifest is provided to spin up an Ubuntu 24.04 container with the exact Hugo extended version used by CI ([`distrobox.ini`](distrobox.ini)):
+If you use [distrobox](https://distrobox.it/), a manifest is provided to spin up an Ubuntu 24.04 container with the exact Hugo extended and Pagefind versions used by CI ([`distrobox.ini`](distrobox.ini)):
 
 ```sh
 distrobox assemble create --file distrobox.ini
@@ -60,6 +60,16 @@ On subsequent runs:
 distrobox enter wiki-xubuntu-org
 hugo server
 ```
+
+### Search
+
+Search is powered by [Pagefind](https://pagefind.app/), which indexes the built site after Hugo runs (CI does this on every deploy). `hugo server` doesn't build the index, so the search page shows a notice instead of results. To preview search locally, build the site and let Pagefind serve it:
+
+```sh
+hugo --baseURL http://localhost:1414/ && pagefind --site public --serve
+```
+
+Then open `http://localhost:1414/`. Pagefind is installed in the distrobox; elsewhere, use `npx pagefind` or a [release binary](https://github.com/Pagefind/pagefind/releases). Pages opt into the index through `data-pagefind-body` in the theme's layouts, so generated pages (search, sitemap, history) stay out of results.
 
 ### Page history
 

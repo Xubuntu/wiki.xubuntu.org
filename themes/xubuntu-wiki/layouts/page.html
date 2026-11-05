@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{- $links := partial "wiki/links" . -}}
-<article class="wiki-article">
-  <h1>{{ .Title }}</h1>
-  <div class="wiki-page-tabs" role="tablist">
+<article class="wiki-article" data-pagefind-body{{ with (partial "wiki/context" .).section }} data-pagefind-filter="section:{{ .LinkTitle }}"{{ end }}>
+  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+  <div class="wiki-page-tabs" role="tablist" data-pagefind-ignore>
     <button type="button" role="tab" class="active" aria-selected="true" aria-controls="wiki-read" data-view="read">Read</button>
     {{- if .File }}
     <button type="button" role="tab" aria-selected="false" aria-controls="wiki-source" data-view="source">Source</button>
@@ -21,7 +21,7 @@
     </div>
   </div>
   {{- with .File }}
-  <div id="wiki-source" role="tabpanel" class="wiki-source" hidden>
+  <div id="wiki-source" role="tabpanel" class="wiki-source" hidden data-pagefind-ignore>
     <div class="wiki-source-head">{{ partial "wiki/icon" "file-md" }}<code>{{ $links.file }}</code></div>
     <pre>{{ os.ReadFile $links.file }}</pre>
   </div>

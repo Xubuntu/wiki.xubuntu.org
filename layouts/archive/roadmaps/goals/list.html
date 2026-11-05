@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="wiki-article wiki-section">
+<article class="wiki-article wiki-section" data-pagefind-body{{ with (partial "wiki/context" .).section }} data-pagefind-filter="section:{{ .LinkTitle }}"{{ end }}>
   <h1>{{ .Title }}</h1>
   {{- with .Description }}
   <p class="wiki-lede wiki-lede-muted">{{ . }}</p>
@@ -8,11 +8,11 @@
   <div class="markdown">{{ . }}</div>
   {{- end }}
   {{- with .Pages.ByTitle }}
-  <div class="wiki-count-row">
+  <div class="wiki-count-row" data-pagefind-ignore>
     <span class="wiki-upper">{{ len . }} pages</span>
     <span>Sorted by title</span>
   </div>
-  <div class="wiki-page-list">
+  <div class="wiki-page-list" data-pagefind-ignore>
     {{- range . }}
     <a class="wiki-page-row" href="{{ .RelPermalink }}">
       <span class="wiki-page-title">{{ .LinkTitle }}</span>

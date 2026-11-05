@@ -1,6 +1,6 @@
 {{- /* Page footer: last modified, source links, license. Context: page */ -}}
 {{- $links := partial "wiki/links" . -}}
-<footer class="wiki-meta">
+<footer class="wiki-meta" data-pagefind-ignore>
   {{- with .GitInfo }}
   <p>Last modified: <a href="{{ $links.history }}"><strong>{{ $.Lastmod.Format "2006-01-02" }}</strong></a> by {{ .AuthorName }}</p>
   {{- end }}

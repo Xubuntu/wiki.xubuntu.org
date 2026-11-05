@@ -2,7 +2,7 @@
 {{- $pages := partialCached "wiki/content-pages" . "content-pages" -}}
 {{- $pages = first .count (sort $pages "Lastmod" "desc") -}}
 {{- if eq .variant "inline" }}
-<section class="wiki-recent-inline">
+<section class="wiki-recent-inline" data-pagefind-ignore>
   <h2>Recently updated</h2>
   {{- range $pages }}
   <a href="{{ .RelPermalink }}"><span>{{ .LinkTitle }}</span><time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "2006-01-02" }}</time></a>

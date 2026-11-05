@@ -764,3 +764,10 @@ h1 { font-size: 36px; line-height: 1.2; margin: 0 0 14px; }
   display: flex; flex-wrap: wrap; gap: 4px 20px;
   li a { display: inline-block; padding: 4px 0; }
 }
+
+// Search: "Show more results"
+.wiki-more { margin-top: 20px; }
+.wiki-empty code {
+  font-size: 13px; padding: 1px 6px; border-radius: 4px; overflow-wrap: anywhere;
+  background: var(--code); border: 1px solid var(--line); color: var(--ink);
+}

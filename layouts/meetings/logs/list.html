@@ -1,5 +1,5 @@
 {{ define "main" }}
-<article class="wiki-article wiki-section">
+<article class="wiki-article wiki-section" data-pagefind-body{{ with (partial "wiki/context" .).section }} data-pagefind-filter="section:{{ .LinkTitle }}"{{ end }}>
   <h1>{{ .Title }}</h1>
   {{- with .Description }}
   <p class="wiki-lede wiki-lede-muted">{{ . }}</p>
@@ -8,8 +8,8 @@
   <div class="markdown">{{ . }}</div>
   {{- end }}
   {{- range .Pages.GroupByDate "2006" }}
-  <h2 class="wiki-year">{{ .Key }}</h2>
-  <ul class="wiki-date-list">
+  <h2 class="wiki-year" data-pagefind-ignore>{{ .Key }}</h2>
+  <ul class="wiki-date-list" data-pagefind-ignore>
     {{- range .Pages.ByDate.Reverse }}
     <li><a href="{{ .RelPermalink }}">{{ .Date.Format "January 2" }}</a></li>
     {{- end }}

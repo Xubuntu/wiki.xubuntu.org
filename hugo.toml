@@ -76,15 +76,6 @@ disableKinds = ['taxonomy', 'term']
   [menus.start.params]
     icon = 'tree-structure'
 
-[outputs]
-  home = ['html', 'rss', 'searchindex']
-
-[outputFormats.searchindex]
-  baseName = 'search-index'
-  mediaType = 'application/json'
-  isPlainText = true
-  notAlternative = true
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

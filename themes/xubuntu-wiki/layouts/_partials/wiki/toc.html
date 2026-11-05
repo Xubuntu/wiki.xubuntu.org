@@ -6,7 +6,7 @@
 {{- if in $toc "<li" -}}
   {{- $toc = replace $toc `<nav id="TableOfContents">` `<nav class="wiki-toc-nav" aria-label="On this page">` -}}
   {{- if eq .variant "inline" }}
-<details class="wiki-toc-inline">
+<details class="wiki-toc-inline" data-pagefind-ignore>
   <summary>{{ partial "wiki/icon" "list" }}<span>On this page</span>{{ partial "wiki/icon" (dict "name" "caret-down" "class" "caret") }}</summary>
   {{ $toc | safeHTML }}
 </details>
