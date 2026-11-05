@@ -1,0 +1,42 @@
+{{- /* Context: dict "page" <current page> "ctx" <context from wiki/context> */ -}}
+{{- $logo := resources.Get "images/xubuntu-logo-white.svg" -}}
+{{- $search := site.GetPage "/search" -}}
+{{- $searchURL := cond (ne $search nil) ($search.RelPermalink) ("search/" | relURL) -}}
+<header class="wiki-header">
+  <div class="wiki-header-deco wiki-header-deco-1"></div>
+  <div class="wiki-header-deco wiki-header-deco-2"></div>
+  <div class="wiki-bar">
+    <a class="wiki-brand" href="{{ site.Home.RelPermalink }}">
+      <img src="{{ $logo.RelPermalink }}" alt="Xubuntu" width="94" height="30">
+      <span>Wiki</span>
+    </a>
+    <form class="wiki-search" role="search" action="{{ $searchURL }}" method="get">
+      {{ partial "wiki/icon" "magnifying-glass" }}
+      <input type="search" name="q" placeholder="Search the wiki" aria-label="Search the wiki" autocomplete="off" data-search-input>
+      <kbd>/</kbd>
+    </form>
+    <nav class="wiki-links" aria-label="Xubuntu">
+      {{- range site.Menus.main }}
+      <a href="{{ .URL }}">{{ .Name }}</a>
+      {{- end }}
+    </nav>
+    <div class="wiki-bar-buttons">
+      <button type="button" class="wiki-icon-btn wiki-only-phone" data-search-toggle aria-label="Search" aria-expanded="false" aria-controls="wiki-search-row">
+        {{ partial "wiki/icon" (dict "name" "magnifying-glass" "class" "when-closed") }}{{ partial "wiki/icon" (dict "name" "x" "class" "when-open") }}
+      </button>
+      <button type="button" class="wiki-icon-btn wiki-theme-btn" data-theme-toggle aria-label="Toggle dark theme">
+        {{ partial "wiki/icon" (dict "name" "moon" "class" "when-light") }}{{ partial "wiki/icon" (dict "name" "sun" "class" "when-dark") }}
+      </button>
+      <button type="button" class="wiki-icon-btn wiki-only-phone" data-menu-open aria-label="Menu" aria-expanded="false" aria-controls="wiki-drawer">
+        {{ partial "wiki/icon" "list" }}
+      </button>
+    </div>
+  </div>
+  <form class="wiki-search-row" id="wiki-search-row" role="search" action="{{ $searchURL }}" method="get" hidden>
+    <div class="wiki-search-field">
+      {{ partial "wiki/icon" "magnifying-glass" }}
+      <input type="search" name="q" placeholder="Search the wiki" aria-label="Search the wiki" autocomplete="off" enterkeyhint="search">
+    </div>
+  </form>
+  {{ partial "wiki/tabs" . }}
+</header>

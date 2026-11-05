@@ -1,0 +1,16 @@
+{{- /*
+  Flattened, title-sorted tree of the visible descendants of a section.
+  Context: dict "page" <section> "depth" <int>
+  Returns: slice of dict "p" <page> "d" <depth> "kids" <visible child count>
+*/ -}}
+{{- $out := slice -}}
+{{- $depth := .depth -}}
+{{- range (where .page.Pages "Params.bookHidden" "ne" true).ByTitle -}}
+  {{- $kids := slice -}}
+  {{- if .IsSection -}}
+    {{- $kids = partialCached "wiki/tree" (dict "page" . "depth" (add $depth 1)) .Path -}}
+  {{- end -}}
+  {{- $out = $out | append (dict "p" . "d" $depth "kids" (len (where $kids "d" (add $depth 1)))) -}}
+  {{- range $kids }}{{ $out = $out | append . }}{{ end -}}
+{{- end -}}
+{{- return $out -}}

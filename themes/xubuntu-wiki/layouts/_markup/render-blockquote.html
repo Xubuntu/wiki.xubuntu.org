@@ -1,0 +1,22 @@
+{{- /*
+  Callouts: GitHub alerts (> [!NOTE], [!TIP], [!WARNING], ...) and
+  blockquotes that start with **Note:** render as a tinted callout.
+  Other blockquotes render normally.
+*/ -}}
+{{- $kind := "" -}}
+{{- if eq .Type "alert" -}}
+  {{- $kind = lower .AlertType -}}
+{{- else if hasPrefix (trim (string .Text) " \n") "<p><strong>Note:</strong>" -}}
+  {{- $kind = "note" -}}
+{{- end -}}
+{{- if $kind -}}
+{{- $icon := cond (in (slice "warning" "caution") $kind) "warning" (cond (eq $kind "tip") "lightbulb" "info") -}}
+<div class="wiki-callout wiki-callout-{{ $kind }}" role="note">
+  {{ partial "wiki/icon" $icon }}
+  <div class="wiki-callout-body">{{ .Text }}</div>
+</div>
+{{- else -}}
+<blockquote{{ range $k, $v := .Attributes }} {{ printf "%s=%q" $k (string $v) | safeHTMLAttr }}{{ end }}>
+{{ .Text -}}
+</blockquote>
+{{- end -}}

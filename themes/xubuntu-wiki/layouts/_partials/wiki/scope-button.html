@@ -1,0 +1,9 @@
+{{- /* Phone-only button that opens the drawer from section pages. Context: ctx */ -}}
+{{- with .section -}}
+{{- $n := len (partialCached "wiki/tree" (dict "page" . "depth" 0) .Path) -}}
+<button type="button" class="wiki-scope-btn" data-menu-open aria-controls="wiki-drawer" aria-expanded="false">
+  {{ partial "wiki/icon" (dict "name" "list-bullets" "class" "accent") }}
+  <span>{{ $n }} pages in {{ .LinkTitle }}</span>
+  {{ partial "wiki/icon" "caret-down" }}
+</button>
+{{- end -}}

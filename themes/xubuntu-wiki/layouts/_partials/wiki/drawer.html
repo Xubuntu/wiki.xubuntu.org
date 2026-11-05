@@ -1,0 +1,31 @@
+{{- /* Phone menu drawer. Context: dict "ctx" <context> */ -}}
+{{- $links := partial "wiki/links" site.Home -}}
+{{- $section := .ctx.section -}}
+<div class="wiki-drawer" id="wiki-drawer" hidden>
+  <div class="wiki-drawer-scrim" data-menu-close></div>
+  <nav class="wiki-drawer-panel" aria-label="Menu">
+    <div class="wiki-drawer-top">
+      <span>Menu</span>
+      <button type="button" class="wiki-icon-btn" data-menu-close aria-label="Close menu">{{ partial "wiki/icon" "x" }}</button>
+    </div>
+    <div class="wiki-drawer-group">
+      {{ partial "wiki/scope-list" (dict "ctx" .ctx "class" "wiki-drawer-row") }}
+    </div>
+    <div class="wiki-drawer-group">
+      <div class="wiki-nav-label">Sections</div>
+      {{- range .ctx.sections }}
+      {{- $active := and $section (.Eq $section) }}
+      <a class="wiki-drawer-row{{ if $active }} active{{ end }}" href="{{ .RelPermalink }}">{{ partial "wiki/icon" (default "folder-simple" .Params.icon) }}<span>{{ .LinkTitle }}</span></a>
+      {{- end }}
+    </div>
+    <div class="wiki-drawer-group wiki-drawer-links">
+      {{- with site.GetPage "/sitemap" }}
+      <a class="wiki-drawer-row" href="{{ .RelPermalink }}">{{ partial "wiki/icon" "tree-structure" }}<span>All pages</span></a>
+      {{- end }}
+      <a class="wiki-drawer-row" href="{{ $links.repo }}">{{ partial "wiki/icon" "github-logo" }}<span>Wiki on GitHub</span></a>
+      {{- range site.Menus.main }}
+      <a class="wiki-drawer-row" href="{{ .URL }}">{{ partial "wiki/icon" (default "arrow-square-out" .Params.icon) }}<span>{{ .Name }}</span></a>
+      {{- end }}
+    </div>
+  </nav>
+</div>

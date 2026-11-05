@@ -1,5 +1,7 @@
 ---
 title: "Quality Assurance"
+description: "ISO testing guides and resources for new testers."
+icon: check-circle
 ---
 
 [ISO Testing Runthrough](isotesting/)

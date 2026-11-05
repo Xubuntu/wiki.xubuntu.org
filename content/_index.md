@@ -10,16 +10,11 @@ If you are looking for **user support**, **downloads**, or **general information
 
 ## What's here
 
-- **[Meetings](meetings/)**: current meeting agenda and the full [archive of past meetings](meetings/archive/)
-- **[Development](devel/)**: developer references: Git workflow, PPAs, and release notes
-- **[Quality Assurance](qa/)**: ISO testing guides and resources for new testers
-- **[Documentation](doc/)**: information for the documentation team
-- **[Marketing](marketing/)**: marketing projects, materials, and brand guidelines
-- **[Website](website/)**: resources for the website team
+{{< sections "meetings" "devel" "qa" "doc" "marketing" "website" >}}
 
 ## Contributing to the wiki
 
-Wiki pages are maintained as Markdown files in a [GitHub repository](https://github.com/Xubuntu/wiki.xubuntu.org). To edit a page, click **Edit this page** at the bottom of any article, or open a pull request directly. Corrections, updates, and new content are all welcome.
+Wiki pages are maintained as Markdown files in a [GitHub repository](https://github.com/Xubuntu/wiki.xubuntu.org). To edit a page, click **Edit this page** on any article, or open a pull request directly. Corrections, updates, and new content are all welcome.
 
 ## Getting involved with Xubuntu
 

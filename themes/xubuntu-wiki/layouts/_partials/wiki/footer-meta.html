@@ -1,0 +1,16 @@
+{{- /* Page footer: last modified, source links, license. Context: page */ -}}
+{{- $links := partial "wiki/links" . -}}
+<footer class="wiki-meta">
+  {{- with .GitInfo }}
+  <p>Last modified: <a href="{{ $links.history }}"><strong>{{ $.Lastmod.Format "2006-01-02" }}</strong></a> by {{ .AuthorName }}</p>
+  {{- end }}
+  {{- if .File }}
+  <p class="wiki-meta-links">
+    <a href="{{ $links.blob }}">Show page source</a>
+    <a href="{{ $links.history }}">History</a>
+    <a href="{{ $links.edit }}" data-edit-open>Edit this page</a>
+    <a href="{{ $links.issue }}">Report an issue</a>
+  </p>
+  {{- end }}
+  <p>Except where otherwise noted, content on this wiki is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.</p>
+</footer>

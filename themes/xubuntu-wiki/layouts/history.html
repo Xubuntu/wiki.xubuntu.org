@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{- $ctx := partial "wiki/context" . -}}
+{{- $src := $ctx.page -}}
+{{- $links := partial "wiki/links" $src -}}
+{{- $repoName := strings.TrimPrefix "https://github.com/" $links.repo -}}
+{{- $commits := index hugo.Data.history .Params.historyFile -}}
+<article class="wiki-history">
+  <h1>History of {{ $src.LinkTitle }}</h1>
+  <p class="wiki-subtitle">From the commit log of <a href="{{ $links.repo }}">{{ $repoName }}</a> · <code>{{ $links.file }}</code></p>
+  <div class="wiki-history-grid">
+    <div class="wiki-commits" role="tablist" aria-label="Commits">
+      {{- range $i, $c := $commits }}
+      <button type="button" role="tab" class="wiki-commit{{ if eq $i 0 }} active{{ end }}" aria-selected="{{ eq $i 0 }}" aria-controls="diff-{{ $c.short }}" data-commit="{{ $c.short }}">
+        <span class="wiki-commit-msg">{{ $c.subject }}</span>
+        <span class="wiki-commit-meta">
+          <span>{{ $c.author }} · {{ $c.date }}</span>
+          <span class="wiki-commit-stats"><span class="add">+{{ $c.add }}</span> <span class="del">−{{ $c.del }}</span> <code>{{ $c.short }}</code></span>
+        </span>
+      </button>
+      {{- end }}
+    </div>
+    <div class="wiki-diffs">
+      {{- range $i, $c := $commits }}
+      <section class="wiki-diff" id="diff-{{ $c.short }}" role="tabpanel"{{ if gt $i 0 }} hidden{{ end }}>
+        <div class="wiki-diff-head">
+          <code>{{ $c.short }}</code>
+          <span class="wiki-diff-msg">{{ $c.subject }}</span>
+          <a href="{{ $links.repo }}/commit/{{ $c.sha }}">{{ partial "wiki/icon" "github-logo" }}View on GitHub</a>
+        </div>
+        <div class="wiki-diff-body">
+          {{- range $c.diff }}
+          {{- if eq .t "@" }}
+          <div class="wiki-diff-line gap"><span class="g"></span><span>…</span></div>
+          {{- else }}
+          <div class="wiki-diff-line{{ if eq .t "+" }} add{{ else if eq .t "-" }} del{{ end }}"><span class="g">{{ if eq .t "+" }}+{{ else if eq .t "-" }}−{{ end }}</span><span>{{ .x }}</span></div>
+          {{- end }}
+          {{- end }}
+          {{- if $c.truncated }}
+          <div class="wiki-diff-more">Diff truncated. <a href="{{ $links.repo }}/commit/{{ $c.sha }}">See the full change on GitHub</a>.</div>
+          {{- end }}
+          {{- if not $c.diff }}
+          <div class="wiki-diff-more">No text changes to show (rename or metadata only).</div>
+          {{- end }}
+        </div>
+      </section>
+      {{- end }}
+    </div>
+  </div>
+</article>
+{{ end }}

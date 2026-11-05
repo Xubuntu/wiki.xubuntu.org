@@ -1,11 +1,28 @@
 {{ define "main" }}
-<article class="markdown book-article">
-  {{- .Content -}}
-
-  <ul>
-    {{ range .Pages.ByTitle }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{ end }}
-  </ul>
+<article class="wiki-article wiki-section">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <p class="wiki-lede wiki-lede-muted">{{ . }}</p>
+  {{- end }}
+  {{- with .Content }}
+  <div class="markdown">{{ . }}</div>
+  {{- end }}
+  {{- with .Pages.ByTitle }}
+  <div class="wiki-count-row">
+    <span class="wiki-upper">{{ len . }} pages</span>
+    <span>Sorted by title</span>
+  </div>
+  <div class="wiki-page-list">
+    {{- range . }}
+    <a class="wiki-page-row" href="{{ .RelPermalink }}">
+      <span class="wiki-page-title">{{ .LinkTitle }}</span>
+      {{- with .Description }}
+      <span class="wiki-page-desc">{{ . }}</span>
+      {{- end }}
+    </a>
+    {{- end }}
+  </div>
+  {{- end }}
+  {{ partial "wiki/footer-meta" . }}
 </article>
 {{ end }}

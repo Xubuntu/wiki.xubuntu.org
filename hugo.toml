@@ -1,41 +1,94 @@
 baseURL = 'https://xubuntu.github.io/wiki.xubuntu.org/'
 languageCode = 'en-us'
 title = 'Xubuntu Wiki'
-theme = ['hugo-redirect', 'hugo-book']
+theme = ['hugo-redirect', 'xubuntu-wiki']
 enableGitInfo = true
+disableKinds = ['taxonomy', 'term']
 
 [params]
-  BookSection = '/'
-  BookToC = true
-  BookSearch = true
-  BookComments = false
+  # GitHub repository holding this wiki, and the branch pages are edited on.
   BookRepo = 'https://github.com/Xubuntu/wiki.xubuntu.org'
   BookEditPath = 'edit/main'
-  BookMenuBundle = false
-  BookTheme = 'auto'
   BookFavicon = 'favicon.png'
 
-[[menus.main]]
-  name = 'Wiki'
-  url = '/'
-  weight = 10
-
+# Links in the header (desktop) and the menu drawer (phone).
 [[menus.main]]
   name = 'xubuntu.org'
   url = 'https://xubuntu.org/'
-  weight = 20
+  weight = 10
+  [menus.main.params]
+    icon = 'arrow-square-out'
 
 [[menus.main]]
   name = 'Download'
   url = 'https://xubuntu.org/download/'
-  weight = 30
+  weight = 20
+  [menus.main.params]
+    icon = 'download-simple'
 
 [[menus.main]]
   name = 'Support'
   url = 'https://xubuntu.org/help/'
+  weight = 30
+  [menus.main.params]
+    icon = 'lifebuoy'
+
+# "Start here" sidebar list, shown outside of a section.
+[[menus.start]]
+  name = 'Welcome'
+  pageRef = '/'
+  weight = 10
+  [menus.start.params]
+    icon = 'house'
+
+[[menus.start]]
+  name = 'Wiki Editing Guide'
+  pageRef = '/editing'
+  weight = 20
+  [menus.start.params]
+    icon = 'pencil-simple'
+
+[[menus.start]]
+  name = 'Current Agenda'
+  pageRef = '/meetings'
+  weight = 30
+  [menus.start.params]
+    icon = 'calendar-blank'
+
+[[menus.start]]
+  name = 'ISO Testing'
+  pageRef = '/qa/isotesting'
   weight = 40
+  [menus.start.params]
+    icon = 'disc'
+
+[[menus.start]]
+  name = 'Recent changes'
+  pageRef = '/recent'
+  weight = 50
+  [menus.start.params]
+    icon = 'clock-counter-clockwise'
+
+[[menus.start]]
+  name = 'Sitemap'
+  pageRef = '/sitemap'
+  weight = 60
+  [menus.start.params]
+    icon = 'tree-structure'
+
+[outputs]
+  home = ['html', 'rss', 'searchindex']
+
+[outputFormats.searchindex]
+  baseName = 'search-index'
+  mediaType = 'application/json'
+  isPlainText = true
+  notAlternative = true
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2

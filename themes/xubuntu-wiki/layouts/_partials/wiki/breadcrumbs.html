@@ -1,0 +1,17 @@
+{{- /* Context: dict "page" <rendered page> "ctx" <context> */ -}}
+{{- $ctx := .ctx.page -}}
+{{- $isHistory := not ($ctx.Eq .page) -}}
+{{- $trail := slice -}}
+{{- range $ctx.Ancestors.Reverse }}{{ if not .IsHome }}{{ $trail = $trail | append . }}{{ end }}{{ end -}}
+{{- if or $ctx.IsSection $isHistory }}{{ $trail = $trail | append $ctx }}{{ end -}}
+<nav class="wiki-crumbs" aria-label="Breadcrumbs">
+  <a href="{{ site.Home.RelPermalink }}">Wiki</a>
+  {{- range $i, $p := $trail }}
+  {{ partial "wiki/icon" "caret-right" }}
+    {{- if and (eq (add $i 1) (len $trail)) (not $isHistory) ($p.Eq $ctx) }}
+  <span aria-current="page">{{ $p.LinkTitle }}</span>
+    {{- else }}
+  <a href="{{ $p.RelPermalink }}">{{ $p.LinkTitle }}</a>
+    {{- end }}
+  {{- end }}
+</nav>

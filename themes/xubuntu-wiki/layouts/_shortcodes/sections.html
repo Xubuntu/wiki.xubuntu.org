@@ -1,0 +1,23 @@
+{{- /*
+  "What's here" list of wiki sections, using each section's icon and
+  description front matter.
+  Usage: {{< sections >}} for all sections, or
+         {{< sections "meetings" "devel" >}} for a chosen order.
+*/ -}}
+{{- $sections := slice -}}
+{{- if .Params -}}
+  {{- range .Params -}}
+    {{- with site.GetPage (printf "/%s" .) }}{{ $sections = $sections | append . }}{{ else }}{{ warnf "sections shortcode: no section %q" . }}{{ end -}}
+  {{- end -}}
+{{- else -}}
+  {{- $sections = partialCached "wiki/sections" . "sections" -}}
+{{- end -}}
+<div class="wiki-section-list">
+  {{- range $sections }}
+  <a class="wiki-section-row" href="{{ .RelPermalink }}">
+    {{ partial "wiki/icon" (default "folder-simple" .Params.icon) }}
+    <span class="wiki-section-text"><span class="wiki-section-title">{{ .LinkTitle }}</span><span class="wiki-section-desc">{{ .Description }}</span></span>
+    {{ partial "wiki/icon" (dict "name" "caret-right" "class" "caret") }}
+  </a>
+  {{- end }}
+</div>

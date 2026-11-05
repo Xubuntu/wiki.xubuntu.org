@@ -1,0 +1,22 @@
+{{- /*
+  Resolves the page a view is "about" and its top-level section.
+  History pages (built from data/history.json) stand in for their source page.
+  Returns: dict "page" <page> "section" <section or nil> "sections" <tab list>
+*/ -}}
+{{- $page := . -}}
+{{- with .Params.historyFile -}}
+  {{- $p := strings.TrimSuffix ".md" . -}}
+  {{- $p = strings.TrimSuffix "/_index" $p -}}
+  {{- $p = strings.TrimSuffix "/index" $p -}}
+  {{- if in (slice "_index" "index") $p }}{{ $p = "" }}{{ end -}}
+  {{- with site.GetPage (printf "/%s" $p) }}{{ $page = . }}{{ end -}}
+{{- end -}}
+{{- $sections := partialCached "wiki/sections" . "sections" -}}
+{{- $section := false -}}
+{{- if not $page.IsHome -}}
+  {{- $first := $page.FirstSection -}}
+  {{- range $sections -}}
+    {{- if .Eq $first }}{{ $section = . }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- return dict "page" $page "section" $section "sections" $sections -}}

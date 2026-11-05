@@ -1,5 +1,7 @@
 ---
 title: "Website"
+description: "Resources for the website team."
+icon: globe
 ---
 
 # Target audiences

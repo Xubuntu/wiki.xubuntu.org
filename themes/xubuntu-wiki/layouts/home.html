@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="wiki-article wiki-home">
+  <div class="markdown">
+    {{- .Content -}}
+  </div>
+  {{ partial "wiki/recent" (dict "count" 4 "variant" "inline") }}
+  {{ partial "wiki/footer-meta" . }}
+</article>
+{{ end }}

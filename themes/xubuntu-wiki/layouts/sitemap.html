@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{- $sections := partialCached "wiki/sections" . "sections" -}}
+{{- $total := 0 -}}
+{{- range $sections }}{{ $total = add $total 1 (len (partialCached "wiki/tree" (dict "page" . "depth" 0) .Path)) }}{{ end -}}
+<article class="wiki-sitemap">
+  <h1>{{ .Title }}</h1>
+  <p class="wiki-subtitle">{{ $total }} pages across {{ len $sections }} sections.</p>
+  <div class="wiki-sitemap-grid">
+    {{- range $sections }}
+    <section>
+      <a class="wiki-sitemap-head" href="{{ .RelPermalink }}">{{ partial "wiki/icon" (default "folder-simple" .Params.icon) }}<span>{{ .LinkTitle }}</span></a>
+      {{- range partialCached "wiki/tree" (dict "page" . "depth" 0) .Path }}
+      <a class="wiki-sitemap-link" href="{{ .p.RelPermalink }}" style="--depth:{{ .d }}">{{ .p.LinkTitle }}</a>
+      {{- end }}
+    </section>
+    {{- end }}
+  </div>
+</article>
+{{ end }}

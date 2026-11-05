@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article class="wiki-article">
+  <h1>Page not found</h1>
+  <p class="wiki-lede">This page doesn’t exist, or it has moved.</p>
+  <p>Try searching the wiki, or browse <a href="{{ with site.GetPage "/sitemap" }}{{ .RelPermalink }}{{ end }}">all pages</a>.</p>
+</article>
+{{ end }}

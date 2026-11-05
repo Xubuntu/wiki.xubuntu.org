@@ -1,0 +1,34 @@
+{{ define "main" }}
+{{- $links := partial "wiki/links" . -}}
+{{- $tree := partialCached "wiki/tree" (dict "page" . "depth" 0) .Path -}}
+<article class="wiki-article wiki-section">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <p class="wiki-lede wiki-lede-muted">{{ . }}</p>
+  {{- end }}
+  {{- with .Content }}
+  <div class="markdown">{{ . }}</div>
+  {{- end }}
+  {{- if $tree }}
+  <div class="wiki-count-row">
+    <span class="wiki-upper">{{ len $tree }} {{ cond (eq (len $tree) 1) "page" "pages" }}</span>
+    <span>Sorted by title</span>
+  </div>
+  <div class="wiki-page-list">
+    {{- range $tree }}
+    <a class="wiki-page-row" href="{{ .p.RelPermalink }}" style="--depth:{{ .d }}">
+      <span class="wiki-page-title">{{ .p.LinkTitle }}</span>
+      <span class="wiki-page-date">Updated {{ .p.Lastmod.Format "2006-01-02" }}</span>
+      {{- with .p.Description }}
+      <span class="wiki-page-desc">{{ . }}</span>
+      {{- end }}
+    </a>
+    {{- end }}
+  </div>
+  {{- end }}
+  {{- if .File }}
+  <a class="wiki-btn wiki-btn-secondary wiki-new-page" href="{{ $links.new }}">{{ partial "wiki/icon" "file-plus" }}New page in {{ .LinkTitle }}</a>
+  {{- end }}
+  {{ partial "wiki/footer-meta" . }}
+</article>
+{{ end }}

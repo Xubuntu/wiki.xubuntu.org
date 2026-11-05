@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+{{- $ctx := partial "wiki/context" . }}
+<html lang="{{ site.Language.LanguageCode | default "en" }}">
+<head>
+  {{ partial "wiki/head" . }}
+  {{ block "head" . }}{{ end }}
+</head>
+<body class="wiki-kind-{{ .Kind }}{{ with .Layout }} wiki-layout-{{ . }}{{ end }}">
+  <a class="wiki-skip" href="#wiki-content">Skip to content</a>
+  {{ partial "wiki/header" (dict "page" . "ctx" $ctx) }}
+  <div class="wiki-body">
+    {{ partial "wiki/aside" $ctx }}
+    <main class="wiki-main" id="wiki-content">
+      {{- if not .IsHome }}
+      {{ partial "wiki/breadcrumbs" (dict "page" . "ctx" $ctx) }}
+      {{- end }}
+      {{- if or .Params.historyFile (and $ctx.section (not .IsHome)) }}
+      {{ partial "wiki/scope-button" $ctx }}
+      {{- end }}
+      {{ block "main" . }}{{ end }}
+    </main>
+    {{- $rail := partial "wiki/rail" . }}
+    {{- with $rail }}
+    <aside class="wiki-rail">{{ . }}</aside>
+    {{- end }}
+  </div>
+  {{ partial "wiki/drawer" (dict "ctx" $ctx) }}
+  {{- if and .File (not .Params.wikiSystem) }}
+  {{ partial "wiki/edit-dialog" . }}
+  {{- end }}
+  {{ block "scripts" . }}{{ end }}
+</body>
+</html>

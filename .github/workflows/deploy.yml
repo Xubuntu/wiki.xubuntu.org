@@ -34,6 +34,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Generate page history
+        run: python3 scripts/gen-history.py
+
       - name: Build
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 

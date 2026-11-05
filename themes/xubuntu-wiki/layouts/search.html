@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="wiki-search-page" data-search-page data-index="{{ "search-index.json" | relURL }}">
+  <h1 data-search-title>Search the wiki</h1>
+  <p class="wiki-subtitle" data-search-count></p>
+  <div class="wiki-chips" data-search-chips></div>
+  <div class="wiki-results" data-search-results></div>
+  <p class="wiki-empty" data-search-empty hidden>Nothing matches. Try a broader word, or <a href="{{ with site.GetPage "/sitemap" }}{{ .RelPermalink }}{{ end }}">browse all pages</a>.</p>
+  <noscript><p>Search needs JavaScript. You can <a href="{{ with site.GetPage "/sitemap" }}{{ .RelPermalink }}{{ end }}">browse all pages</a> instead.</p></noscript>
+</article>
+{{ end }}
+{{ define "scripts" }}
+<script defer src="{{ "fuse.min.js" | relURL }}"></script>
+{{- $js := resources.Get "search.js" | js.Build (dict "minify" true) | resources.Fingerprint }}
+<script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{ end }}

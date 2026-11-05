@@ -1,5 +1,7 @@
 ---
 title: "Meetings"
+description: "The current meeting agenda and the full archive of past meetings."
+icon: chats-circle
 ---
 
 *The next Xubuntu community meeting is not scheduled.*

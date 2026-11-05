@@ -1,0 +1,17 @@
+name = "Xubuntu Wiki"
+license = "MIT"
+licenselink = "https://github.com/Xubuntu/wiki.xubuntu.org/blob/main/themes/xubuntu-wiki/LICENSE"
+description = "Theme for the Xubuntu Wiki, derived from hugo-book"
+homepage = "https://github.com/Xubuntu/wiki.xubuntu.org"
+tags = ["documentation", "docs", "search", "wiki"]
+features = []
+min_version = "0.158.0"
+
+[author]
+  name = "Xubuntu Team"
+  homepage = "https://xubuntu.org/"
+
+[original]
+  name = "Alex Shpak"
+  homepage = "https://github.com/alex-shpak/"
+  repo = "https://github.com/alex-shpak/hugo-book"
