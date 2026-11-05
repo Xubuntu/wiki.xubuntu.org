@@ -65,10 +65,10 @@ hugo server
 
 ```
 content/        Wiki pages (Markdown)
-layouts/        Custom Hugo templates
-assets/         Custom SCSS styles
-static/         Static assets (favicon)
-themes/         Hugo themes (xubuntu-wiki is local; hugo-redirect is a git submodule)
+layouts/        Section-specific templates and shortcodes
+themes/         Hugo themes
+  xubuntu-wiki/   Site theme: templates, styles, fonts, images, favicon
+  hugo-redirect/  Redirect support (git submodule)
 hugo.toml       Site configuration
 ```
 
