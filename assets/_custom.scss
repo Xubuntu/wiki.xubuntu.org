@@ -28,7 +28,7 @@
        url('fonts/Noto_Sans_400i.woff') format('woff');
 }
 
-// Override hugo-book theme mixins with xubuntu palette
+// Override xubuntu-wiki theme mixins with xubuntu palette
 @mixin theme-light {
   --body-background: #fff;
   --body-background-tint: none;
@@ -371,7 +371,7 @@ h1, h2, h3, h4, h5, h6 {
 
 // ─── Sidebar / TOC positioning ───────────────────────────────────────────────
 //
-// hugo-book uses position:fixed for sidebars, which causes them to float over
+// xubuntu-wiki (from hugo-book) uses position:fixed for sidebars, which causes them to float over
 // the site header and footer. Switching to position:sticky keeps them within
 // the <main> flex container, so they naturally start below the header and stop
 // at the footer without any extra JS or z-index tricks.
