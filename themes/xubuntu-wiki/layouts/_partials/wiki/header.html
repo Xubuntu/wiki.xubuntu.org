@@ -3,8 +3,7 @@
 {{- $search := site.GetPage "/search" -}}
 {{- $searchURL := cond (ne $search nil) ($search.RelPermalink) ("search/" | relURL) -}}
 <header class="wiki-header">
-  <div class="wiki-header-deco wiki-header-deco-1"></div>
-  <div class="wiki-header-deco wiki-header-deco-2"></div>
+  <div class="wiki-header-deco"></div>
   <div class="wiki-bar">
     <a class="wiki-brand" href="{{ site.Home.RelPermalink }}">
       <img src="{{ $logo.RelPermalink }}" alt="Xubuntu" width="94" height="30">
