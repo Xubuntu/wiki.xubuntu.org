@@ -19,20 +19,6 @@ disableKinds = ['taxonomy', 'term']
   [menus.main.params]
     icon = 'arrow-square-out'
 
-[[menus.main]]
-  name = 'Download'
-  url = 'https://xubuntu.org/download/'
-  weight = 20
-  [menus.main.params]
-    icon = 'download-simple'
-
-[[menus.main]]
-  name = 'Support'
-  url = 'https://xubuntu.org/help/'
-  weight = 30
-  [menus.main.params]
-    icon = 'lifebuoy'
-
 # "Start here" sidebar list, shown outside of a section.
 [[menus.start]]
   name = 'Welcome'
