@@ -1,4 +1,4 @@
-baseURL = 'https://xubuntu.github.io/wiki.xubuntu.org/'
+baseURL = 'https://wiki.xubuntu.org/'
 languageCode = 'en-us'
 title = 'Xubuntu Wiki'
 theme = ['hugo-redirect', 'xubuntu-wiki']
